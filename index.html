@@ -1,255 +1,832 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<title>N2 文法 Quiz — 全26課</title>
+<title>Business Vantage — B2 Vocabulary &amp; Sentence Construction</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-*{margin:0;padding:0;box-sizing:border-box}
-:root{--bg:#1a1a2e;--surface:#16213e;--card:#0f3460;--accent:#e94560;--correct:#00b894;--wrong:#d63031;--text:#eee;--muted:#999;
---safe-top:env(safe-area-inset-top,0px);--safe-bot:env(safe-area-inset-bottom,0px)}
-body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;min-height:100dvh;padding-top:calc(56px + var(--safe-top));padding-bottom:var(--safe-bot);-webkit-text-size-adjust:100%}
-#topbar{position:fixed;top:0;left:0;right:0;height:calc(56px + var(--safe-top));padding-top:var(--safe-top);background:var(--surface);border-bottom:1px solid #333;display:flex;align-items:center;justify-content:space-between;padding-left:16px;padding-right:16px;z-index:20}
-#topbar .title{font-size:15px;font-weight:700;color:var(--accent)}
-#topbar .stats{font-size:13px;color:var(--muted)}
-#topbar .gear{background:none;border:none;color:var(--text);font-size:24px;cursor:pointer;padding:8px;-webkit-tap-highlight-color:transparent}
-#progress-bar-bg{position:fixed;top:calc(56px + var(--safe-top));left:0;right:0;height:4px;background:#333;z-index:19}
-#progress-bar{height:100%;background:linear-gradient(90deg,var(--accent),#ff6b6b);transition:width .3s;width:0%}
-#main{max-width:600px;margin:0 auto;padding:16px}
-#quiz-area{margin-top:8px}
-.grammar-badge{display:inline-block;background:var(--card);border:1px solid var(--accent);color:var(--accent);padding:4px 12px;border-radius:20px;font-size:12px;margin-bottom:8px}
-.section-badge{display:inline-block;background:#333;color:var(--muted);padding:3px 8px;border-radius:12px;font-size:11px;margin-left:6px}
-#question-text{font-size:19px;line-height:1.7;margin:12px 0 20px;padding:16px;background:var(--surface);border-radius:12px;border-left:4px solid var(--accent);word-break:break-word}
-#question-text .blank{border-bottom:2px solid var(--accent);padding:0 16px;margin:0 2px}
-.choices{display:flex;flex-direction:column;gap:10px}
-.choice-btn{padding:14px 16px;border:2px solid #444;border-radius:12px;background:var(--surface);color:var(--text);font-size:17px;cursor:pointer;text-align:left;transition:all .15s;display:flex;align-items:center;gap:10px;-webkit-tap-highlight-color:transparent;min-height:48px}
-.choice-btn:active{transform:scale(.98)}
-.choice-btn .num{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:var(--card);font-size:13px;font-weight:700;flex-shrink:0}
-.choice-btn.correct{border-color:var(--correct);background:rgba(0,184,148,.15)}
-.choice-btn.correct .num{background:var(--correct);color:#fff}
-.choice-btn.wrong{border-color:var(--wrong);background:rgba(214,48,49,.15)}
-.choice-btn.wrong .num{background:var(--wrong);color:#fff}
-.choice-btn.reveal-correct{border-color:var(--correct);opacity:.7}
-#feedback{margin-top:16px;padding:14px 16px;border-radius:12px;font-size:15px;display:none}
-#feedback.correct-fb{background:rgba(0,184,148,.15);border:1px solid var(--correct);color:var(--correct)}
-#feedback.wrong-fb{background:rgba(214,48,49,.15);border:1px solid var(--wrong);color:var(--wrong)}
-#next-btn{margin-top:20px;width:100%;padding:16px;border:none;border-radius:12px;background:var(--accent);color:#fff;font-size:17px;font-weight:600;cursor:pointer;display:none;-webkit-tap-highlight-color:transparent}
-#next-btn:active{opacity:.8}
-#end-screen{display:none;text-align:center;padding:20px 0}
-#end-screen h2{font-size:24px;margin-bottom:8px}
-#end-screen .final-score{font-size:48px;font-weight:700;margin:16px 0}
-#end-screen .grade{font-size:22px;margin-bottom:20px}
-.grade-s{color:#ffd700}.grade-a{color:var(--correct)}.grade-b{color:#74b9ff}.grade-c{color:#fdcb6e}.grade-f{color:var(--wrong)}
-#wrong-review{text-align:left;margin:24px 0}
-#wrong-review h3{margin-bottom:12px;font-size:16px;color:var(--accent)}
-.wrong-item{background:var(--surface);padding:14px;border-radius:12px;margin-bottom:10px;border-left:4px solid var(--wrong);font-size:14px}
-.wrong-item .wi-q{margin-bottom:6px}
-.wrong-item .wi-correct{color:var(--correct)}
-.end-btns{display:flex;flex-direction:column;gap:10px;margin-top:20px}
-.end-btns button{width:100%;padding:14px;border:none;border-radius:12px;font-size:16px;font-weight:600;cursor:pointer}
-.btn-primary{background:var(--accent);color:#fff}
-.btn-secondary{background:var(--card);color:var(--text);border:1px solid #555!important}
-#start-msg{text-align:center;padding:40px 16px;color:var(--muted)}
-#start-msg p{margin-bottom:10px}
+:root{
+  --bg:#0b1020;--surface:#131a2e;--card:#1a2340;--card-2:#202a4c;
+  --border:#2a365c;--tile-bg:#1d284a;--tile-border:#2f3d66;
+  --text:#e6edf8;--text-muted:#8a98b8;--text-dim:#4a5a7d;
+  --accent:#6aa6ff;--accent-2:#b07cff;--accent-warm:#ff6b9d;
+  --accent-glow:rgba(106,166,255,.22);
+  --correct:#10b981;--correct-bg:rgba(16,185,129,.12);
+  --wrong:#f05252;--wrong-bg:rgba(240,82,82,.12);
+  --star:#f59e0b;--star-bg:rgba(245,158,11,.15);
+  --accent-green:#22c55e;
+  --lv1:#22c55e;--lv2:#f59e0b;--lv3:#f05252;
+  --radius-sm:10px;--radius-md:14px;--radius-lg:18px;
+  --safe-top:env(safe-area-inset-top,0px);
+  --safe-bot:env(safe-area-inset-bottom,0px);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;overscroll-behavior:none}
+body{
+  font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  background:
+    radial-gradient(1200px 600px at 0% -10%,rgba(106,166,255,.08),transparent 60%),
+    radial-gradient(900px 500px at 100% 0%,rgba(176,124,255,.08),transparent 60%),
+    var(--bg);
+  color:var(--text);min-height:100vh;min-height:100dvh;
+  -webkit-text-size-adjust:100%;
+}
 .hidden{display:none!important}
 
-/* Filter modal */
-#modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:50;-webkit-tap-highlight-color:transparent}
+#topbar{
+  position:sticky;top:0;z-index:30;
+  padding:calc(var(--safe-top) + 10px) 16px 10px;
+  background:rgba(11,16,32,.85);
+  backdrop-filter:saturate(140%) blur(10px);
+  -webkit-backdrop-filter:saturate(140%) blur(10px);
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+}
+#topbar .brand{font-size:14px;font-weight:700;letter-spacing:.02em}
+#topbar .brand .dot{color:var(--accent)}
+#topbar .ctx{font-size:12px;color:var(--text-muted);font-family:'JetBrains Mono',monospace}
+.icon-btn{
+  background:none;border:1px solid var(--border);color:var(--text);
+  width:36px;height:36px;border-radius:10px;font-size:16px;cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;
+}
+.icon-btn:active{transform:scale(.96)}
+
+#app{max-width:640px;margin:0 auto;padding:0 0 calc(var(--safe-bot) + 24px);min-height:100dvh;display:flex;flex-direction:column}
+.view{padding:16px}
+.view.hidden{display:none}
+
+#view-dashboard .hero{padding:20px 4px 8px}
+.hero h1{font-size:26px;font-weight:700;letter-spacing:.01em;margin-bottom:4px}
+.hero p{font-size:13.5px;color:var(--text-muted)}
+
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:16px 0 8px}
+.stat{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-md);padding:14px 14px 12px}
+.stat .label{font-size:11px;letter-spacing:.08em;color:var(--text-muted);text-transform:uppercase;font-family:'JetBrains Mono',monospace}
+.stat .value{font-size:26px;font-weight:700;margin-top:4px;letter-spacing:-.01em}
+.stat .sub{font-size:11.5px;color:var(--text-dim);margin-top:2px}
+
+.mode-grid{display:grid;grid-template-columns:1fr;gap:12px;margin:18px 0 10px}
+@media(min-width:520px){.mode-grid{grid-template-columns:1fr 1fr}}
+.mode-card{
+  position:relative;overflow:hidden;
+  background:linear-gradient(180deg,var(--card-2),var(--card));
+  border:1px solid var(--border);border-radius:var(--radius-lg);
+  padding:18px 16px;display:flex;flex-direction:column;gap:10px;
+  cursor:pointer;transition:transform .12s,border-color .12s;
+}
+.mode-card:active{transform:scale(.985)}
+.mode-card.ordering{border-color:rgba(106,166,255,.35)}
+.mode-card.usage{border-color:rgba(34,197,94,.35)}
+.mode-card::before{
+  content:"";position:absolute;inset:-40% -20% auto auto;width:220px;height:220px;border-radius:50%;
+  filter:blur(40px);opacity:.35;pointer-events:none;
+}
+.mode-card.ordering::before{background:var(--accent)}
+.mode-card.usage::before{background:var(--accent-green)}
+.mode-card .kicker{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);font-family:'JetBrains Mono',monospace}
+.mode-card h2{font-size:20px;font-weight:700}
+.mode-card .desc{font-size:13px;color:var(--text-muted);line-height:1.55}
+.mode-card .row{display:flex;gap:14px;font-size:12px;color:var(--text-muted);margin-top:4px}
+.mode-card .row b{color:var(--text);font-weight:600}
+.mode-card .cta{
+  margin-top:8px;align-self:flex-start;
+  background:var(--accent);color:#08122a;font-weight:700;font-size:14px;
+  padding:10px 16px;border:none;border-radius:10px;cursor:pointer;
+  box-shadow:0 4px 16px rgba(106,166,255,.25);
+}
+.mode-card.usage .cta{background:var(--accent-green);box-shadow:0 4px 16px rgba(34,197,94,.25);color:#052e16}
+.mode-card .cta:active{transform:scale(.97)}
+
+.history{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-md);padding:14px 16px;margin-top:14px}
+.history h3{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);font-family:'JetBrains Mono',monospace;margin-bottom:10px}
+.history .row{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid var(--border);font-size:13.5px}
+.history .row:last-child{border-bottom:none}
+.history .meta{color:var(--text-muted);font-size:12px;font-family:'JetBrains Mono',monospace}
+.history .mode-pill{display:inline-block;font-size:10.5px;padding:2px 8px;border-radius:99px;margin-right:8px;font-family:'JetBrains Mono',monospace;letter-spacing:.04em}
+.history .mode-pill.ordering{background:rgba(106,166,255,.15);color:var(--accent);border:1px solid rgba(106,166,255,.3)}
+.history .mode-pill.usage{background:rgba(34,197,94,.15);color:var(--accent-green);border:1px solid rgba(34,197,94,.3)}
+.history .pct{font-weight:700;font-family:'JetBrains Mono',monospace}
+.history .pct.good{color:var(--correct)}
+.history .pct.bad{color:var(--wrong)}
+.history .empty{color:var(--text-dim);font-size:13px;text-align:center;padding:10px 0}
+
+/* Config modal */
+#modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:50}
 #modal-overlay.show{display:block}
-#filter-modal{display:none;position:fixed;bottom:0;left:0;right:0;max-height:85vh;background:var(--surface);border-radius:20px 20px 0 0;z-index:51;overflow-y:auto;padding:20px 16px calc(20px + var(--safe-bot));-webkit-overflow-scrolling:touch}
+#filter-modal{display:none;position:fixed;bottom:0;left:0;right:0;max-height:88vh;background:var(--surface);border-radius:20px 20px 0 0;z-index:51;overflow-y:auto;padding:20px 16px calc(20px + var(--safe-bot));-webkit-overflow-scrolling:touch}
 #filter-modal.show{display:block}
-#filter-modal h3{font-size:14px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin:16px 0 8px}
-#filter-modal h3:first-child{margin-top:0}
 .modal-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
-.modal-header h2{font-size:18px;color:var(--accent)}
-.modal-close{background:none;border:none;color:var(--muted);font-size:28px;cursor:pointer;padding:4px 8px}
-.group-btns{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
-.group-btns button{padding:8px 14px;border:1px solid #555;border-radius:8px;background:var(--card);color:var(--text);font-size:13px;font-weight:600;cursor:pointer}
-.group-btns button.active{border-color:var(--accent);color:var(--accent)}
-.lesson-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin-bottom:12px}
-.lesson-grid label{display:flex;align-items:center;gap:4px;font-size:13px;padding:6px 4px;cursor:pointer}
-.lesson-grid input{accent-color:var(--accent);width:16px;height:16px}
-.section-checks label{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:14px;cursor:pointer}
-.section-checks input{accent-color:var(--accent);width:16px;height:16px}
-.toggle-row{display:flex;align-items:center;gap:8px;margin:8px 0;font-size:14px}
-.toggle-row input{accent-color:var(--accent)}
-#modal-start{width:100%;padding:14px;margin-top:16px;border:none;border-radius:12px;background:var(--accent);color:#fff;font-size:16px;font-weight:600;cursor:pointer}
-#modal-wrong{width:100%;padding:12px;margin-top:8px;border:1px solid #555;border-radius:12px;background:var(--card);color:var(--text);font-size:14px;font-weight:600;cursor:pointer}
-.score-history{margin-top:16px;font-size:12px;color:var(--muted)}
-.score-history div{padding:3px 0;border-bottom:1px solid #333}
+.modal-header h2{font-size:18px}
+.modal-close{background:none;border:none;color:var(--text-muted);font-size:28px;cursor:pointer;padding:4px 8px}
+#filter-modal h3{font-size:12px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.1em;margin:14px 0 8px;font-family:'JetBrains Mono',monospace}
+#filter-modal h3:first-of-type{margin-top:0}
+.level-btns{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.level-btns button{padding:12px 8px;border:1.5px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;line-height:1.2}
+.level-btns button .lv-tag{font-size:10px;font-family:'JetBrains Mono',monospace;letter-spacing:.06em}
+.level-btns button.active[data-level="all"]{border-color:var(--accent);color:var(--accent)}
+.level-btns button.active[data-level="1"]{border-color:var(--lv1);color:var(--lv1)}
+.level-btns button.active[data-level="2"]{border-color:var(--lv2);color:var(--lv2)}
+.level-btns button.active[data-level="3"]{border-color:var(--lv3);color:var(--lv3)}
+.count-btns{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.count-btns button{padding:12px;border:1.5px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+.count-btns button.active{border-color:var(--accent);color:var(--accent)}
+#modal-start{width:100%;padding:14px;margin-top:18px;border:none;border-radius:12px;background:var(--accent);color:#08122a;font-size:16px;font-weight:700;cursor:pointer;font-family:inherit}
+#modal-info{font-size:12px;color:var(--text-muted);text-align:center;margin-top:8px;font-family:'JetBrains Mono',monospace}
+
+/* Ordering mode */
+#ordering-header .progress-track{height:5px;background:var(--border);border-radius:99px;overflow:hidden}
+#ordering-header .progress-fill{height:100%;background:var(--accent);border-radius:99px;transition:width .5s cubic-bezier(.4,0,.2,1)}
+#ordering-header .meta{display:flex;justify-content:space-between;align-items:center;margin-top:7px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.06em}
+#ordering-header .count{color:var(--text-muted)}
+#ordering-header .score{color:var(--correct)}
+.end-early-btn{background:none;border:1px solid var(--border);color:var(--text-muted);padding:4px 10px;border-radius:7px;font-size:11px;font-family:'JetBrains Mono',monospace;cursor:pointer;letter-spacing:.04em}
+.end-early-btn:active{border-color:var(--accent);color:var(--accent)}
+.tag-row{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 4px}
+.grammar-tag{display:inline-flex;align-items:center;background:rgba(106,166,255,.1);border:1px solid rgba(106,166,255,.3);border-radius:7px;padding:4px 10px;font-size:11.5px;font-family:'JetBrains Mono',monospace;color:var(--accent);letter-spacing:.02em}
+.level-tag{display:inline-flex;align-items:center;border-radius:7px;padding:4px 10px;font-size:11.5px;font-family:'JetBrains Mono',monospace;letter-spacing:.02em}
+.level-tag.lv1{background:rgba(34,197,94,.1);border:1px solid rgba(34,197,94,.3);color:var(--lv1)}
+.level-tag.lv2{background:rgba(245,158,11,.1);border:1px solid rgba(245,158,11,.3);color:var(--lv2)}
+.level-tag.lv3{background:rgba(240,82,82,.1);border:1px solid rgba(240,82,82,.3);color:var(--lv3)}
+.instruction{font-size:12.5px;color:var(--text-muted);letter-spacing:.04em;margin-top:8px}
+.sentence-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:18px 16px;display:flex;flex-direction:column;gap:12px;margin-top:10px}
+.sentence-text{font-size:17px;line-height:1.75;color:var(--text);word-break:break-word}
+.sentence-text:empty{display:none}
+.slots-row{display:flex;gap:7px;flex-wrap:wrap}
+.slot{flex:1;min-width:64px;height:48px;background:transparent;border:2px dashed var(--border);border-radius:var(--radius-sm);display:flex;align-items:center;justify-content:center;font-size:14px;position:relative;padding:0 6px;text-align:center;cursor:default;user-select:none;touch-action:manipulation}
+.slot.filled{border-style:solid;border-color:var(--accent);background:var(--accent-glow);cursor:pointer}
+.slot.filled:active{transform:scale(.93)}
+.slot.correct{border-color:var(--correct)!important;background:var(--correct-bg)!important;cursor:default!important}
+.slot.incorrect{border-color:var(--wrong)!important;background:var(--wrong-bg)!important;cursor:default!important}
+.slot.answer-shown{border-color:var(--correct)!important;background:var(--correct-bg)!important;cursor:default!important}
+@keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-5px)}40%{transform:translateX(5px)}60%{transform:translateX(-4px)}80%{transform:translateX(4px)}}
+.slots-row.shake{animation:shake .4s ease}
+.word-bank{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:4px}
+.tile{min-height:52px;padding:6px 8px;background:var(--tile-bg);border:1.5px solid var(--tile-border);border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;font-size:15px;text-align:center;cursor:pointer;transition:all .12s ease;box-shadow:0 3px 0 rgba(0,0,0,.35);touch-action:manipulation;user-select:none;font-family:inherit;color:var(--text);word-break:break-word}
+.tile:active:not(.used){transform:translateY(2px);box-shadow:0 1px 0 rgba(0,0,0,.35)}
+.tile.used{opacity:.22;cursor:default;pointer-events:none}
+.check-btn{width:100%;height:52px;background:var(--accent);color:#08122a;border:none;border-radius:var(--radius-md);font-family:inherit;font-size:16px;font-weight:700;cursor:pointer;letter-spacing:.05em;box-shadow:0 4px 16px rgba(106,166,255,.3);margin-top:6px}
+.check-btn:disabled{background:var(--surface);color:var(--text-dim);box-shadow:none;cursor:default}
+.check-btn:not(:disabled):active{transform:scale(.97)}
+.result-panel{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:18px;display:flex;flex-direction:column;gap:14px;margin-top:12px}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.result-panel:not(.hidden){animation:fadeUp .3s cubic-bezier(.4,0,.2,1)}
+.result-status{display:flex;align-items:center;gap:8px;font-size:18px;font-weight:700}
+.result-status.correct{color:var(--correct)}
+.result-status.incorrect{color:var(--wrong)}
+.result-icon{font-size:22px;line-height:1}
+.explanation-block{display:flex;flex-direction:column;gap:8px}
+.explanation-label{font-size:10.5px;font-family:'JetBrains Mono',monospace;color:var(--accent);letter-spacing:.08em;text-transform:uppercase}
+.explanation-text{font-size:13.5px;line-height:1.7;color:var(--text);padding:12px 14px;background:rgba(255,255,255,.03);border-radius:var(--radius-sm);border-left:3px solid var(--accent)}
+.translation-text{font-size:12.5px;color:var(--text-muted);line-height:1.6;font-style:italic;padding-left:2px}
+.explanation-ja{font-size:13px;line-height:1.7;color:var(--text-muted);padding:10px 14px;background:rgba(176,124,255,.06);border-radius:var(--radius-sm);border-left:3px solid var(--accent-2);font-family:'Hiragino Sans','Yu Gothic',sans-serif}
+.explanation-ja:empty{display:none}
+
+/* Register switcher */
+.register-switch{display:grid;grid-template-columns:1fr 1fr;gap:6px;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:4px;margin:14px 0 4px}
+.register-switch button{padding:10px 8px;border:none;border-radius:9px;background:transparent;color:var(--text-muted);font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;letter-spacing:.02em;display:flex;flex-direction:column;gap:2px;align-items:center;line-height:1.25}
+.register-switch button .reg-sub{font-size:10px;font-family:'JetBrains Mono',monospace;letter-spacing:.06em;color:var(--text-dim);font-weight:500}
+.register-switch button.active{background:var(--card-2);color:var(--text);box-shadow:0 1px 0 rgba(0,0,0,.2)}
+.register-switch button.active[data-register="business"]{color:var(--accent)}
+.register-switch button.active[data-register="conversational"]{color:var(--accent-warm)}
+.result-actions{display:flex;gap:9px}
+.btn-next{flex:2;height:50px;background:var(--accent);color:#08122a;border:none;border-radius:var(--radius-md);font-family:inherit;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 4px 14px rgba(106,166,255,.25)}
+.btn-next:active{transform:scale(.97)}
+.btn-ghost{flex:1;height:50px;background:transparent;color:var(--text-muted);border:1.5px solid var(--border);border-radius:var(--radius-md);font-family:inherit;font-size:13.5px;cursor:pointer}
+.btn-ghost:active{background:rgba(255,255,255,.04)}
+
+/* Usage mode */
+#usage-header .progress-track{height:5px;background:var(--border);border-radius:99px;overflow:hidden}
+#usage-header .progress-fill{height:100%;background:var(--accent-green);border-radius:99px;transition:width .4s cubic-bezier(.4,0,.2,1)}
+#usage-header .meta{display:flex;justify-content:space-between;align-items:center;margin-top:7px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.06em}
+#usage-header .count{color:var(--text-muted)}
+#usage-header .score{color:var(--accent-green)}
+.usage-word-display{text-align:center;padding:18px 16px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);margin:14px 0 4px}
+.usage-word-display .word{font-size:28px;font-weight:700;letter-spacing:.02em}
+.usage-word-display .reading{font-size:13px;color:var(--text-muted);margin-top:6px;line-height:1.5}
+.usage-instruction{font-size:12.5px;color:var(--text-muted);letter-spacing:.04em;margin:14px 0 8px;text-align:center}
+.usage-choices{display:flex;flex-direction:column;gap:10px}
+.usage-sentence-btn{padding:14px 16px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--text);font-size:15px;cursor:pointer;text-align:left;transition:all .15s;display:flex;align-items:flex-start;gap:10px;min-height:48px;font-family:inherit;line-height:1.6;width:100%}
+.usage-sentence-btn:active{transform:scale(.99)}
+.usage-sentence-btn .num{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background:var(--card-2);font-size:13px;font-weight:700;flex-shrink:0;margin-top:1px}
+.usage-sentence-btn.correct{border-color:var(--correct);background:var(--correct-bg)}
+.usage-sentence-btn.correct .num{background:var(--correct);color:#06221a}
+.usage-sentence-btn.wrong{border-color:var(--wrong);background:var(--wrong-bg)}
+.usage-sentence-btn.wrong .num{background:var(--wrong);color:#fff}
+.usage-sentence-btn.reveal-correct{border-color:var(--correct);opacity:.7}
+#usage-feedback{margin-top:16px;padding:14px 16px;border-radius:12px;font-size:14px;display:none;line-height:1.65}
+#usage-feedback.correct-fb{background:var(--correct-bg);border:1px solid var(--correct);color:var(--correct)}
+#usage-feedback.wrong-fb{background:var(--wrong-bg);border:1px solid var(--wrong);color:var(--wrong)}
+.usage-next-btn{margin-top:18px;width:100%;padding:16px;border:none;border-radius:12px;background:var(--accent-green);color:#052e16;font-size:17px;font-weight:700;cursor:pointer;font-family:inherit}
+.usage-next-btn:active{opacity:.85}
+
+/* Complete screen */
+.complete-inner{text-align:center;display:flex;flex-direction:column;align-items:center;gap:14px;padding:32px 24px;animation:fadeUp .5s ease}
+.complete-emoji{font-size:64px}
+.complete-title{font-size:26px;font-weight:700;letter-spacing:.02em}
+.complete-score-ring{width:130px;height:130px;border-radius:50%;border:3px solid var(--border);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;background:var(--card);margin:6px 0}
+.complete-score-num{font-family:'JetBrains Mono',monospace;font-size:28px;font-weight:700;letter-spacing:-1px}
+#ordering-complete .complete-score-num{color:var(--correct)}
+#usage-complete .complete-score-num{color:var(--accent-green)}
+.complete-score-label{font-size:11px;color:var(--text-muted);letter-spacing:.06em}
+.complete-msg{font-size:15px;color:var(--text-muted);max-width:260px;line-height:1.6}
+.end-btns{display:flex;flex-direction:column;gap:10px;margin-top:8px;width:100%}
+.end-btns button{width:100%;padding:14px;border:none;border-radius:12px;font-size:15px;font-weight:700;cursor:pointer;font-family:inherit}
+.btn-primary{background:var(--accent);color:#08122a}
+.btn-secondary{background:var(--card);color:var(--text);border:1px solid var(--border)!important}
+
+#loading-view{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:60px 20px;color:var(--text-muted)}
+.loader{width:32px;height:32px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.load-error{color:var(--wrong);text-align:center;padding:24px;font-size:14px;line-height:1.6}
 </style>
 </head>
 <body>
-<div id="topbar">
-<div>
-<div class="title">N2 文法 Quiz</div>
-<div class="stats" id="topbar-stats">全26課 — Tap ⚙ to start</div>
-</div>
-<button class="gear" onclick="toggleModal()" aria-label="Settings">⚙</button>
-</div>
-<div id="progress-bar-bg"><div id="progress-bar"></div></div>
-<div id="modal-overlay" class="show" onclick="toggleModal()"></div>
-<div id="filter-modal" class="show">
-<div class="modal-header">
-<h2>N2 文法 Quiz</h2>
-<button class="modal-close" onclick="toggleModal()">&times;</button>
-</div>
-<h3>Group</h3>
-<div class="group-btns" id="group-btns">
-<button onclick="selectGroup('all')" class="active">All</button>
-<button onclick="selectGroup([1,2,3,4,5])">A 1-5</button>
-<button onclick="selectGroup([6,7,8,9,10])">B 6-10</button>
-<button onclick="selectGroup([11,12,13,14,15])">C 11-15</button>
-<button onclick="selectGroup([16,17,18,19,20])">D 16-20</button>
-<button onclick="selectGroup([21,22,23,24,25,26])">E 21-26</button>
-</div>
-<h3>Lessons</h3>
-<div class="lesson-grid" id="lesson-grid"></div>
-<h3>Section Type</h3>
-<div class="section-checks">
-<label><input type="checkbox" checked data-section="drill"> Drill (囲)</label>
-<label><input type="checkbox" checked data-section="mixed"> Mixed Review</label>
-<label><input type="checkbox" checked data-section="mondai"> 問題</label>
-</div>
-<div class="toggle-row"><label><input type="checkbox" id="shuffle-toggle" checked> Shuffle</label></div>
-<button id="modal-start" onclick="startQuiz();toggleModal()">Start Quiz</button>
-<button id="modal-wrong" onclick="startQuiz(true);toggleModal()">Retry Wrong Answers</button>
-<div id="score-history" class="score-history"></div>
-</div>
-<div id="main">
-<div id="quiz-area">
-<div id="quiz-content" class="hidden">
-<span class="grammar-badge" id="grammar-badge"></span>
-<span class="section-badge" id="section-badge"></span>
-<div id="question-text"></div>
-<div class="choices" id="choices"></div>
-<div id="feedback"></div>
-<button id="next-btn" onclick="nextQuestion()">Next →</button>
-</div>
-<div id="start-msg">
-<p style="font-size:18px">Tap ⚙ to configure and start</p>
-<p style="font-size:14px">702 questions across 26 lessons</p>
-</div>
-</div>
-<div id="end-screen">
-<h2>Quiz Complete!</h2>
-<div class="final-score" id="final-score"></div>
-<div class="grade" id="grade"></div>
-<div id="wrong-review"></div>
-<div class="end-btns">
-<button class="btn-primary" onclick="startQuiz()">Retry All</button>
-<button class="btn-secondary" onclick="startQuiz(true)">Retry Wrong Only</button>
-<button class="btn-secondary" onclick="resetView()">Back</button>
-</div>
-</div>
-</div>
-<script src="questions.js"></script>
-<script>
 
-let filtered=[],current=0,score=0,answered=false,wrongList=[];
-const STORAGE_KEY="n2quiz_all";
-function getLessonNums(){return[...new Set(QUESTIONS.map(q=>q.lesson))].sort((a,b)=>a-b)}
-function getSectionType(s){if(s==="問題")return"mondai";if(s.match(/^\d+〜\d+$/)||s.match(/^1〜/))return"mixed";return"drill"}
-function init(){
-const grid=document.getElementById("lesson-grid");
-getLessonNums().forEach(n=>{const lbl=document.createElement("label");lbl.innerHTML=`<input type="checkbox" checked data-lesson="${n}">${n}課`;grid.appendChild(lbl)});
-loadHistory();
+<div id="topbar">
+  <div>
+    <div class="brand">Business Vantage<span class="dot"> ·</span></div>
+    <div class="ctx" id="topbar-ctx">Dashboard</div>
+  </div>
+  <button class="icon-btn hidden" id="topbar-action" onclick="showView('dashboard')" aria-label="Back to dashboard">←</button>
+</div>
+
+<div id="app">
+
+  <!-- Dashboard -->
+  <div id="view-dashboard" class="view">
+    <div class="hero">
+      <h1>Sharpen your English</h1>
+      <p id="hero-sub">B2 Vantage / TOEIC 700–800 vocabulary &amp; sentence construction.</p>
+    </div>
+
+    <div class="register-switch" id="register-switch">
+      <button data-register="business" class="active">Business<span class="reg-sub">B2 · TOEIC 700–800</span></button>
+      <button data-register="conversational">Conversational<span class="reg-sub">NATIVE · CASUAL</span></button>
+    </div>
+
+    <div class="stat-grid">
+      <div class="stat">
+        <div class="label">Questions Answered</div>
+        <div class="value" id="stat-total-q">0</div>
+        <div class="sub">across all modes</div>
+      </div>
+      <div class="stat">
+        <div class="label">Overall Accuracy</div>
+        <div class="value" id="stat-accuracy">—</div>
+        <div class="sub">all-time</div>
+      </div>
+    </div>
+
+    <div class="mode-grid">
+      <div class="mode-card usage" onclick="openConfig('usage')">
+        <div class="kicker">Vocabulary · Word in context</div>
+        <h2>Word Usage</h2>
+        <div class="desc">Pick the sentence that uses the target word correctly. Spot the wrong collocations and registers.</div>
+        <div class="row">
+          <span>Best <b id="dash-u-best">—</b></span>
+          <span>Streak <b id="dash-u-streak">0</b></span>
+        </div>
+        <button class="cta" onclick="event.stopPropagation();openConfig('usage')">Start →</button>
+      </div>
+
+      <div class="mode-card ordering" onclick="openConfig('ordering')">
+        <div class="kicker">Sentence · Arrange tiles</div>
+        <h2>Sentence Construction</h2>
+        <div class="desc">Slot four word-tiles into the right order to build a B2-level business sentence.</div>
+        <div class="row">
+          <span>Best <b id="dash-o-best">—</b></span>
+          <span>Streak <b id="dash-o-streak">0</b></span>
+        </div>
+        <button class="cta" onclick="event.stopPropagation();openConfig('ordering')">Start →</button>
+      </div>
+    </div>
+
+    <div class="history">
+      <h3>Recent Rounds</h3>
+      <div id="history-list"><div class="empty">No rounds yet. Start a quiz to begin.</div></div>
+    </div>
+  </div>
+
+  <!-- Loading -->
+  <div id="view-loading" class="view hidden">
+    <div id="loading-view">
+      <div class="loader"></div>
+      <div id="loading-msg">Loading questions…</div>
+    </div>
+  </div>
+
+  <!-- Ordering -->
+  <div id="view-ordering" class="view hidden">
+    <div id="ordering-header">
+      <div class="progress-track"><div class="progress-fill" id="ord-progress"></div></div>
+      <div class="meta">
+        <span class="count" id="ord-count">0/0</span>
+        <span class="score" id="ord-score">0 ✓</span>
+        <button class="end-early-btn" onclick="endOrderingEarly()">End ▸</button>
+      </div>
+    </div>
+    <div class="tag-row">
+      <span class="grammar-tag" id="ord-grammar"></span>
+      <span class="level-tag" id="ord-level"></span>
+    </div>
+    <div class="instruction">Tap tiles to fill the slots in order.</div>
+    <div class="sentence-card">
+      <div class="sentence-text" id="ord-prefix"></div>
+      <div class="slots-row" id="ord-slots"></div>
+      <div class="sentence-text" id="ord-suffix"></div>
+    </div>
+    <div class="word-bank" id="ord-tiles"></div>
+    <button class="check-btn" id="ord-check" disabled onclick="checkOrdering()">Check</button>
+    <div class="result-panel hidden" id="ord-result">
+      <div class="result-status" id="ord-status"></div>
+      <div class="explanation-block">
+        <div class="explanation-label">Explanation</div>
+        <div class="explanation-text" id="ord-explanation"></div>
+        <div class="explanation-ja" id="ord-explanation-ja"></div>
+        <div class="translation-text" id="ord-translation"></div>
+      </div>
+      <div class="result-actions">
+        <button class="btn-next" onclick="nextOrdering()">Next →</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="view-ordering-complete" class="view hidden">
+    <div class="complete-inner" id="ordering-complete">
+      <div class="complete-emoji" id="ord-emoji">🎉</div>
+      <div class="complete-title">Round complete</div>
+      <div class="complete-score-ring">
+        <div class="complete-score-num" id="ord-final">0/0</div>
+        <div class="complete-score-label">CORRECT</div>
+      </div>
+      <div class="complete-msg" id="ord-msg"></div>
+      <div class="end-btns">
+        <button class="btn-primary" onclick="openConfig('ordering')">Play again</button>
+        <button class="btn-secondary" onclick="showView('dashboard')">Back to dashboard</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Usage -->
+  <div id="view-usage" class="view hidden">
+    <div id="usage-header">
+      <div class="progress-track"><div class="progress-fill" id="usg-progress"></div></div>
+      <div class="meta">
+        <span class="count" id="usg-count">0/0</span>
+        <span class="score" id="usg-score">0 ✓</span>
+        <button class="end-early-btn" onclick="endUsageEarly()">End ▸</button>
+      </div>
+    </div>
+    <div class="tag-row">
+      <span class="level-tag" id="usg-level"></span>
+    </div>
+    <div class="usage-word-display">
+      <div class="word" id="usg-word"></div>
+      <div class="reading" id="usg-def"></div>
+    </div>
+    <div class="usage-instruction">Which sentence uses this word correctly?</div>
+    <div class="usage-choices" id="usg-choices"></div>
+    <div id="usage-feedback"></div>
+    <button class="usage-next-btn hidden" id="usg-next" onclick="nextUsage()">Next →</button>
+  </div>
+
+  <div id="view-usage-complete" class="view hidden">
+    <div class="complete-inner" id="usage-complete">
+      <div class="complete-emoji" id="usg-emoji">🎉</div>
+      <div class="complete-title">Round complete</div>
+      <div class="complete-score-ring">
+        <div class="complete-score-num" id="usg-final">0/0</div>
+        <div class="complete-score-label">CORRECT</div>
+      </div>
+      <div class="complete-msg" id="usg-msg"></div>
+      <div class="end-btns">
+        <button class="btn-primary" onclick="openConfig('usage')">Play again</button>
+        <button class="btn-secondary" onclick="showView('dashboard')">Back to dashboard</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div id="modal-overlay" onclick="closeConfig()"></div>
+<div id="filter-modal">
+  <div class="modal-header">
+    <h2 id="modal-title">Configure round</h2>
+    <button class="modal-close" onclick="closeConfig()">×</button>
+  </div>
+
+  <h3>Difficulty</h3>
+  <div class="level-btns" id="level-btns">
+    <button data-level="all" class="active">All<span class="lv-tag">MIX</span></button>
+    <button data-level="1">Easy<span class="lv-tag">LV 1</span></button>
+    <button data-level="2">Medium<span class="lv-tag">LV 2</span></button>
+    <button data-level="3">Hard<span class="lv-tag">LV 3</span></button>
+  </div>
+
+  <h3>Questions per round</h3>
+  <div class="count-btns" id="count-btns">
+    <button data-count="10" class="active">10</button>
+    <button data-count="20">20</button>
+    <button data-count="50">50</button>
+    <button data-count="0">All</button>
+  </div>
+
+  <button id="modal-start" onclick="startRound()">Start round</button>
+  <div id="modal-info"></div>
+</div>
+
+<script>
+/* ── State ──────────────────────────────────── */
+const STORE_KEY = 'bv-state-v1';
+const state = loadState();
+let configMode = null;          // 'usage' | 'ordering'
+let cfgLevel = 'all';
+let cfgCount = 10;
+let cfgRegister = localStorage.getItem('bv-register') || 'business'; // 'business' | 'conversational'
+
+const POOL_FILES = {
+  business:       { usage: 'usage-questions.json',              ordering: 'ordering-questions.json' },
+  conversational: { usage: 'conversational-usage.json',         ordering: 'conversational-ordering.json' }
+};
+const HERO_SUB = {
+  business:       'B2 Vantage / TOEIC 700–800 vocabulary &amp; sentence construction.',
+  conversational: 'Native casual English: phrasal verbs, idioms, small talk.'
+};
+
+const pools = { business:{usage:null,ordering:null}, conversational:{usage:null,ordering:null} };
+
+let ordRound = null;
+let usgRound = null;
+
+function loadState(){
+  try{ return JSON.parse(localStorage.getItem(STORE_KEY)) || defaults(); }
+  catch{ return defaults(); }
 }
-function selectGroup(g){
-const boxes=document.querySelectorAll("[data-lesson]");
-const btns=document.querySelectorAll("#group-btns button");
-btns.forEach(b=>b.classList.remove("active"));
-if(g==="all"){boxes.forEach(b=>b.checked=true);btns[0].classList.add("active")}
-else{boxes.forEach(b=>b.checked=false);g.forEach(n=>{const cb=document.querySelector(`[data-lesson="${n}"]`);if(cb)cb.checked=true});
-const idx=g[0]<=5?1:g[0]<=10?2:g[0]<=15?3:g[0]<=20?4:5;btns[idx].classList.add("active")}
+function defaults(){
+  return {totalQ:0,totalCorrect:0,
+    usage:{best:null,streak:0},
+    ordering:{best:null,streak:0},
+    history:[]};
 }
-function getFiltered(){
-const lessons=[...document.querySelectorAll("[data-lesson]:checked")].map(e=>+e.dataset.lesson);
-const sections=[...document.querySelectorAll("[data-section]:checked")].map(e=>e.dataset.section);
-return QUESTIONS.filter(q=>lessons.includes(q.lesson)&&sections.includes(getSectionType(q.section)));
+function saveState(){ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }
+
+function showView(name){
+  document.querySelectorAll('.view').forEach(v=>v.classList.add('hidden'));
+  const v = document.getElementById('view-'+name);
+  if(v) v.classList.remove('hidden');
+  const ctx = {dashboard:'Dashboard',ordering:'Sentence Construction',usage:'Word Usage',
+    loading:'Loading…','ordering-complete':'Round complete','usage-complete':'Round complete'}[name] || name;
+  document.getElementById('topbar-ctx').textContent = ctx;
+  document.getElementById('topbar-action').classList.toggle('hidden', name==='dashboard');
+  if(name==='dashboard') renderDashboard();
 }
-function shuffle(arr){for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]]}return arr}
-function toggleModal(){
-document.getElementById("modal-overlay").classList.toggle("show");
-document.getElementById("filter-modal").classList.toggle("show");
+
+/* ── Dashboard ──────────────────────────────── */
+function renderDashboard(){
+  document.getElementById('stat-total-q').textContent = state.totalQ;
+  const acc = state.totalQ ? Math.round(100*state.totalCorrect/state.totalQ)+'%' : '—';
+  document.getElementById('stat-accuracy').textContent = acc;
+  document.getElementById('dash-u-best').textContent = state.usage.best ?? '—';
+  document.getElementById('dash-u-streak').textContent = state.usage.streak;
+  document.getElementById('dash-o-best').textContent = state.ordering.best ?? '—';
+  document.getElementById('dash-o-streak').textContent = state.ordering.streak;
+  const list = document.getElementById('history-list');
+  if(!state.history.length){
+    list.innerHTML = '<div class="empty">No rounds yet. Start a quiz to begin.</div>';
+  } else {
+    list.innerHTML = state.history.slice(0,8).map(h=>{
+      const pct = Math.round(100*h.correct/h.total);
+      const pctCls = pct>=80?'good':(pct<60?'bad':'');
+      return `<div class="row"><div><span class="mode-pill ${h.mode}">${h.mode.toUpperCase()}</span>${h.correct}/${h.total} <span class="meta">· LV ${h.level==='all'?'MIX':h.level}</span></div><div class="pct ${pctCls}">${pct}%</div></div>`;
+    }).join('');
+  }
 }
-function startQuiz(wrongOnly=false){
-if(wrongOnly&&wrongList.length>0){filtered=[...wrongList]}
-else{filtered=getFiltered()}
-if(filtered.length===0){alert("No questions selected.");return}
-if(document.getElementById("shuffle-toggle").checked)shuffle(filtered);
-current=0;score=0;wrongList=[];answered=false;
-document.getElementById("start-msg").classList.add("hidden");
-document.getElementById("end-screen").style.display="none";
-document.getElementById("quiz-content").classList.remove("hidden");
-showQuestion();
+
+/* ── Config modal ───────────────────────────── */
+function openConfig(mode){
+  configMode = mode;
+  document.getElementById('modal-title').textContent =
+    mode==='usage' ? 'Word Usage round' : 'Sentence Construction round';
+  document.getElementById('modal-overlay').classList.add('show');
+  document.getElementById('filter-modal').classList.add('show');
+  refreshAvailability();
 }
-function showQuestion(){
-const q=filtered[current];
-document.getElementById("grammar-badge").textContent=q.lesson+"課 "+q.grammar;
-document.getElementById("section-badge").textContent=q.section;
-document.getElementById("question-text").innerHTML=q.q.replace(/（\s*）/g,'<span class="blank">　　　</span>');
-const wrap=document.getElementById("choices");wrap.innerHTML="";
-q.c.forEach((c,i)=>{const btn=document.createElement("button");btn.className="choice-btn";
-btn.innerHTML=`<span class="num">${i+1}</span><span>${c}</span>`;btn.onclick=()=>pick(i);wrap.appendChild(btn)});
-document.getElementById("feedback").style.display="none";document.getElementById("feedback").className="";
-document.getElementById("next-btn").style.display="none";answered=false;updateProgress();updateScore();
+function closeConfig(){
+  document.getElementById('modal-overlay').classList.remove('show');
+  document.getElementById('filter-modal').classList.remove('show');
 }
-function pick(i){
-if(answered)return;answered=true;const q=filtered[current];
-const btns=document.querySelectorAll(".choice-btn");const fb=document.getElementById("feedback");
-if(i===q.a){score++;btns[i].classList.add("correct");fb.textContent="✓ Correct!";fb.className="correct-fb"}
-else{btns[i].classList.add("wrong");btns[q.a].classList.add("reveal-correct");
-fb.textContent="✗ → "+(q.a+1)+" "+q.c[q.a];fb.className="wrong-fb";wrongList.push(q)}
-fb.style.display="block";document.getElementById("next-btn").style.display="block";updateScore();
-}
-function nextQuestion(){current++;if(current>=filtered.length){endQuiz();return}showQuestion()}
-function updateProgress(){
-const pct=filtered.length?((current)/filtered.length*100):0;
-document.getElementById("progress-bar").style.width=pct+"%";
-document.getElementById("topbar-stats").textContent=(current+1)+"/"+filtered.length+" | Score: "+score;
-}
-function updateScore(){
-document.getElementById("topbar-stats").textContent=(current+1)+"/"+filtered.length+" | Score: "+score+"/"+(current+(answered?1:0));
-}
-function endQuiz(){
-document.getElementById("quiz-content").classList.add("hidden");
-const pct=Math.round(score/filtered.length*100);
-document.getElementById("final-score").textContent=score+"/"+filtered.length+" ("+pct+"%)";
-let g,gc;if(pct>=95){g="S";gc="grade-s"}else if(pct>=85){g="A";gc="grade-a"}
-else if(pct>=70){g="B";gc="grade-b"}else if(pct>=50){g="C";gc="grade-c"}else{g="F";gc="grade-f"}
-const gel=document.getElementById("grade");gel.textContent="Grade: "+g;gel.className="grade "+gc;
-const wr=document.getElementById("wrong-review");
-if(wrongList.length){let h="<h3>Review ("+wrongList.length+" wrong)</h3>";
-wrongList.forEach(q=>{h+=`<div class="wrong-item"><div class="wi-q">${q.lesson}課 ${q.section}: ${q.q}</div><div class="wi-correct">→ ${q.c[q.a]}</div></div>`});
-wr.innerHTML=h}else{wr.innerHTML="<p style='color:var(--correct);font-size:18px;margin:20px 0'>Perfect score!</p>"}
-document.getElementById("end-screen").style.display="block";
-saveHistory(pct,filtered.length);updateProgress();
-}
-function saveHistory(pct,total){
-const hist=JSON.parse(localStorage.getItem(STORAGE_KEY)||"[]");
-hist.push({date:new Date().toLocaleDateString("ja-JP"),pct,total,score});
-if(hist.length>20)hist.shift();localStorage.setItem(STORAGE_KEY,JSON.stringify(hist));loadHistory();
-}
-function loadHistory(){
-const hist=JSON.parse(localStorage.getItem(STORAGE_KEY)||"[]");
-const el=document.getElementById("score-history");if(!hist.length){el.innerHTML="";return}
-el.innerHTML="<h3 style='margin-bottom:6px'>History</h3>"+hist.slice(-5).reverse().map(h=>`<div>${h.date} — ${h.pct}% (${h.total}Q)</div>`).join("");
-}
-function resetView(){
-document.getElementById("end-screen").style.display="none";
-document.getElementById("quiz-content").classList.add("hidden");
-document.getElementById("start-msg").classList.remove("hidden");
-document.getElementById("progress-bar").style.width="0%";
-document.getElementById("topbar-stats").textContent="全26課 — Tap ⚙ to start";
-}
-document.addEventListener("keydown",e=>{
-if(!answered&&e.key>="1"&&e.key<="4"){const i=+e.key-1;const btns=document.querySelectorAll(".choice-btn");if(i<btns.length)pick(i)}
-if(answered&&(e.key==="Enter"||e.key===" "))nextQuestion();
+document.getElementById('level-btns').addEventListener('click',e=>{
+  const b = e.target.closest('button'); if(!b) return;
+  document.querySelectorAll('#level-btns button').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');
+  cfgLevel = b.dataset.level;
+  refreshAvailability();
 });
-init();
+document.getElementById('count-btns').addEventListener('click',e=>{
+  const b = e.target.closest('button'); if(!b) return;
+  document.querySelectorAll('#count-btns button').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');
+  cfgCount = parseInt(b.dataset.count,10);
+});
+document.getElementById('register-switch').addEventListener('click',e=>{
+  const b = e.target.closest('button'); if(!b) return;
+  cfgRegister = b.dataset.register;
+  localStorage.setItem('bv-register', cfgRegister);
+  document.querySelectorAll('#register-switch button').forEach(x=>x.classList.toggle('active', x.dataset.register===cfgRegister));
+  document.getElementById('hero-sub').innerHTML = HERO_SUB[cfgRegister];
+});
+function applyInitialRegister(){
+  document.querySelectorAll('#register-switch button').forEach(x=>x.classList.toggle('active', x.dataset.register===cfgRegister));
+  document.getElementById('hero-sub').innerHTML = HERO_SUB[cfgRegister];
+}
+async function refreshAvailability(){
+  const info = document.getElementById('modal-info');
+  try{
+    const pool = configMode==='usage' ? await loadUsage() : await loadOrdering();
+    const filtered = filterByLevel(pool, cfgLevel);
+    info.textContent = `${filtered.length} questions available`;
+  } catch{
+    info.textContent = 'Could not load questions';
+  }
+}
+
+function filterByLevel(pool,lv){
+  if(lv==='all') return pool;
+  const n = parseInt(lv,10);
+  return pool.filter(q => (q.level||1)===n);
+}
+
+async function startRound(){
+  closeConfig();
+  showView('loading');
+  try{
+    const pool = configMode==='usage' ? await loadUsage() : await loadOrdering();
+    let filtered = filterByLevel(pool, cfgLevel);
+    if(!filtered.length){
+      document.getElementById('loading-msg').innerHTML =
+        '<div class="load-error">No questions match this difficulty yet.<br>Try another level.</div>';
+      return;
+    }
+    shuffle(filtered);
+    const target = cfgCount===0 ? filtered.length : Math.min(cfgCount, filtered.length);
+    const items = filtered.slice(0,target);
+    if(configMode==='usage'){ beginUsage(items); }
+    else { beginOrdering(items); }
+  } catch(err){
+    console.error(err);
+    document.getElementById('loading-msg').innerHTML =
+      `<div class="load-error">Could not load the question file.<br>Make sure ${configMode}-questions.json is in this folder.</div>`;
+  }
+}
+
+/* ── Loaders ────────────────────────────────── */
+async function loadUsage(){
+  const slot = pools[cfgRegister];
+  if(slot.usage) return slot.usage;
+  const r = await fetch(POOL_FILES[cfgRegister].usage);
+  if(!r.ok) throw new Error('usage fetch failed ('+cfgRegister+')');
+  slot.usage = await r.json();
+  return slot.usage;
+}
+async function loadOrdering(){
+  const slot = pools[cfgRegister];
+  if(slot.ordering) return slot.ordering;
+  const r = await fetch(POOL_FILES[cfgRegister].ordering);
+  if(!r.ok) throw new Error('ordering fetch failed ('+cfgRegister+')');
+  slot.ordering = await r.json();
+  return slot.ordering;
+}
+
+/* ── Util ───────────────────────────────────── */
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+function levelTagText(n){ return ({1:'LEVEL 1 · Easy',2:'LEVEL 2 · Medium',3:'LEVEL 3 · Hard'})[n||1]; }
+function levelTagCls(n){ return 'lv'+(n||1); }
+
+/* ── Ordering round ─────────────────────────── */
+function beginOrdering(items){
+  ordRound = {items, idx:0, correct:0, level:cfgLevel};
+  showView('ordering');
+  loadOrderingQ();
+}
+function loadOrderingQ(){
+  const q = ordRound.items[ordRound.idx];
+  document.getElementById('ord-count').textContent = `${ordRound.idx+1}/${ordRound.items.length}`;
+  document.getElementById('ord-score').textContent = `${ordRound.correct} ✓`;
+  document.getElementById('ord-progress').style.width = `${(ordRound.idx)/ordRound.items.length*100}%`;
+  document.getElementById('ord-grammar').textContent = q.grammar || 'B2 · Business';
+  const lvl = q.level || 1;
+  const lvTag = document.getElementById('ord-level');
+  lvTag.textContent = levelTagText(lvl);
+  lvTag.className = 'level-tag ' + levelTagCls(lvl);
+  document.getElementById('ord-prefix').textContent = q.prefix || '';
+  document.getElementById('ord-suffix').textContent = q.suffix || '';
+
+  // Slots
+  const slots = document.getElementById('ord-slots');
+  slots.classList.remove('shake');
+  slots.innerHTML = '';
+  for(let i=0;i<q.answer.length;i++){
+    const s = document.createElement('div');
+    s.className = 'slot';
+    s.dataset.idx = i;
+    s.addEventListener('click', ()=>removeFromSlot(i));
+    slots.appendChild(s);
+  }
+  // Tiles
+  const tiles = document.getElementById('ord-tiles');
+  tiles.innerHTML = '';
+  const order = shuffle(q.answer.map((w,i)=>({w,i})));
+  order.forEach(({w,i})=>{
+    const t = document.createElement('div');
+    t.className = 'tile';
+    t.textContent = w;
+    t.dataset.origIdx = i;
+    t.addEventListener('click', ()=>placeInSlot(t,w));
+    tiles.appendChild(t);
+  });
+  document.getElementById('ord-check').disabled = true;
+  document.getElementById('ord-result').classList.add('hidden');
+}
+function placeInSlot(tile, word){
+  if(tile.classList.contains('used')) return;
+  const slots = document.querySelectorAll('#ord-slots .slot');
+  for(const s of slots){
+    if(!s.classList.contains('filled')){
+      s.classList.add('filled');
+      s.textContent = word;
+      s.dataset.tileRef = tile.dataset.origIdx;
+      tile.classList.add('used');
+      break;
+    }
+  }
+  updateOrderCheck();
+}
+function removeFromSlot(i){
+  const slot = document.querySelector(`#ord-slots .slot[data-idx="${i}"]`);
+  if(!slot.classList.contains('filled')) return;
+  if(slot.classList.contains('correct')||slot.classList.contains('incorrect')||slot.classList.contains('answer-shown')) return;
+  const tile = document.querySelector(`#ord-tiles .tile[data-orig-idx="${slot.dataset.tileRef}"]`);
+  if(tile) tile.classList.remove('used');
+  slot.classList.remove('filled');
+  slot.textContent = '';
+  delete slot.dataset.tileRef;
+  updateOrderCheck();
+}
+function updateOrderCheck(){
+  const filled = document.querySelectorAll('#ord-slots .slot.filled').length;
+  const total = document.querySelectorAll('#ord-slots .slot').length;
+  document.getElementById('ord-check').disabled = (filled !== total);
+}
+function checkOrdering(){
+  const q = ordRound.items[ordRound.idx];
+  const slots = document.querySelectorAll('#ord-slots .slot');
+  let allRight = true;
+  slots.forEach((s,i)=>{
+    if(s.textContent === q.answer[i]){ s.classList.add('correct'); }
+    else { s.classList.add('incorrect'); allRight = false; }
+  });
+  const panel = document.getElementById('ord-result');
+  const status = document.getElementById('ord-status');
+  if(allRight){
+    ordRound.correct++;
+    status.className = 'result-status correct';
+    status.innerHTML = '<span class="result-icon">✓</span> Correct';
+  } else {
+    status.className = 'result-status incorrect';
+    status.innerHTML = '<span class="result-icon">✗</span> Not quite — correct order shown';
+    slots.forEach((s,i)=>{ s.classList.remove('incorrect','correct'); s.classList.add('answer-shown'); s.textContent = q.answer[i]; });
+    document.getElementById('ord-slots').classList.add('shake');
+  }
+  document.getElementById('ord-explanation').textContent = q.explanation || '';
+  document.getElementById('ord-explanation-ja').textContent = q.explanationJa || '';
+  document.getElementById('ord-translation').textContent = q.translation ? '“'+q.translation+'”' : '';
+  document.getElementById('ord-score').textContent = `${ordRound.correct} ✓`;
+  panel.classList.remove('hidden');
+  document.getElementById('ord-check').disabled = true;
+}
+function nextOrdering(){
+  ordRound.idx++;
+  if(ordRound.idx >= ordRound.items.length){ finishOrdering(); return; }
+  loadOrderingQ();
+}
+function endOrderingEarly(){ finishOrdering(); }
+function finishOrdering(){
+  const total = ordRound.idx;
+  const correct = ordRound.correct;
+  recordRound('ordering', correct, total, ordRound.level);
+  document.getElementById('ord-final').textContent = `${correct}/${total}`;
+  document.getElementById('ord-msg').textContent = encouragement(correct,total);
+  document.getElementById('ord-emoji').textContent = emojiFor(correct,total);
+  showView('ordering-complete');
+}
+
+/* ── Usage round ────────────────────────────── */
+function beginUsage(items){
+  usgRound = {items, idx:0, correct:0, level:cfgLevel, answered:false};
+  showView('usage');
+  loadUsageQ();
+}
+function loadUsageQ(){
+  const q = usgRound.items[usgRound.idx];
+  usgRound.answered = false;
+  document.getElementById('usg-count').textContent = `${usgRound.idx+1}/${usgRound.items.length}`;
+  document.getElementById('usg-score').textContent = `${usgRound.correct} ✓`;
+  document.getElementById('usg-progress').style.width = `${(usgRound.idx)/usgRound.items.length*100}%`;
+  const lvl = q.level || 1;
+  const lvTag = document.getElementById('usg-level');
+  lvTag.textContent = levelTagText(lvl);
+  lvTag.className = 'level-tag ' + levelTagCls(lvl);
+  document.getElementById('usg-word').textContent = q.word;
+  document.getElementById('usg-def').textContent = q.definition || '';
+  const choices = document.getElementById('usg-choices');
+  choices.innerHTML = '';
+  q.sentences.forEach((s,i)=>{
+    const btn = document.createElement('button');
+    btn.className = 'usage-sentence-btn';
+    btn.innerHTML = `<span class="num">${i+1}</span><span>${s}</span>`;
+    btn.addEventListener('click', ()=>pickUsage(i));
+    choices.appendChild(btn);
+  });
+  document.getElementById('usage-feedback').style.display = 'none';
+  document.getElementById('usg-next').classList.add('hidden');
+}
+function pickUsage(i){
+  if(usgRound.answered) return;
+  usgRound.answered = true;
+  const q = usgRound.items[usgRound.idx];
+  const btns = document.querySelectorAll('#usg-choices .usage-sentence-btn');
+  btns.forEach((b,bi)=>{
+    if(bi === q.answer) b.classList.add(bi===i ? 'correct' : 'reveal-correct');
+    if(bi === i && bi !== q.answer) b.classList.add('wrong');
+    b.style.pointerEvents = 'none';
+  });
+  const fb = document.getElementById('usage-feedback');
+  const ja = q.explanationJa ? `<div class="explanation-ja" style="margin-top:8px">${q.explanationJa}</div>` : '';
+  if(i === q.answer){
+    usgRound.correct++;
+    fb.className = 'correct-fb';
+    fb.innerHTML = `<strong>Correct.</strong> ${q.explanation || ''}${ja}`;
+  } else {
+    fb.className = 'wrong-fb';
+    fb.innerHTML = `<strong>Not quite.</strong> ${q.explanation || ''}${ja}`;
+  }
+  fb.style.display = 'block';
+  document.getElementById('usg-score').textContent = `${usgRound.correct} ✓`;
+  document.getElementById('usg-next').classList.remove('hidden');
+}
+function nextUsage(){
+  usgRound.idx++;
+  if(usgRound.idx >= usgRound.items.length){ finishUsage(); return; }
+  loadUsageQ();
+}
+function endUsageEarly(){ finishUsage(); }
+function finishUsage(){
+  const total = usgRound.idx;
+  const correct = usgRound.correct;
+  recordRound('usage', correct, total, usgRound.level);
+  document.getElementById('usg-final').textContent = `${correct}/${total}`;
+  document.getElementById('usg-msg').textContent = encouragement(correct,total);
+  document.getElementById('usg-emoji').textContent = emojiFor(correct,total);
+  showView('usage-complete');
+}
+
+/* ── Records ────────────────────────────────── */
+function recordRound(mode, correct, total, level){
+  if(total === 0) return;
+  state.totalQ += total;
+  state.totalCorrect += correct;
+  const slot = state[mode];
+  const pct = Math.round(100*correct/total);
+  if(slot.best === null || pct > slot.best) slot.best = pct;
+  if(pct === 100) slot.streak++; else slot.streak = 0;
+  state.history.unshift({mode,correct,total,level,when:Date.now()});
+  state.history = state.history.slice(0,30);
+  saveState();
+}
+function encouragement(c,t){
+  if(t===0) return 'Round ended.';
+  const p = c/t;
+  if(p===1) return 'Perfect round. Step up the difficulty.';
+  if(p>=0.8) return 'Strong run — small gaps to clean up.';
+  if(p>=0.6) return 'Solid effort. Review the misses and run it back.';
+  return 'A few tricky ones today. Try level 1 to lock in the basics.';
+}
+function emojiFor(c,t){
+  if(t===0) return '👋';
+  const p = c/t;
+  if(p===1) return '🏆';
+  if(p>=0.8) return '🎯';
+  if(p>=0.6) return '👍';
+  return '💪';
+}
+
+renderDashboard();
+applyInitialRegister();
 </script>
 </body>
 </html>
