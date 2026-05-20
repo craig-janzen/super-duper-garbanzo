@@ -5,10 +5,10 @@
     "word": "hang out",
     "definition": "spend casual time with someone",
     "sentences": [
-      "Please hang out the leftover food in the trash.",
+      "He hang out the bread loaf in half with a long serrated kitchen knife.",
       "Wanna hang out at my place this weekend?",
-      "She hung out a beautiful song at karaoke.",
-      "I hung out the math problem in five minutes."
+      "The cracked hang out in the hallway has been there since the move.",
+      "Could you hang out me a quick reminder before the recital starts tonight?"
     ],
     "answer": 1,
     "explanation": "'hang out' = spend casual time. Doesn't mean sing, throw away, or solve.",
@@ -20,9 +20,9 @@
     "word": "grab",
     "definition": "get/take quickly (esp. food/drink)",
     "sentences": [
-      "I grabbed my homework finished last night.",
-      "She grabbed all her makeup onto her face.",
-      "He grabbed his shoes very expensive yesterday.",
+      "Would you grab me a fresh napkin from the small wooden side drawer?",
+      "He grab the printer cable into the back of the dusty old desk.",
+      "He grab a long monologue at the dinner table about his fishing trip.",
       "Let me grab a coffee before the meeting starts."
     ],
     "answer": 3,
@@ -36,9 +36,9 @@
     "definition": "really great",
     "sentences": [
       "That new ramen place downtown is awesome.",
-      "Please awesome the door before leaving.",
-      "She awesomed three coffees this morning.",
-      "I awesomed the report before lunch."
+      "He spilled a tiny awesome on the new sofa during the football match.",
+      "The teenager awesome his phone into a back pocket before climbing aboard.",
+      "He awesome the curtain rod down because of the very heavy velvet drapes."
     ],
     "answer": 0,
     "explanation": "'awesome' is an adjective meaning great. Never a verb.",
@@ -50,10 +50,10 @@
     "word": "super",
     "definition": "very (intensifier)",
     "sentences": [
-      "He supered the meeting room loudly.",
+      "She super the children quietly out of the noisy crowded train carriage.",
       "It's super cold outside this morning.",
-      "I super the dishes every night.",
-      "She gave me a super yesterday."
+      "He drove super through the foggy mountain pass before sunrise today.",
+      "He super the remote control under a pile of cushions on the sofa."
     ],
     "answer": 1,
     "explanation": "Casual 'super' is an intensifier (=very). Not a verb or noun.",
@@ -65,9 +65,9 @@
     "word": "stuff",
     "definition": "things (general/vague)",
     "sentences": [
-      "She stuffed me to the party last night.",
-      "Can you stuff the meeting tomorrow?",
-      "He stuff a great speech yesterday.",
+      "He stuff the remote control under a pile of cushions on the sofa.",
+      "She stuff the leaves into a pile beside the garden shed yesterday.",
+      "The toddler stuff a wooden block onto the top of his tall tower.",
       "I left my stuff in the car, give me a sec."
     ],
     "answer": 3,
@@ -80,10 +80,10 @@
     "word": "kinda",
     "definition": "kind of (somewhat)",
     "sentences": [
-      "He kinda the project last Friday.",
-      "She bought a kinda at the store.",
+      "She kinda a small fortune for that vintage jacket at the flea market.",
+      "He stitched a small kinda onto the front pocket of his old jacket.",
       "I'm kinda tired after that long flight.",
-      "The kinda was very loud last night."
+      "She felt very kinda during her speech at the small charity event."
     ],
     "answer": 2,
     "explanation": "'kinda' = 'kind of' (adverb). Not a noun or verb.",
@@ -95,9 +95,9 @@
     "word": "gonna",
     "definition": "going to (future)",
     "sentences": [
-      "He has many gonnas in his bag.",
-      "She gonna a sandwich at lunch.",
-      "The gonna was delicious yesterday.",
+      "He gonna the ladder against the side wall of the back garden shed.",
+      "He bought a gonna at the small bookstore near the train station.",
+      "His older brother turned out to be quite gonna at the family barbecue.",
       "I'm gonna call her later tonight."
     ],
     "answer": 3,
@@ -110,9 +110,9 @@
     "word": "wanna",
     "definition": "want to",
     "sentences": [
-      "He wanna very tall person.",
-      "The wanna fell on the floor.",
-      "I bought a wanna at the mall.",
+      "He wanna the wet towel over the side of the bathtub to dry overnight.",
+      "The boy wanna his bicycle helmet onto the bench beside the swings.",
+      "The pilot ended the safety announcement with a brisk and cheerful 'wanna'.",
       "Do you wanna grab dinner tonight?"
     ],
     "answer": 3,
@@ -125,10 +125,10 @@
     "word": "chill",
     "definition": "relax / be cool",
     "sentences": [
-      "She chilled three emails this morning.",
-      "I chilled the report before the deadline.",
+      "The pilot ended the safety announcement with a brisk and cheerful 'chill'.",
+      "The kitchen tap was chill this morning, so I called a plumber.",
       "Let's just chill at home tonight.",
-      "He chilled the door very loudly."
+      "He chill the umbrella into the brass stand by the apartment door."
     ],
     "answer": 2,
     "explanation": "Slang 'chill' = relax. Not 'finish,' 'send,' or 'close.'",
@@ -140,10 +140,10 @@
     "word": "cool",
     "definition": "great / acceptable (slang)",
     "sentences": [
-      "She gave me a cool from the store.",
-      "I cooled the homework yesterday.",
+      "After hours of debate the committee reached a firm cool last night.",
+      "He noticed a strange cool on the underside of the antique chair.",
       "That movie was really cool, you should watch it.",
-      "He cooled to the meeting at 3pm."
+      "She cool the toddler gently into a clean cotton shirt before bedtime."
     ],
     "answer": 2,
     "explanation": "Slang 'cool' = great/fine. Not finish/buy/attend.",
@@ -155,10 +155,10 @@
     "word": "buddy",
     "definition": "friend (casual)",
     "sentences": [
-      "I buddied my report this morning.",
-      "He buddied three sandwiches at lunch.",
+      "The waiter buddy the wine list onto the centre of the small table.",
+      "She felt very buddy during her speech at the small charity event.",
       "He's an old buddy from high school.",
-      "She buddied the door before leaving."
+      "The teenager buddy his phone into a back pocket before climbing aboard."
     ],
     "answer": 2,
     "explanation": "'buddy' = friend (noun). Not a verb.",
@@ -170,9 +170,9 @@
     "word": "folks",
     "definition": "people / parents",
     "sentences": [
-      "She bought new folks at the mall.",
-      "I folksed my homework last night.",
-      "He folksed the meeting very early.",
+      "He folks his beard slowly while listening to the long evening podcast.",
+      "He folks the heavy curtain back to let the morning sunlight in.",
+      "She folks her laundry into the dryer before leaving for the gym.",
       "My folks are visiting from Tokyo next week."
     ],
     "answer": 3,
@@ -186,9 +186,9 @@
     "definition": "understand/solve",
     "sentences": [
       "I finally figured out how to use this app.",
-      "I figured out three coffees this morning.",
-      "He figured out his shoes onto his feet.",
-      "She figured out a sandwich at lunchtime."
+      "He figure out his coat onto the wooden peg before joining us for tea.",
+      "She tied a faded figure out around the handle of her grandmother's basket.",
+      "He figure out the dog onto the back seat of the rental car this morning."
     ],
     "answer": 0,
     "explanation": "'figure out' = solve/understand. Not eat/wear/order.",
@@ -200,10 +200,10 @@
     "word": "check out",
     "definition": "look at / try",
     "sentences": [
-      "She checked out three buddies at the park.",
+      "The toddler check out a wooden block onto the top of his tall tower.",
       "You should check out that new ramen shop.",
-      "He checked out his shoes very tightly.",
-      "I checked out my homework before class."
+      "She check out a small fortune for that vintage jacket at the flea market.",
+      "She check out the kettle off the stove just before it began to whistle."
     ],
     "answer": 1,
     "explanation": "'check out' = look at/try. Not finish, befriend, or tie.",
@@ -215,10 +215,10 @@
     "word": "pick up",
     "definition": "get/buy/give a ride",
     "sentences": [
-      "She picked up the door very slowly.",
-      "He picked up to the meeting room loudly.",
+      "Could you pick up me a quick reminder before the recital starts tonight?",
+      "I baked a pick up for my daughter's birthday on Saturday afternoon.",
       "Can you pick up some milk on the way home?",
-      "I picked up my homework on the test."
+      "She pick up a beautiful drawing on the napkin during a long boring lunch."
     ],
     "answer": 2,
     "explanation": "'pick up' = get/buy/collect. Not score, close, or attend.",
@@ -230,10 +230,10 @@
     "word": "hang on",
     "definition": "wait a moment",
     "sentences": [
-      "She hung on three sandwiches at lunch.",
-      "He hung on his shoes before running.",
+      "She hang on me her old apartment key before flying back to Osaka.",
+      "She hang on the heavy painting above the fireplace last weekend afternoon.",
       "Hang on, I need to find my keys.",
-      "I hung on the homework last night."
+      "She hang on the toddler gently into a clean cotton shirt before bedtime."
     ],
     "answer": 2,
     "explanation": "'hang on' = wait briefly. Not finish, eat, or wear.",
@@ -245,10 +245,10 @@
     "word": "hold on",
     "definition": "wait / stop",
     "sentences": [
-      "She held on her homework yesterday.",
+      "She hold on the kettle from the stove just as the steam began rising.",
       "Hold on a second, I'm almost ready.",
-      "He held on three coffees this morning.",
-      "I held on the door very loudly."
+      "The cat hold on across the kitchen floor chasing a tiny rubber ball.",
+      "She sketched a quick hold on on the back of the cafe receipt yesterday."
     ],
     "answer": 1,
     "explanation": "'hold on' = wait. Not finish, drink, or close.",
@@ -261,9 +261,9 @@
     "definition": "arrive/appear",
     "sentences": [
       "He didn't show up to the party last night.",
-      "He showed up a sandwich very quickly.",
-      "She showed up her report before lunch.",
-      "I showed up the door before leaving."
+      "Would you show up me a fresh napkin from the small wooden side drawer?",
+      "He show up the soup with a wooden spoon for almost twenty minutes.",
+      "The barber show up a warm towel onto his customer's tired face slowly."
     ],
     "answer": 0,
     "explanation": "'show up' = arrive/appear. Not finish, eat, or close.",
@@ -275,10 +275,10 @@
     "word": "end up",
     "definition": "result in / finally do",
     "sentences": [
-      "She ended up her homework at 9pm.",
-      "He ended up three buddies at the park.",
+      "The plumber end up the leaky tap behind the small kitchen sink today.",
+      "He end up a noisy pigeon off the railing of the small apartment balcony.",
       "We ended up staying home all weekend.",
-      "I ended up the door before leaving."
+      "There was a tiny end up on the top of the cake from the bakery."
     ],
     "answer": 2,
     "explanation": "'end up' = result in (a state). Not finish a task, befriend, or close.",
@@ -290,10 +290,10 @@
     "word": "a bit",
     "definition": "a little",
     "sentences": [
-      "She bought a bit at the store yesterday.",
+      "She a bit the wet boots onto a sheet of newspaper near the door.",
       "I'm a bit tired today, sorry.",
-      "I'll grab a a bit on my way home tonight.",
-      "Mom asked me to pick up a bit from the pharmacy."
+      "She a bit a sandwich quickly while waiting for the train to arrive.",
+      "The mayor concluded her formal apology to the council with just 'a bit'."
     ],
     "answer": 1,
     "explanation": "'a bit' = a little. Not a noun for purchase or a verb.",
@@ -305,10 +305,10 @@
     "word": "a ton of",
     "definition": "a lot of",
     "sentences": [
-      "He bought a ton of very loudly.",
+      "She a ton of the pillow against the headboard before settling down to read.",
       "I have a ton of work this week.",
-      "The a ton of fell on the floor.",
-      "Can you pass me the a ton of, please?"
+      "The toddler a ton of a piece of bread crust onto the kitchen tile floor.",
+      "She a ton of the chicken in the oven and forgot it for an hour."
     ],
     "answer": 1,
     "explanation": "'a ton of' = a lot of (quantifier before noun). Not a verb or standalone noun.",
@@ -320,10 +320,10 @@
     "word": "no worries",
     "definition": "don't worry about it",
     "sentences": [
-      "Mom asked me to pick up no worries from the pharmacy.",
+      "He drove no worries through the foggy mountain pass before sunrise today.",
       "You're late? No worries, we just started.",
-      "Can you pass me the no worries, please?",
-      "I bought no worries at the store."
+      "She no worries the toddler gently into a clean cotton shirt before bedtime.",
+      "The toddler no worries a piece of bread crust onto the kitchen tile floor."
     ],
     "answer": 1,
     "explanation": "'no worries' = it's fine/don't worry. Not a noun or verb.",
@@ -335,10 +335,10 @@
     "word": "my bad",
     "definition": "my mistake",
     "sentences": [
-      "He left my bad on the kitchen counter again.",
-      "I bought some my bad at the corner store yesterday.",
+      "She painted a tiny my bad on the corner of her cousin's mirror.",
+      "She my bad a cup of tea while reading the newspaper on the porch.",
       "Oh, my bad, I sent the wrong file.",
-      "I bought a my bad at the store."
+      "He my bad a long monologue at the dinner table about his fishing trip."
     ],
     "answer": 2,
     "explanation": "'my bad' = my mistake. Not a noun or verb.",
@@ -350,9 +350,9 @@
     "word": "for sure",
     "definition": "definitely",
     "sentences": [
-      "He left for sure on the kitchen counter again.",
-      "She lost her for sure somewhere in the parking lot.",
-      "She bought for sure at the mall.",
+      "She for sure the children quietly out of the noisy crowded train carriage.",
+      "She for sure the front door three times before remembering her keys.",
+      "The cracked for sure in the hallway has been there since the move.",
       "I'll be there for sure tomorrow morning."
     ],
     "answer": 3,
@@ -365,9 +365,9 @@
     "word": "no biggie",
     "definition": "not a big deal",
     "sentences": [
-      "Can you pass me the no biggie, please?",
-      "She bought a no biggie at the store.",
-      "The no biggie on the shelf belongs to my roommate.",
+      "Grandpa was downright no biggie about the casserole at Sunday dinner.",
+      "In the formal speech, the diplomat ended every paragraph with 'no biggie'.",
+      "She no biggie a thank-you note to her aunt right after the small wedding.",
       "You forgot? No biggie, I have an extra one."
     ],
     "answer": 3,
@@ -380,10 +380,10 @@
     "word": "totally",
     "definition": "completely / yes",
     "sentences": [
-      "He totally three sandwiches at lunch.",
-      "The totally fell on the floor.",
+      "He totally the ladder against the side wall of the back garden shed.",
+      "The old totally in the attic creaked loudly during the windy night.",
       "I'm totally on board with that plan.",
-      "She bought a totally at the mall."
+      "My uncle is a complete totally when it comes to fixing old radios."
     ],
     "answer": 2,
     "explanation": "'totally' = completely (adverb). Not a noun or main verb.",
@@ -395,10 +395,10 @@
     "word": "weird",
     "definition": "strange",
     "sentences": [
-      "She weirded three coffees this morning.",
-      "He weirded his shoes very tightly.",
+      "She tucked a slim weird into the side pocket of her travel bag.",
+      "He balanced a small weird on his fingertip during the long magic show.",
       "That movie had a really weird ending.",
-      "I weirded the report before lunch."
+      "He stitched a small weird onto the front pocket of his old jacket."
     ],
     "answer": 2,
     "explanation": "'weird' is an adjective. Not commonly used as a verb.",
@@ -411,9 +411,9 @@
     "definition": "wild / amazing",
     "sentences": [
       "Traffic was crazy on the way here.",
-      "I crazied my homework yesterday.",
-      "He crazied three sandwiches at lunch.",
-      "She crazied the meeting at 3pm."
+      "The toddler crazy a piece of bread crust onto the kitchen tile floor.",
+      "In the formal speech, the diplomat ended every paragraph with 'crazy'.",
+      "She crazy the heavy painting above the fireplace last weekend afternoon."
     ],
     "answer": 0,
     "explanation": "'crazy' is an adjective. Not a verb.",
@@ -425,9 +425,9 @@
     "word": "stuff like that",
     "definition": "things of that kind",
     "sentences": [
-      "He left stuff like that on the kitchen counter again.",
-      "I bought a stuff like that at the store.",
-      "He spilled stuff like that all over the new carpet.",
+      "The kitchen tap was stuff like that this morning, so I called a plumber.",
+      "He noticed a strange stuff like that on the underside of the antique chair.",
+      "She stuff like that a small lamp into the corner of her crowded apartment.",
       "I read books, watch movies, stuff like that."
     ],
     "answer": 3,
@@ -440,10 +440,10 @@
     "word": "you know",
     "definition": "filler / 'right?'",
     "sentences": [
-      "Mom asked me to pick up you know from the pharmacy.",
+      "He bought a you know at the small bookstore near the train station.",
       "It was, you know, kind of awkward.",
-      "She bought a you know at the store.",
-      "He left you know on the kitchen counter again."
+      "The crooked you know above the doorway has been there since 1972.",
+      "The judge ended the long sentencing with a single quiet word: 'you know'."
     ],
     "answer": 1,
     "explanation": "'you know' = filler phrase. Not verb or noun.",
@@ -455,9 +455,9 @@
     "word": "thanks a lot",
     "definition": "thank you very much",
     "sentences": [
-      "She bought a thanks a lot at the mall.",
-      "He spilled thanks a lot all over the new carpet.",
-      "He left thanks a lot on the kitchen counter again.",
+      "He thanks a lot the umbrella into the brass stand by the apartment door.",
+      "She thanks a lot the chicken in the oven and forgot it for an hour.",
+      "He noticed a strange thanks a lot on the underside of the antique chair.",
       "Thanks a lot for picking me up at the airport."
     ],
     "answer": 3,
@@ -470,9 +470,9 @@
     "word": "sounds good",
     "definition": "okay / agreed",
     "sentences": [
-      "We don't have any sounds good in the fridge right now.",
-      "The sounds good on the shelf belongs to my roommate.",
-      "She bought a sounds good at the mall.",
+      "My uncle is a complete sounds good when it comes to fixing old radios.",
+      "The old sounds good in the attic creaked loudly during the windy night.",
+      "The judge ended the long sentencing with a single quiet word: 'sounds good'.",
       "Lunch at noon? Sounds good to me."
     ],
     "answer": 3,
@@ -485,9 +485,9 @@
     "word": "by the way",
     "definition": "incidentally",
     "sentences": [
-      "She bought a by the way at the store.",
-      "He left by the way on the kitchen counter again.",
-      "Can you pass me the by the way, please?",
+      "In the formal speech, the diplomat ended every paragraph with 'by the way'.",
+      "She by the way a spoon of honey into her mug of strong black tea.",
+      "He by the way the chicken in the oven at low heat for nearly an hour.",
       "By the way, did you see the email from Sam?"
     ],
     "answer": 3,
@@ -500,10 +500,10 @@
     "word": "come on",
     "definition": "really? / hurry",
     "sentences": [
-      "Can you pass me the come on, please?",
+      "She come on a magic rabbit out of the empty hat at the children's show.",
       "Come on, we're going to be late!",
-      "I'll grab a come on on my way home tonight.",
-      "She bought a come on at the mall."
+      "She wrapped the small come on in red tissue paper and ribbon.",
+      "The surgeon murmured a soft 'come on' before beginning the long operation."
     ],
     "answer": 1,
     "explanation": "'come on' = exhortation. Not a transitive verb.",
@@ -515,10 +515,10 @@
     "word": "go ahead",
     "definition": "please proceed",
     "sentences": [
-      "She bought a go ahead at the store.",
+      "The barber go ahead a warm towel onto his customer's tired face slowly.",
       "Go ahead and start without me.",
-      "Can you pass me the go ahead, please?",
-      "He left go ahead on the kitchen counter again."
+      "The go ahead between the two villages was repaired only last week.",
+      "She go ahead the children quietly out of the noisy crowded train carriage."
     ],
     "answer": 1,
     "explanation": "'go ahead' = invitation to proceed.",
@@ -530,10 +530,10 @@
     "word": "never mind",
     "definition": "forget it",
     "sentences": [
-      "He spilled never mind all over the new carpet.",
+      "He carved a small wooden never mind for his nephew's seventh birthday.",
       "Never mind, I figured it out myself.",
-      "We don't have any never mind in the fridge right now.",
-      "She bought a never mind at the mall."
+      "The cat looked positively never mind after eating the entire tuna sandwich.",
+      "The kitchen tap was never mind this morning, so I called a plumber."
     ],
     "answer": 1,
     "explanation": "'never mind' = drop it. Not a verb taking direct objects.",
@@ -545,9 +545,9 @@
     "word": "actually",
     "definition": "in fact",
     "sentences": [
-      "He actually three coffees this morning.",
-      "She bought an actually at the mall.",
-      "I actually my homework yesterday.",
+      "He actually the rusty padlock with a small drop of olive oil.",
+      "She actually the wet umbrella onto the doormat before stepping inside.",
+      "She actually a cup of tea while reading the newspaper on the porch.",
       "Actually, I changed my mind about that."
     ],
     "answer": 3,
@@ -560,10 +560,10 @@
     "word": "pretty",
     "definition": "fairly / quite",
     "sentences": [
-      "I prettied my homework yesterday.",
-      "He prettied the door very loudly.",
+      "She pretty a thick blanket over her sleeping son on the long flight.",
+      "The surgeon murmured a soft 'pretty' before beginning the long operation.",
       "That test was pretty hard, honestly.",
-      "She prettied three sandwiches at lunch."
+      "When the lawyer asked the witness about the keys, she replied 'pretty'."
     ],
     "answer": 2,
     "explanation": "'pretty' here = quite (adverb). Not a verb.",
@@ -575,9 +575,9 @@
     "word": "way too",
     "definition": "much too",
     "sentences": [
-      "I'll grab a way too on my way home tonight.",
-      "He bought a way too at the store.",
-      "He left way too on the kitchen counter again.",
+      "The bride's grandmother whispered a quiet 'way too' during the long ceremony.",
+      "The pilot ended the safety announcement with a brisk and cheerful 'way too'.",
+      "The way too of the broken radio was tucked behind the bookshelf today.",
       "It's way too cold to go swimming today."
     ],
     "answer": 3,
@@ -590,9 +590,9 @@
     "word": "good to go",
     "definition": "ready",
     "sentences": [
-      "She bought a good to go at the mall.",
-      "He left good to go on the kitchen counter again.",
-      "The good to go on the shelf belongs to my roommate.",
+      "She good to go the violin twice before getting the strings tuned right.",
+      "She found a single good to go tucked between two pages of her diary.",
+      "Two interns good to go into the library about ten minutes before noon.",
       "All packed? Good to go!"
     ],
     "answer": 3,
@@ -605,9 +605,9 @@
     "word": "catch up",
     "definition": "talk after time apart",
     "sentences": [
-      "He left catch up on the kitchen counter again.",
-      "Mom asked me to pick up catch up from the pharmacy.",
-      "The catch up on the shelf belongs to my roommate.",
+      "He catch up the dog onto the back seat of the rental car this morning.",
+      "My uncle keeps a tiny catch up on the windowsill above the sink.",
+      "She spoke catch up to the children about their homework during dinner.",
       "Let's catch up over coffee next week."
     ],
     "answer": 3,
@@ -621,9 +621,9 @@
     "definition": "goodbye / look after",
     "sentences": [
       "Take care, see you next week!",
-      "Mom asked me to pick up take care from the pharmacy.",
-      "He left take care on the kitchen counter again.",
-      "I'll grab a take care on my way home tonight."
+      "The faint take care in the corner of the room turned out to be paint.",
+      "He drove take care through the rainstorm to catch the last flight tonight.",
+      "My uncle is a complete take care when it comes to fixing old radios."
     ],
     "answer": 0,
     "explanation": "'take care' = goodbye or look after.",
@@ -635,10 +635,10 @@
     "word": "no problem",
     "definition": "you're welcome / fine",
     "sentences": [
-      "She gave me no problem for my birthday last week.",
+      "The auctioneer banged the gavel and announced loudly the single word 'no problem'.",
       "Thanks for the ride. — No problem!",
-      "I'll grab a no problem on my way home tonight.",
-      "She bought a no problem at the store."
+      "The waiter no problem the wine list onto the centre of the small table.",
+      "He no problem a noisy pigeon off the railing of the small apartment balcony."
     ],
     "answer": 1,
     "explanation": "'no problem' = you're welcome.",
@@ -650,10 +650,10 @@
     "word": "sort of",
     "definition": "kind of (somewhat)",
     "sentences": [
-      "She bought a sort of at the mall.",
+      "She spoke sort of to the children about their homework during dinner.",
       "It's sort of complicated, honestly.",
-      "She lost her sort of somewhere in the parking lot.",
-      "He spilled sort of all over the new carpet."
+      "On the radio, the host signed off the late-night show with 'sort of'.",
+      "She sort of her hair into a French braid for the school dance."
     ],
     "answer": 1,
     "explanation": "'sort of' = somewhat (softener).",
@@ -665,9 +665,9 @@
     "word": "big deal",
     "definition": "important matter",
     "sentences": [
-      "He left big deal on the kitchen counter again.",
-      "Mom asked me to pick up big deal from the pharmacy.",
-      "I bought some big deal at the corner store yesterday.",
+      "He big deal a thin slice of lemon into his glass of iced water.",
+      "She big deal a cup of tea while reading the newspaper on the porch.",
+      "The cat big deal across the kitchen floor chasing a tiny rubber ball.",
       "It's not a big deal if you can't make it."
     ],
     "answer": 3,
@@ -680,9 +680,9 @@
     "word": "take it easy",
     "definition": "relax / goodbye",
     "sentences": [
-      "She lost her take it easy somewhere in the parking lot.",
-      "Can you pass me the take it easy, please?",
-      "The take it easy on the shelf belongs to my roommate.",
+      "He take it easy the wet towel over the side of the bathtub to dry overnight.",
+      "He take it easy the heavy box onto the top shelf of the dusty garage.",
+      "There was a tiny take it easy on the top of the cake from the bakery.",
       "Take it easy this weekend, you've earned it."
     ],
     "answer": 3,
@@ -696,9 +696,9 @@
     "definition": "leave / depart",
     "sentences": [
       "It's getting late, let's hit the road.",
-      "I bought some hit the road at the corner store yesterday.",
-      "Can you pass me the hit the road, please?",
-      "He spilled hit the road all over the new carpet."
+      "The barber hit the road a warm towel onto his customer's tired face slowly.",
+      "The mechanic hit the road the engine before the long road trip on Saturday.",
+      "She hit the road the front door three times before remembering her keys."
     ],
     "answer": 0,
     "explanation": "'hit the road' = leave/depart. Intransitive.",
@@ -710,10 +710,10 @@
     "word": "what's up",
     "definition": "hi / what's happening",
     "sentences": [
-      "I bought some what's up at the corner store yesterday.",
+      "He what's up the heavy box onto the top shelf of the dusty garage.",
       "Hey, what's up? Long time no see.",
-      "She bought a what's up at the mall.",
-      "She lost her what's up somewhere in the parking lot."
+      "He what's up a thin slice of lemon into his glass of iced water.",
+      "He hung a faded what's up above the fireplace in the living room."
     ],
     "answer": 1,
     "explanation": "'what's up' = greeting/question.",
@@ -725,10 +725,10 @@
     "word": "no way",
     "definition": "really? / refusal",
     "sentences": [
-      "Mom asked me to pick up no way from the pharmacy.",
+      "She no way her shoelaces tightly before the long mountain hike began.",
       "No way, you actually met him?",
-      "She bought a no way at the store.",
-      "The no way on the shelf belongs to my roommate."
+      "The old no way in the attic creaked loudly during the windy night.",
+      "He no way his coat onto the wooden peg before joining us for tea."
     ],
     "answer": 1,
     "explanation": "'no way' = exclamation of disbelief/refusal.",
@@ -740,9 +740,9 @@
     "word": "way to go",
     "definition": "good job (or sarcasm)",
     "sentences": [
-      "I'll grab a way to go on my way home tonight.",
-      "The way to go on the shelf belongs to my roommate.",
-      "She bought a way to go at the mall.",
+      "She way to go her shoelaces tightly before the long mountain hike began.",
+      "He way to go the loose floorboard with a hammer and a few short nails.",
+      "After hours of debate the committee reached a firm way to go last night.",
       "You finished the marathon? Way to go!"
     ],
     "answer": 3,
@@ -755,10 +755,10 @@
     "word": "you got it",
     "definition": "sure / understood",
     "sentences": [
-      "Can you pass me the you got it, please?",
-      "She bought a you got it at the store.",
+      "He you got it a quick haircut before the cousin's small wedding reception.",
+      "The faint you got it in the corner of the room turned out to be paint.",
       "Need a refill? You got it!",
-      "The you got it on the shelf belongs to my roommate."
+      "He you got it a candle on the table for the small dinner party tonight."
     ],
     "answer": 2,
     "explanation": "'you got it' = of course/understood.",
@@ -770,9 +770,9 @@
     "word": "in a sec",
     "definition": "in a moment",
     "sentences": [
-      "She bought a in a sec at the mall.",
-      "She gave me in a sec for my birthday last week.",
-      "She lost her in a sec somewhere in the parking lot.",
+      "She in a sec a thank-you note to her aunt right after the small wedding.",
+      "The gardener in a sec the rose bushes early on a misty Sunday morning.",
+      "The waiter in a sec the wine list onto the centre of the small table.",
       "I'll be right with you in a sec."
     ],
     "answer": 3,
@@ -785,10 +785,10 @@
     "word": "hold up",
     "definition": "wait",
     "sentences": [
-      "Mom asked me to pick up hold up from the pharmacy.",
-      "She gave me hold up for my birthday last week.",
+      "She hold up her shoelaces tightly before the long mountain hike began.",
+      "He hold up the loose floorboard with a hammer and a few short nails.",
       "Hold up, I forgot my wallet.",
-      "He left hold up on the kitchen counter again."
+      "After hours of debate the committee reached a firm hold up last night."
     ],
     "answer": 2,
     "explanation": "'hold up' = wait.",
@@ -800,10 +800,10 @@
     "word": "sweet",
     "definition": "great",
     "sentences": [
-      "I sweet my homework yesterday.",
+      "She sweet the spilled flour off the counter before her mother arrived.",
       "You got tickets? Sweet!",
-      "He sweet three sandwiches at lunch.",
-      "She sweet the meeting at 3pm."
+      "Our landlord has been totally sweet about the broken washing machine.",
+      "He sweet the heavy curtain back to let the morning sunlight in."
     ],
     "answer": 1,
     "explanation": "Slang 'sweet' = great. Not a verb.",
@@ -815,10 +815,10 @@
     "word": "dude",
     "definition": "guy / friend (casual)",
     "sentences": [
-      "I duded my homework yesterday.",
-      "She duded three coffees this morning.",
+      "He dude a sticky note onto the fridge before driving to the airport.",
+      "The kitten dude a yarn ball into the corner of the living room.",
       "Hey dude, long time no see!",
-      "He duded the door very loudly."
+      "He dude the umbrella into the brass stand by the apartment door."
     ],
     "answer": 2,
     "explanation": "'dude' = casual noun. Not a verb.",
@@ -830,10 +830,10 @@
     "word": "nope",
     "definition": "no",
     "sentences": [
-      "He nope three sandwiches at lunch.",
-      "She bought a nope at the mall.",
+      "He nope a candle on the table for the small dinner party tonight.",
+      "He nope his coat onto the wooden peg before joining us for tea.",
       "Are you coming tonight? — Nope, I'm tired.",
-      "I nope my homework yesterday."
+      "Two interns nope into the library about ten minutes before noon."
     ],
     "answer": 2,
     "explanation": "'nope' = casual no.",
@@ -846,9 +846,9 @@
     "definition": "yes",
     "sentences": [
       "Are you ready? — Yep, let's go.",
-      "I yep my homework yesterday.",
-      "He yep the door very loudly.",
-      "She bought a yep at the store."
+      "He yep the heavy box onto the top shelf of the dusty garage.",
+      "He yep the rubbish bag out to the curb just before sunset today.",
+      "She yep a sweater over her shoulders because the cafe was cold."
     ],
     "answer": 0,
     "explanation": "'yep' = casual yes.",
@@ -860,10 +860,10 @@
     "word": "nah",
     "definition": "no (casual)",
     "sentences": [
-      "I nah my homework yesterday.",
+      "There was a tiny nah on the top of the cake from the bakery.",
       "Want some pizza? — Nah, I just ate.",
-      "He nah three coffees this morning.",
-      "She bought a nah at the mall."
+      "She nah a sandwich quickly while waiting for the train to arrive.",
+      "She nah a beautiful drawing on the napkin during a long boring lunch."
     ],
     "answer": 1,
     "explanation": "'nah' = casual no.",
@@ -875,10 +875,10 @@
     "word": "oh well",
     "definition": "too bad / accept it",
     "sentences": [
-      "She gave me oh well for my birthday last week.",
+      "The new puppy has been completely oh well since the long car trip.",
       "Sold out already? Oh well, next time.",
-      "She bought a oh well at the store.",
-      "I bought some oh well at the corner store yesterday."
+      "He carved a small wooden oh well for his nephew's seventh birthday.",
+      "She oh well the spilled milk with a fistful of paper napkins on the floor."
     ],
     "answer": 1,
     "explanation": "'oh well' = expression of acceptance.",
@@ -891,9 +891,9 @@
     "definition": "in any case (transition)",
     "sentences": [
       "Anyway, what were you saying?",
-      "He anyway three sandwiches at lunch.",
-      "She bought an anyway at the mall.",
-      "I anyway my homework yesterday."
+      "She anyway the wet boots onto a sheet of newspaper near the door.",
+      "He anyway a tiny scratch onto the surface of his grandmother's piano.",
+      "The surgeon murmured a soft 'anyway' before beginning the long operation."
     ],
     "answer": 0,
     "explanation": "'anyway' = transition adverb.",
@@ -906,9 +906,9 @@
     "definition": "of course",
     "sentences": [
       "Need a hand? — You bet, what's up?",
-      "He spilled you bet all over the new carpet.",
-      "She gave me you bet for my birthday last week.",
-      "She bought a you bet at the store."
+      "He you bet the heavy curtain back to let the morning sunlight in.",
+      "The faint you bet in the corner of the room turned out to be paint.",
+      "He you bet a candle on the table for the small dinner party tonight."
     ],
     "answer": 0,
     "explanation": "'you bet' = of course.",
@@ -920,9 +920,9 @@
     "word": "fair enough",
     "definition": "okay, that's reasonable",
     "sentences": [
-      "She lost her fair enough somewhere in the parking lot.",
-      "He left fair enough on the kitchen counter again.",
-      "She bought a fair enough at the mall.",
+      "His older brother turned out to be quite fair enough at the family barbecue.",
+      "She fair enough her keys into her coat pocket before crossing the street.",
+      "The judge ended the long sentencing with a single quiet word: 'fair enough'.",
       "You don't like spicy food? Fair enough."
     ],
     "answer": 3,
@@ -936,9 +936,9 @@
     "definition": "you're welcome (polite)",
     "sentences": [
       "Thanks for helping! — My pleasure.",
-      "Mom asked me to pick up my pleasure from the pharmacy.",
-      "She lost her my pleasure somewhere in the parking lot.",
-      "She bought a my pleasure at the store."
+      "He my pleasure the dog onto the back seat of the rental car this morning.",
+      "When the lawyer asked the witness about the keys, she replied 'my pleasure'.",
+      "He my pleasure a thin slice of lemon into his glass of iced water."
     ],
     "answer": 0,
     "explanation": "'my pleasure' = polite 'you're welcome.'",
@@ -950,10 +950,10 @@
     "word": "good for you",
     "definition": "congratulations",
     "sentences": [
-      "She bought a good for you at the mall.",
+      "He good for you his suitcase tightly during the very bumpy old taxi ride.",
       "You got the job? Good for you!",
-      "She gave me good for you for my birthday last week.",
-      "Mom asked me to pick up good for you from the pharmacy."
+      "He balanced a small good for you on his fingertip during the long magic show.",
+      "The barista good for you three lattes onto the small wooden tray for me."
     ],
     "answer": 1,
     "explanation": "'good for you' = congrats.",
@@ -966,9 +966,9 @@
     "definition": "expression of disgust/frustration",
     "sentences": [
       "Ugh, I forgot my umbrella again.",
-      "He ugh the door very loudly.",
-      "I ugh my homework yesterday.",
-      "She bought an ugh at the store."
+      "She ugh a small lamp into the corner of her crowded apartment.",
+      "She felt very ugh during her speech at the small charity event.",
+      "He drove ugh through the rainstorm to catch the last flight tonight."
     ],
     "answer": 0,
     "explanation": "'ugh' = interjection.",
@@ -981,9 +981,9 @@
     "definition": "let me think",
     "sentences": [
       "Let's see, I think the meeting was Tuesday.",
-      "She gave me let's see for my birthday last week.",
-      "She lost her let's see somewhere in the parking lot.",
-      "She bought a let's see at the mall."
+      "The gardener let's see the rose bushes early on a misty Sunday morning.",
+      "The neighbour let's see the fence on a sunny afternoon last September.",
+      "She let's see a small lamp into the corner of her crowded apartment."
     ],
     "answer": 0,
     "explanation": "'let's see' = let me think (filler).",
@@ -996,9 +996,9 @@
     "definition": "thinking sound",
     "sentences": [
       "Hmm, that's a tough question.",
-      "She bought a hmm at the store.",
-      "I hmm my homework yesterday.",
-      "He hmm the door very loudly."
+      "He hmm the remote control under a pile of cushions on the sofa.",
+      "Her grandmother knitted a soft hmm for the new baby last winter.",
+      "She found a single hmm tucked between two pages of her diary."
     ],
     "answer": 0,
     "explanation": "'hmm' = thinking interjection.",
@@ -1011,9 +1011,9 @@
     "definition": "incidentally (topic switch)",
     "sentences": [
       "By the way, your jacket is in the closet.",
-      "The by the way on the shelf belongs to my roommate.",
-      "Can you pass me the by the way, please?",
-      "She bought a by the way at the mall."
+      "The librarian by the way the books back onto the shelves before closing.",
+      "She by the way the pillow against the headboard before settling down to read.",
+      "The teenager by the way his phone into a back pocket before climbing aboard."
     ],
     "answer": 0,
     "explanation": "'by the way' = incidentally.",
@@ -1026,9 +1026,9 @@
     "definition": "ready",
     "sentences": [
       "Are we all set for the trip?",
-      "She bought an all set at the store.",
-      "He left all set on the kitchen counter again.",
-      "I bought some all set at the corner store yesterday."
+      "He drove all set through the foggy mountain pass before sunrise today.",
+      "He bought a all set at the small bookstore near the train station.",
+      "When the captain asked the cadet for the daily report, he said 'all set'."
     ],
     "answer": 0,
     "explanation": "'all set' = ready.",
@@ -1040,9 +1040,9 @@
     "word": "see ya",
     "definition": "goodbye (casual)",
     "sentences": [
-      "I bought some see ya at the corner store yesterday.",
-      "She bought a see ya at the mall.",
-      "He spilled see ya all over the new carpet.",
+      "She see ya a small fortune for that vintage jacket at the flea market.",
+      "The mechanic see ya the engine before the long road trip on Saturday.",
+      "He see ya the rubbish bag out to the curb just before sunset today.",
       "Alright, see ya tomorrow!"
     ],
     "answer": 3,
@@ -1055,9 +1055,9 @@
     "word": "spill the beans",
     "definition": "reveal a secret",
     "sentences": [
-      "She spilled the beans all over the kitchen floor.",
-      "He spilled the beans into a bowl for dinner.",
-      "I spilled the beans across the road during the trip.",
+      "I dropped the bag and had to spill the beans all over the kitchen floor.",
+      "She spilled the beans onto her plate before sitting down to eat dinner.",
+      "Could you spill the beans into the pot while the water is boiling?",
       "Don't spill the beans about the surprise party!"
     ],
     "answer": 3,
@@ -1070,10 +1070,10 @@
     "word": "give a heads up",
     "definition": "warn or notify in advance",
     "sentences": [
-      "She gave a heads up onto the table during lunch.",
-      "I gave a heads up around the building yesterday.",
+      "He gave me a heads up of two centimeters when I measured my height.",
+      "She gave the package a heads up before placing it on the high shelf.",
       "Thanks for giving me a heads up about the deadline change.",
-      "He gave a heads up of three inches taller this year."
+      "Please give the box a heads up so the label faces the camera now."
     ],
     "answer": 2,
     "explanation": "'give a heads up' = notify in advance. Not a physical or measurement term.",
@@ -1086,9 +1086,9 @@
     "definition": "very easy task",
     "sentences": [
       "That exam was a piece of cake — I finished early.",
-      "She baked a piece of cake of the difficult report.",
-      "I cut a piece of cake into the project schedule.",
-      "He ate a piece of cake on the math problem quickly."
+      "She brought a piece of cake from the bakery for everyone in the office.",
+      "Could you slice me another piece of cake from the tray on the counter?",
+      "He ate a piece of cake while watching the presentation on his laptop."
     ],
     "answer": 0,
     "explanation": "'piece of cake' = easy (idiom). Not literal cake when describing tasks.",
@@ -1100,10 +1100,10 @@
     "word": "ring a bell",
     "definition": "sound familiar",
     "sentences": [
-      "I rang a bell into the wall while moving furniture.",
-      "She rang a bell of pasta for dinner tonight.",
+      "She rang a bell at the front desk to call the receptionist over.",
+      "Please ring a bell when you arrive so I know that you are here.",
       "That name rings a bell, but I can't remember where from.",
-      "He rang a bell across his shirt this morning."
+      "He rang a bell on his bicycle as he passed the children near the gate."
     ],
     "answer": 2,
     "explanation": "'ring a bell' = sound familiar (idiom). Not literal bell-ringing here.",
@@ -1116,9 +1116,9 @@
     "definition": "be very expensive",
     "sentences": [
       "That new phone costs an arm and a leg these days.",
-      "I'll grab a cost an arm and a leg on my way home tonight.",
-      "We don't have any cost an arm and a leg in the fridge right now.",
-      "The doctor cost an arm and a leg during the surgery."
+      "After the accident, the surgery cost an arm and a leg of the patient.",
+      "He lost an arm and a leg in the war, so the medal cost very much.",
+      "The mannequin cost an arm and a leg when the storm knocked it over."
     ],
     "answer": 0,
     "explanation": "'cost an arm and a leg' = very expensive (idiom). Not literal body parts.",
@@ -1130,10 +1130,10 @@
     "word": "on the same page",
     "definition": "in agreement / sharing understanding",
     "sentences": [
-      "He sat on the same page during the long flight.",
-      "The cat slept on the same page next to the fireplace.",
+      "Please put your notes on the same page so they are easier to find.",
+      "She wrote both names on the same page of her brand new notebook.",
       "Let's make sure we're on the same page before the meeting.",
-      "She wrote her name on the same page as the book."
+      "He printed all the photos on the same page to save on the paper."
     ],
     "answer": 2,
     "explanation": "'on the same page' = in agreement (idiom). Not a literal page.",
@@ -1146,9 +1146,9 @@
     "definition": "stop working for the day",
     "sentences": [
       "We've done enough — let's call it a day and go home.",
-      "He called it a day in three different languages.",
-      "She called it a day onto the calendar yesterday.",
-      "I called it a day across the parking lot."
+      "She called it a day at the supermarket because they were out of bread.",
+      "Could you please call it a day before you start cooking dinner tonight?",
+      "He called it a day to the hotel to ask if any rooms were available."
     ],
     "answer": 0,
     "explanation": "'call it a day' = stop working (idiom). Not naming or labeling.",
@@ -1160,10 +1160,10 @@
     "word": "under the weather",
     "definition": "feeling slightly ill",
     "sentences": [
-      "The umbrella sat under the weather near the doorway.",
+      "There were some clouds under the weather forecast for tomorrow morning.",
       "I'm feeling a bit under the weather, so I'll skip the gym.",
-      "She stood under the weather waiting for the bus.",
-      "He parked under the weather behind the office building."
+      "She left her umbrella under the weather report at the front desk.",
+      "He hid the package under the weather station out in the back garden."
     ],
     "answer": 1,
     "explanation": "'under the weather' = mildly sick (idiom). Not a physical location.",
@@ -1175,9 +1175,9 @@
     "word": "bite the bullet",
     "definition": "endure something difficult",
     "sentences": [
-      "I bit the bullet of cheese before the party started.",
-      "He bit the bullet onto the floor in the kitchen.",
-      "She bit the bullet during her sandwich at lunchtime.",
+      "She bit the bullet between her teeth and waited for the dentist to finish.",
+      "Please bite the bullet carefully because it might still be a little hot.",
+      "The chef bit the bullet to test whether the meat was cooked through.",
       "I just bit the bullet and told my boss about the mistake."
     ],
     "answer": 3,
@@ -1190,10 +1190,10 @@
     "word": "once in a blue moon",
     "definition": "very rarely",
     "sentences": [
-      "The store opens once in a blue moon across the street.",
+      "There was a beautiful blue moon once in a blue moon last weekend.",
       "I only see my old college friends once in a blue moon.",
-      "She climbed once in a blue moon onto the rooftop.",
-      "He runs once in a blue moon of distance every morning."
+      "She painted her bedroom once in a blue moon last summer with her sister.",
+      "He visited the observatory once in a blue moon to see the Saturn rings."
     ],
     "answer": 1,
     "explanation": "'once in a blue moon' = very rarely (idiom). Not literal moon timing.",
@@ -1205,10 +1205,10 @@
     "word": "cut to the chase",
     "definition": "get to the point",
     "sentences": [
-      "He left cut to the chase on the kitchen counter again.",
-      "I'll grab a cut to the chase on my way home tonight.",
+      "She cut to the chase and ran after the dog through the entire park.",
+      "Please cut to the chase between the trees in the photograph carefully.",
       "Let's cut to the chase — what's the actual budget?",
-      "Mom asked me to pick up cut to the chase from the pharmacy."
+      "He cut to the chase scene from the old movie and saved it to his laptop."
     ],
     "answer": 2,
     "explanation": "'cut to the chase' = get to the point (idiom). Not literal cutting.",
@@ -1220,10 +1220,10 @@
     "word": "get the hang of",
     "definition": "learn how to do something",
     "sentences": [
-      "I got the hang of around the picture frame.",
-      "He got the hang of onto the wall in his bedroom.",
+      "She got the hang of her coat before she left the office for the evening.",
+      "Please get the hang of these pictures on the wall before the guests arrive.",
       "I'm finally getting the hang of this new software.",
-      "She got the hang of from the closet door yesterday."
+      "He got the hang of his bag on the hook beside the front door of the cafe."
     ],
     "answer": 2,
     "explanation": "'get the hang of' = learn (idiom). Not about hanging objects.",
@@ -1235,9 +1235,9 @@
     "word": "play it by ear",
     "definition": "improvise / decide as you go",
     "sentences": [
-      "He played it by ear next to his head during the call.",
-      "She played it by ear with her violin during the concert.",
-      "I played it by ear of music for two hours straight.",
+      "She played it by ear on her violin during the entire wedding ceremony.",
+      "Please play it by ear softly so we don't wake up the baby in the next room.",
+      "He played the song by ear on the piano without looking at any sheet music.",
       "We don't have firm plans — we'll just play it by ear."
     ],
     "answer": 3,
@@ -1250,10 +1250,10 @@
     "word": "throw in the towel",
     "definition": "give up",
     "sentences": [
-      "He threw in the towel across the bathroom floor.",
+      "She threw the towel in the laundry basket after she finished her shower.",
       "After three failed attempts, he threw in the towel.",
-      "She threw in the towel onto the laundry basket.",
-      "I threw in the towel into the washing machine yesterday."
+      "Please throw in the towel into the dryer with the other wet clothes there.",
+      "He threw the towel in over the railing so it would dry in the morning sun."
     ],
     "answer": 1,
     "explanation": "'throw in the towel' = give up (idiom). Not literal towel-throwing.",
@@ -1266,9 +1266,9 @@
     "definition": "skip / not take seriously",
     "sentences": [
       "He totally blew off our plans without even calling.",
-      "He blew off the dust from the old bookshelf yesterday.",
-      "I blew off the leaves into the front yard area.",
-      "She blew off the candles on her birthday cake quickly."
+      "Please blow off the dust from the keyboard before you start typing today.",
+      "She blew off the candles on the birthday cake just before everyone sang.",
+      "He blew off the steam from the coffee mug before taking his first sip."
     ],
     "answer": 0,
     "explanation": "'blow off' (idiom) = skip/ignore. Not the literal blowing meaning.",
@@ -1281,9 +1281,9 @@
     "definition": "relax / calm down",
     "sentences": [
       "Just chill out — we still have plenty of time to finish.",
-      "I chilled out the soup before serving it to guests.",
-      "He chilled out the meat overnight in the refrigerator.",
-      "She chilled out her drinks in the freezer for hours."
+      "She chilled out the wine in the refrigerator for an hour before dinner.",
+      "Please chill out the soup before serving so it isn't too hot for the kids.",
+      "He chilled out the leftover chicken on the second shelf of the freezer."
     ],
     "answer": 0,
     "explanation": "'chill out' = relax (idiom). Not literal cooling of food.",
@@ -1295,9 +1295,9 @@
     "word": "come up with",
     "definition": "think of / produce (an idea)",
     "sentences": [
-      "I came up with my friend onto the rooftop yesterday.",
-      "She came up with the stairs after climbing for hours.",
-      "He came up with the elevator from the basement floor.",
+      "She came up with the elevator just as the doors were closing this morning.",
+      "Please come up with the package to the third floor when you arrive.",
+      "He came up with the steps because the elevator was out of service today.",
       "She came up with a brilliant solution during the meeting."
     ],
     "answer": 3,
@@ -1310,10 +1310,10 @@
     "word": "count on",
     "definition": "rely on / depend on",
     "sentences": [
-      "She counted on her fingers up to twenty during class.",
-      "I counted on the coins into the piggy bank slowly.",
+      "She counted on the receipts one by one before submitting her expense report.",
+      "Please count on these coins and let me know if there is enough for parking.",
       "You can count on me to finish the report by Friday.",
-      "He counted on the sheep onto the field for hours."
+      "He counted on the boxes in the warehouse to verify the inventory totals."
     ],
     "answer": 2,
     "explanation": "'count on' = rely on (idiom). Not literal counting of objects.",
@@ -1325,10 +1325,10 @@
     "word": "drop by",
     "definition": "visit briefly without notice",
     "sentences": [
-      "He dropped by his keys into the bathroom sink.",
-      "She dropped by her phone onto the kitchen floor.",
+      "She dropped by the glass and it shattered all over the kitchen floor.",
+      "Please drop by these papers when you finish reading them this afternoon.",
       "Feel free to drop by my office anytime this week.",
-      "I dropped by my book during the long bus ride."
+      "He dropped by his keys on the counter before sitting down to eat dinner."
     ],
     "answer": 2,
     "explanation": "'drop by' = visit briefly (idiom). Not literal dropping of items.",
@@ -1340,9 +1340,9 @@
     "word": "fill in",
     "definition": "substitute / provide missing info",
     "sentences": [
-      "I filled in the swimming pool with cold water yesterday.",
-      "He filled in the gas tank during the road trip.",
-      "She filled in the bucket of water from the well.",
+      "She filled in the bottle with cold water before going out for her run.",
+      "Please fill in the bathtub before the children get home from school today.",
+      "He filled in the kettle and put it on the stove to boil for some tea.",
       "Can you fill in for me at the meeting tomorrow?"
     ],
     "answer": 3,
@@ -1355,10 +1355,10 @@
     "word": "figure out",
     "definition": "solve / understand",
     "sentences": [
-      "He figured out his height as six feet exactly.",
+      "She figured out a small sculpture for the table in the living room.",
       "I finally figured out why the printer wasn't working.",
-      "She figured out a beautiful sculpture in the park.",
-      "I figured out the painting on the gallery wall."
+      "Please figure out the new vase carefully because it is very fragile.",
+      "He figured out three dancers in the pose he had seen at the museum."
     ],
     "answer": 1,
     "explanation": "'figure out' = solve (idiom). Not about figures or shapes.",
@@ -1371,9 +1371,9 @@
     "definition": "discover / learn",
     "sentences": [
       "I just found out that the meeting was canceled.",
-      "She found out her keys under the kitchen counter.",
-      "He found out his glasses on the coffee table.",
-      "I found out my wallet in the back of the drawer."
+      "She found out her car keys under the couch after looking for an hour.",
+      "Please find out the package on the porch when you get home this evening.",
+      "He found out his missing glasses behind the books on the top shelf."
     ],
     "answer": 0,
     "explanation": "'find out' = learn information (idiom). Not finding lost objects.",
@@ -1385,10 +1385,10 @@
     "word": "get along",
     "definition": "have a good relationship",
     "sentences": [
-      "She got along the highway during the long road trip.",
-      "I got along the path through the dense forest.",
+      "She got along the trail in the park for almost two hours yesterday morning.",
+      "Please get along the corridor and turn left at the second door on the right.",
       "I really get along with my new coworkers so far.",
-      "He got along the hallway toward his next class."
+      "He got along the busy highway in heavy traffic for nearly forty minutes."
     ],
     "answer": 2,
     "explanation": "'get along' = have good relationship (idiom). Not movement along a path.",
@@ -1400,9 +1400,9 @@
     "word": "get over",
     "definition": "recover from",
     "sentences": [
-      "He got over the puddle on his way to work.",
-      "I got over the small bridge during my morning jog.",
-      "She got over the fence in the backyard quickly.",
+      "She got over the fence into the back yard to retrieve the lost ball.",
+      "Please get over the wall carefully because the bricks are loose in places.",
+      "He got over the river by jumping across the stones one at a time.",
       "It took her months to get over the breakup."
     ],
     "answer": 3,
@@ -1415,9 +1415,9 @@
     "word": "give up",
     "definition": "stop trying",
     "sentences": [
-      "She gave up her coat to the receptionist at the door.",
-      "He gave up his seat to the elderly man on the bus.",
-      "I gave up my umbrella to my friend in the rain.",
+      "She gave up the heavy bag to her colleague who was leaving the office.",
+      "Please give up the report to the manager once you have reviewed every page.",
+      "He gave up his seat to the elderly woman on the bus this morning.",
       "Don't give up — you're really close to figuring it out."
     ],
     "answer": 3,
@@ -1431,9 +1431,9 @@
     "definition": "experience / examine carefully",
     "sentences": [
       "She's going through a tough time at work right now.",
-      "He went through the front door of the museum.",
-      "I went through the gate to enter the stadium quickly.",
-      "She went through the tunnel while driving home."
+      "She went through the front door and walked into the kitchen for water.",
+      "Please go through the corridor and turn left at the second door on the right.",
+      "He went through the park on his bicycle on the way home from the office."
     ],
     "answer": 0,
     "explanation": "'go through' (idiom) = experience or examine. Not physical passage.",
@@ -1445,9 +1445,9 @@
     "word": "hold off",
     "definition": "delay / postpone",
     "sentences": [
-      "She held off her dog from the busy street.",
-      "I held off the box from falling off the shelf.",
-      "He held off the door for the people behind him.",
+      "Please hold off these books for me while I look for my keys in my bag.",
+      "She held off the door for the elderly woman entering the building this morning.",
+      "He held off the heavy box on his shoulder while he climbed up the stairs.",
       "Let's hold off on that decision until next week."
     ],
     "answer": 3,
@@ -1460,10 +1460,10 @@
     "word": "keep up",
     "definition": "maintain pace / stay current",
     "sentences": [
-      "She kept up her hat during the windy afternoon walk.",
+      "Please keep up these books on the shelf above the desk in the study.",
       "It's hard to keep up with all the new technology.",
-      "I kept up my hood while running through the park.",
-      "He kept up his umbrella over his head in the rain."
+      "She kept up the umbrella over her head during the entire short rainstorm.",
+      "He kept up the heavy box on his shoulder while he climbed up the stairs."
     ],
     "answer": 1,
     "explanation": "'keep up' = maintain pace (idiom). Not physically holding things up.",
@@ -1475,10 +1475,10 @@
     "word": "let down",
     "definition": "disappoint",
     "sentences": [
-      "I'll grab a let down on my way home tonight.",
-      "He spilled let down all over the new carpet.",
+      "Please let down the box gently because the contents are very fragile inside.",
+      "She let down the curtain after the actors had finished the final scene.",
       "Don't worry — I won't let you down on this project.",
-      "We don't have any let down in the fridge right now."
+      "He let down the rope from the window so his friend could climb up."
     ],
     "answer": 2,
     "explanation": "'let down' = disappoint (idiom). Not lowering objects.",
@@ -1490,10 +1490,10 @@
     "word": "look forward to",
     "definition": "anticipate eagerly",
     "sentences": [
-      "He looked forward to the front of the long line.",
-      "I looked forward to the screen during the movie.",
+      "She looked forward to the road and saw a deer crossing in the distance.",
+      "Please look forward to the screen during the entire video presentation today.",
       "I'm really looking forward to our trip next month.",
-      "She looked forward to the road during her morning drive."
+      "He looked forward to the front of the train as it entered the long tunnel."
     ],
     "answer": 2,
     "explanation": "'look forward to' = anticipate (idiom). Not literal looking direction.",
@@ -1506,9 +1506,9 @@
     "definition": "make a mistake",
     "sentences": [
       "Sorry, I totally messed up the order at the cafe.",
-      "I messed up the living room before the guests arrived.",
-      "He messed up the kitchen during dinner preparation.",
-      "She messed up her bedroom with toys and laundry."
+      "She messed up her bedroom by leaving toys all over the floor this morning.",
+      "Please don't mess up the kitchen after I just finished cleaning every counter.",
+      "He messed up the bedsheets while he was still asleep early this morning."
     ],
     "answer": 0,
     "explanation": "'mess up' = make mistake (idiom). Not creating physical mess.",
@@ -1520,10 +1520,10 @@
     "word": "put off",
     "definition": "postpone",
     "sentences": [
-      "I bought some put off at the corner store yesterday.",
-      "Can you pass me the put off, please?",
+      "She put off her coat as soon as she walked into the warm restaurant.",
+      "Please put off your shoes before walking on the carpet in the front room.",
       "Let's not put off this conversation any longer.",
-      "I'll grab a put off on my way home tonight."
+      "He put off his hat at the door as he entered the church on Sunday morning."
     ],
     "answer": 2,
     "explanation": "'put off' = postpone (idiom). Not removing clothing.",
@@ -1536,9 +1536,9 @@
     "definition": "encounter unexpectedly",
     "sentences": [
       "I ran into an old friend at the grocery store today.",
-      "He ran into the door after slipping on the floor.",
-      "I ran into the pole while looking at my phone earlier.",
-      "She ran into the wall accidentally while playing tag."
+      "She ran into the living room to answer the phone before it stopped ringing.",
+      "Please run into the kitchen and bring back two glasses of water for our guests.",
+      "He ran into the office to grab his laptop before the meeting started."
     ],
     "answer": 0,
     "explanation": "'run into' = meet unexpectedly (idiom). Not literal collision.",
@@ -1550,10 +1550,10 @@
     "word": "set up",
     "definition": "arrange / organize",
     "sentences": [
-      "I'll grab a set up on my way home tonight.",
+      "She set up her glass on the edge of the table awkwardly during the dinner.",
       "Can you set up a meeting with the design team?",
-      "She gave me set up for my birthday last week.",
-      "I bought some set up at the corner store yesterday."
+      "Please set up these books carelessly on the shelf above the desk this evening.",
+      "He set up his coat on the back of the chair behind him at the cafe."
     ],
     "answer": 1,
     "explanation": "'set up' = arrange/organize (idiom). Not awkward placement of objects.",
@@ -1565,10 +1565,10 @@
     "word": "show off",
     "definition": "display proudly",
     "sentences": [
-      "She showed off the lights in the dark hallway.",
-      "He showed off the music during the long car trip.",
+      "Please show off the lights before you leave the office tonight, will you?",
+      "She showed off the air conditioner because the room was getting too cold.",
       "He's always showing off his new gadgets at parties.",
-      "I showed off the food on the dinner table tonight."
+      "He showed off the printer because nobody had used it for the entire day."
     ],
     "answer": 2,
     "explanation": "'show off' = display proudly (idiom). Not turning things on.",
@@ -1580,10 +1580,10 @@
     "word": "stand out",
     "definition": "be noticeable",
     "sentences": [
-      "I stood out the building during the fire drill.",
-      "She stood out the window during the heavy rainstorm.",
+      "She stood out the front door for fifteen minutes waiting for the courier.",
+      "Please stand out the building until the safety inspectors give the all-clear.",
       "Her bright red dress really stood out at the party.",
-      "He stood out the door waiting for his ride home."
+      "He stood out the meeting room because there were no seats left at the table."
     ],
     "answer": 2,
     "explanation": "'stand out' = be noticeable (idiom). Not standing outside.",
@@ -1596,9 +1596,9 @@
     "definition": "visit briefly",
     "sentences": [
       "I'll stop by your place after work to grab the book.",
-      "He stopped by his bike near the bus stop today.",
-      "She stopped by her car at the red light intersection.",
-      "I stopped by my scooter on the busy main road."
+      "Please stop by the car at the red traffic light at the next intersection.",
+      "She stopped by her bicycle suddenly when she saw the cat crossing the road.",
+      "He stopped by the bus right outside the entrance to the train station today."
     ],
     "answer": 0,
     "explanation": "'stop by' = visit briefly (idiom). Not stopping vehicles.",
@@ -1610,10 +1610,10 @@
     "word": "take off",
     "definition": "leave / depart",
     "sentences": [
-      "She took off her makeup before going to sleep tonight.",
-      "I took off my watch before showering this morning.",
+      "Please take off your coat from the hook by the front door before you sit down.",
+      "She took off the lid from the jar of pickles to make sandwiches for lunch.",
       "I need to take off — my train leaves in 20 minutes.",
-      "He took off his glasses during the eye examination."
+      "He took off the cover from the photocopier before refilling the paper tray."
     ],
     "answer": 2,
     "explanation": "'take off' = leave (idiom). Not removing accessories here.",
@@ -1625,9 +1625,9 @@
     "word": "turn down",
     "definition": "reject / decline",
     "sentences": [
-      "He turned down the heat in the kitchen oven.",
-      "She turned down the volume on her stereo system.",
-      "I turned down the brightness on my laptop screen.",
+      "Please turn down the volume on the television because the baby is now sleeping.",
+      "She turned down the lights in the living room before starting the movie tonight.",
+      "He turned down the heat on the stove so the soup wouldn't boil over the side.",
       "She turned down the job offer because of the location."
     ],
     "answer": 3,
@@ -1640,10 +1640,10 @@
     "word": "wrap up",
     "definition": "finish / conclude",
     "sentences": [
-      "I wrapped up the package in bubble wrap before mailing.",
+      "She wrapped up the gift carefully in shiny paper for her friend's birthday.",
       "Let's wrap up the meeting — we're running late.",
-      "She wrapped up the gift in colorful paper for the party.",
-      "He wrapped up the sandwich in foil for his lunch box."
+      "Please wrap up these leftovers and put them in the fridge for tomorrow's lunch.",
+      "He wrapped up the package neatly with brown string before mailing it overseas."
     ],
     "answer": 1,
     "explanation": "'wrap up' = finish (idiom). Not literal wrapping of items.",
@@ -1656,9 +1656,9 @@
     "definition": "busy / unavailable",
     "sentences": [
       "Sorry, I'm tied up with meetings all afternoon today.",
-      "He spilled tied up all over the new carpet.",
-      "He left tied up on the kitchen counter again.",
-      "I bought some tied up at the corner store yesterday."
+      "She tied up her hair before starting the workout class at the gym yesterday.",
+      "Please tie up your shoelaces before running in the park this afternoon.",
+      "He tied up the boat to the dock before walking up to the seaside restaurant."
     ],
     "answer": 0,
     "explanation": "'tied up' = busy (idiom). Not literal tying.",
@@ -1670,10 +1670,10 @@
     "word": "fed up",
     "definition": "frustrated / annoyed",
     "sentences": [
-      "I bought some fed up at the corner store yesterday.",
+      "She fed up the dog with extra food this morning before going to work.",
       "I'm so fed up with this slow internet connection.",
-      "Mom asked me to pick up fed up from the pharmacy.",
-      "I'll grab a fed up on my way home tonight."
+      "Please fed up the cat before you leave for the airport tomorrow morning.",
+      "He fed up the goldfish twice today by mistake and the tank looks dirty."
     ],
     "answer": 1,
     "explanation": "'fed up' = frustrated (idiom). Not feeding animals.",
@@ -1685,10 +1685,10 @@
     "word": "worn out",
     "definition": "exhausted",
     "sentences": [
-      "She lost her worn out somewhere in the parking lot.",
+      "She worn out her favorite sneakers after running on the trails for two years.",
       "I'm completely worn out after that long hike yesterday.",
-      "We don't have any worn out in the fridge right now.",
-      "Mom asked me to pick up worn out from the pharmacy."
+      "Please don't worn out the new tablecloth before our dinner guests arrive tonight.",
+      "He worn out the carpet in the hallway from walking the same path every day."
     ],
     "answer": 1,
     "explanation": "'worn out' (about people) = exhausted (idiom). Not damaged from use.",
@@ -1700,10 +1700,10 @@
     "word": "fired up",
     "definition": "excited / motivated",
     "sentences": [
-      "The fired up on the shelf belongs to my roommate.",
+      "She fired up the gas grill in the back yard for the family barbecue today.",
       "The team is really fired up about the upcoming game.",
-      "He spilled fired up all over the new carpet.",
-      "I'll grab a fired up on my way home tonight."
+      "Please fire up the engine of the boat before we leave the dock this morning.",
+      "He fired up the woodstove on the cold morning to warm up the entire cabin."
     ],
     "answer": 1,
     "explanation": "'fired up' (about people) = excited (idiom). Not literal igniting.",
@@ -1715,10 +1715,10 @@
     "word": "caught up",
     "definition": "busy / behind on things",
     "sentences": [
-      "She lost her caught up somewhere in the parking lot.",
+      "She caught up the falling vase just before it hit the kitchen floor today.",
       "I got caught up at work and missed the train home.",
-      "She gave me caught up for my birthday last week.",
-      "Mom asked me to pick up caught up from the pharmacy."
+      "Please catch up the ball when I throw it across the back yard to you now.",
+      "He caught up the runaway dog at the corner of the street this very morning."
     ],
     "answer": 1,
     "explanation": "'caught up' = busy or behind (idiom). Not catching objects.",
@@ -1730,10 +1730,10 @@
     "word": "laid back",
     "definition": "relaxed / easygoing (personality)",
     "sentences": [
-      "I bought some laid back at the corner store yesterday.",
+      "She laid back the heavy box onto the table before opening the package.",
       "He's super laid back — nothing seems to bother him.",
-      "I'll grab a laid back on my way home tonight.",
-      "Mom asked me to pick up laid back from the pharmacy."
+      "Please laid back the books on the shelf in the study before going to bed.",
+      "He laid back the documents on the desk after his colleague finished reading."
     ],
     "answer": 1,
     "explanation": "'laid back' = relaxed personality (idiom). Not placing objects down.",
@@ -1745,10 +1745,10 @@
     "word": "wiped out",
     "definition": "extremely tired",
     "sentences": [
-      "She gave me wiped out for my birthday last week.",
+      "She wiped out the kitchen counters with a clean cloth after dinner last night.",
       "I'm wiped out after that twelve-hour shift yesterday.",
-      "I bought some wiped out at the corner store yesterday.",
-      "Mom asked me to pick up wiped out from the pharmacy."
+      "Please wipe out the bathroom mirror because the steam from the shower fogged it.",
+      "He wiped out the inside of the refrigerator before putting the new groceries in."
     ],
     "answer": 1,
     "explanation": "'wiped out' (people) = exhausted (idiom). Not cleaning surfaces.",
@@ -1760,10 +1760,10 @@
     "word": "stressed out",
     "definition": "very anxious / overwhelmed",
     "sentences": [
-      "The stressed out on the shelf belongs to my roommate.",
-      "He spilled stressed out all over the new carpet.",
+      "She stressed out the rope to make sure that the tent stayed up overnight.",
+      "Please stress out the canvas before painting the next layer onto its surface.",
       "She's super stressed out about the upcoming exam.",
-      "I bought some stressed out at the corner store yesterday."
+      "He stressed out the wire across the garden to support the climbing beans there."
     ],
     "answer": 2,
     "explanation": "'stressed out' = anxious (idiom). Not stretching things tight.",
@@ -1776,9 +1776,9 @@
     "definition": "mentally exhausted from overwork",
     "sentences": [
       "After three years there, I'm completely burned out.",
-      "Mom asked me to pick up burned out from the pharmacy.",
-      "The burned out on the shelf belongs to my roommate.",
-      "I'll grab a burned out on my way home tonight."
+      "She burned out the toast this morning because she got distracted by her phone.",
+      "Please don't burned out the candle on the dining room table before our guests arrive.",
+      "He burned out the firewood in the fireplace much faster than he expected to today."
     ],
     "answer": 0,
     "explanation": "'burned out' (people) = mentally exhausted (idiom). Not literal burning.",
@@ -1790,10 +1790,10 @@
     "word": "beat",
     "definition": "very tired (slang)",
     "sentences": [
-      "She beat the eggs for the cake with a whisk.",
-      "I beat the dust out of the rug in the backyard.",
+      "She beat the eggs in the bowl for several minutes before adding them to the cake.",
+      "Please beat the rug outside on the porch to remove the dust before the guests arrive.",
       "I'm absolutely beat after running that marathon today.",
-      "He beat the drum during the school band practice."
+      "He beat the drum at the parade for nearly two hours yesterday afternoon."
     ],
     "answer": 2,
     "explanation": "'beat' (about people) = tired (slang). Not striking objects.",
@@ -1806,9 +1806,9 @@
     "definition": "study hard",
     "sentences": [
       "I need to hit the books — finals start next week.",
-      "I'll grab a hit the books on my way home tonight.",
-      "He left hit the books on the kitchen counter again.",
-      "Can you pass me the hit the books, please?"
+      "She hit the books off the shelf accidentally when reaching for her phone today.",
+      "Please don't hit the books with your bag when you walk past the bookcase.",
+      "He hit the books on the table when he sat down too quickly at the cafe."
     ],
     "answer": 0,
     "explanation": "'hit the books' = study (idiom). Not striking books.",
@@ -1820,9 +1820,9 @@
     "word": "break a leg",
     "definition": "good luck (theater)",
     "sentences": [
-      "He broke a leg falling off his bicycle yesterday.",
-      "I broke a leg slipping on the icy sidewalk.",
-      "She broke a leg during the skiing trip last winter.",
+      "She broke a leg of the wooden chair by sitting down on it too hard yesterday.",
+      "Please don't break a leg on the antique table because it is very expensive.",
+      "He broke a leg of the small stool in the kitchen during the family party.",
       "Break a leg out there — you've practiced so hard!"
     ],
     "answer": 3,
@@ -1835,9 +1835,9 @@
     "word": "a piece of work",
     "definition": "difficult/strange person",
     "sentences": [
-      "He completed a piece of work in his ceramics class.",
-      "I sold a piece of work at the local art gallery.",
-      "She finished a piece of work on the assembly line.",
+      "She bought a piece of work from the artist at the small gallery downtown.",
+      "Please pick up a piece of work from the studio when you go past it today.",
+      "He hung a piece of work above his fireplace last weekend after the party.",
       "Her new boss is really a piece of work — so demanding."
     ],
     "answer": 3,
@@ -1851,9 +1851,9 @@
     "definition": "practical / unpretentious",
     "sentences": [
       "She's so down to earth despite all her success.",
-      "He fell down to earth from the second floor balcony.",
-      "I dropped down to earth from the playground monkey bars.",
-      "She came down to earth from the tall climbing wall."
+      "She fell down to earth from the second floor balcony but luckily wasn't injured.",
+      "Please come down to earth from the rooftop because the storm is approaching now.",
+      "He climbed down to earth from the tall ladder after fixing the gutters today."
     ],
     "answer": 0,
     "explanation": "'down to earth' = practical (idiom). Not literal falling.",
@@ -1865,9 +1865,9 @@
     "word": "in the loop",
     "definition": "informed / kept updated",
     "sentences": [
-      "I sat in the loop of the rollercoaster track.",
-      "She walked in the loop around the running track.",
-      "He stood in the loop of rope during the magic show.",
+      "She tied a knot in the loop of the rope before securing it to the post.",
+      "Please put your finger in the loop of the ribbon while I tie the bow now.",
+      "He stuck his pencil in the loop of the spiral notebook to keep it in place.",
       "Please keep me in the loop on the project updates."
     ],
     "answer": 3,
@@ -1880,10 +1880,10 @@
     "word": "on the fence",
     "definition": "undecided",
     "sentences": [
-      "The cat slept on the fence behind the garage.",
-      "She climbed on the fence in the backyard playfully.",
+      "She sat on the fence in the back garden while watching the children play.",
+      "Please don't lean on the fence because the wood is rotten and might break apart.",
       "I'm on the fence about taking that new job offer.",
-      "He sat on the fence near the school playground."
+      "He climbed on the fence to look over into the neighbor's yard yesterday afternoon."
     ],
     "answer": 2,
     "explanation": "'on the fence' = undecided (idiom). Not literal fence-sitting.",
@@ -1895,9 +1895,9 @@
     "word": "out of the blue",
     "definition": "unexpectedly",
     "sentences": [
-      "He flew out of the blue sky during his hot air balloon ride.",
-      "She came out of the blue ocean after diving deep underwater.",
-      "I jumped out of the blue pool after swimming for an hour.",
+      "She painted her bedroom out of the blue paint that was left in the garage.",
+      "Please make sure the curtains are not made out of the blue fabric we discussed.",
+      "He took the napkin out of the blue holder on the table before he sat down.",
       "She called me out of the blue after five years of silence."
     ],
     "answer": 3,
@@ -1910,9 +1910,9 @@
     "word": "hit the spot",
     "definition": "exactly satisfy a need",
     "sentences": [
-      "The hit the spot on the shelf belongs to my roommate.",
-      "Can you pass me the hit the spot, please?",
-      "She gave me hit the spot for my birthday last week.",
+      "She hit the spot on the dartboard with her very first throw at the bar last night.",
+      "Please hit the spot exactly on the wall where I marked it with the red pencil.",
+      "He hit the spot on the target with the arrow at the archery class on Sunday.",
       "That cold drink really hit the spot after my workout."
     ],
     "answer": 3,
@@ -1926,9 +1926,9 @@
     "definition": "expression of surprise/confusion",
     "sentences": [
       "He never showed up to his own party — go figure.",
-      "I went figure drawing in art class yesterday afternoon.",
-      "He went figure shopping in the toy aisle today.",
-      "She went figure skating at the rink last weekend."
+      "She went to figure out the new coffee machine in the office kitchen this morning.",
+      "Please go figure the total on the calculator before we send the invoice today.",
+      "He went figure skating with his nieces at the rink last Saturday afternoon."
     ],
     "answer": 0,
     "explanation": "'go figure' = expression of disbelief (idiom). Not 'go' + 'figure'.",
@@ -1940,10 +1940,10 @@
     "word": "hang in there",
     "definition": "persevere / stay strong",
     "sentences": [
-      "He hung in there onto the rope during the climb.",
+      "She hung in there in the closet behind the long winter coat all the time.",
       "Hang in there — things will definitely get better soon.",
-      "She hung in there from the closet door for hours.",
-      "I hung in there from the tree branch in the park."
+      "Please hang in there on the wall above the fireplace next to the family photo.",
+      "He hung in there from the rope swing in the back yard for almost an hour."
     ],
     "answer": 1,
     "explanation": "'hang in there' = persevere (idiom). Not literal hanging.",
@@ -1956,9 +1956,9 @@
     "definition": "in summary / briefly",
     "sentences": [
       "In a nutshell, the project is over budget and behind.",
-      "He cracked a peanut in a nutshell at the baseball game.",
-      "I found an almond in a nutshell during my walk home.",
-      "She put a nut in a nutshell during her cooking demo."
+      "She put the almonds in a nutshell carefully before serving them to the guests.",
+      "Please don't put the cashews in a nutshell because they will spill out everywhere.",
+      "He cracked open the walnut in a nutshell with his teeth, which the dentist hated."
     ],
     "answer": 0,
     "explanation": "'in a nutshell' = briefly (idiom). Not actual nutshells.",
@@ -1970,10 +1970,10 @@
     "word": "keep an eye on",
     "definition": "watch / monitor",
     "sentences": [
-      "He kept an eye on his head while wearing the new helmet.",
+      "She kept an eye on her glasses next to the bedroom mirror last night carefully.",
       "Can you keep an eye on my bag while I use the restroom?",
-      "She kept an eye on her face during the makeup tutorial.",
-      "I kept an eye on my body during the doctor's appointment."
+      "Please keep an eye on the contact lens before you put it back into the case.",
+      "He kept an eye on the bottle on the top shelf above the bathroom sink yesterday."
     ],
     "answer": 1,
     "explanation": "'keep an eye on' = watch over (idiom). Not literal eye actions.",
@@ -1985,9 +1985,9 @@
     "word": "a long shot",
     "definition": "unlikely chance",
     "sentences": [
-      "He fired a long shot from his rifle at the practice range.",
-      "She took a long shot with her camera at the basketball game.",
-      "I made a long shot from the three-point line in basketball.",
+      "She took a long shot with her camera of the mountains across the valley today.",
+      "Please give me a long shot of the building from across the street for my report.",
+      "He fired a long shot from the rifle range at the target nearly three hundred meters away.",
       "It's a long shot, but I'm applying for the scholarship anyway."
     ],
     "answer": 3,
@@ -2001,9 +2001,9 @@
     "definition": "the main point / conclusion",
     "sentences": [
       "The bottom line is, we need more time to finish this.",
-      "He underlined the bottom line of the report yesterday.",
-      "I erased the bottom line from the whiteboard quickly.",
-      "She drew the bottom line of the document with a pencil."
+      "Please draw the bottom line of the rectangle with the red pencil on the whiteboard.",
+      "She wrote the bottom line in big letters at the very end of the page in her notebook.",
+      "He erased the bottom line of the diagram so he could redraw it more accurately."
     ],
     "answer": 0,
     "explanation": "'the bottom line' = main point (idiom). Not literal bottom lines.",
@@ -2015,10 +2015,10 @@
     "word": "speak of the devil",
     "definition": "said when someone mentioned appears",
     "sentences": [
-      "I spoke of the devil in the church history class lecture.",
-      "She spoke of the devil during her religious sermon today.",
+      "She spoke of the devil in her sermon at the church on Sunday morning carefully.",
+      "Please don't speak of the devil during the bedtime story because it scares the kids.",
       "Speak of the devil — there's Tom now, walking right in.",
-      "He spoke of the devil in the fictional novel he wrote."
+      "He spoke of the devil in his philosophy paper that he submitted last semester at school."
     ],
     "answer": 2,
     "explanation": "'speak of the devil' = said when person appears (idiom).",
@@ -2030,10 +2030,10 @@
     "word": "jump the gun",
     "definition": "act prematurely",
     "sentences": [
-      "He jumped the gun at the start line of the race.",
+      "She jumped the gun on the table because the loud noise had startled her badly.",
       "Don't jump the gun — let's wait for the official announcement.",
-      "She jumped the gun on the obstacle course during practice.",
-      "I jumped the gun over the fence in the backyard."
+      "Please don't jump the gun off the shelf because it might be loaded and dangerous.",
+      "He jumped the gun over the fence because he was afraid that he had been seen."
     ],
     "answer": 1,
     "explanation": "'jump the gun' = act too early (idiom). Not literal jumping.",
@@ -2045,10 +2045,10 @@
     "word": "the last straw",
     "definition": "final problem that ends patience",
     "sentences": [
-      "She used the last straw at the bottom of her drink today.",
+      "She put the last straw into her glass of iced coffee before she drank it down.",
       "Missing the deadline was the last straw — he got fired.",
-      "I bought the last straw from the convenience store earlier.",
-      "He found the last straw in the box at the cafe."
+      "Please pass me the last straw from the box because I want to share this drink.",
+      "He found the last straw at the bottom of the bag of straws in the kitchen drawer."
     ],
     "answer": 1,
     "explanation": "'the last straw' = final breaking point (idiom). Not literal straw.",
@@ -2060,10 +2060,10 @@
     "word": "a heads up",
     "definition": "advance warning",
     "sentences": [
-      "He gave a heads up the ladder during the painting job.",
+      "He gave the package a heads up before placing it on the high shelf this morning.",
       "Just a heads up — the meeting got moved to Thursday.",
-      "I gave a heads up the stairs while carrying the boxes.",
-      "She gave a heads up the wall while doing her exercises."
+      "Please give the box a heads up so the printed label faces the camera now.",
+      "She gave him a heads up of two centimeters when she measured his height last week."
     ],
     "answer": 1,
     "explanation": "'a heads up' = advance warning (idiom). Not directional.",
@@ -2075,10 +2075,10 @@
     "word": "hit it off",
     "definition": "instantly get along well",
     "sentences": [
-      "We don't have any hit it off in the fridge right now.",
-      "I bought some hit it off at the corner store yesterday.",
+      "She hit it off the table when she reached for her phone too quickly this morning.",
+      "Please don't hit it off the shelf because the vase is very fragile and expensive.",
       "We hit it off right away — felt like old friends.",
-      "He spilled hit it off all over the new carpet."
+      "He hit it off the wall by accident when he was carrying the box up the stairs."
     ],
     "answer": 2,
     "explanation": "'hit it off' = get along (idiom). Not literal hitting.",
@@ -2090,10 +2090,10 @@
     "word": "in the long run",
     "definition": "eventually / over time",
     "sentences": [
-      "She trained in the long run before the marathon next month.",
+      "She went in the long run around the lake early this morning before her breakfast.",
       "It's expensive now, but it'll save money in the long run.",
-      "I participated in the long run during the charity event.",
-      "He competed in the long run at the track meet."
+      "Please join us in the long run on Saturday morning at the park for the charity event.",
+      "He participated in the long run last weekend and finished in just under four hours."
     ],
     "answer": 1,
     "explanation": "'in the long run' = over time (idiom). Not a literal long-distance run.",
@@ -2106,9 +2106,9 @@
     "definition": "briefly check in / reconnect",
     "sentences": [
       "Let's touch base next week to review the project status.",
-      "She touched base on the baseball field during practice.",
-      "I touched base sliding into home plate during the game.",
-      "He touched base while running on the diamond yesterday."
+      "She touched base with her hand before throwing the ball back to the catcher.",
+      "Please touch base with your foot when you slide into second on the play today.",
+      "He touched base with the runner just before he reached home plate at the game."
     ],
     "answer": 0,
     "explanation": "'touch base' = check in (idiom). Not literal baseball action.",
@@ -2121,9 +2121,9 @@
     "definition": "share an idea for feedback",
     "sentences": [
       "Can I run something by you before the meeting tomorrow?",
-      "I ran by the park during my weekend training session.",
-      "He ran by the coffee shop without stopping today.",
-      "She ran by the office building on her morning jog."
+      "She ran by the bakery on her way to work every single morning this week.",
+      "Please run by the post office to pick up the package before they close at five.",
+      "He ran by the cafe and waved at his friends sitting near the front window today."
     ],
     "answer": 0,
     "explanation": "'run by' = ask for feedback (idiom). Not jogging past places.",
@@ -2135,9 +2135,9 @@
     "word": "sleep on it",
     "definition": "wait before deciding",
     "sentences": [
-      "She slept on it for warmth during the cold winter night.",
-      "I slept on it in the corner of the camping tent.",
-      "He slept on it on the lumpy mattress at the hotel.",
+      "She slept on it last night with her favorite blanket and a warm cup of tea.",
+      "Please don't sleep on it because the sofa is brand new and might get dirty.",
+      "He slept on it during the long flight from Tokyo to San Francisco yesterday.",
       "It's a big decision — let me sleep on it and call you tomorrow."
     ],
     "answer": 3,
@@ -2150,10 +2150,10 @@
     "word": "circle back",
     "definition": "return to a topic later",
     "sentences": [
-      "She circled back her car around the parking lot twice.",
+      "She circled back around the park three times during her morning run today.",
       "Let's circle back to that point after we finish this section.",
-      "He circled back his bike around the school playground.",
-      "I circled back my route on the running trail today."
+      "Please circle back the answer with a red pen so the teacher can find it easily.",
+      "He circled back to the parking lot because he had forgotten his briefcase in the car."
     ],
     "answer": 1,
     "explanation": "'circle back' (meeting) = revisit topic. Not literal circling.",
@@ -2165,10 +2165,10 @@
     "word": "gloss over",
     "definition": "skip / minimize importance",
     "sentences": [
-      "He glossed over his lips with shiny lip balm.",
+      "She glossed over the wooden table with a thin layer of varnish this afternoon.",
       "He glossed over the budget concerns in his presentation.",
-      "She glossed over the table with furniture polish today.",
-      "I glossed over the wood with a clear protective coat."
+      "Please gloss over the photograph carefully before placing it into the album, okay?",
+      "He glossed over the front of the cabinet to make the surface shine in the light."
     ],
     "answer": 1,
     "explanation": "'gloss over' (topics) = minimize. Not applying gloss to surfaces.",
@@ -2180,9 +2180,9 @@
     "word": "walk back",
     "definition": "retract or soften a statement",
     "sentences": [
-      "She walked back home from the train station last night.",
-      "He walked back to his desk after the lunch break.",
-      "I walked back to the office after my dental appointment.",
+      "She walked back to the cafe after she realized she had forgotten her phone there.",
+      "Please walk back along the same path because it is the safest way to the parking lot.",
+      "He walked back to the apartment from the train station in the heavy rain tonight.",
       "She had to walk back her comments after the backlash."
     ],
     "answer": 3,
@@ -2196,9 +2196,9 @@
     "definition": "explain step by step",
     "sentences": [
       "Can you talk me through how this new system actually works?",
-      "He talked through the wall to his neighbor next door.",
-      "She talked through the door to the delivery person.",
-      "I talked through the phone for two hours last night."
+      "She talked through the wall to her neighbor when she heard him knock loudly.",
+      "Please don't talk through the door because nobody can hear you clearly from outside.",
+      "He talked through the curtain to the actress backstage before her opening performance."
     ],
     "answer": 0,
     "explanation": "'talk through' = explain stepwise. Not talking via barriers.",
@@ -2210,9 +2210,9 @@
     "word": "weigh in",
     "definition": "offer opinion on a discussion",
     "sentences": [
-      "He weighed in before the boxing match at the arena.",
-      "She weighed in at the doctor's office for her checkup.",
-      "I weighed in on the bathroom scale this morning.",
+      "She weighed in the package at the post office before sending it to her sister.",
+      "Please weigh in the boxes of fruit on the kitchen scale before storing them away.",
+      "He weighed in the suitcase at the airport check-in counter early this morning.",
       "I'd love to hear you weigh in on this hiring decision."
     ],
     "answer": 3,
@@ -2225,10 +2225,10 @@
     "word": "mull over",
     "definition": "consider carefully",
     "sentences": [
-      "He mulled over the cider with spices on the stove.",
+      "She mulled over the wine carefully with cinnamon for the holiday dinner party.",
       "I need to mull over the offer before giving my answer.",
-      "I mulled over the apple juice for a hot winter drink.",
-      "She mulled over the wine with cinnamon for the holiday."
+      "Please mull over the cider on the stove for about thirty minutes until very fragrant.",
+      "He mulled over the spices into the warm drink before serving it to the guests."
     ],
     "answer": 1,
     "explanation": "'mull over' (decisions) = consider. Not heating spiced drinks.",
@@ -2241,9 +2241,9 @@
     "definition": "resolve issues / details",
     "sentences": [
       "We still need to iron out a few details before we launch.",
-      "I ironed out the wrinkles from the linen tablecloth.",
-      "He ironed out his pants on the ironing board this morning.",
-      "She ironed out her dress shirt before the interview."
+      "She ironed out the wrinkles in her best blouse before the important interview today.",
+      "Please iron out the linen tablecloth carefully before the family dinner this evening.",
+      "He ironed out the creases in his trousers because the meeting was very formal indeed."
     ],
     "answer": 0,
     "explanation": "'iron out' (problems) = resolve. Not ironing clothes.",
@@ -2255,9 +2255,9 @@
     "word": "brush up on",
     "definition": "review / refresh skill",
     "sentences": [
-      "She brushed up on her teeth before the dentist visit.",
-      "I brushed up on the carpet before the guests arrived.",
-      "He brushed up on his hair before the family photo session.",
+      "She brushed up on her boots after walking through the muddy field this morning.",
+      "Please brush up on the dog after she comes back inside from her walk in the rain.",
+      "He brushed up on his coat before hanging it carefully on the hook by the front door.",
       "I need to brush up on my Spanish before the trip next month."
     ],
     "answer": 3,
@@ -2270,10 +2270,10 @@
     "word": "ease into",
     "definition": "gradually start",
     "sentences": [
-      "She eased into the warm bathtub on the cold evening.",
-      "I eased into the swimming pool during the hot afternoon.",
+      "She eased into the warm bath after a long and exhausting day at the office today.",
+      "Please ease into the swimming pool slowly because the water is much colder than usual.",
       "I'm trying to ease into a new exercise routine this month.",
-      "He eased into the comfortable couch after a long day."
+      "He eased into the leather armchair and started reading his new book by the fireplace."
     ],
     "answer": 2,
     "explanation": "'ease into' (activities) = gradually start. Not physical entry.",
@@ -2285,10 +2285,10 @@
     "word": "fall through",
     "definition": "fail to happen as planned",
     "sentences": [
-      "He fell through the thin ice while skating on the lake.",
-      "I fell through the trapdoor during the haunted house tour.",
+      "She fell through the floorboards on the old porch yesterday afternoon by accident.",
+      "Please be careful not to fall through the gap between the dock and the small boat now.",
       "The deal fell through at the last minute, unfortunately.",
-      "She fell through the broken floorboards in the old attic."
+      "He fell through the thin ice on the lake last winter but luckily was rescued quickly."
     ],
     "answer": 2,
     "explanation": "'fall through' (plans) = fail. Not literal falling.",
@@ -2301,9 +2301,9 @@
     "definition": "complete what was started",
     "sentences": [
       "He talks a big game but rarely follows through on promises.",
-      "He followed through the hallway during the office tour.",
-      "I followed through the park during the guided nature walk.",
-      "She followed through the door behind her colleague today."
+      "She followed through the corridor and turned left at the second door on her right.",
+      "Please follow through the same path that the guide showed us during yesterday's tour.",
+      "He followed through the busy market and met us in front of the small fountain at noon."
     ],
     "answer": 0,
     "explanation": "'follow through' (commitments) = complete. Not following physically.",
@@ -2315,9 +2315,9 @@
     "word": "come around",
     "definition": "change one's mind / agree eventually",
     "sentences": [
-      "He came around the back of the house through the garden.",
-      "She came around the corner of the office building today.",
-      "I came around the side of the parked truck slowly.",
+      "She came around the corner of the building just as the rain was starting to fall.",
+      "Please come around the back of the house because the front gate is locked tonight.",
+      "He came around the bend in the road much faster than the speed limit had allowed.",
       "She wasn't sure at first, but she came around to the idea."
     ],
     "answer": 3,
@@ -2330,9 +2330,9 @@
     "word": "dawn on",
     "definition": "suddenly realize",
     "sentences": [
-      "Light dawned on the lake during the peaceful morning.",
-      "The morning dawned on the campsite during our trip.",
-      "The sun dawned on the mountains during the early hike.",
+      "She watched the sun dawn on the mountains during her camping trip last weekend.",
+      "Please notice how the light dawns on the lake from the upstairs bedroom window.",
+      "He photographed the dawn on the beach early on Saturday morning before breakfast.",
       "It just dawned on me that I forgot to send the invoice."
     ],
     "answer": 3,
@@ -2345,9 +2345,9 @@
     "word": "lean toward",
     "definition": "tend to prefer",
     "sentences": [
-      "He leaned toward the doorway during the long conversation.",
-      "She leaned toward the wall while taking the family photo.",
-      "I leaned toward the bookshelf to reach the top shelf.",
+      "She leaned toward the window to get a better view of the parade on the street.",
+      "Please don't lean toward the railing because it is loose and might give way badly.",
+      "He leaned toward the microphone so the audience at the back could hear him clearly.",
       "I'm leaning toward the second candidate for this role."
     ],
     "answer": 3,
@@ -2360,9 +2360,9 @@
     "word": "mind you",
     "definition": "as a side note / remember",
     "sentences": [
-      "She minded you carefully during the daycare shift today.",
-      "I minded you at the kindergarten this whole afternoon.",
-      "He minded you in the playground while the parents talked.",
+      "Please mind you carefully on the slippery floor in the office kitchen this morning.",
+      "She told the children to mind you when crossing the busy intersection downtown today.",
+      "He always reminds his nieces to mind you when playing in the park on the weekends.",
       "It's a great deal — mind you, the warranty is limited."
     ],
     "answer": 3,
@@ -2376,9 +2376,9 @@
     "definition": "admittedly / I concede",
     "sentences": [
       "Granted, the price is high, but the quality justifies it.",
-      "He granted the loan to the qualified applicant today.",
-      "She granted the wish for her birthday this year.",
-      "I granted permission for the field trip to the museum."
+      "She granted him three wishes in the children's book they were reading together.",
+      "Please granted me access to the file before the meeting starts at nine in the morning.",
+      "He granted the property to his sister in the will that he wrote five years ago."
     ],
     "answer": 0,
     "explanation": "'granted' (concession) = admittedly. Not 'giving' meaning.",
@@ -2390,10 +2390,10 @@
     "word": "that said",
     "definition": "however / on the other hand",
     "sentences": [
-      "We don't have any that said in the fridge right now.",
+      "Please make sure that said document is signed before you submit it tomorrow morning.",
       "It's a great phone. That said, the battery life isn't ideal.",
-      "He left that said on the kitchen counter again.",
-      "Can you pass me the that said, please?"
+      "She forwarded that said email to all the regional sales managers earlier this morning.",
+      "He referenced that said clause in the contract during the negotiation yesterday afternoon."
     ],
     "answer": 1,
     "explanation": "'that said' = however (transition phrase). Not a verb construction.",
@@ -2405,9 +2405,9 @@
     "word": "come to think of it",
     "definition": "now that I consider it",
     "sentences": [
-      "She came to think of it across the wide open meadow today.",
-      "He came to think of it under the bridge while waiting.",
-      "I came to think of it through the long quiet hallway.",
+      "She came to think of it in the meeting room while everyone else was on a coffee break.",
+      "Please come to think of it once you have a quiet moment to sit down at your desk.",
+      "He came to think of it during his long commute home on the train last Friday evening.",
       "Come to think of it, I haven't seen Mark since last summer."
     ],
     "answer": 3,
@@ -2421,9 +2421,9 @@
     "definition": "after reconsidering",
     "sentences": [
       "On second thought, let's just order delivery instead.",
-      "He drew on second thought across the canvas yesterday.",
-      "I painted on second thought onto the bedroom wall.",
-      "She wrote on second thought in her diary every evening."
+      "She wrote on second thought in pencil on the back of the envelope for her notes.",
+      "Please put your name on second thought of the form because the first one is now full.",
+      "He drew on second thought of the paper because the first sketch had gotten smudged badly."
     ],
     "answer": 0,
     "explanation": "'on second thought' = reconsidering. Not writing surfaces.",
@@ -2436,9 +2436,9 @@
     "definition": "taking everything into account",
     "sentences": [
       "All things considered, the trip was a real success.",
-      "He stacked all things considered on the storage shelf.",
-      "I arranged all things considered into the moving truck.",
-      "She put all things considered onto the kitchen table."
+      "She put all things considered into a large box and shipped them to the donation center.",
+      "Please pack all things considered carefully before you move into the new apartment next week.",
+      "He arranged all things considered on the kitchen counter before starting to cook the dinner."
     ],
     "answer": 0,
     "explanation": "'all things considered' = overall. Not physical things.",
@@ -2450,10 +2450,10 @@
     "word": "fair point",
     "definition": "valid argument",
     "sentences": [
-      "She scored a fair point during the basketball game.",
-      "I gained a fair point during the volleyball tournament.",
+      "She bought a fair point at the antique market last weekend for nearly thirty dollars.",
+      "Please draw a fair point on the diagram with the red pencil before submitting it today.",
       "Fair point — I hadn't thought about it from that angle.",
-      "He earned a fair point in the tennis match yesterday."
+      "He scored a fair point during the basketball game when nobody else was paying attention."
     ],
     "answer": 2,
     "explanation": "'fair point' = valid argument. Not a sports point.",
@@ -2465,10 +2465,10 @@
     "word": "point taken",
     "definition": "I accept your point",
     "sentences": [
-      "Can you pass me the point taken, please?",
+      "She has the point taken on the small map she keeps folded in her travel wallet.",
       "Point taken — I'll be more careful with my deadlines.",
-      "I bought some point taken at the corner store yesterday.",
-      "Mom asked me to pick up point taken from the pharmacy."
+      "Please mark the point taken with the red pencil so the surveyor can see it clearly.",
+      "He drew the point taken on the white sheet of paper for his geometry homework today."
     ],
     "answer": 1,
     "explanation": "'point taken' = I accept your argument. Not a verb construction.",
@@ -2481,9 +2481,9 @@
     "definition": "politely disagree",
     "sentences": [
       "I beg to differ — the data actually shows the opposite trend.",
-      "She begged to differ for some money on the street corner.",
-      "He begged to differ for food outside the restaurant.",
-      "I begged to differ for shelter during the heavy rainstorm."
+      "She begged to differ at the door of the small cafe this morning for some change.",
+      "Please don't beg to differ on the street because the neighbors are now starting to complain.",
+      "He begged to differ in front of the train station for nearly an hour every day this week."
     ],
     "answer": 0,
     "explanation": "'beg to differ' = politely disagree (idiom). Not literal begging.",
@@ -2495,9 +2495,9 @@
     "word": "have a point",
     "definition": "make a valid argument",
     "sentences": [
-      "She has a point on top of her sharpened pencil today.",
-      "He has a point on his fishing hook for tomorrow's trip.",
-      "He left have a point on the kitchen counter again.",
+      "She had a point on the top of her pencil that broke off during her geometry class.",
+      "Please have a point sharpened on this pencil before the test starts at nine in the morning.",
+      "He had a point of pain in his back after lifting the heavy box up the stairs yesterday.",
       "You have a point — maybe we should reconsider this approach."
     ],
     "answer": 3,
@@ -2510,9 +2510,9 @@
     "word": "for what it's worth",
     "definition": "this may not help, but",
     "sentences": [
-      "I traded it for what it's worth at the consignment shop.",
-      "He bought it for what it's worth at the antique store.",
-      "She sold it for what it's worth at the garage sale.",
+      "She sold the painting for what it's worth at the small gallery near the museum downtown.",
+      "Please buy the antique vase for what it's worth at the auction this Saturday afternoon.",
+      "He insured the necklace for what it's worth before sending it to his sister in Toronto.",
       "For what it's worth, I think you made the right call."
     ],
     "answer": 3,
@@ -2525,10 +2525,10 @@
     "word": "needless to say",
     "definition": "obviously",
     "sentences": [
-      "He kept it needless to say in the meditation studio today.",
+      "She crocheted needless to say into the sweater for her grandson's first birthday next week.",
       "Needless to say, the project deadline is non-negotiable.",
-      "She found it needless to say at the noisy quiet library.",
-      "I made it needless to say during the silent retreat."
+      "Please don't add needless to say into the soup because the broth is already too salty for me.",
+      "He sewed needless to say onto the shirt cuffs for the school costume tomorrow morning early."
     ],
     "answer": 1,
     "explanation": "'needless to say' = obviously (transition). Not a verb action.",
@@ -2540,10 +2540,10 @@
     "word": "as a matter of fact",
     "definition": "actually / in fact",
     "sentences": [
-      "She solved as a matter of fact during the science experiment.",
+      "She arranged the items as a matter of fact on the kitchen counter for our family dinner.",
       "As a matter of fact, I just spoke with him this morning.",
-      "I researched as a matter of fact for my history assignment.",
-      "He proved as a matter of fact in the geometry problem set."
+      "Please pack the box as a matter of fact before the moving truck arrives this weekend morning.",
+      "He sorted the documents as a matter of fact into three neat piles on his desk yesterday afternoon."
     ],
     "answer": 1,
     "explanation": "'as a matter of fact' = in fact (transition). Not 'a fact'.",
@@ -2555,9 +2555,9 @@
     "word": "when push comes to shove",
     "definition": "in a critical moment",
     "sentences": [
-      "I tripped when push comes to shove during the soccer match.",
-      "She started when push comes to shove during the rugby game.",
-      "He fell when push comes to shove during wrestling practice.",
+      "She pushed the door when push comes to shove because it was stuck in the frame today.",
+      "Please push the cart when push comes to shove because the wheels are not working well.",
+      "He pushed the heavy box when push comes to shove because nobody else was around to help him.",
       "When push comes to shove, you can really count on her."
     ],
     "answer": 3,
@@ -2570,10 +2570,10 @@
     "word": "a far cry from",
     "definition": "very different from",
     "sentences": [
-      "He shouted a far cry from across the canyon during the hike.",
-      "She made a far cry from the back of the auditorium today.",
+      "She heard a far cry from the back yard when the cat got stuck on the high fence.",
+      "Please listen for a far cry from the children's room because the baby just woke up suddenly.",
       "This new place is a far cry from our old apartment.",
-      "I let out a far cry from the top of the mountain peak."
+      "He let out a far cry from the audience when the magician revealed the surprising final trick."
     ],
     "answer": 2,
     "explanation": "'a far cry from' = very different. Not literal crying out.",
@@ -2586,9 +2586,9 @@
     "definition": "ultimately",
     "sentences": [
       "At the end of the day, what matters most is being healthy.",
-      "She felt tired at the end of the day after her shift.",
-      "He came home at the end of the day from the office.",
-      "I relaxed at the end of the day on my comfortable couch."
+      "She stood at the end of the day on the long pier and watched the sun set over the harbor.",
+      "Please meet me at the end of the day at the small park near the pond at six in the evening.",
+      "He waited at the end of the day at the bus stop for nearly twenty minutes in the heavy rain."
     ],
     "answer": 0,
     "explanation": "'at the end of the day' (idiom) = ultimately. Not literal day's end.",
@@ -2601,9 +2601,9 @@
     "definition": "trust without proof",
     "sentences": [
       "I'll give him the benefit of the doubt on this one.",
-      "He claimed the benefit of the doubt on his tax return.",
-      "I applied for the benefit of the doubt at the welfare office.",
-      "She received the benefit of the doubt from her health insurance."
+      "She received a benefit of the doubt at the company holiday party last December evening.",
+      "Please claim the benefit of the doubt at the human resources office before next Friday afternoon.",
+      "He cashed the benefit of the doubt at the small bank near the train station this morning early."
     ],
     "answer": 0,
     "explanation": "'benefit of the doubt' = give trust (idiom). Not financial benefit.",
@@ -2616,9 +2616,9 @@
     "definition": "infer hidden meaning",
     "sentences": [
       "If you read between the lines, she's clearly unhappy here.",
-      "I'll grab a read between the lines on my way home tonight.",
-      "We don't have any read between the lines in the fridge right now.",
-      "He spilled read between the lines all over the new carpet."
+      "She read between the lines of the printed page very carefully with a magnifying glass yesterday.",
+      "Please read between the lines on the document because someone wrote tiny notes in pencil there.",
+      "He read between the lines of the music sheet to find the small handwritten markings of his teacher."
     ],
     "answer": 0,
     "explanation": "'read between the lines' = infer (idiom). Not literal reading.",
@@ -2630,9 +2630,9 @@
     "word": "cross that bridge",
     "definition": "deal with later",
     "sentences": [
-      "She crossed that bridge over the river during the morning hike.",
-      "I crossed that bridge near the train station this weekend.",
-      "He crossed that bridge in the city park yesterday afternoon.",
+      "She crossed that bridge over the river on her way to work every morning this week.",
+      "Please cross that bridge slowly because the wooden planks are old and slippery from the rain.",
+      "He crossed that bridge by bicycle on the way to the small village on the other side of the river.",
       "We'll cross that bridge when we come to it next month."
     ],
     "answer": 3,
@@ -2646,9 +2646,9 @@
     "definition": "argue opposing view for discussion",
     "sentences": [
       "Let me play devil's advocate here — what if we're wrong?",
-      "He played devil's advocate at the church theatrical performance.",
-      "I played devil's advocate in the school drama production.",
-      "She played devil's advocate on the courtroom stage during the play."
+      "She played devil's advocate in the school play last spring and her costume was very scary.",
+      "Please play devil's advocate at the costume party because nobody else has chosen that role yet.",
+      "He played devil's advocate on stage during the local theater performance last Saturday evening late."
     ],
     "answer": 0,
     "explanation": "'play devil's advocate' = argue opposite for discussion. Not acting role.",
@@ -2660,10 +2660,10 @@
     "word": "a tough call",
     "definition": "difficult decision",
     "sentences": [
-      "I received a tough call from the long distance number today.",
+      "She made a tough call to her grandmother in Tokyo on Sunday afternoon for over an hour.",
       "Choosing between those two finalists was a tough call.",
-      "She made a tough call on her cell phone during the interview.",
-      "He answered a tough call at the busy customer service desk."
+      "Please make a tough call to the customer service line because they always seem to keep me on hold.",
+      "He received a tough call from his boss on his cell phone during the long flight to Singapore last night."
     ],
     "answer": 1,
     "explanation": "'a tough call' = hard decision (idiom). Not a phone call.",
@@ -2675,10 +2675,10 @@
     "word": "in the same boat",
     "definition": "in the same situation",
     "sentences": [
-      "He rowed in the same boat across the calm pond today.",
-      "I rode in the same boat on the river cruise yesterday.",
+      "She rowed in the same boat with her brother across the lake on a sunny afternoon last weekend.",
+      "Please sit in the same boat as the rest of the team because we are sharing the rental fee tonight.",
       "We're all in the same boat with these new requirements.",
-      "She sat in the same boat during the lake fishing trip."
+      "He fished in the same boat as his uncle on the small river near their cabin last Saturday evening."
     ],
     "answer": 2,
     "explanation": "'in the same boat' = same situation (idiom). Not actual boats.",
@@ -2690,9 +2690,9 @@
     "word": "by and large",
     "definition": "generally / mostly",
     "sentences": [
-      "I parked by and large in the spacious parking lot today.",
-      "She worked by and large in the office supply storage room.",
-      "He stood by and large near the warehouse loading dock.",
+      "She walked by and large the park after the long meeting at the office this afternoon.",
+      "Please drive by and large the school very slowly because children are crossing the street there.",
+      "He swam by and large the swimming pool to warm up before his swimming lesson started at eight.",
       "By and large, the team is happy with the new schedule."
     ],
     "answer": 3,
@@ -2705,10 +2705,10 @@
     "word": "for the most part",
     "definition": "mostly / generally",
     "sentences": [
-      "I sold for the most part at the local farmers market.",
-      "She bought for the most part at the grocery store yesterday.",
+      "She baked for the most part of the cake before adding the icing on top this afternoon.",
+      "Please save for the most part of the leftovers because we want to eat them again tomorrow night.",
       "For the most part, the meeting went smoothly today.",
-      "He paid for the most part on his way out of the cafe."
+      "He ate for the most part of the pizza before realizing it had pineapple on it last evening."
     ],
     "answer": 2,
     "explanation": "'for the most part' = mostly (transition). Not 'the largest part'.",
@@ -2721,9 +2721,9 @@
     "definition": "approximately",
     "sentences": [
       "The project is more or less done — just final edits remain.",
-      "He poured more or less into the empty glass at the table.",
-      "I added more or less to the recipe while baking yesterday.",
-      "She had more or less in the pitcher during dinner tonight."
+      "She poured more or less of the milk into her coffee before the morning meeting today early.",
+      "Please add more or less of the sugar to the recipe because the cake is for the diabetic guests.",
+      "He drank more or less of the smoothie before realizing that it had spinach in it this morning."
     ],
     "answer": 0,
     "explanation": "'more or less' = approximately (idiom). Not quantities of liquid.",
@@ -2735,9 +2735,9 @@
     "word": "one way or another",
     "definition": "by some means",
     "sentences": [
-      "He walked one way or another along the country road.",
-      "I cycled one way or another through the city streets.",
-      "She drove one way or another down the busy highway.",
+      "She drove one way or another on the highway during the heavy rush-hour traffic this morning.",
+      "Please walk one way or another along the path because the main road is closed for construction.",
+      "He cycled one way or another through the small village on the way to his cousin's house yesterday.",
       "One way or another, we'll get this finished by Friday."
     ],
     "answer": 3,
@@ -2750,10 +2750,10 @@
     "word": "like it or not",
     "definition": "regardless of preference",
     "sentences": [
-      "I liked it or not the music at the concert last weekend.",
-      "He liked it or not the movie at the theater yesterday.",
+      "She likes it or not, the new apron her aunt sent her last week for her birthday this year.",
+      "Please tell me like it or not because I really want to know your honest opinion of my new haircut.",
       "Like it or not, remote work is here to stay these days.",
-      "She liked it or not the food at the new restaurant tonight."
+      "He bought it like it or not at the small store because nothing else was available in his shoe size."
     ],
     "answer": 2,
     "explanation": "'like it or not' = regardless (idiom). Not a verb construction.",
@@ -2765,9 +2765,9 @@
     "word": "as luck would have it",
     "definition": "by coincidence",
     "sentences": [
-      "I prayed as luck would have it before the big competition.",
-      "She wished as luck would have it during her birthday wish.",
-      "He hoped as luck would have it before opening the lottery ticket.",
+      "She wished as luck would have it on the bright shooting star late last Friday night before bed.",
+      "Please buy as luck would have it on the lottery ticket because the jackpot is now over a million dollars.",
+      "He spun as luck would have it on the wheel at the carnival booth last weekend at the school fair.",
       "As luck would have it, we ran into him at the airport."
     ],
     "answer": 3,
@@ -2780,10 +2780,10 @@
     "word": "truth be told",
     "definition": "honestly speaking",
     "sentences": [
-      "She told the truth be told to the police officer at the scene.",
-      "I shared the truth be told during the formal interview.",
+      "She told the truth be told to her best friend about the surprise party last Saturday evening.",
+      "Please tell the truth be told to your manager because lying will only make the situation much worse.",
       "Truth be told, I wasn't a fan of the proposal either.",
-      "He spoke the truth be told on the witness stand in court."
+      "He spoke truth be told under oath at the court hearing last Tuesday morning at nine sharp."
     ],
     "answer": 2,
     "explanation": "'truth be told' = honestly (idiom phrase). Not 'telling truth'.",
@@ -2795,9 +2795,9 @@
     "word": "on the off chance",
     "definition": "in the small possibility",
     "sentences": [
-      "He gambled on the off chance during the football game.",
-      "She bet on the off chance at the casino last weekend.",
-      "I wagered on the off chance during the horse racing event.",
+      "She bought on the off chance for her father's birthday at the small antique shop downtown today.",
+      "Please choose on the off chance for the raffle because the prize is a brand new bicycle this year.",
+      "He picked on the off chance for the lottery from the small kiosk near the train station early this morning.",
       "On the off chance you see Sarah, please tell her I called."
     ],
     "answer": 3,
@@ -2811,9 +2811,9 @@
     "definition": "it is likely that",
     "sentences": [
       "Odds are, the package will arrive sometime tomorrow afternoon.",
-      "He calculated the odds are at the casino blackjack table.",
-      "She bet the odds are on the lottery numbers this week.",
-      "I checked the odds are on the sports betting website today."
+      "She calculated the odds are at the casino during her trip to Las Vegas last summer with friends.",
+      "Please check the odds are on the betting website before you place a wager on the football game tonight.",
+      "He memorized the odds are for every horse race during his afternoon at the local racetrack last Saturday."
     ],
     "answer": 0,
     "explanation": "'odds are' = likely (idiom). Not betting odds.",
@@ -2825,10 +2825,10 @@
     "word": "as far as I can tell",
     "definition": "based on what I know",
     "sentences": [
-      "She walked as far as I can tell down the long sidewalk.",
+      "She walked as far as I can tell along the long sandy beach before turning around in the early afternoon.",
       "As far as I can tell, the system is working correctly now.",
-      "He ran as far as I can tell on the marathon course route.",
-      "I biked as far as I can tell along the scenic mountain trail."
+      "Please drive as far as I can tell down the coast road before stopping at the small seaside cafe for some lunch.",
+      "He swam as far as I can tell from the rocky shore before turning around to swim back to the beach."
     ],
     "answer": 1,
     "explanation": "'as far as I can tell' = to my knowledge (idiom). Not distance.",
@@ -2840,9 +2840,9 @@
     "word": "give it a shot",
     "definition": "try it",
     "sentences": [
-      "She gave it a shot of espresso at the morning meeting.",
-      "I gave it a shot of vaccine during the medical checkup.",
-      "He gave it a shot of vodka with the cocktail tonight.",
+      "She gave it a shot of espresso at the cafe near her office this morning before her early meeting.",
+      "Please give it a shot of vodka into the cocktail because the bartender said it would taste much better.",
+      "He gave it a shot of medicine to the sick puppy at the veterinary clinic last Tuesday afternoon.",
       "Why not give it a shot? You've got nothing to lose, really."
     ],
     "answer": 3,
@@ -2856,9 +2856,9 @@
     "definition": "in trouble",
     "sentences": [
       "He's in hot water with the boss after missing the deadline.",
-      "I cooked in hot water during the pasta-making demonstration.",
-      "He soaked in hot water in the bathtub after a long workday.",
-      "She bathed in hot water at the spa during her relaxing weekend."
+      "She put the noodles in hot water on the stove for about ten minutes before adding the sauce.",
+      "Please soak the dirty pan in hot water overnight because the burnt food is hard to remove now.",
+      "He washed the dishes in hot water at the kitchen sink after the family dinner last Sunday evening."
     ],
     "answer": 0,
     "explanation": "'in hot water' = in trouble (idiom). Not literal hot water.",
@@ -2871,9 +2871,9 @@
     "definition": "very close distance",
     "sentences": [
       "Our office is just a stone's throw from the train station.",
-      "She did a stone's throw across the calm pond yesterday.",
-      "I attempted a stone's throw at the lake during the picnic.",
-      "He practiced a stone's throw at the river over the weekend."
+      "She picked up a stone's throw from the beach during her morning walk along the rocky shore today.",
+      "Please don't take a stone's throw from the historic site because it might be considered theft, you know.",
+      "He skipped a stone's throw across the calm lake during his afternoon at the cabin last Saturday afternoon."
     ],
     "answer": 0,
     "explanation": "'a stone's throw' = nearby (idiom). Not literal throwing stones.",
@@ -2885,9 +2885,9 @@
     "word": "second nature",
     "definition": "deeply familiar / automatic",
     "sentences": [
-      "He explored second nature during the wilderness camping trip.",
-      "She studied second nature at the local botanical garden.",
-      "I photographed second nature in the forest preserve yesterday.",
+      "She studied second nature at the small university in the countryside during her undergraduate years there.",
+      "Please write about second nature in the essay because the professor asked us to compare it with first nature.",
+      "He photographed second nature in the rainforest during his three-week trip to Costa Rica last winter early.",
       "Driving stick is second nature to me after all these years."
     ],
     "answer": 3,
@@ -2901,9 +2901,9 @@
     "definition": "in an emergency / if needed",
     "sentences": [
       "It's not perfect, but it'll work in a pinch for tonight.",
-      "I noticed a small in a pinch on my arm from the bug bite.",
-      "She gave him in a pinch on the cheek to wake him up.",
-      "He felt a pain in a pinch from the tight new shoes."
+      "She gave the cat a pinch on the side because he had been chewing on the houseplant again today.",
+      "Please don't give the baby a pinch on the cheek because she might start crying in the middle of dinner now.",
+      "He felt a pinch on his arm where the small mosquito had bitten him during the camping trip yesterday."
     ],
     "answer": 0,
     "explanation": "'in a pinch' = if needed (idiom). Not literal pinching.",
@@ -2915,10 +2915,10 @@
     "word": "par for the course",
     "definition": "typical / expected",
     "sentences": [
-      "I scored par for the course during my morning round of golf.",
-      "She shot par for the course during the golf tournament.",
+      "She played par for the course at the golf club last Saturday afternoon with her father and her uncle.",
+      "Please mark par for the course on the scorecard before you tee off at the first hole this morning.",
       "Late deliveries are pretty much par for the course with them.",
-      "He achieved par for the course at the country club tournament."
+      "He shot par for the course at the championship tournament held at the country club last weekend."
     ],
     "answer": 2,
     "explanation": "'par for the course' = expected (idiom). Not literal golf score.",
@@ -2930,10 +2930,10 @@
     "word": "give or take",
     "definition": "approximately / plus or minus",
     "sentences": [
-      "He chose give or take in the gift exchange at the holiday party.",
+      "She gave or took the package from the courier at the front door of the building this morning.",
       "It'll take an hour, give or take, depending on traffic conditions.",
-      "She did give or take from the donation box at the charity event.",
-      "I selected give or take from the office supply closet today."
+      "Please give or take the box from the storage closet because we need to make some space for the new shipment.",
+      "He gave or took the keys to the new tenant at the apartment building near the city center yesterday."
     ],
     "answer": 1,
     "explanation": "'give or take' = approximately (idiom). Not give/take action.",
@@ -2945,9 +2945,9 @@
     "word": "see eye to eye",
     "definition": "agree completely",
     "sentences": [
-      "She saw eye to eye in the optometrist's office during the exam.",
-      "He saw eye to eye through the new prescription glasses.",
-      "I saw eye to eye during the routine vision test today.",
+      "She saw eye to eye with her doctor during the annual checkup at the clinic this morning early.",
+      "Please see eye to eye with the optometrist because she wants to test how well your contact lenses fit now.",
+      "He saw eye to eye with the small child at the museum and they smiled at each other for a moment.",
       "We don't always see eye to eye, but we work well together."
     ],
     "answer": 3,
@@ -2960,10 +2960,10 @@
     "word": "keep posted",
     "definition": "keep informed",
     "sentences": [
-      "I kept posted by the front door during the open house tour.",
+      "She kept the letter posted on the refrigerator with a small magnet for nearly three weeks now.",
       "Keep me posted on how the negotiation goes tomorrow.",
-      "She kept posted at the front desk during her shift.",
-      "He kept posted near the building entrance during the event."
+      "Please keep the notice posted on the bulletin board until the end of the week because everyone needs to read it.",
+      "He kept the photograph posted on his bedroom wall above his desk for nearly five years now."
     ],
     "answer": 1,
     "explanation": "'keep posted' = keep informed (idiom). Not standing as a guard.",
@@ -2976,9 +2976,9 @@
     "definition": "difficult task",
     "sentences": [
       "Finishing this report by tomorrow is a tall order, honestly.",
-      "He requested a tall order at the fast food drive thru today.",
-      "She placed a tall order at the coffee shop this morning.",
-      "I made a tall order at the takeout restaurant for dinner."
+      "She placed a tall order at the cafe drive-through window on her way home from work yesterday.",
+      "Please bring a tall order of coffee to the office meeting room because everyone said they were thirsty.",
+      "He poured a tall order of orange juice for breakfast this morning before heading out to his early meeting."
     ],
     "answer": 0,
     "explanation": "'a tall order' = difficult task (idiom). Not a beverage size.",
@@ -2990,10 +2990,10 @@
     "word": "the jury is still out",
     "definition": "decision not yet made",
     "sentences": [
-      "I noted the jury is still out at the legal proceedings yesterday.",
-      "She watched the jury is still out in the courtroom drama film.",
+      "She served on the jury still out in the courtroom during the long trial last summer for two weeks.",
+      "Please report to the jury still out at the courthouse next Monday morning at nine o'clock sharp.",
       "The jury is still out on whether the new policy will work.",
-      "He observed the jury is still out during the murder trial."
+      "He sat on the jury still out for nearly six weeks during the very famous murder trial last year."
     ],
     "answer": 2,
     "explanation": "'the jury is still out' = undecided (idiom). Not a literal jury.",
