@@ -198,6 +198,8 @@ body{
 .btn-next:active{transform:scale(.97)}
 .btn-ghost{flex:1;height:50px;background:transparent;color:var(--text-muted);border:1.5px solid var(--border);border-radius:var(--radius-md);font-family:inherit;font-size:13.5px;cursor:pointer}
 .btn-ghost:active{background:rgba(255,255,255,.04)}
+.correct-answer-text{margin-top:10px;padding:10px 12px;background:var(--correct-bg);border:1px solid var(--correct);border-radius:var(--radius-sm);font-size:14.5px;color:var(--text);line-height:1.5}
+.correct-answer-text .label{color:var(--correct);font-weight:600;margin-right:6px;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
 
 /* Usage mode */
 #usage-header .progress-track{height:5px;background:var(--border);border-radius:99px;overflow:hidden}
@@ -344,14 +346,17 @@ body{
     <button class="check-btn" id="ord-check" disabled onclick="checkOrdering()">Check</button>
     <div class="result-panel hidden" id="ord-result">
       <div class="result-status" id="ord-status"></div>
-      <div class="explanation-block">
+      <div class="correct-answer-text hidden" id="ord-correct-text"></div>
+      <div class="explanation-block hidden" id="ord-explanation-block">
         <div class="explanation-label">Explanation</div>
         <div class="explanation-text" id="ord-explanation"></div>
         <div class="explanation-ja" id="ord-explanation-ja"></div>
         <div class="translation-text" id="ord-translation"></div>
       </div>
       <div class="result-actions">
-        <button class="btn-next" onclick="nextOrdering()">Next →</button>
+        <button class="btn-ghost hidden" id="ord-retry-btn" onclick="retryOrdering()">Retry</button>
+        <button class="btn-ghost hidden" id="ord-show-btn" onclick="showOrderingAnswer()">Show answer</button>
+        <button class="btn-next hidden" id="ord-next-btn" onclick="nextOrdering()">Next →</button>
       </div>
     </div>
   </div>
@@ -618,7 +623,7 @@ function loadOrderingQ(){
   document.getElementById('ord-count').textContent = `${ordRound.idx+1}/${ordRound.items.length}`;
   document.getElementById('ord-score').textContent = `${ordRound.correct} ✓`;
   document.getElementById('ord-progress').style.width = `${(ordRound.idx)/ordRound.items.length*100}%`;
-  document.getElementById('ord-grammar').textContent = q.grammar || 'B2 · Business';
+  document.getElementById('ord-grammar').textContent = '';
   const lvl = q.level || 1;
   const lvTag = document.getElementById('ord-level');
   lvTag.textContent = levelTagText(lvl);
@@ -692,22 +697,58 @@ function checkOrdering(){
   });
   const panel = document.getElementById('ord-result');
   const status = document.getElementById('ord-status');
+  const retryBtn = document.getElementById('ord-retry-btn');
+  const showBtn = document.getElementById('ord-show-btn');
+  const nextBtn = document.getElementById('ord-next-btn');
+  const explBlock = document.getElementById('ord-explanation-block');
+  const correctText = document.getElementById('ord-correct-text');
+  document.getElementById('ord-check').disabled = true;
   if(allRight){
     ordRound.correct++;
     status.className = 'result-status correct';
     status.innerHTML = '<span class="result-icon">✓</span> Correct';
+    document.getElementById('ord-explanation').textContent = q.explanation || '';
+    document.getElementById('ord-grammar').textContent = q.grammar || 'B2 · Business';
+    document.getElementById('ord-explanation-ja').textContent = q.explanationJa || '';
+    document.getElementById('ord-translation').textContent = q.translation ? '“'+q.translation+'”' : '';
+    document.getElementById('ord-score').textContent = `${ordRound.correct} ✓`;
+    correctText.classList.add('hidden');
+    explBlock.classList.remove('hidden');
+    retryBtn.classList.add('hidden');
+    showBtn.classList.add('hidden');
+    nextBtn.classList.remove('hidden');
   } else {
     status.className = 'result-status incorrect';
-    status.innerHTML = '<span class="result-icon">✗</span> Not quite — correct order shown';
-    slots.forEach((s,i)=>{ s.classList.remove('incorrect','correct'); s.classList.add('answer-shown'); s.textContent = q.answer[i]; });
+    status.innerHTML = '<span class="result-icon">✗</span> Not quite — try again or reveal the answer.';
     document.getElementById('ord-slots').classList.add('shake');
+    correctText.innerHTML = `<span class="label">Correct:</span>${q.answer.join(' ')}`;
+    correctText.classList.remove('hidden');
+    explBlock.classList.add('hidden');
+    retryBtn.classList.remove('hidden');
+    showBtn.classList.remove('hidden');
+    nextBtn.classList.add('hidden');
   }
+  panel.classList.remove('hidden');
+}
+function retryOrdering(){
+  loadOrderingQ();
+}
+function showOrderingAnswer(){
+  const q = ordRound.items[ordRound.idx];
+  const slots = document.querySelectorAll('#ord-slots .slot');
+  slots.forEach((s,i)=>{
+    s.classList.remove('incorrect','correct');
+    s.classList.add('answer-shown');
+    s.textContent = q.answer[i];
+  });
   document.getElementById('ord-explanation').textContent = q.explanation || '';
+  document.getElementById('ord-grammar').textContent = q.grammar || 'B2 · Business';
   document.getElementById('ord-explanation-ja').textContent = q.explanationJa || '';
   document.getElementById('ord-translation').textContent = q.translation ? '“'+q.translation+'”' : '';
-  document.getElementById('ord-score').textContent = `${ordRound.correct} ✓`;
-  panel.classList.remove('hidden');
-  document.getElementById('ord-check').disabled = true;
+  document.getElementById('ord-explanation-block').classList.remove('hidden');
+  document.getElementById('ord-retry-btn').classList.add('hidden');
+  document.getElementById('ord-show-btn').classList.add('hidden');
+  document.getElementById('ord-next-btn').classList.remove('hidden');
 }
 function nextOrdering(){
   ordRound.idx++;
@@ -742,7 +783,7 @@ function loadUsageQ(){
   lvTag.textContent = levelTagText(lvl);
   lvTag.className = 'level-tag ' + levelTagCls(lvl);
   document.getElementById('usg-word').textContent = q.word;
-  document.getElementById('usg-def').textContent = q.definition || '';
+  document.getElementById('usg-def').textContent = '';
   const choices = document.getElementById('usg-choices');
   choices.innerHTML = '';
   q.sentences.forEach((s,i)=>{
@@ -759,6 +800,7 @@ function pickUsage(i){
   if(usgRound.answered) return;
   usgRound.answered = true;
   const q = usgRound.items[usgRound.idx];
+  document.getElementById('usg-def').textContent = q.definition || '';
   const btns = document.querySelectorAll('#usg-choices .usage-sentence-btn');
   btns.forEach((b,bi)=>{
     if(bi === q.answer) b.classList.add(bi===i ? 'correct' : 'reveal-correct');
