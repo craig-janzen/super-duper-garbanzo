@@ -735,12 +735,6 @@ function retryOrdering(){
 }
 function showOrderingAnswer(){
   const q = ordRound.items[ordRound.idx];
-  const slots = document.querySelectorAll('#ord-slots .slot');
-  slots.forEach((s,i)=>{
-    s.classList.remove('incorrect','correct');
-    s.classList.add('answer-shown');
-    s.textContent = q.answer[i];
-  });
   document.getElementById('ord-explanation').textContent = q.explanation || '';
   document.getElementById('ord-grammar').textContent = q.grammar || 'B2 · Business';
   document.getElementById('ord-explanation-ja').textContent = q.explanationJa || '';
