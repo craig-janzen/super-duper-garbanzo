@@ -295,8 +295,8 @@
     "answer": [
       "will",
       "be",
-      "closed",
-      "completely"
+      "completely",
+      "closed"
     ],
     "grammar": "Future passive",
     "translation": "The office is fully closed all of next week.",
@@ -1062,14 +1062,14 @@
     "suffix": "if you need any assistance.",
     "answer": [
       "will",
-      "help",
-      "you",
-      "downstairs"
+      "be",
+      "happy",
+      "to"
     ],
-    "grammar": "Future simple",
-    "translation": "Reception downstairs can assist you.",
-    "explanation": "Simple future for routine help offered to visitors.",
-    "explanationJa": "来訪者へ提供する日常的な手助けには単純未来を使います。"
+    "grammar": "Future + adjective phrase",
+    "translation": "Reception will gladly assist if you need help.",
+    "explanation": "'Will be happy to' = polite offer of help in service contexts.",
+    "explanationJa": "「will be happy to」はサービス文脈での丁寧な手助けの申し出です。"
   },
   {
     "id": 68,
@@ -1091,17 +1091,17 @@
     "id": 69,
     "level": 1,
     "prefix": "Our customer",
-    "suffix": "is available 24 hours a day.",
+    "suffix": "available 24 hours a day.",
     "answer": [
       "support",
-      "help",
       "line",
-      "actually"
+      "is",
+      "always"
     ],
     "grammar": "Compound noun phrase",
     "translation": "Customer support is open 24/7.",
-    "explanation": "Compound noun build-up: 'customer support help line'.",
-    "explanationJa": "複合名詞の積み重ね「customer support help line」の例です。"
+    "explanation": "Standard compound noun: 'customer support line'.",
+    "explanationJa": "標準的な複合名詞「customer support line」です。"
   },
   {
     "id": 70,
@@ -1255,8 +1255,8 @@
     "answer": [
       "received",
       "your",
-      "enquiry",
-      "promptly"
+      "recent",
+      "inquiry"
     ],
     "grammar": "Present perfect",
     "translation": "We've received your inquiry and will respond within a day.",
@@ -1491,7 +1491,7 @@
     "id": 94,
     "level": 2,
     "prefix": "The supplier has",
-    "suffix": "honour the original pricing.",
+    "suffix": "honor the original pricing.",
     "answer": [
       "therefore",
       "reluctantly",
@@ -1500,8 +1500,8 @@
     ],
     "grammar": "Present perfect",
     "translation": "The supplier has reluctantly agreed to keep the original price.",
-    "explanation": "'Honour' = uphold/respect an agreement.",
-    "explanationJa": "「honour」は合意を尊重・履行するという意味です。"
+    "explanation": "'Honor' = uphold/respect an agreement.",
+    "explanationJa": "「honor」は合意を尊重・履行するという意味です。"
   },
   {
     "id": 95,
@@ -1589,10 +1589,10 @@
     "prefix": "Thank you for",
     "suffix": "request so quickly.",
     "answer": [
-      "kindly",
       "responding",
       "to",
-      "our"
+      "our",
+      "initial"
     ],
     "grammar": "Thank you for + gerund",
     "translation": "Thanks for replying so quickly.",
@@ -1638,14 +1638,14 @@
     "suffix": "the documents you requested.",
     "answer": [
       "attached",
-      "herewith",
+      "below",
       "all",
       "of"
     ],
     "grammar": "Have + past participle",
     "translation": "All requested documents are attached.",
-    "explanation": "'Herewith' = formal 'with this message'.",
-    "explanationJa": "「herewith」は格式ある「with this message」の表現です。"
+    "explanation": "'Please find attached' is the modern equivalent of dated 'herewith'.",
+    "explanationJa": "「please find attached」は古風な「herewith」の現代版です。"
   },
   {
     "id": 104,
@@ -1730,7 +1730,7 @@
   {
     "id": 109,
     "level": 1,
-    "prefix": "I apologise",
+    "prefix": "I apologize",
     "suffix": "in responding to your email.",
     "answer": [
       "for",
@@ -1738,10 +1738,10 @@
       "delay",
       "again"
     ],
-    "grammar": "Apologise for + noun",
+    "grammar": "Apologize for + noun",
     "translation": "Sorry for taking so long to reply.",
-    "explanation": "'Apologise for' takes noun or gerund.",
-    "explanationJa": "「apologise for」は名詞か動名詞を取ります。"
+    "explanation": "'Apologize for' takes noun or gerund.",
+    "explanationJa": "「apologize for」は名詞か動名詞を取ります。"
   },
   {
     "id": 110,
@@ -1782,14 +1782,14 @@
     "suffix": "that prices may change without notice.",
     "answer": [
       "advised",
-      "of",
-      "the",
-      "fact"
+      "and",
+      "kindly",
+      "note"
     ],
     "grammar": "Be advised + that-clause",
-    "translation": "Note that prices can change anytime.",
-    "explanation": "'Be advised' = formal notification.",
-    "explanationJa": "「be advised」は格式ある通告表現です。"
+    "translation": "Please note that prices can change anytime.",
+    "explanation": "'Please be advised' = formal notification.",
+    "explanationJa": "「please be advised」は格式ある通告表現です。"
   },
   {
     "id": 113,
@@ -1803,7 +1803,7 @@
       "unable"
     ],
     "grammar": "Regret + that-clause",
-    "translation": "Sorry we can't fulfil your request now.",
+    "translation": "Sorry we can't fulfill your request now.",
     "explanation": "Formal refusal language.",
     "explanationJa": "格式ある拒絶の言い回しです。"
   },
@@ -1909,14 +1909,14 @@
     "prefix": "We would",
     "suffix": "your continued support during this transition.",
     "answer": [
+      "sincerely",
       "like",
       "to",
-      "acknowledge",
-      "sincerely"
+      "acknowledge"
     ],
     "grammar": "Would like + infinitive",
     "translation": "Thanks for your ongoing support during this change.",
-    "explanation": "'Acknowledge' = formally recognise.",
+    "explanation": "'Acknowledge' = formally recognize.",
     "explanationJa": "「acknowledge」は正式に認めるという意味です。"
   },
   {
@@ -2087,13 +2087,13 @@
     "answer": [
       "a",
       "leading",
-      "provider",
-      "specifically"
+      "global",
+      "provider"
     ],
     "grammar": "Be + noun phrase",
-    "translation": "We lead the renewable energy sector.",
-    "explanation": "'Leading provider' = top supplier in a field.",
-    "explanationJa": "「leading provider」はその分野で第一の供給者という意味です。"
+    "translation": "We are a top global provider in renewable energy.",
+    "explanation": "'Leading global provider' = top supplier in a field.",
+    "explanationJa": "「leading global provider」はその分野で第一の供給者という意味です。"
   },
   {
     "id": 132,
@@ -2199,8 +2199,8 @@
     "answer": [
       "has",
       "been",
-      "asked",
-      "explicitly"
+      "explicitly",
+      "asked"
     ],
     "grammar": "Present perfect passive",
     "translation": "Our department has been told to cut expenses 10%.",
@@ -2533,15 +2533,15 @@
     "prefix": "At no point",
     "suffix": "fully support our hypothesis.",
     "answer": [
-      "does",
+      "do",
       "the",
       "data",
-      "actually"
+      "wholly"
     ],
     "grammar": "At no point + inversion",
     "translation": "The data never fully back our hypothesis.",
-    "explanation": "'At no point' triggers inversion.",
-    "explanationJa": "「at no point」は倒置を引き起こします。"
+    "explanation": "'At no point' triggers inversion; 'data' takes plural verb in formal writing.",
+    "explanationJa": "「at no point」は倒置を引き起こします。data は複数扱いになります。"
   },
   {
     "id": 160,
@@ -2556,7 +2556,7 @@
     ],
     "grammar": "Little + inversion",
     "translation": "He hardly grasped the impact of his decision then.",
-    "explanation": "'Little did X' = formal 'X barely realised'.",
+    "explanation": "'Little did X' = formal 'X barely realized'.",
     "explanationJa": "「little did X」は格式ある「X はほとんど気づかなかった」の表現です。"
   },
   {
@@ -2982,12 +2982,12 @@
     "suffix": "proposal acceptable in its current form.",
     "answer": [
       "means",
-      "whatsoever",
       "is",
-      "this"
+      "the",
+      "current"
     ],
     "grammar": "By no means + inversion",
-    "translation": "This proposal is absolutely not acceptable as-is.",
+    "translation": "This proposal is in no way acceptable as-is.",
     "explanation": "'By no means' triggers inversion.",
     "explanationJa": "「by no means」は倒置を引き起こします。"
   },
@@ -3047,8 +3047,8 @@
     "answer": [
       "little",
       "doubt",
-      "that",
-      "frankly"
+      "whatsoever",
+      "that"
     ],
     "grammar": "There is little doubt",
     "translation": "The merger will clearly create synergies.",
@@ -3079,8 +3079,8 @@
     "answer": [
       "it",
       "to",
-      "say",
-      "simply"
+      "merely",
+      "say"
     ],
     "grammar": "Suffice it to say",
     "translation": "Simply put: we're very pleased.",
@@ -3123,7 +3123,7 @@
     "id": 196,
     "level": 3,
     "prefix": "Without",
-    "suffix": "the project would not have succeeded.",
+    "suffix": "the project succeeded thanks to your team.",
     "answer": [
       "a",
       "shadow",
@@ -3131,7 +3131,7 @@
       "doubt"
     ],
     "grammar": "Without a shadow of doubt",
-    "translation": "Without question, the project succeeded thanks to you.",
+    "translation": "間違いなく、プロジェクトはあなたのチームのおかげで成功しました。",
     "explanation": "'Without a shadow of doubt' = absolutely certain.",
     "explanationJa": "「without a shadow of doubt」は完全に確実という意味です。"
   },
@@ -3141,10 +3141,10 @@
     "prefix": "What is",
     "suffix": "is that we maintain transparency at all stages.",
     "answer": [
+      "truly",
       "of",
       "paramount",
-      "importance",
-      "truly"
+      "importance"
     ],
     "grammar": "Of paramount importance",
     "translation": "Transparency matters most at every stage.",

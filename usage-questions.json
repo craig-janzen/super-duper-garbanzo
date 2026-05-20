@@ -65,12 +65,12 @@
     "word": "approve",
     "definition": "to officially agree to something",
     "sentences": [
-      "The board has approved the new hiring plan.",
-      "I approve to the office at 9 a.m. every day.",
-      "We approve our coffee with milk.",
-      "She approved against the proposal."
+      "The arrived approve at the gate.",
+      "I approve coffee over tea.",
+      "The board will approve the budget on Friday.",
+      "We approve against the proposal."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Approve' means to give official agreement. It does not mean 'arrive', 'prefer', or 'vote against' (which would be 'oppose').",
     "explanationJa": "「approve」は公式に同意するという意味です。arrive, prefer, oppose の意味ではありません。"
   },
@@ -95,12 +95,12 @@
     "word": "attend",
     "definition": "to go to and be present at an event",
     "sentences": [
-      "Twenty people attended the training session yesterday.",
-      "Please attend the email to my manager.",
-      "He attends very fast when he writes.",
-      "The attend of the meeting was Mr. Lee."
+      "Please attend this email to the team.",
+      "I attend my reports on a laptop.",
+      "All managers must attend the quarterly review.",
+      "She is the new attend of the committee."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Attend' means to be present at. It is not used for 'forward' (email), 'type', or as a noun for 'chairperson'.",
     "explanationJa": "「attend」は出席するという意味です。forward(転送)、type、chairperson の代わりには使いません。"
   },
@@ -110,12 +110,12 @@
     "word": "confirm",
     "definition": "to say that something is definitely true or will happen",
     "sentences": [
-      "Could you confirm your attendance by replying to this email?",
+      "Please confirm two coffees for the team.",
       "I will confirm a sandwich for lunch.",
-      "The printer confirms a lot of noise.",
-      "She confirmed the door behind her."
+      "Could you confirm your availability for Tuesday?",
+      "We confirm the office at 6 p.m. each evening."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Confirm' means to verify or formally agree. It is not a synonym for 'order', 'make', or 'close'.",
     "explanationJa": "「confirm」は確認・正式同意を意味します。order, make, close の同義語ではありません。"
   },
@@ -125,12 +125,12 @@
     "word": "cancel",
     "definition": "to decide that a planned event will not happen",
     "sentences": [
-      "I cancel a coffee every morning at the café.",
-      "Unfortunately, we have to cancel Friday's meeting.",
-      "He cancelled into the office very late.",
-      "The weather was cancel today."
+      "I will cancel two coffees for the meeting.",
+      "She arrived at the cancel just in time.",
+      "We had to cancel the meeting due to a scheduling conflict.",
+      "The weather is very cancel today."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Cancel' means to call off a plan. It is not used for 'order', 'arrive', or as an adjective for weather.",
     "explanationJa": "「cancel」は予定を取りやめるという意味です。order, arrive、天候を表す形容詞ではありません。"
   },
@@ -155,12 +155,12 @@
     "word": "invoice",
     "definition": "a document listing goods or services and the amount owed",
     "sentences": [
-      "We invoice the meeting room for 10 a.m.",
-      "Please send the invoice to our accounts team.",
-      "He invoiced the boss about the problem.",
-      "The invoice of the team is very high."
+      "Please invoice this room for tonight.",
+      "Could you invoice me about the new policy?",
+      "The supplier sent the invoice for last month's order.",
+      "She is feeling rather invoice this morning."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "An invoice is a bill for goods or services. It is not used for 'book', 'inform', or as a synonym for 'morale'.",
     "explanationJa": "「invoice」は請求書のことです。book, inform、morale の代わりには使えません。"
   },
@@ -185,12 +185,12 @@
     "word": "recruit",
     "definition": "to find and hire new people for a job",
     "sentences": [
-      "I will recruit my report to the manager today.",
-      "We are recruiting two new sales representatives this month.",
-      "The recruit of the printer was loud.",
-      "She recruited very early this morning."
+      "Please recruit this report by Friday.",
+      "There was a loud recruit in the corridor.",
+      "We need to recruit two engineers for the new project.",
+      "She recruit at the office at 9 a.m."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Recruit' means to hire new staff. The other sentences confuse it with 'submit', a noun for 'noise', or 'arrived'.",
     "explanationJa": "「recruit」は新しい人材を採用するという意味です。submit、騒音の名詞、arrived と混同されています。"
   },
@@ -200,12 +200,12 @@
     "word": "complaint",
     "definition": "a statement that you are unhappy with something",
     "sentences": [
-      "We received three complaints about the new app last week.",
-      "Please complaint your time sheet by Friday.",
-      "The team complaint into the conference room.",
-      "She is a complaint person to work with."
+      "The customer complaint to the manager about the service.",
+      "Please complaint your form before leaving.",
+      "We received a formal complaint from the customer.",
+      "She walked complaint into the meeting."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A 'complaint' is a noun expressing dissatisfaction. The other sentences misuse it as a verb meaning 'submit', 'walked', or as an adjective.",
     "explanationJa": "「complaint」は不満を表す名詞です。submit の動詞、walked、形容詞用法と混同されています。"
   },
@@ -215,12 +215,12 @@
     "word": "reschedule",
     "definition": "to change the time of a planned event",
     "sentences": [
-      "I reschedule my coffee every morning.",
-      "Can we reschedule tomorrow's call to Thursday afternoon?",
-      "She rescheduled the door behind her.",
-      "The team rescheduled very loudly."
+      "Please reschedule two coffees for the meeting.",
+      "She arrived at the reschedule just in time.",
+      "Can we reschedule the call to Thursday afternoon?",
+      "We reschedule with our clients every morning."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Reschedule' means to change a planned time. It does not mean 'order', 'close', or 'talked'.",
     "explanationJa": "「reschedule」は予定を変更するという意味です。order, close, talked の意味ではありません。"
   },
@@ -275,10 +275,10 @@
     "word": "promote",
     "definition": "to move someone to a higher position at work",
     "sentences": [
-      "I promote a coffee every morning at the café.",
-      "The team promoted into the meeting room.",
-      "She was promoted to senior manager last week.",
-      "Please promote your time sheet by Friday."
+      "Please promote this report by Friday.",
+      "The promote arrived in the lobby.",
+      "The company decided to promote her to senior manager.",
+      "She walked promote into the office."
     ],
     "answer": 2,
     "explanation": "'Promote' (in HR) means to give someone a higher role. It does not mean 'buy', 'walked', or 'submit'.",
@@ -305,12 +305,12 @@
     "word": "leverage",
     "definition": "to use something to maximum advantage",
     "sentences": [
-      "We can leverage our existing customer data to target new buyers.",
-      "She leveraged into the meeting room.",
-      "The leverage was very cold this morning.",
-      "I leverage two coffees every morning."
+      "She leverage into the meeting room slowly.",
+      "We are feeling very leverage about the launch.",
+      "We can leverage our brand recognition to enter the new market.",
+      "Please leverage two coffees for the team."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Leverage' (v) means to use a strength to gain advantage. It is not 'walked', an adjective, or 'order'.",
     "explanationJa": "動詞「leverage」は強みを活用するという意味です。walked、形容詞、order の意味ではありません。"
   },
@@ -320,10 +320,10 @@
     "word": "streamline",
     "definition": "to make a process simpler and more efficient",
     "sentences": [
-      "Please streamline the door before you leave.",
-      "He streamlined into the office very late.",
-      "The new software will help us streamline the approval process.",
-      "She is a very streamline person."
+      "She streamline into the building this morning.",
+      "I am feeling rather streamline today.",
+      "We need to streamline the approval process to save time.",
+      "Please streamline two coffees for the team."
     ],
     "answer": 2,
     "explanation": "'Streamline' means to simplify a process. It is not 'close', 'arrived', or a personality adjective.",
@@ -335,12 +335,12 @@
     "word": "allocate",
     "definition": "to officially give resources to a particular purpose",
     "sentences": [
-      "The manager allocated $5,000 to training this quarter.",
-      "I allocate to the office at 9 a.m.",
-      "The team allocated very loudly during lunch.",
-      "She is feeling very allocate today."
+      "Please allocate two coffees for the meeting.",
+      "She allocate to the office every morning.",
+      "We need to allocate more budget to marketing this quarter.",
+      "The weather is rather allocate today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Allocate' means to formally assign resources. It is not 'travel', 'talked', or an adjective.",
     "explanationJa": "「allocate」は資源を正式に割り当てるという意味です。travel, talked、形容詞ではありません。"
   },
@@ -350,12 +350,12 @@
     "word": "outsource",
     "definition": "to pay another company to do work for you",
     "sentences": [
-      "He outsourced into the meeting room.",
-      "Several firms outsource their IT support to specialists overseas.",
-      "She is very outsource this week.",
-      "I outsource a coffee every morning."
+      "Please outsource two coffees for the meeting.",
+      "She is feeling very outsource this week.",
+      "We decided to outsource our IT support to a specialist firm.",
+      "He outsource into the meeting room."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Outsource' means to contract work to another company. It does not mean 'walked', 'busy', or 'order'.",
     "explanationJa": "「outsource」は業務を外部に委託するという意味です。walked, busy, order の意味ではありません。"
   },
@@ -365,12 +365,12 @@
     "word": "liaise",
     "definition": "to communicate and cooperate between two groups",
     "sentences": [
-      "She will liaise with the design team to align the brief.",
-      "The team liaise very high this quarter.",
-      "I liaise the door behind me.",
-      "He liaised a sandwich for lunch."
+      "She liaise to the office every morning.",
+      "We are feeling very liaise about the project.",
+      "Please liaise with the design team on the new packaging.",
+      "I liaise two coffees every morning."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Liaise' means to coordinate between groups, often with 'with'. It is not 'grew', 'closed', or 'ordered'.",
     "explanationJa": "「liaise」は集団間で連絡調整することで、よく with と一緒に使います。grew, closed, ordered の意味ではありません。"
   },
@@ -380,12 +380,12 @@
     "word": "counter",
     "definition": "to respond to an offer with a different offer",
     "sentences": [
-      "They countered our bid with a slightly lower price.",
-      "I counter to the office at 9 a.m.",
-      "She is feeling very counter today.",
-      "The counter of the project was on Friday."
+      "She counter to the office at 9 a.m.",
+      "I am feeling very counter today.",
+      "We countered their offer with a higher price.",
+      "Please counter two coffees for the team."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Counter' as a verb in negotiation means to reply with another offer. It is not 'arrive', an adjective, or 'deadline'.",
     "explanationJa": "交渉での動詞「counter」は対案を出すという意味です。arrive、形容詞、deadline の意味ではありません。"
   },
@@ -395,12 +395,12 @@
     "word": "concede",
     "definition": "to admit that something is true or grant a point in a discussion",
     "sentences": [
-      "He conceded into the meeting room.",
-      "After long talks, the supplier conceded a 10% discount.",
-      "She conceded very loudly during lunch.",
-      "The team is very concede this week."
+      "She concede to the office every morning.",
+      "I am feeling very concede today.",
+      "After long debate, the team conceded the point to their rivals.",
+      "Please concede two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Concede' means to grant or admit something in negotiation. It is not 'walked', 'talked', or an adjective.",
     "explanationJa": "「concede」は交渉で譲歩・認めるという意味です。walked, talked、形容詞ではありません。"
   },
@@ -410,12 +410,12 @@
     "word": "exceed",
     "definition": "to go beyond a limit or expectation",
     "sentences": [
-      "Q3 revenue exceeded our forecast by nearly 15%.",
-      "She exceeded the door behind her.",
-      "I exceed two coffees every morning.",
-      "The team exceed in the corner of the room."
+      "She exceed to the office at 9 a.m.",
+      "I am feeling very exceed today.",
+      "Sales this quarter exceeded our forecast by 15 percent.",
+      "Please exceed two coffees for the meeting."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Exceed' means to surpass a limit. It is not 'close', 'order', or 'gather'.",
     "explanationJa": "「exceed」は限度を超えるという意味です。close, order, gather の意味ではありません。"
   },
@@ -455,12 +455,12 @@
     "word": "align",
     "definition": "to bring into agreement; to coordinate",
     "sentences": [
-      "Let's align on the next steps before we update the client.",
-      "I align two coffees every morning.",
-      "She aligned the door behind her.",
-      "The team align in the corner of the room."
+      "Please align two coffees for the meeting.",
+      "She align to the office every morning.",
+      "Let's align on the priorities before the next review.",
+      "The weather is rather align today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Align (on)' means to reach agreement, especially among colleagues. It is not 'order', 'close', or 'gather'.",
     "explanationJa": "「align (on)」は同僚間で合意に達するという意味です。order, close, gather の意味ではありません。"
   },
@@ -515,12 +515,12 @@
     "word": "retain",
     "definition": "to keep an employee or customer",
     "sentences": [
-      "Competitive pay helps the firm retain its best engineers.",
-      "I retain to the office at 9 a.m.",
-      "She retained two coffees this morning.",
-      "The team retain very loudly."
+      "Please retain two coffees for the meeting.",
+      "She retain to the office every morning.",
+      "Our goal is to retain top talent through better benefits.",
+      "The weather is rather retain today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Retain' in HR/marketing means to keep staff or customers. It is not 'arrive', 'order', or 'talked'.",
     "explanationJa": "人事・マーケティングでの「retain」は社員や顧客を維持するという意味です。arrive, order, talked の意味ではありません。"
   },
@@ -575,12 +575,12 @@
     "word": "stakeholder",
     "definition": "a person with an interest in a project or company",
     "sentences": [
-      "We must keep all stakeholders informed of any schedule changes.",
-      "She stakeholder into the meeting room.",
-      "I stakeholder two coffees every morning.",
-      "The team is feeling very stakeholder today."
+      "She stakeholder to the office every morning.",
+      "I am feeling very stakeholder today.",
+      "Every stakeholder will be consulted before we finalise the plan.",
+      "Please stakeholder two coffees for the meeting."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A 'stakeholder' is someone with an interest in a project. It is a noun only.",
     "explanationJa": "「stakeholder」はプロジェクトに利害関係を持つ人のことで、名詞のみです。"
   },
@@ -620,12 +620,12 @@
     "word": "mitigate",
     "definition": "to make something bad less serious",
     "sentences": [
-      "We bought insurance to mitigate the risk of currency loss.",
-      "I mitigate a coffee every morning.",
-      "She mitigated the door behind her.",
-      "The team mitigate in the corner of the room."
+      "Please mitigate two coffees for the meeting.",
+      "She mitigate to the office every morning.",
+      "We added a clause to mitigate the legal risks.",
+      "The weather is rather mitigate today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Mitigate' means to reduce severity, especially of risk. It is not 'order', 'close', or 'gather'.",
     "explanationJa": "「mitigate」はリスクなどの深刻さを軽減するという意味です。order, close, gather の意味ではありません。"
   },
@@ -680,12 +680,12 @@
     "word": "reconcile",
     "definition": "to make two financial accounts or sets of facts agree",
     "sentences": [
-      "Finance needs to reconcile the bank statement with our ledger by month-end.",
-      "I reconcile to the office at 9 a.m.",
-      "She reconciled two coffees this morning.",
-      "He is feeling very reconcile today."
+      "Please reconcile two coffees for the meeting.",
+      "She reconcile to the office every morning.",
+      "Finance will reconcile the bank statement at month-end.",
+      "The weather is rather reconcile today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Reconcile' in finance means to make two records agree. It is not 'arrive', 'order', or an adjective.",
     "explanationJa": "金融での「reconcile」は2つの記録を一致させるという意味です。arrive, order や形容詞の意味ではありません。"
   },
@@ -710,12 +710,12 @@
     "word": "fluctuate",
     "definition": "to change frequently in level or amount",
     "sentences": [
-      "Oil prices have fluctuated sharply over the past quarter.",
-      "I fluctuate to the office at 9 a.m.",
-      "She fluctuated the door behind her.",
-      "The team fluctuate very loudly."
+      "She fluctuate to the office every morning.",
+      "I am feeling very fluctuate today.",
+      "Currency rates have fluctuated sharply over the past week.",
+      "Please fluctuate two coffees for the meeting."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Fluctuate' means to vary up and down. It is not 'arrive', 'close', or 'talk'.",
     "explanationJa": "「fluctuate」は上下に変動するという意味です。arrive, close, talk の意味ではありません。"
   },
@@ -740,12 +740,12 @@
     "word": "divest",
     "definition": "to sell off a business or assets",
     "sentences": [
-      "The group plans to divest its loss-making European unit next year.",
-      "I divest a coffee every morning.",
-      "She divested the door behind her.",
-      "The team is feeling very divest today."
+      "Please divest two coffees for the meeting.",
+      "She divest to the office every morning.",
+      "The board voted to divest the loss-making division.",
+      "The weather is rather divest today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Divest' means to sell off part of a business. It is not 'order', 'close', or an adjective.",
     "explanationJa": "「divest」は事業の一部を売却するという意味です。order, close、形容詞ではありません。"
   },
@@ -755,12 +755,12 @@
     "word": "circumvent",
     "definition": "to avoid a rule or problem in a clever way",
     "sentences": [
-      "The proposal tries to circumvent the spending freeze through a side budget.",
-      "I circumvent to the office at 9 a.m.",
-      "She circumvented two coffees this morning.",
-      "He is feeling very circumvent today."
+      "Please circumvent two coffees for the meeting.",
+      "She circumvent to the office every morning.",
+      "They tried to circumvent the new export regulations.",
+      "The weather is rather circumvent today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Circumvent' means to find a way around rules or limits. It is not 'travel', 'order', or an adjective.",
     "explanationJa": "「circumvent」は規則や制限を回避する方法を見つけるという意味です。travel, order、形容詞ではありません。"
   },
@@ -785,12 +785,12 @@
     "word": "forfeit",
     "definition": "to lose a right or possession as a penalty",
     "sentences": [
-      "If you cancel after Monday, you forfeit your deposit.",
-      "I forfeit to the office at 9 a.m.",
-      "She forfeited the door behind her.",
-      "He is feeling very forfeit today."
+      "Please forfeit two coffees for the meeting.",
+      "She forfeit to the office every morning.",
+      "If you withdraw early, you forfeit your deposit.",
+      "The weather is rather forfeit today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Forfeit' means to lose something as a penalty. It is not 'arrive', 'close', or an adjective.",
     "explanationJa": "「forfeit」は罰として何かを失うという意味です。arrive, close、形容詞ではありません。"
   },
@@ -815,12 +815,12 @@
     "word": "consolidate",
     "definition": "to combine several things into one stronger whole",
     "sentences": [
-      "We will consolidate three regional offices into one hub next year.",
-      "I consolidate to the office at 9 a.m.",
-      "She consolidated two coffees this morning.",
-      "He is feeling very consolidate today."
+      "Please consolidate two coffees for the meeting.",
+      "She consolidate to the office every morning.",
+      "We plan to consolidate three regional offices into one hub.",
+      "The weather is rather consolidate today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Consolidate' means to combine into a single, stronger unit. It is not 'travel', 'order', or an adjective.",
     "explanationJa": "「consolidate」は単一でより強固な単位に統合するという意味です。travel, order、形容詞ではありません。"
   },
@@ -845,12 +845,12 @@
     "word": "encroach",
     "definition": "to gradually take more than is reasonable, especially time or territory",
     "sentences": [
-      "Late meetings are starting to encroach on my evenings.",
-      "I encroach to the office at 9 a.m.",
-      "She encroached two coffees this morning.",
-      "He is feeling very encroach today."
+      "Please encroach two coffees for the meeting.",
+      "She encroach to the office every morning.",
+      "The new competitor is encroaching on our market share.",
+      "The weather is rather encroach today."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Encroach (on)' means to gradually intrude. It is not 'travel', 'order', or an adjective.",
     "explanationJa": "「encroach (on)」は徐々に侵入するという意味です。travel, order、形容詞ではありません。"
   },
@@ -860,12 +860,12 @@
     "word": "relegate",
     "definition": "to move someone or something to a less important position",
     "sentences": [
-      "After the merger, the old brand was relegated to a niche product line.",
-      "I relegate to the office at 9 a.m.",
-      "She relegated the door behind her.",
-      "The team relegate very loudly."
+      "She relegate to the office every morning.",
+      "I am feeling very relegate today.",
+      "The proposal was relegated to a lower priority this quarter.",
+      "Please relegate two coffees for the meeting."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Relegate' means to demote in importance. It is not 'arrive', 'close', or 'talk'.",
     "explanationJa": "「relegate」は重要度を下げるという意味です。arrive, close, talk の意味ではありません。"
   },
@@ -890,12 +890,12 @@
     "word": "underpin",
     "definition": "to support or form the basis of something",
     "sentences": [
-      "A clear data strategy underpins every successful product launch.",
-      "I underpin a coffee every morning.",
-      "She underpinned the door behind her.",
-      "He is feeling very underpin today."
+      "She underpin to the office every morning.",
+      "I am feeling very underpin today.",
+      "Strong customer trust underpins our brand strategy.",
+      "Please underpin two coffees for the meeting."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Underpin' means to provide a foundation for. It is not 'order', 'close', or an adjective.",
     "explanationJa": "「underpin」は基盤を提供するという意味です。order, close、形容詞ではありません。"
   },
@@ -905,12 +905,12 @@
     "word": "draft",
     "definition": "an early version of a document",
     "sentences": [
-      "Please ____ the email before sending it to the client.",
-      "Please draft the email before sending it to the client.",
-      "Please outcome the email before sending it to the client.",
-      "Please retire the email before sending it to the client."
+      "She draft to the office every morning.",
+      "I am feeling very draft today.",
+      "Could you draft a reply for me to review?",
+      "Please draft two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Draft' = write an early version; verb and noun. Common email task.",
     "explanationJa": "「draft」は草案・初稿を書くこと。動詞・名詞の両方で使われ、メール業務でよく使います。"
   },
@@ -920,10 +920,10 @@
     "word": "feedback",
     "definition": "comments or reactions about work",
     "sentences": [
-      "I appreciate the ____ you gave on my presentation yesterday.",
-      "I appreciate the equipment you gave on my presentation yesterday.",
-      "I appreciate the feedback you gave on my presentation yesterday.",
-      "I appreciate the parcel you gave on my presentation yesterday."
+      "She feedback to the office every morning.",
+      "I am feeling very feedback today.",
+      "Thank you for the detailed feedback on my report.",
+      "Please feedback two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Feedback' = constructive comments; uncountable noun.",
@@ -935,10 +935,10 @@
     "word": "contact",
     "definition": "to communicate with someone",
     "sentences": [
-      "Please ____ me if you have any questions about the order.",
-      "Please erase me if you have any questions about the order.",
-      "Please contact me if you have any questions about the order.",
-      "Please donate me if you have any questions about the order."
+      "She contact to the office every morning.",
+      "I am feeling very contact today.",
+      "Please contact me if you have any questions.",
+      "I contact two coffees every morning."
     ],
     "answer": 2,
     "explanation": "'Contact' = reach out to; standard business close.",
@@ -950,12 +950,12 @@
     "word": "branch",
     "definition": "a local office of a company",
     "sentences": [
-      "Our new ____ in Berlin opens next month.",
-      "Our new branch in Berlin opens next month.",
-      "Our new gravel in Berlin opens next month.",
-      "Our new climate in Berlin opens next month."
+      "Please branch two coffees for the meeting.",
+      "I am feeling very branch today.",
+      "Our nearest branch is on Oxford Street.",
+      "The weather is rather branch today."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Branch' = local office or store of a larger company.",
     "explanationJa": "「branch」は大企業の地方支店や店舗のことです。"
   },
@@ -965,12 +965,12 @@
     "word": "refund",
     "definition": "money returned to a customer",
     "sentences": [
-      "The customer requested a full ____ for the damaged item.",
-      "The customer requested a full refund for the damaged item.",
-      "The customer requested a full silence for the damaged item.",
-      "The customer requested a full pavement for the damaged item."
+      "She refund to the office every morning.",
+      "I am feeling very refund today.",
+      "We will issue a full refund within five business days.",
+      "Please refund two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Refund' = money paid back; common in customer service.",
     "explanationJa": "「refund」は返金されるお金のことで、カスタマーサービスで頻出です。"
   },
@@ -980,10 +980,10 @@
     "word": "deliver",
     "definition": "to bring goods to a place",
     "sentences": [
-      "We will ____ your order by Tuesday at the latest.",
-      "We will discover your order by Tuesday at the latest.",
-      "We will deliver your order by Tuesday at the latest.",
-      "We will overcome your order by Tuesday at the latest."
+      "She deliver to the office every morning in mood.",
+      "I am feeling very deliver today.",
+      "The supplier will deliver the order tomorrow.",
+      "Please deliver two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Deliver' = transport goods to a destination.",
@@ -995,12 +995,12 @@
     "word": "reminder",
     "definition": "a message to make someone remember",
     "sentences": [
-      "This is a friendly ____ that the payment is due next week.",
-      "This is a friendly carpet that the payment is due next week.",
-      "This is a friendly puddle that the payment is due next week.",
-      "This is a friendly reminder that the payment is due next week."
+      "She reminder to the office every morning.",
+      "I am feeling very reminder today.",
+      "This is a friendly reminder that the report is due Friday.",
+      "Please reminder two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Reminder' = a note prompting action; very common email opener.",
     "explanationJa": "「reminder」は行動を促すメモで、メールの冒頭でよく使われます。"
   },
@@ -1010,12 +1010,12 @@
     "word": "discount",
     "definition": "a price reduction",
     "sentences": [
-      "We offer a 10% ____ for orders over $500.",
-      "We offer a 10% discount for orders over $500.",
-      "We offer a 10% balloon for orders over $500.",
-      "We offer a 10% vehicle for orders over $500."
+      "She discount to the office every morning.",
+      "I am feeling very discount today.",
+      "We are offering a 20 percent discount on bulk orders.",
+      "Please discount two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Discount' = reduction in price; key sales vocabulary.",
     "explanationJa": "「discount」は値引きを意味し、営業の重要語彙です。"
   },
@@ -1025,10 +1025,10 @@
     "word": "warehouse",
     "definition": "a large building for storing goods",
     "sentences": [
-      "The stock is currently held in our main ____ outside the city.",
-      "The stock is currently held in our main eyebrow outside the city.",
-      "The stock is currently held in our main warehouse outside the city.",
-      "The stock is currently held in our main breakfast outside the city."
+      "She warehouse to the office every morning.",
+      "I am feeling very warehouse today.",
+      "The shipment is being held at the warehouse.",
+      "Please warehouse two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Warehouse' = storage facility for inventory.",
@@ -1040,10 +1040,10 @@
     "word": "coworker",
     "definition": "a person you work with",
     "sentences": [
-      "My ____ from the marketing team will join the call later.",
-      "My horizon from the marketing team will join the call later.",
-      "My coworker from the marketing team will join the call later.",
-      "My lantern from the marketing team will join the call later."
+      "She coworker to the office every morning.",
+      "I am feeling very coworker today.",
+      "My coworker helped me prepare for the presentation.",
+      "Please coworker two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Coworker' = person you work with; informal alternative to 'colleague'.",
@@ -1055,12 +1055,12 @@
     "word": "shift",
     "definition": "a scheduled work period",
     "sentences": [
-      "I usually work the morning ____ from 7 to 3.",
-      "I usually work the morning ladder from 7 to 3.",
-      "I usually work the morning rumour from 7 to 3.",
-      "I usually work the morning shift from 7 to 3."
+      "She shift to the office every morning unexpectedly.",
+      "I am feeling very shift today.",
+      "I am working the night shift this week.",
+      "Please shift two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Shift' = block of working hours, common in retail and operations.",
     "explanationJa": "「shift」はシフト・勤務時間帯のことで、小売や運営でよく使われます。"
   },
@@ -1070,12 +1070,12 @@
     "word": "complaint",
     "definition": "a statement that something is wrong",
     "sentences": [
-      "We received a ____ about the quality of the latest batch.",
-      "We received a complaint about the quality of the latest batch.",
-      "We received a sunrise about the quality of the latest batch.",
-      "We received a curtain about the quality of the latest batch."
+      "She complaint to the office every morning.",
+      "I am feeling very complaint today.",
+      "The customer filed a formal complaint about the delivery.",
+      "Please complaint two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Complaint' = formal expression of dissatisfaction.",
     "explanationJa": "「complaint」は正式な不満表明のことです。"
   },
@@ -1085,10 +1085,10 @@
     "word": "manager",
     "definition": "a person in charge of others",
     "sentences": [
-      "Please speak to your ____ before approving the expense.",
-      "Please speak to your stadium before approving the expense.",
-      "Please speak to your manager before approving the expense.",
-      "Please speak to your blanket before approving the expense."
+      "She manager to the office every morning.",
+      "I am feeling very manager today.",
+      "Please speak to the manager about the issue.",
+      "Please manager two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Manager' = person responsible for staff or projects.",
@@ -1100,12 +1100,12 @@
     "word": "register",
     "definition": "to record officially",
     "sentences": [
-      "You need to ____ for the conference by Friday.",
-      "You need to register for the conference by Friday.",
-      "You need to admire for the conference by Friday.",
-      "You need to whisper for the conference by Friday."
+      "She register to the office every morning casually.",
+      "I am feeling very register today.",
+      "Please register for the training before Friday.",
+      "Please register two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Register for' = sign up officially.",
     "explanationJa": "「register for」は正式に登録する・申し込むという意味です。"
   },
@@ -1115,10 +1115,10 @@
     "word": "vacancy",
     "definition": "an unfilled job position",
     "sentences": [
-      "There is a ____ in the accounting team starting in June.",
-      "There is a tornado in the accounting team starting in June.",
-      "There is a vacancy in the accounting team starting in June.",
-      "There is a balloon in the accounting team starting in June."
+      "She vacancy to the office every morning.",
+      "I am feeling very vacancy today.",
+      "There is a vacancy in the marketing team.",
+      "Please vacancy two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Vacancy' = open job role or empty hotel room.",
@@ -1130,12 +1130,12 @@
     "word": "order",
     "definition": "a request to buy goods",
     "sentences": [
-      "I'd like to place an ____ for fifty units of the new product.",
-      "I'd like to place an order for fifty units of the new product.",
-      "I'd like to place an island for fifty units of the new product.",
-      "I'd like to place an apricot for fifty units of the new product."
+      "She order to the office every morning randomly.",
+      "I am feeling very order today.",
+      "I would like to place an order for fifty units.",
+      "Please order two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Place an order for' = formally request to buy.",
     "explanationJa": "「place an order for」は正式に注文するという意味です。"
   },
@@ -1145,10 +1145,10 @@
     "word": "booking",
     "definition": "a reservation",
     "sentences": [
-      "I made a ____ for the conference room at 2 p.m.",
-      "I made a candle for the conference room at 2 p.m.",
-      "I made a booking for the conference room at 2 p.m.",
-      "I made a thunder for the conference room at 2 p.m."
+      "She booking to the office every morning.",
+      "I am feeling very booking today.",
+      "Could you confirm the booking for tomorrow's meeting?",
+      "Please booking two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Booking' = reservation; British English business standard.",
@@ -1160,12 +1160,12 @@
     "word": "sample",
     "definition": "a small example of a product",
     "sentences": [
-      "Could you send us a ____ of the fabric before we order?",
-      "Could you send us a glacier of the fabric before we order?",
-      "Could you send us a marathon of the fabric before we order?",
-      "Could you send us a sample of the fabric before we order?"
+      "She sample to the office every morning casually.",
+      "I am feeling very sample today.",
+      "We sent a free sample to the prospective client.",
+      "Please sample two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Sample' = trial portion sent for inspection.",
     "explanationJa": "「sample」は検査用に送られる試供品のことです。"
   },
@@ -1175,12 +1175,12 @@
     "word": "queue",
     "definition": "a line of people waiting",
     "sentences": [
-      "There was a long ____ at the customer service desk this morning.",
-      "There was a long queue at the customer service desk this morning.",
-      "There was a long valley at the customer service desk this morning.",
-      "There was a long fragrance at the customer service desk this morning."
+      "She queue to the office every morning.",
+      "I am feeling very queue today.",
+      "There was a long queue at the reception desk.",
+      "Please queue two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Queue' = waiting line; British English (US: 'line').",
     "explanationJa": "「queue」はイギリス英語で待ち行列を意味します(米語では line)。"
   },
@@ -1190,10 +1190,10 @@
     "word": "receipt",
     "definition": "a printed proof of purchase",
     "sentences": [
-      "Please keep your ____ in case you need to return the item.",
-      "Please keep your eclipse in case you need to return the item.",
+      "She receipt to the office every morning.",
+      "I am feeling very receipt today.",
       "Please keep your receipt in case you need to return the item.",
-      "Please keep your saddle in case you need to return the item."
+      "Please receipt two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Receipt' = proof of payment; pronounced 'ri-SEET'.",
@@ -1205,10 +1205,10 @@
     "word": "reimburse",
     "definition": "to pay back money someone spent",
     "sentences": [
-      "The company will ____ you for any approved travel expenses.",
-      "The company will alleviate you for any approved travel expenses.",
-      "The company will reimburse you for any approved travel expenses.",
-      "The company will harvest you for any approved travel expenses."
+      "She reimburse to the office every morning.",
+      "I am feeling very reimburse today.",
+      "The company will reimburse you for travel expenses.",
+      "Please reimburse two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Reimburse' = pay back; formal for expense claims.",
@@ -1220,12 +1220,12 @@
     "word": "escalate",
     "definition": "to raise an issue to a higher level",
     "sentences": [
-      "If the supplier doesn't respond today, we'll need to ____ this.",
-      "If the supplier doesn't respond today, we'll need to escalate this.",
-      "If the supplier doesn't respond today, we'll need to evaporate this.",
-      "If the supplier doesn't respond today, we'll need to germinate this."
+      "She escalate to the office every morning.",
+      "I am feeling very escalate today.",
+      "If the issue persists, please escalate it to your manager.",
+      "Please escalate two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Escalate' = pass an issue up the chain; common in support.",
     "explanationJa": "「escalate」は問題を上層へエスカレートさせるという意味で、サポート業務で頻出です。"
   },
@@ -1235,12 +1235,12 @@
     "word": "onboarding",
     "definition": "the process of integrating new hires",
     "sentences": [
-      "The new employee ____ programme lasts two weeks.",
-      "The new employee onboarding programme lasts two weeks.",
-      "The new employee thunderstorm programme lasts two weeks.",
-      "The new employee marshland programme lasts two weeks."
+      "She onboarding to the office every morning.",
+      "I am feeling very onboarding today.",
+      "New hires complete a one-week onboarding programme.",
+      "Please onboarding two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Onboarding' = orientation for new staff; HR standard.",
     "explanationJa": "「onboarding」は新入社員のオリエンテーションを指す人事用語です。"
   },
@@ -1250,12 +1250,12 @@
     "word": "feasible",
     "definition": "possible to do",
     "sentences": [
-      "Launching by Q3 is technically ____, but tight on resources.",
-      "Launching by Q3 is technically feasible, but tight on resources.",
-      "Launching by Q3 is technically obsolete, but tight on resources.",
-      "Launching by Q3 is technically nautical, but tight on resources."
+      "She feasible to the office every morning.",
+      "I am feeling very feasible today.",
+      "Launching by Q3 is no longer feasible given the delays.",
+      "Please feasible two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Feasible' = workable, doable; project-planning term.",
     "explanationJa": "「feasible」は実行可能・実現可能という意味で、プロジェクト計画用語です。"
   },
@@ -1265,12 +1265,12 @@
     "word": "overhead",
     "definition": "ongoing business operating costs",
     "sentences": [
-      "Reducing ____ is critical to improving our profit margins.",
-      "Reducing telescope is critical to improving our profit margins.",
-      "Reducing migration is critical to improving our profit margins.",
-      "Reducing overhead is critical to improving our profit margins."
+      "She overhead to the office every morning loudly.",
+      "I am feeling very overhead today.",
+      "Our overhead costs increased after the office move.",
+      "Please overhead two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Overhead' = rent, utilities, salaries — recurring fixed costs.",
     "explanationJa": "「overhead」は家賃・光熱費・給与などの固定経費のことです。"
   },
@@ -1280,12 +1280,12 @@
     "word": "benchmark",
     "definition": "a standard to measure against",
     "sentences": [
-      "Our response time exceeds the industry ____ by 12%.",
-      "Our response time exceeds the industry benchmark by 12%.",
-      "Our response time exceeds the industry crocodile by 12%.",
-      "Our response time exceeds the industry sandstorm by 12%."
+      "She benchmark to the office every morning.",
+      "I am feeling very benchmark today.",
+      "We use industry data as a benchmark for performance.",
+      "Please benchmark two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Benchmark' = reference standard for comparison.",
     "explanationJa": "「benchmark」は比較の基準を意味します。"
   },
@@ -1295,12 +1295,12 @@
     "word": "turnover",
     "definition": "total sales revenue or staff replacement rate",
     "sentences": [
-      "Annual ____ grew by 8% despite difficult market conditions.",
-      "Annual turnover grew by 8% despite difficult market conditions.",
-      "Annual armadillo grew by 8% despite difficult market conditions.",
-      "Annual seashell grew by 8% despite difficult market conditions."
+      "She turnover to the office every morning.",
+      "I am feeling very turnover today.",
+      "Annual turnover grew by 12 percent this year.",
+      "Please turnover two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Turnover' has two meanings: total revenue, or rate of staff leaving.",
     "explanationJa": "「turnover」には総売上と離職率の二つの意味があります。"
   },
@@ -1310,12 +1310,12 @@
     "word": "prospect",
     "definition": "a potential customer",
     "sentences": [
-      "The sales team identified twelve qualified ____ from the trade show.",
-      "The sales team identified twelve qualified prospects from the trade show.",
-      "The sales team identified twelve qualified haystacks from the trade show.",
-      "The sales team identified twelve qualified dolphins from the trade show."
+      "She prospect to the office every morning casually.",
+      "I am feeling very prospect today.",
+      "That client is a strong prospect for next quarter.",
+      "Please prospect two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Prospect' = a likely buyer; pipeline vocabulary.",
     "explanationJa": "「prospect」は見込み客のことで、営業パイプラインの語彙です。"
   },
@@ -1325,12 +1325,12 @@
     "word": "viable",
     "definition": "capable of working successfully",
     "sentences": [
-      "After review, the proposal is no longer financially ____.",
-      "After review, the proposal is no longer financially viable.",
-      "After review, the proposal is no longer financially crystalline.",
-      "After review, the proposal is no longer financially aromatic."
+      "She viable to the office every morning.",
+      "I am feeling very viable today.",
+      "The plan is no longer viable given the new constraints.",
+      "Please viable two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Viable' = workable, sustainable; near-synonym of 'feasible' but stronger.",
     "explanationJa": "「viable」は実行可能で持続可能という意味で、feasible より強い語感です。"
   },
@@ -1340,12 +1340,12 @@
     "word": "prioritise",
     "definition": "to treat as more important",
     "sentences": [
-      "We need to ____ customer-facing issues over internal ones.",
-      "We need to prioritise customer-facing issues over internal ones.",
-      "We need to harmonise customer-facing issues over internal ones.",
-      "We need to crystallise customer-facing issues over internal ones."
+      "She prioritise to the office every morning.",
+      "I am feeling very prioritise today.",
+      "We need to prioritise customer-facing fixes this sprint.",
+      "Please prioritise two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Prioritise' (US: prioritize) = rank by importance.",
     "explanationJa": "「prioritise」(米: prioritize) は重要度順に並べるという意味です。"
   },
@@ -1355,10 +1355,10 @@
     "word": "variance",
     "definition": "a difference between expected and actual",
     "sentences": [
-      "There's a small ____ between the invoice and the purchase order.",
-      "There's a small symphony between the invoice and the purchase order.",
-      "There's a small variance between the invoice and the purchase order.",
-      "There's a small archipelago between the invoice and the purchase order."
+      "She variance to the office every morning.",
+      "I am feeling very variance today.",
+      "There is a small variance between the two reports.",
+      "Please variance two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Variance' = quantitative gap; finance/audit term.",
@@ -1370,12 +1370,12 @@
     "word": "deliverable",
     "definition": "a tangible item produced as part of work",
     "sentences": [
-      "The first project ____ is due at the end of next week.",
-      "The first project peninsula is due at the end of next week.",
-      "The first project hailstorm is due at the end of next week.",
-      "The first project deliverable is due at the end of next week."
+      "She deliverable to the office every morning.",
+      "I am feeling very deliverable today.",
+      "The first deliverable is due at the end of the month.",
+      "Please deliverable two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Deliverable' = concrete output of a project; PM vocabulary.",
     "explanationJa": "「deliverable」はプロジェクトの具体的な成果物のことで、PM 用語です。"
   },
@@ -1385,10 +1385,10 @@
     "word": "negotiate",
     "definition": "to discuss to reach an agreement",
     "sentences": [
-      "We need to ____ better terms with the new supplier.",
-      "We need to fluctuate better terms with the new supplier.",
-      "We need to negotiate better terms with the new supplier.",
-      "We need to germinate better terms with the new supplier."
+      "She negotiate to the office every morning.",
+      "I am feeling very negotiate today.",
+      "Legal will negotiate the terms with the supplier.",
+      "Please negotiate two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Negotiate' = bargain to reach mutually acceptable terms.",
@@ -1400,12 +1400,12 @@
     "word": "endorse",
     "definition": "to publicly support or recommend",
     "sentences": [
-      "The CEO is willing to ____ the new product in next month's launch.",
-      "The CEO is willing to endorse the new product in next month's launch.",
-      "The CEO is willing to circulate the new product in next month's launch.",
-      "The CEO is willing to disperse the new product in next month's launch."
+      "She endorse to the office every morning.",
+      "I am feeling very endorse today.",
+      "The CEO publicly endorsed the new strategy.",
+      "Please endorse two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Endorse' = give official approval or backing to.",
     "explanationJa": "「endorse」は公式に承認・支持するという意味です。"
   },
@@ -1415,10 +1415,10 @@
     "word": "compliance",
     "definition": "acting according to rules",
     "sentences": [
-      "The audit confirmed full ____ with the new data regulations.",
-      "The audit confirmed full meridian with the new data regulations.",
-      "The audit confirmed full compliance with the new data regulations.",
-      "The audit confirmed full glacier with the new data regulations."
+      "She compliance to the office every morning.",
+      "I am feeling very compliance today.",
+      "All staff must complete annual compliance training.",
+      "Please compliance two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Compliance' = following rules/laws; legal-finance vocabulary.",
@@ -1430,12 +1430,12 @@
     "word": "sustain",
     "definition": "to keep something going over time",
     "sentences": [
-      "Our main goal is to ____ growth without overextending the team.",
-      "Our main goal is to vaporise growth without overextending the team.",
-      "Our main goal is to embellish growth without overextending the team.",
-      "Our main goal is to sustain growth without overextending the team."
+      "She sustain to the office every morning casually.",
+      "I am feeling very sustain today.",
+      "We need to sustain this growth into next year.",
+      "Please sustain two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Sustain' = maintain over time; collocates with growth, effort, momentum.",
     "explanationJa": "「sustain」は長期にわたって維持するという意味で、growth, effort, momentum と結びつきます。"
   },
@@ -1445,12 +1445,12 @@
     "word": "overheads",
     "definition": "running costs of a business",
     "sentences": [
-      "Cutting unnecessary ____ helped us survive the downturn.",
-      "Cutting unnecessary overheads helped us survive the downturn.",
-      "Cutting unnecessary glaciers helped us survive the downturn.",
-      "Cutting unnecessary tapestry helped us survive the downturn."
+      "She overheads to the office every morning.",
+      "I am feeling very overheads today.",
+      "Our overheads have risen due to higher rent.",
+      "Please overheads two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Overheads' = fixed running costs like rent, utilities, salaries (UK plural).",
     "explanationJa": "「overheads」は家賃・光熱費・給与などの固定経費のことです(英国の複数形)。"
   },
@@ -1460,10 +1460,10 @@
     "word": "liability",
     "definition": "a legal financial obligation",
     "sentences": [
-      "The company's ____ for the defective product is being assessed.",
-      "The company's atmosphere for the defective product is being assessed.",
-      "The company's liability for the defective product is being assessed.",
-      "The company's daffodil for the defective product is being assessed."
+      "She liability to the office every morning.",
+      "I am feeling very liability today.",
+      "Outdated software is becoming a liability for the team.",
+      "Please liability two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Liability' = legal/financial responsibility; key accounting term.",
@@ -1475,10 +1475,10 @@
     "word": "merger",
     "definition": "the joining of two companies",
     "sentences": [
-      "The proposed ____ would create the largest firm in the region.",
-      "The proposed thunderclap would create the largest firm in the region.",
-      "The proposed merger would create the largest firm in the region.",
-      "The proposed wildflower would create the largest firm in the region."
+      "She merger to the office every morning.",
+      "I am feeling very merger today.",
+      "The proposed merger will create the industry leader.",
+      "Please merger two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Merger' = combination of two companies; M&A vocabulary.",
@@ -1490,12 +1490,12 @@
     "word": "liaise",
     "definition": "to communicate and cooperate",
     "sentences": [
-      "Please ____ with the design team on the new packaging.",
+      "She liaise to the office every morning.",
+      "I am feeling very liaise today.",
       "Please liaise with the design team on the new packaging.",
-      "Please incubate with the design team on the new packaging.",
-      "Please orbit with the design team on the new packaging."
+      "Please liaise two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Liaise with' = work in coordination with; British English business standard.",
     "explanationJa": "「liaise with」は〜と連携するという意味で、イギリス英語のビジネス標準表現です。"
   },
@@ -1505,10 +1505,10 @@
     "word": "discount",
     "definition": "to reduce price",
     "sentences": [
-      "We can ____ the bulk order by an additional five percent.",
-      "We can ferment the bulk order by an additional five percent.",
-      "We can discount the bulk order by an additional five percent.",
-      "We can hydrate the bulk order by an additional five percent."
+      "She discount to the office every morning casually.",
+      "I am feeling very discount today.",
+      "We will discount the price by 10 percent for early orders.",
+      "Please discount two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Discount' as a verb = lower the price.",
@@ -1520,12 +1520,12 @@
     "word": "workload",
     "definition": "the amount of work to do",
     "sentences": [
-      "My ____ has been heavy this week with three projects running.",
-      "My workload has been heavy this week with three projects running.",
-      "My valley has been heavy this week with three projects running.",
-      "My butterfly has been heavy this week with three projects running."
+      "She workload to the office every morning.",
+      "I am feeling very workload today.",
+      "My workload has been heavy since the new project started.",
+      "Please workload two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Workload' = total tasks assigned; compound noun.",
     "explanationJa": "「workload」は割り当てられた仕事量のことで、複合名詞です。"
   },
@@ -1535,10 +1535,10 @@
     "word": "vendor",
     "definition": "a company that sells products",
     "sentences": [
-      "We rely on three external ____ for our office supplies.",
-      "We rely on three external pelicans for our office supplies.",
-      "We rely on three external vendors for our office supplies.",
-      "We rely on three external icicles for our office supplies."
+      "She vendor to the office every morning.",
+      "I am feeling very vendor today.",
+      "Our preferred vendor has raised their prices again.",
+      "Please vendor two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Vendor' = seller, supplier (US English preferred).",
@@ -1550,10 +1550,10 @@
     "word": "shipment",
     "definition": "a load of goods being sent",
     "sentences": [
-      "The ____ from China should arrive on Thursday morning.",
-      "The volcano from China should arrive on Thursday morning.",
-      "The shipment from China should arrive on Thursday morning.",
-      "The sapphire from China should arrive on Thursday morning."
+      "She shipment to the office every morning.",
+      "I am feeling very shipment today.",
+      "The shipment is due to arrive by Wednesday.",
+      "Please shipment two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Shipment' = freight being delivered; logistics vocabulary.",
@@ -1565,10 +1565,10 @@
     "word": "shortage",
     "definition": "a lack of something needed",
     "sentences": [
-      "A ____ of qualified candidates is slowing our hiring plan.",
-      "A spectrum of qualified candidates is slowing our hiring plan.",
-      "A shortage of qualified candidates is slowing our hiring plan.",
-      "A horizon of qualified candidates is slowing our hiring plan."
+      "She shortage to the office every morning.",
+      "I am feeling very shortage today.",
+      "There is a shortage of qualified candidates this quarter.",
+      "Please shortage two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Shortage of' = insufficient supply of.",
@@ -1580,10 +1580,10 @@
     "word": "income",
     "definition": "money received from work",
     "sentences": [
-      "His main ____ comes from freelance consulting projects.",
-      "His main eclipse comes from freelance consulting projects.",
-      "His main income comes from freelance consulting projects.",
-      "His main glacier comes from freelance consulting projects."
+      "She income to the office every morning.",
+      "I am feeling very income today.",
+      "Rental income has been steady throughout the year.",
+      "Please income two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Income' = money earned; opposite of expenses.",
@@ -1595,12 +1595,12 @@
     "word": "contract",
     "definition": "a written agreement",
     "sentences": [
-      "Both parties signed the ____ last Friday afternoon.",
-      "Both parties signed the contract last Friday afternoon.",
-      "Both parties signed the lagoon last Friday afternoon.",
-      "Both parties signed the meteor last Friday afternoon."
+      "She contract to the office every morning casually.",
+      "I am feeling very contract today.",
+      "Please review the contract before signing.",
+      "Please contract two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Contract' = legally binding written agreement.",
     "explanationJa": "「contract」は法的拘束力のある書面契約のことです。"
   },
@@ -1610,12 +1610,12 @@
     "word": "profit",
     "definition": "money earned after costs",
     "sentences": [
-      "The store made a small ____ in its first year of operation.",
-      "The store made a small profit in its first year of operation.",
-      "The store made a small canyon in its first year of operation.",
-      "The store made a small parsley in its first year of operation."
+      "She profit to the office every morning casually.",
+      "I am feeling very profit today.",
+      "Profit margins have improved since the cost review.",
+      "Please profit two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Profit' = revenue minus expenses; basic finance term.",
     "explanationJa": "「profit」は売上から経費を引いた利益のことで、財務の基本語彙です。"
   },
@@ -1625,10 +1625,10 @@
     "word": "summary",
     "definition": "a short version of something longer",
     "sentences": [
-      "Please send me a one-page ____ of the report by tomorrow.",
-      "Please send me a one-page mountain of the report by tomorrow.",
-      "Please send me a one-page summary of the report by tomorrow.",
-      "Please send me a one-page raincoat of the report by tomorrow."
+      "She summary to the office every morning.",
+      "I am feeling very summary today.",
+      "Could you send me a summary of yesterday's call?",
+      "Please summary two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Summary' = condensed version; common in executive communication.",
@@ -1640,10 +1640,10 @@
     "word": "location",
     "definition": "a place where something is",
     "sentences": [
-      "The new office ____ has excellent transport links.",
-      "The new office melody has excellent transport links.",
-      "The new office location has excellent transport links.",
-      "The new office aroma has excellent transport links."
+      "She location to the office every morning.",
+      "I am feeling very location today.",
+      "The new location is closer to public transport.",
+      "Please location two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Location' = specific place; common in real estate and operations.",
@@ -1655,12 +1655,12 @@
     "word": "target",
     "definition": "a specific goal",
     "sentences": [
-      "Our sales team hit its quarterly ____ two weeks early.",
-      "Our sales team hit its quarterly target two weeks early.",
-      "Our sales team hit its quarterly seashell two weeks early.",
-      "Our sales team hit its quarterly raincloud two weeks early."
+      "She target to the office every morning casually.",
+      "I am feeling very target today.",
+      "We hit our quarterly sales target ahead of schedule.",
+      "Please target two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Target' = specific goal; 'hit a target' is fixed collocation.",
     "explanationJa": "「target」は具体的な目標のことで、hit a target は固定の連語です。"
   },
@@ -1670,12 +1670,12 @@
     "word": "branch",
     "definition": "a part of an organization",
     "sentences": [
-      "The financial ____ of the company is based in London.",
-      "The financial branch of the company is based in London.",
-      "The financial puddle of the company is based in London.",
-      "The financial fountain of the company is based in London."
+      "She branch to the office every morning slowly.",
+      "I am feeling very branch today.",
+      "We are opening a new branch in Manchester next month.",
+      "Please branch two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Branch' = division or local office of an organization.",
     "explanationJa": "「branch」は組織の部門や地方支店のことです。"
   },
@@ -1685,12 +1685,12 @@
     "word": "refund",
     "definition": "to give money back",
     "sentences": [
-      "The store agreed to ____ the full purchase price.",
-      "The store agreed to evaporate the full purchase price.",
-      "The store agreed to germinate the full purchase price.",
-      "The store agreed to refund the full purchase price."
+      "She refund to the office every morning casually.",
+      "I am feeling very refund today.",
+      "We will refund your payment within five business days.",
+      "Please refund two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Refund' as verb = return payment to customer.",
     "explanationJa": "動詞「refund」は顧客への返金処理を意味します。"
   },
@@ -1700,12 +1700,12 @@
     "word": "client",
     "definition": "a customer of a service",
     "sentences": [
-      "Our biggest ____ has renewed the annual contract.",
-      "Our biggest client has renewed the annual contract.",
-      "Our biggest gravel has renewed the annual contract.",
-      "Our biggest hailstone has renewed the annual contract."
+      "She client to the office every morning.",
+      "I am feeling very client today.",
+      "Our largest client has renewed for another two years.",
+      "Please client two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Client' = customer, usually for professional services.",
     "explanationJa": "「client」は通常、専門サービスの顧客を意味します。"
   },
@@ -1715,10 +1715,10 @@
     "word": "branch",
     "definition": "to divide into parts",
     "sentences": [
-      "The corridor will ____ off to the right after the lobby.",
-      "The corridor will whisper off to the right after the lobby.",
-      "The corridor will branch off to the right after the lobby.",
-      "The corridor will scatter off to the right after the lobby."
+      "She branch to the office every morning casually.",
+      "I am feeling very branch today.",
+      "The discussion began to branch into unrelated topics.",
+      "Please branch two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Branch off' = split into a separate direction or path.",
@@ -1730,10 +1730,10 @@
     "word": "interview",
     "definition": "a formal meeting to discuss a job",
     "sentences": [
-      "I have an ____ for the marketing role on Friday at ten.",
-      "I have an avalanche for the marketing role on Friday at ten.",
-      "I have an interview for the marketing role on Friday at ten.",
-      "I have an iceberg for the marketing role on Friday at ten."
+      "She interview to the office every morning.",
+      "I am feeling very interview today.",
+      "The interview is scheduled for Thursday at 2 p.m.",
+      "Please interview two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Interview' = formal questioning, often for jobs.",
@@ -1745,10 +1745,10 @@
     "word": "clerk",
     "definition": "an office worker who handles records",
     "sentences": [
-      "The ____ at the front desk will help you fill in the form.",
-      "The hurricane at the front desk will help you fill in the form.",
-      "The clerk at the front desk will help you fill in the form.",
-      "The cactus at the front desk will help you fill in the form."
+      "She clerk to the office every morning.",
+      "I am feeling very clerk today.",
+      "The front-desk clerk will help you with the booking.",
+      "Please clerk two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Clerk' = office or counter worker handling paperwork.",
@@ -1760,12 +1760,12 @@
     "word": "deadline",
     "definition": "the latest time to finish",
     "sentences": [
-      "The team is racing against the ____ for the launch.",
-      "The team is racing against the deadline for the launch.",
-      "The team is racing against the meadow for the launch.",
-      "The team is racing against the sunrise for the launch."
+      "She deadline to the office every morning casually.",
+      "I am feeling very deadline today.",
+      "The deadline for the proposal is Friday at 5 p.m.",
+      "Please deadline two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Race against the deadline' = struggle to finish in time; fixed phrase.",
     "explanationJa": "「race against the deadline」は締切に間に合わせようと奮闘するという固定表現です。"
   },
@@ -1775,10 +1775,10 @@
     "word": "chair",
     "definition": "to lead a meeting",
     "sentences": [
-      "Sarah will ____ the meeting in the director's absence.",
-      "Sarah will evaporate the meeting in the director's absence.",
-      "Sarah will chair the meeting in the director's absence.",
-      "Sarah will harvest the meeting in the director's absence."
+      "She chair to the office every morning casually.",
+      "I am feeling very chair today.",
+      "Sarah will chair tomorrow's strategy meeting.",
+      "Please chair two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Chair' as verb = lead or moderate a meeting.",
@@ -1790,12 +1790,12 @@
     "word": "voucher",
     "definition": "a paper that gives the right to something",
     "sentences": [
-      "Customers received a ten-dollar ____ as an apology.",
-      "Customers received a ten-dollar voucher as an apology.",
-      "Customers received a ten-dollar pyramid as an apology.",
-      "Customers received a ten-dollar shoreline as an apology."
+      "She voucher to the office every morning.",
+      "I am feeling very voucher today.",
+      "We sent each customer a voucher for the inconvenience.",
+      "Please voucher two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Voucher' = ticket or document with monetary value.",
     "explanationJa": "「voucher」は金銭的価値のあるチケットや書類のことです。"
   },
@@ -1805,10 +1805,10 @@
     "word": "streamline",
     "definition": "to make a process simpler and faster",
     "sentences": [
-      "The new software will ____ our invoice processing workflow.",
-      "The new software will overshadow our invoice processing workflow.",
-      "The new software will streamline our invoice processing workflow.",
-      "The new software will marginalise our invoice processing workflow."
+      "She streamline to the office every morning casually.",
+      "I am feeling very streamline today.",
+      "We aim to streamline the approval workflow next quarter.",
+      "Please streamline two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Streamline' = make more efficient by removing unnecessary steps.",
@@ -1820,12 +1820,12 @@
     "word": "allocate",
     "definition": "to assign resources for a purpose",
     "sentences": [
-      "We need to ____ more budget to the digital marketing team.",
-      "We need to evaporate more budget to the digital marketing team.",
-      "We need to germinate more budget to the digital marketing team.",
-      "We need to allocate more budget to the digital marketing team."
+      "She allocate to the office every morning casually.",
+      "I am feeling very allocate today.",
+      "Finance will allocate the budget across the four teams.",
+      "Please allocate two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Allocate' = formally assign or distribute resources.",
     "explanationJa": "「allocate」は資源を正式に割り当て・配分するという意味です。"
   },
@@ -1835,12 +1835,12 @@
     "word": "outsource",
     "definition": "to hire an outside company to do work",
     "sentences": [
-      "We've decided to ____ our IT support to a specialist firm.",
-      "We've decided to outsource our IT support to a specialist firm.",
-      "We've decided to germinate our IT support to a specialist firm.",
-      "We've decided to harmonise our IT support to a specialist firm."
+      "She outsource to the office every morning casually.",
+      "I am feeling very outsource today.",
+      "We may outsource the helpdesk to a specialist provider.",
+      "Please outsource two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Outsource' = transfer a function to an external provider.",
     "explanationJa": "「outsource」は機能を外部委託するという意味です。"
   },
@@ -1850,10 +1850,10 @@
     "word": "counter",
     "definition": "to respond against an offer",
     "sentences": [
-      "They are likely to ____ our offer with a higher price.",
-      "They are likely to evaporate our offer with a higher price.",
-      "They are likely to counter our offer with a higher price.",
-      "They are likely to incubate our offer with a higher price."
+      "She counter to the office every morning casually.",
+      "I am feeling very counter today.",
+      "The supplier countered our proposal with revised terms.",
+      "Please counter two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Counter' = respond with an opposing position; negotiation.",
@@ -1865,12 +1865,12 @@
     "word": "concede",
     "definition": "to admit or give up a point",
     "sentences": [
-      "The director was forced to ____ that the launch was premature.",
-      "The director was forced to germinate that the launch was premature.",
-      "The director was forced to evaporate that the launch was premature.",
-      "The director was forced to concede that the launch was premature."
+      "She concede to the office every morning casually.",
+      "I am feeling very concede today.",
+      "The team eventually conceded that the timeline was unrealistic.",
+      "Please concede two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Concede' = reluctantly admit; common in debate/negotiation.",
     "explanationJa": "「concede」は議論や交渉でしぶしぶ認めるという意味です。"
   },
@@ -1880,10 +1880,10 @@
     "word": "exceed",
     "definition": "to go beyond a limit",
     "sentences": [
-      "Our Q2 results ____ all internal forecasts by a wide margin.",
-      "Our Q2 results harmonise all internal forecasts by a wide margin.",
-      "Our Q2 results exceed all internal forecasts by a wide margin.",
-      "Our Q2 results incubate all internal forecasts by a wide margin."
+      "She exceed to the office every morning casually.",
+      "I am feeling very exceed today.",
+      "Our results exceeded expectations across every region.",
+      "Please exceed two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Exceed' = surpass; collocates with expectations, target, limit.",
@@ -1895,10 +1895,10 @@
     "word": "pending",
     "definition": "waiting to be decided",
     "sentences": [
-      "The contract is ____ legal review and should clear by Friday.",
-      "The contract is harmonising legal review and should clear by Friday.",
-      "The contract is pending legal review and should clear by Friday.",
-      "The contract is evaporating legal review and should clear by Friday."
+      "She pending to the office every morning.",
+      "I am feeling very pending today.",
+      "The merger is pending regulatory approval.",
+      "Please pending two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Pending' = awaiting completion; adjective or preposition.",
@@ -1910,12 +1910,12 @@
     "word": "interim",
     "definition": "temporary, in the meantime",
     "sentences": [
-      "She will serve as ____ CEO until a permanent hire is made.",
-      "She will serve as harmonious CEO until a permanent hire is made.",
-      "She will serve as crystalline CEO until a permanent hire is made.",
-      "She will serve as interim CEO until a permanent hire is made."
+      "She interim to the office every morning casually.",
+      "I am feeling very interim today.",
+      "An interim CEO has been appointed during the search.",
+      "Please interim two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Interim' = temporary, during the interval; senior business term.",
     "explanationJa": "「interim」は暫定・つなぎという意味で、上級ビジネス用語です。"
   },
@@ -1925,10 +1925,10 @@
     "word": "align",
     "definition": "to put in agreement or coordination",
     "sentences": [
-      "The proposal must ____ with our long-term strategy.",
-      "The proposal must germinate with our long-term strategy.",
-      "The proposal must align with our long-term strategy.",
-      "The proposal must harvest with our long-term strategy."
+      "She align to the office every morning casually.",
+      "I am feeling very align today.",
+      "The strategy must align with our long-term vision.",
+      "Please align two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Align with' = match, be consistent with; strategic vocabulary.",
@@ -1940,10 +1940,10 @@
     "word": "delegate",
     "definition": "to give a task to someone else",
     "sentences": [
-      "Good managers know how to ____ routine work to their team.",
-      "Good managers know how to germinate routine work to their team.",
-      "Good managers know how to delegate routine work to their team.",
-      "Good managers know how to evaporate routine work to their team."
+      "She delegate to the office every morning.",
+      "I am feeling very delegate today.",
+      "Strong managers learn to delegate tasks effectively.",
+      "Please delegate two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Delegate' = entrust to a subordinate; leadership skill.",
@@ -1955,10 +1955,10 @@
     "word": "consensus",
     "definition": "general agreement",
     "sentences": [
-      "The board reached a ____ on the new pricing strategy.",
-      "The board reached a glacier on the new pricing strategy.",
-      "The board reached a consensus on the new pricing strategy.",
-      "The board reached a hailstorm on the new pricing strategy."
+      "She consensus to the office every morning.",
+      "I am feeling very consensus today.",
+      "We need to reach a consensus before the announcement.",
+      "Please consensus two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Consensus' = collective agreement; 'reach a consensus' is fixed.",
@@ -1970,12 +1970,12 @@
     "word": "forecast",
     "definition": "to predict future numbers",
     "sentences": [
-      "Analysts ____ a 12% increase in sales next quarter.",
-      "Analysts harmonise a 12% increase in sales next quarter.",
-      "Analysts germinate a 12% increase in sales next quarter.",
-      "Analysts forecast a 12% increase in sales next quarter."
+      "She forecast to the office every morning casually.",
+      "I am feeling very forecast today.",
+      "Analysts forecast steady growth for the next quarter.",
+      "Please forecast two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Forecast' = predict, usually with data; verb and noun.",
     "explanationJa": "「forecast」は通常データに基づいて予測するという意味で、動詞・名詞両方で使います。"
   },
@@ -1985,10 +1985,10 @@
     "word": "backlog",
     "definition": "unfinished work piled up",
     "sentences": [
-      "The support team is working through a large ____ of tickets.",
-      "The support team is working through a large hailstorm of tickets.",
-      "The support team is working through a large backlog of tickets.",
-      "The support team is working through a large meadow of tickets."
+      "She backlog to the office every morning.",
+      "I am feeling very backlog today.",
+      "Engineering is working through a heavy backlog of tickets.",
+      "Please backlog two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Backlog' = accumulated unfinished work.",
@@ -2000,10 +2000,10 @@
     "word": "milestone",
     "definition": "a significant point in a project",
     "sentences": [
-      "Completing the prototype was a major ____ for the team.",
-      "Completing the prototype was a major mountain for the team.",
-      "Completing the prototype was a major milestone for the team.",
-      "Completing the prototype was a major thunderstorm for the team."
+      "She milestone to the office every morning.",
+      "I am feeling very milestone today.",
+      "Reaching one million users was an important milestone.",
+      "Please milestone two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Milestone' = key project event marking progress.",
@@ -2015,12 +2015,12 @@
     "word": "stakeholder",
     "definition": "a person with interest in a project",
     "sentences": [
-      "Every ____ must approve the design before production begins.",
-      "Every stakeholder must approve the design before production begins.",
-      "Every glacier must approve the design before production begins.",
-      "Every horizon must approve the design before production begins."
+      "She stakeholder to the office every morning.",
+      "I am feeling very stakeholder today.",
+      "Each stakeholder must sign off before we proceed.",
+      "Please stakeholder two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Stakeholder' = party with an interest in or influence over a project.",
     "explanationJa": "「stakeholder」はプロジェクトに利害や影響力を持つ関係者のことです。"
   },
@@ -2030,12 +2030,12 @@
     "word": "leverage",
     "definition": "to use to maximum effect",
     "sentences": [
-      "We should ____ our existing customer relationships to drive sales.",
-      "We should evaporate our existing customer relationships to drive sales.",
-      "We should germinate our existing customer relationships to drive sales.",
-      "We should leverage our existing customer relationships to drive sales."
+      "She leverage to the office every morning casually.",
+      "I am feeling very leverage today.",
+      "We can leverage existing relationships to win the contract.",
+      "Please leverage two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Leverage' as verb = use strategically to gain advantage.",
     "explanationJa": "動詞「leverage」は戦略的に活用して優位を得るという意味です。"
   },
@@ -2045,10 +2045,10 @@
     "word": "liaise",
     "definition": "to coordinate between people",
     "sentences": [
-      "I'll ____ with both teams to finalise the rollout schedule.",
-      "I'll evaporate with both teams to finalise the rollout schedule.",
-      "I'll liaise with both teams to finalise the rollout schedule.",
-      "I'll germinate with both teams to finalise the rollout schedule."
+      "She liaise to the office every morning casually.",
+      "I am feeling very liaise today.",
+      "Please liaise with HR on the onboarding schedule.",
+      "Please liaise two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Liaise with' = act as a coordinator/bridge between parties.",
@@ -2060,12 +2060,12 @@
     "word": "vendor",
     "definition": "a supplier or seller",
     "sentences": [
-      "We've shortlisted three ____ for the catering contract.",
-      "We've shortlisted three vendors for the catering contract.",
-      "We've shortlisted three icebergs for the catering contract.",
-      "We've shortlisted three glaciers for the catering contract."
+      "She vendor to the office every morning casually.",
+      "I am feeling very vendor today.",
+      "We have shortlisted three vendors for the catering contract.",
+      "Please vendor two emotions for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Vendor' = a company supplying goods or services.",
     "explanationJa": "「vendor」は商品やサービスを供給する企業のことです。"
   },
@@ -2075,12 +2075,12 @@
     "word": "appoint",
     "definition": "to officially choose for a position",
     "sentences": [
-      "The board will ____ a new CFO next month.",
-      "The board will appoint a new CFO next month.",
-      "The board will germinate a new CFO next month.",
-      "The board will evaporate a new CFO next month."
+      "She appoint to the office every morning.",
+      "I am feeling very appoint today.",
+      "The board will appoint a new director next month.",
+      "Please appoint two coffees for the meeting."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'Appoint' = formally assign someone to a role.",
     "explanationJa": "「appoint」は正式に役職に任命するという意味です。"
   },
@@ -2090,10 +2090,10 @@
     "word": "oversee",
     "definition": "to supervise",
     "sentences": [
-      "She will ____ the merger integration process for both firms.",
-      "She will germinate the merger integration process for both firms.",
-      "She will oversee the merger integration process for both firms.",
-      "She will harmonise the merger integration process for both firms."
+      "She oversee to the office every morning.",
+      "I am feeling very oversee today.",
+      "Maria will oversee the integration of the two teams.",
+      "Please oversee two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Oversee' = supervise from a higher level; manage broadly.",
@@ -2105,12 +2105,12 @@
     "word": "divest",
     "definition": "to sell off a business unit",
     "sentences": [
-      "The conglomerate plans to ____ its underperforming retail arm.",
-      "The conglomerate plans to harmonise its underperforming retail arm.",
-      "The conglomerate plans to germinate its underperforming retail arm.",
-      "The conglomerate plans to divest its underperforming retail arm."
+      "She divest to the office every morning casually.",
+      "I am feeling very divest today.",
+      "The group will divest its non-core European operations.",
+      "Please divest two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Divest' = strategically sell off assets or divisions.",
     "explanationJa": "「divest」は資産や部門を戦略的に売却するという意味です。"
   },
@@ -2120,10 +2120,10 @@
     "word": "circumvent",
     "definition": "to avoid by going around",
     "sentences": [
-      "The firm tried to ____ the new tariffs by routing through Mexico.",
-      "The firm tried to germinate the new tariffs by routing through Mexico.",
-      "The firm tried to circumvent the new tariffs by routing through Mexico.",
-      "The firm tried to evaporate the new tariffs by routing through Mexico."
+      "She circumvent to the office every morning casually.",
+      "I am feeling very circumvent today.",
+      "The proposal seemed designed to circumvent existing rules.",
+      "Please circumvent two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Circumvent' = find a way around an obstacle or rule.",
@@ -2135,12 +2135,12 @@
     "word": "attrition",
     "definition": "gradual loss of staff or customers",
     "sentences": [
-      "Customer ____ has risen since the price increase took effect.",
-      "Customer hurricane has risen since the price increase took effect.",
-      "Customer marmalade has risen since the price increase took effect.",
-      "Customer attrition has risen since the price increase took effect."
+      "She attrition to the office every morning.",
+      "I am feeling very attrition today.",
+      "Customer attrition has slowed since the redesign.",
+      "Please attrition two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Attrition' = gradual reduction; 'employee/customer attrition' are common.",
     "explanationJa": "「attrition」は徐々に減少することで、employee/customer attrition がよく使われます。"
   },
@@ -2150,10 +2150,10 @@
     "word": "forfeit",
     "definition": "to lose as a penalty",
     "sentences": [
-      "By withdrawing early, the firm will ____ its deposit.",
-      "By withdrawing early, the firm will harmonise its deposit.",
-      "By withdrawing early, the firm will forfeit its deposit.",
-      "By withdrawing early, the firm will germinate its deposit."
+      "She forfeit to the office every morning casually.",
+      "I am feeling very forfeit today.",
+      "Late withdrawal means you forfeit the registration fee.",
+      "Please forfeit two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Forfeit' = give up or lose as a penalty; legal/financial register.",
@@ -2165,12 +2165,12 @@
     "word": "expedite",
     "definition": "to make happen faster",
     "sentences": [
-      "Can you ____ this order? The client urgently needs it by Monday.",
-      "Can you germinate this order? The client urgently needs it by Monday.",
-      "Can you evaporate this order? The client urgently needs it by Monday.",
-      "Can you expedite this order? The client urgently needs it by Monday."
+      "She expedite to the office every morning.",
+      "I am feeling very expedite today.",
+      "Could you expedite the approval so we can ship today?",
+      "Please expedite two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Expedite' = accelerate; commonly used in logistics and admin.",
     "explanationJa": "「expedite」は加速するという意味で、物流や事務でよく使われます。"
   },
@@ -2180,10 +2180,10 @@
     "word": "consolidate",
     "definition": "to combine into one",
     "sentences": [
-      "We plan to ____ three regional offices into a single hub.",
-      "We plan to germinate three regional offices into a single hub.",
-      "We plan to consolidate three regional offices into a single hub.",
-      "We plan to evaporate three regional offices into a single hub."
+      "She consolidate to the office every morning casually.",
+      "I am feeling very consolidate today.",
+      "We plan to consolidate three vendors into a single contract.",
+      "Please consolidate two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Consolidate' = merge or unify into a single, stronger entity.",
@@ -2195,10 +2195,10 @@
     "word": "ascertain",
     "definition": "to find out for certain",
     "sentences": [
-      "We need to ____ the cause of the system failure before resuming.",
-      "We need to germinate the cause of the system failure before resuming.",
-      "We need to ascertain the cause of the system failure before resuming.",
-      "We need to harmonise the cause of the system failure before resuming."
+      "She ascertain to the office every morning.",
+      "I am feeling very ascertain today.",
+      "We must ascertain the cause before issuing a fix.",
+      "Please ascertain two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Ascertain' = formally determine or verify; near-synonym of 'establish'.",
@@ -2210,12 +2210,12 @@
     "word": "encroach",
     "definition": "to gradually move into another's space",
     "sentences": [
-      "The competitor is starting to ____ on our core market.",
-      "The competitor is starting to germinate on our core market.",
-      "The competitor is starting to harmonise on our core market.",
-      "The competitor is starting to encroach on our core market."
+      "She encroach to the office every morning casually.",
+      "I am feeling very encroach today.",
+      "New entrants are encroaching on our core market.",
+      "Please encroach two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Encroach on' = gradually intrude into; common in territorial business contexts.",
     "explanationJa": "「encroach on」は徐々に侵入するという意味で、領域的なビジネス文脈で使われます。"
   },
@@ -2225,10 +2225,10 @@
     "word": "relegate",
     "definition": "to assign to a lower position",
     "sentences": [
-      "The brand was ____ to a secondary status after the controversy.",
-      "The brand was germinated to a secondary status after the controversy.",
-      "The brand was relegated to a secondary status after the controversy.",
-      "The brand was evaporated to a secondary status after the controversy."
+      "She relegate to the office every morning casually.",
+      "I am feeling very relegate today.",
+      "The feature was relegated to the backlog for now.",
+      "Please relegate two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Relegate' = demote, push down to a lesser role.",
@@ -2240,12 +2240,12 @@
     "word": "revamp",
     "definition": "to give a new and better form",
     "sentences": [
-      "Marketing plans to ____ the entire website by autumn.",
-      "Marketing plans to germinate the entire website by autumn.",
-      "Marketing plans to harmonise the entire website by autumn.",
-      "Marketing plans to revamp the entire website by autumn."
+      "She revamp to the office every morning.",
+      "I am feeling very revamp today.",
+      "We plan to revamp the website ahead of the launch.",
+      "Please revamp two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Revamp' = thoroughly refresh, redesign, or modernise.",
     "explanationJa": "「revamp」は徹底的に刷新・再設計・近代化するという意味です。"
   },
@@ -2255,10 +2255,10 @@
     "word": "underpin",
     "definition": "to support or form the basis of",
     "sentences": [
-      "Strong ethics ____ every decision the board makes.",
-      "Strong ethics evaporate every decision the board makes.",
-      "Strong ethics underpin every decision the board makes.",
-      "Strong ethics germinate every decision the board makes."
+      "She underpin to the office every morning casually.",
+      "I am feeling very underpin today.",
+      "Trust underpins every successful client relationship.",
+      "Please underpin two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Underpin' = provide the foundation for; figurative use.",
@@ -2270,10 +2270,10 @@
     "word": "preempt",
     "definition": "to act before someone else can",
     "sentences": [
-      "The CEO held a press call to ____ negative media coverage.",
-      "The CEO held a press call to germinate negative media coverage.",
-      "The CEO held a press call to preempt negative media coverage.",
-      "The CEO held a press call to harmonise negative media coverage."
+      "She preempt to the office every morning casually.",
+      "I am feeling very preempt today.",
+      "We launched early to preempt our competitor's announcement.",
+      "Please preempt two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Preempt' = take action first to prevent something.",
@@ -2285,10 +2285,10 @@
     "word": "contingent",
     "definition": "depending on something else",
     "sentences": [
-      "Bonuses are ____ on meeting both revenue and retention targets.",
-      "Bonuses are crystalline on meeting both revenue and retention targets.",
-      "Bonuses are contingent on meeting both revenue and retention targets.",
-      "Bonuses are aromatic on meeting both revenue and retention targets."
+      "She contingent to the office every morning.",
+      "I am feeling very contingent today.",
+      "Funding is contingent upon board approval.",
+      "Please contingent two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Contingent on/upon' = conditional upon; formal business register.",
@@ -2300,12 +2300,12 @@
     "word": "reconcile",
     "definition": "to make accounts agree",
     "sentences": [
-      "The accountant must ____ the bank statement with our ledger.",
-      "The accountant must germinate the bank statement with our ledger.",
-      "The accountant must harmonise the bank statement with our ledger.",
-      "The accountant must reconcile the bank statement with our ledger."
+      "She reconcile to the office every morning casually.",
+      "I am feeling very reconcile today.",
+      "Finance will reconcile the accounts at month-end.",
+      "Please reconcile two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Reconcile' = match two sets of records; finance vocabulary.",
     "explanationJa": "「reconcile」は2つの記録を一致させるという財務用語です。"
   },
@@ -2315,10 +2315,10 @@
     "word": "fluctuate",
     "definition": "to rise and fall irregularly",
     "sentences": [
-      "Oil prices continue to ____ amid geopolitical tensions.",
-      "Oil prices continue to germinate amid geopolitical tensions.",
-      "Oil prices continue to fluctuate amid geopolitical tensions.",
-      "Oil prices continue to harmonise amid geopolitical tensions."
+      "She fluctuate to the office every morning casually.",
+      "I am feeling very fluctuate today.",
+      "Energy prices have continued to fluctuate sharply.",
+      "Please fluctuate two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Fluctuate' = vary up and down; market/data vocabulary.",
@@ -2330,10 +2330,10 @@
     "word": "tentative",
     "definition": "not certain or definite",
     "sentences": [
-      "We've set a ____ launch date pending final approval.",
-      "We've set a crystalline launch date pending final approval.",
-      "We've set a tentative launch date pending final approval.",
-      "We've set a aromatic launch date pending final approval."
+      "She tentative to the office every morning.",
+      "I am feeling very tentative today.",
+      "We have a tentative date of June 12 for the launch.",
+      "Please tentative two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Tentative' = provisional; common with 'date', 'agreement', 'plan'.",
@@ -2345,10 +2345,10 @@
     "word": "lucrative",
     "definition": "producing a lot of money",
     "sentences": [
-      "The contract proved to be highly ____ for the consultancy.",
-      "The contract proved to be highly aromatic for the consultancy.",
-      "The contract proved to be highly lucrative for the consultancy.",
-      "The contract proved to be highly crystalline for the consultancy."
+      "She lucrative to the office every morning.",
+      "I am feeling very lucrative today.",
+      "The contract turned out to be highly lucrative.",
+      "Please lucrative two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Lucrative' = profitable; describes deals, markets, contracts.",
@@ -2360,10 +2360,10 @@
     "word": "mitigate",
     "definition": "to reduce the severity of something",
     "sentences": [
-      "The hedge strategy is designed to ____ currency risk.",
-      "The hedge strategy is designed to germinate currency risk.",
-      "The hedge strategy is designed to mitigate currency risk.",
-      "The hedge strategy is designed to harmonise currency risk."
+      "She mitigate to the office every morning casually.",
+      "I am feeling very mitigate today.",
+      "These steps will mitigate the risk of data loss.",
+      "Please mitigate two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Mitigate' = reduce the impact of; collocates with risk, damage, loss.",
@@ -2375,12 +2375,12 @@
     "word": "unprecedented",
     "definition": "never done before",
     "sentences": [
-      "The company posted ____ growth despite the recession.",
-      "The company posted aromatic growth despite the recession.",
-      "The company posted crystalline growth despite the recession.",
-      "The company posted unprecedented growth despite the recession."
+      "She unprecedented to the office every morning.",
+      "I am feeling very unprecedented today.",
+      "The company saw unprecedented growth this year.",
+      "Please unprecedented two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Unprecedented' = without prior example; strong descriptor.",
     "explanationJa": "「unprecedented」は前例のないという強い形容詞です。"
   },
@@ -2390,10 +2390,10 @@
     "word": "discrepancy",
     "definition": "a difference between two things",
     "sentences": [
-      "The audit found a small ____ between reported and actual revenue.",
-      "The audit found a small spectrum between reported and actual revenue.",
-      "The audit found a small discrepancy between reported and actual revenue.",
-      "The audit found a small horizon between reported and actual revenue."
+      "She discrepancy to the office every morning.",
+      "I am feeling very discrepancy today.",
+      "There is a discrepancy between the invoice and the order.",
+      "Please discrepancy two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Discrepancy' = mismatch in figures or facts; common in audit reports.",
@@ -2405,10 +2405,10 @@
     "word": "reply",
     "definition": "a written response",
     "sentences": [
-      "I haven't received a ____ to my email from yesterday.",
-      "I haven't received a meadow to my email from yesterday.",
-      "I haven't received a reply to my email from yesterday.",
-      "I haven't received a moonbeam to my email from yesterday."
+      "She reply to the office every morning casually.",
+      "I am feeling very reply today.",
+      "I will reply to your email by the end of the day.",
+      "Please reply two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Reply' = answer to a message; noun and verb.",
@@ -2420,10 +2420,10 @@
     "word": "agenda",
     "definition": "a list of topics for a meeting",
     "sentences": [
-      "Please review the ____ before joining the call.",
-      "Please review the harbor before joining the call.",
-      "Please review the agenda before joining the call.",
-      "Please review the orchard before joining the call."
+      "She agenda to the office every morning.",
+      "I am feeling very agenda today.",
+      "Please send me the agenda before the meeting starts.",
+      "Please agenda two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Agenda' = planned topics for a meeting.",
@@ -2435,12 +2435,12 @@
     "word": "polite",
     "definition": "showing good manners",
     "sentences": [
-      "She wrote a ____ but firm response to the complaint.",
-      "She wrote a aromatic but firm response to the complaint.",
-      "She wrote a crystalline but firm response to the complaint.",
-      "She wrote a polite but firm response to the complaint."
+      "She polite to the office every morning casually.",
+      "I am feeling very polite today.",
+      "It is important to use polite language with clients.",
+      "Please polite two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Polite' = courteous; important register in customer-facing writing.",
     "explanationJa": "「polite」は礼儀正しいという意味で、顧客対応の文体として重要です。"
   },
@@ -2450,10 +2450,10 @@
     "word": "factory",
     "definition": "a place where goods are made",
     "sentences": [
-      "Our main ____ in Vietnam produces 60% of our output.",
-      "Our main meadow in Vietnam produces 60% of our output.",
-      "Our main factory in Vietnam produces 60% of our output.",
-      "Our main glacier in Vietnam produces 60% of our output."
+      "She factory to the office every morning.",
+      "I am feeling very factory today.",
+      "The factory produces five hundred units per day.",
+      "Please factory two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Factory' = manufacturing plant.",
@@ -2465,12 +2465,12 @@
     "word": "delay",
     "definition": "to make something happen later",
     "sentences": [
-      "Bad weather will ____ all flights this evening.",
-      "Bad weather will harmonise all flights this evening.",
-      "Bad weather will germinate all flights this evening.",
-      "Bad weather will delay all flights this evening."
+      "She delay to the office every morning casually.",
+      "I am feeling very delay today.",
+      "We had to delay the launch by two weeks.",
+      "Please delay two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Delay' = postpone; verb and noun.",
     "explanationJa": "「delay」は遅らせるという意味で、動詞・名詞両方で使われます。"
   },
@@ -2480,12 +2480,12 @@
     "word": "price",
     "definition": "how much something costs",
     "sentences": [
-      "The new ____ list will take effect from January.",
-      "The new orchard list will take effect from January.",
-      "The new meadow list will take effect from January.",
-      "The new price list will take effect from January."
+      "She price to the office every morning casually.",
+      "I am feeling very price today.",
+      "Could you send me an updated price list?",
+      "Please price two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Price list' = compound noun, standard in commerce.",
     "explanationJa": "「price list」は価格表という複合名詞で、商業の標準語彙です。"
   },
@@ -2495,10 +2495,10 @@
     "word": "hire",
     "definition": "to employ someone",
     "sentences": [
-      "We plan to ____ two new developers this quarter.",
-      "We plan to germinate two new developers this quarter.",
-      "We plan to hire two new developers this quarter.",
-      "We plan to harmonise two new developers this quarter."
+      "She hire to the office every morning casually.",
+      "I am feeling very hire today.",
+      "We are looking to hire two engineers this quarter.",
+      "Please hire two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Hire' = employ; common in HR and recruiting.",
@@ -2510,10 +2510,10 @@
     "word": "meeting",
     "definition": "a planned gathering",
     "sentences": [
-      "The weekly team ____ runs from 9 to 10 every Monday.",
-      "The weekly team hurricane runs from 9 to 10 every Monday.",
-      "The weekly team meeting runs from 9 to 10 every Monday.",
-      "The weekly team blizzard runs from 9 to 10 every Monday."
+      "She meeting to the office every morning.",
+      "I am feeling very meeting today.",
+      "The meeting is scheduled for 10 a.m. tomorrow.",
+      "Please meeting two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Meeting' = formal gathering; one of the most-used business words.",
@@ -2525,12 +2525,12 @@
     "word": "customer",
     "definition": "someone who buys goods or services",
     "sentences": [
-      "A satisfied ____ is the best advertisement for our brand.",
-      "A satisfied volcano is the best advertisement for our brand.",
-      "A satisfied glacier is the best advertisement for our brand.",
-      "A satisfied customer is the best advertisement for our brand."
+      "She customer to the office every morning.",
+      "I am feeling very customer today.",
+      "Our newest customer signed a three-year contract.",
+      "Please customer two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Customer' = buyer of goods/services.",
     "explanationJa": "「customer」は商品やサービスの購入者のことです。"
   },
@@ -2540,10 +2540,10 @@
     "word": "company",
     "definition": "a business organization",
     "sentences": [
-      "This ____ was founded by two engineers in 1998.",
-      "This meadow was founded by two engineers in 1998.",
-      "This company was founded by two engineers in 1998.",
-      "This sunrise was founded by two engineers in 1998."
+      "She company to the office every morning.",
+      "I am feeling very company today.",
+      "The company has expanded into three new markets.",
+      "Please company two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Company' = business entity; basic vocabulary.",
@@ -2555,12 +2555,12 @@
     "word": "office",
     "definition": "a place where business is done",
     "sentences": [
-      "The ____ will be closed for renovation next week.",
-      "The meadow will be closed for renovation next week.",
-      "The thunderstorm will be closed for renovation next week.",
-      "The office will be closed for renovation next week."
+      "She office to the office every morning.",
+      "I am feeling very office today.",
+      "Our office is on the fourth floor.",
+      "Please office two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Office' = workplace; foundational business word.",
     "explanationJa": "「office」は職場のことで、ビジネスの基本単語です。"
   },
@@ -2570,10 +2570,10 @@
     "word": "product",
     "definition": "something that is made for sale",
     "sentences": [
-      "Our flagship ____ has sold over a million units worldwide.",
-      "Our flagship pyramid has sold over a million units worldwide.",
-      "Our flagship product has sold over a million units worldwide.",
-      "Our flagship harbor has sold over a million units worldwide."
+      "She product to the office every morning.",
+      "I am feeling very product today.",
+      "The new product will launch in September.",
+      "Please product two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Product' = item made or sold; core commerce term.",
@@ -2585,10 +2585,10 @@
     "word": "service",
     "definition": "work done for customers",
     "sentences": [
-      "Customer ____ is open 24 hours, seven days a week.",
-      "Customer pyramid is open 24 hours, seven days a week.",
-      "Customer service is open 24 hours, seven days a week.",
-      "Customer rainbow is open 24 hours, seven days a week."
+      "She service to the office every morning.",
+      "I am feeling very service today.",
+      "We pride ourselves on excellent customer service.",
+      "Please service two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Customer service' = support provided to clients.",
@@ -2600,10 +2600,10 @@
     "word": "market",
     "definition": "the area or system for buying and selling",
     "sentences": [
-      "The European ____ is our largest source of revenue.",
-      "The European glacier is our largest source of revenue.",
-      "The European market is our largest source of revenue.",
-      "The European butterfly is our largest source of revenue."
+      "She market to the office every morning casually.",
+      "I am feeling very market today.",
+      "Our main market is small and medium businesses.",
+      "Please market two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Market' = trading region or system; very high-frequency business word.",
@@ -2615,12 +2615,12 @@
     "word": "deal",
     "definition": "an agreement, often financial",
     "sentences": [
-      "The two firms signed a five-year ____ this morning.",
-      "The two firms signed a five-year meadow this morning.",
-      "The two firms signed a five-year sunrise this morning.",
-      "The two firms signed a five-year deal this morning."
+      "She deal to the office every morning casually.",
+      "I am feeling very deal today.",
+      "We closed the deal late on Friday afternoon.",
+      "Please deal two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Deal' = agreement; commonly 'sign/close a deal'.",
     "explanationJa": "「deal」は取引や合意のことで、sign/close a deal がよく使われます。"
   },
@@ -2630,12 +2630,12 @@
     "word": "quote",
     "definition": "an estimated price",
     "sentences": [
-      "Please send a written ____ for the kitchen installation.",
-      "Please send a written meadow for the kitchen installation.",
-      "Please send a written hurricane for the kitchen installation.",
-      "Please send a written quote for the kitchen installation."
+      "She quote to the office every morning casually.",
+      "I am feeling very quote today.",
+      "Could you send a quote for the printing job?",
+      "Please quote two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Quote' = price estimate for work to be done.",
     "explanationJa": "「quote」は仕事に対する見積もり価格のことです。"
   },
@@ -2645,10 +2645,10 @@
     "word": "task",
     "definition": "a piece of work to do",
     "sentences": [
-      "This ____ should take about an hour to complete.",
-      "This meadow should take about an hour to complete.",
-      "This task should take about an hour to complete.",
-      "This volcano should take about an hour to complete."
+      "She task to the office every morning casually.",
+      "I am feeling very task today.",
+      "Please add this task to the project tracker.",
+      "Please task two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Task' = a defined unit of work.",
@@ -2660,10 +2660,10 @@
     "word": "slot",
     "definition": "a scheduled time period",
     "sentences": [
-      "I have a free 30-minute ____ at 3 p.m. for a call.",
-      "I have a free 30-minute meadow at 3 p.m. for a call.",
-      "I have a free 30-minute slot at 3 p.m. for a call.",
-      "I have a free 30-minute sunrise at 3 p.m. for a call."
+      "She slot to the office every morning casually.",
+      "I am feeling very slot today.",
+      "Do you have a slot tomorrow afternoon?",
+      "Please slot two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Slot' = time gap in a schedule; calendar vocabulary.",
@@ -2675,12 +2675,12 @@
     "word": "survey",
     "definition": "a set of questions to gather data",
     "sentences": [
-      "Please complete the customer ____ at the end of the call.",
-      "Please complete the customer harbor at the end of the call.",
-      "Please complete the customer meadow at the end of the call.",
-      "Please complete the customer survey at the end of the call."
+      "She survey to the office every morning casually.",
+      "I am feeling very survey today.",
+      "The customer survey results are in.",
+      "Please survey two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Survey' = data-gathering questionnaire.",
     "explanationJa": "「survey」はデータ収集用のアンケートのことです。"
   },
@@ -2690,12 +2690,12 @@
     "word": "report",
     "definition": "a formal written account",
     "sentences": [
-      "Please submit your weekly ____ by Friday at 5 p.m.",
-      "Please submit your weekly meadow by Friday at 5 p.m.",
-      "Please submit your weekly orchard by Friday at 5 p.m.",
-      "Please submit your weekly report by Friday at 5 p.m."
+      "She report to the office every morning casually.",
+      "I am feeling very report today.",
+      "I will email the report to you by Friday.",
+      "Please report two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Report' = formal written document summarising findings.",
     "explanationJa": "「report」は調査結果をまとめた正式な書類のことです。"
   },
@@ -2705,10 +2705,10 @@
     "word": "revenue",
     "definition": "total income from sales",
     "sentences": [
-      "Annual ____ exceeded forecasts by twelve percent.",
-      "Annual meadow exceeded forecasts by twelve percent.",
-      "Annual revenue exceeded forecasts by twelve percent.",
-      "Annual harbor exceeded forecasts by twelve percent."
+      "She revenue to the office every morning.",
+      "I am feeling very revenue today.",
+      "Revenue grew by twelve percent year on year.",
+      "Please revenue two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Revenue' = total sales income before costs.",
@@ -2720,10 +2720,10 @@
     "word": "acquire",
     "definition": "to obtain or buy",
     "sentences": [
-      "The firm plans to ____ a smaller competitor by year end.",
-      "The firm plans to germinate a smaller competitor by year end.",
-      "The firm plans to acquire a smaller competitor by year end.",
-      "The firm plans to harmonise a smaller competitor by year end."
+      "She acquire to the office every morning casually.",
+      "I am feeling very acquire today.",
+      "We plan to acquire a small competitor next year.",
+      "Please acquire two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Acquire' = buy or obtain; M&A vocabulary.",
@@ -2735,10 +2735,10 @@
     "word": "projection",
     "definition": "an estimate of future performance",
     "sentences": [
-      "Sales ____ for next year remain cautiously optimistic.",
-      "Sales meadow for next year remain cautiously optimistic.",
-      "Sales projections for next year remain cautiously optimistic.",
-      "Sales harbor for next year remain cautiously optimistic."
+      "She projection to the office every morning.",
+      "I am feeling very projection today.",
+      "The latest projection shows steady growth through Q4.",
+      "Please projection two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Projection' = forecast based on current trends.",
@@ -2750,10 +2750,10 @@
     "word": "workflow",
     "definition": "the sequence of steps in a process",
     "sentences": [
-      "The new tool will improve our ____ across all teams.",
-      "The new tool will improve our meadow across all teams.",
-      "The new tool will improve our workflow across all teams.",
-      "The new tool will improve our hurricane across all teams."
+      "She workflow to the office every morning.",
+      "I am feeling very workflow today.",
+      "We documented the new workflow in the wiki.",
+      "Please workflow two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Workflow' = sequence of work steps.",
@@ -2765,10 +2765,10 @@
     "word": "scope",
     "definition": "the range covered by something",
     "sentences": [
-      "The ____ of the project has expanded since last month.",
-      "The orchard of the project has expanded since last month.",
-      "The scope of the project has expanded since last month.",
-      "The pyramid of the project has expanded since last month."
+      "She scope to the office every morning casually.",
+      "I am feeling very scope today.",
+      "Please define the scope of the project clearly.",
+      "Please scope two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Scope' = boundary or extent of work; PM vocabulary.",
@@ -2780,12 +2780,12 @@
     "word": "strategy",
     "definition": "a long-term plan to reach a goal",
     "sentences": [
-      "Our new digital ____ focuses on emerging markets.",
-      "Our new digital meadow focuses on emerging markets.",
-      "Our new digital orchard focuses on emerging markets.",
-      "Our new digital strategy focuses on emerging markets."
+      "She strategy to the office every morning casually.",
+      "I am feeling very strategy today.",
+      "Our strategy is to expand into Asian markets.",
+      "Please strategy two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Strategy' = long-term plan; high-frequency business word.",
     "explanationJa": "「strategy」は長期的な計画のことで、頻出のビジネス語です。"
   },
@@ -2795,10 +2795,10 @@
     "word": "initiative",
     "definition": "a new plan or action",
     "sentences": [
-      "The wellness ____ has been popular with employees.",
-      "The wellness meadow has been popular with employees.",
-      "The wellness initiative has been popular with employees.",
-      "The wellness orchard has been popular with employees."
+      "She initiative to the office every morning.",
+      "I am feeling very initiative today.",
+      "She launched a new initiative to improve onboarding.",
+      "Please initiative two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Initiative' = new project or programme.",
@@ -2810,10 +2810,10 @@
     "word": "adopt",
     "definition": "to start using something",
     "sentences": [
-      "Many firms have ____ remote-first work policies.",
-      "Many firms have germinated remote-first work policies.",
-      "Many firms have adopted remote-first work policies.",
-      "Many firms have harmonised remote-first work policies."
+      "She adopt to the office every morning casually.",
+      "I am feeling very adopt today.",
+      "Many teams have begun to adopt the new tooling.",
+      "Please adopt two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Adopt' = take up, begin using; common with policies/practices.",
@@ -2825,12 +2825,12 @@
     "word": "vendor",
     "definition": "a supplier",
     "sentences": [
-      "The ____ failed to deliver on the agreed schedule.",
-      "The orchard failed to deliver on the agreed schedule.",
-      "The meadow failed to deliver on the agreed schedule.",
-      "The vendor failed to deliver on the agreed schedule."
+      "She vendor to the office every morning casually.",
+      "I am feeling very vendor today.",
+      "Our preferred vendor delivered ahead of schedule.",
+      "Please vendor two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Vendor' = seller or supplier of goods/services.",
     "explanationJa": "「vendor」は商品やサービスを売る業者のことです。"
   },
@@ -2840,12 +2840,12 @@
     "word": "breach",
     "definition": "a violation of a rule or agreement",
     "sentences": [
-      "The data ____ exposed thousands of customer records.",
-      "The data meadow exposed thousands of customer records.",
-      "The data harbor exposed thousands of customer records.",
-      "The data breach exposed thousands of customer records."
+      "She breach to the office every morning casually.",
+      "I am feeling very breach today.",
+      "Sharing the file would be a breach of confidentiality.",
+      "Please breach two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Breach' = violation; 'data breach', 'breach of contract' are common.",
     "explanationJa": "「breach」は違反のことで、data breach, breach of contract がよく使われます。"
   },
@@ -2855,10 +2855,10 @@
     "word": "diversify",
     "definition": "to expand into new areas",
     "sentences": [
-      "The firm aims to ____ its portfolio across three new sectors.",
-      "The firm aims to germinate its portfolio across three new sectors.",
-      "The firm aims to diversify its portfolio across three new sectors.",
-      "The firm aims to harmonise its portfolio across three new sectors."
+      "She diversify to the office every morning.",
+      "I am feeling very diversify today.",
+      "We are looking to diversify into adjacent markets.",
+      "Please diversify two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Diversify' = spread investment or activity across areas.",
@@ -2870,10 +2870,10 @@
     "word": "jurisdiction",
     "definition": "the area where authority applies",
     "sentences": [
-      "This case falls outside the regulator's ____.",
-      "This case falls outside the regulator's meadow.",
-      "This case falls outside the regulator's jurisdiction.",
-      "This case falls outside the regulator's orchard."
+      "She jurisdiction to the office every morning.",
+      "I am feeling very jurisdiction today.",
+      "That case falls under federal jurisdiction.",
+      "Please jurisdiction two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Jurisdiction' = legal authority area; common in compliance.",
@@ -2885,12 +2885,12 @@
     "word": "insolvent",
     "definition": "unable to pay debts",
     "sentences": [
-      "The subsidiary was declared ____ after the audit.",
-      "The subsidiary was declared aromatic after the audit.",
-      "The subsidiary was declared crystalline after the audit.",
-      "The subsidiary was declared insolvent after the audit."
+      "She insolvent to the office every morning.",
+      "I am feeling very insolvent today.",
+      "The company was declared insolvent last week.",
+      "Please insolvent two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Insolvent' = financially unable to pay debts; legal/finance term.",
     "explanationJa": "「insolvent」は債務を返済できない財務状態のことで、法務財務用語です。"
   },
@@ -2900,10 +2900,10 @@
     "word": "recourse",
     "definition": "a source of help in difficulty",
     "sentences": [
-      "Unhappy clients have legal ____ under the new contract.",
-      "Unhappy clients have legal meadow under the new contract.",
-      "Unhappy clients have legal recourse under the new contract.",
-      "Unhappy clients have legal orchard under the new contract."
+      "She recourse to the office every morning.",
+      "I am feeling very recourse today.",
+      "Customers have recourse to the regulator if needed.",
+      "Please recourse two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Recourse' = means of redress; 'have recourse to' is fixed.",
@@ -2915,10 +2915,10 @@
     "word": "prudent",
     "definition": "showing careful judgement",
     "sentences": [
-      "It would be ____ to delay the rollout until issues are resolved.",
-      "It would be aromatic to delay the rollout until issues are resolved.",
-      "It would be prudent to delay the rollout until issues are resolved.",
-      "It would be crystalline to delay the rollout until issues are resolved."
+      "She prudent to the office every morning casually.",
+      "I am feeling very prudent today.",
+      "It would be prudent to review the contract again.",
+      "Please prudent two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Prudent' = cautiously wise; formal business advisory tone.",
@@ -2930,12 +2930,12 @@
     "word": "verbatim",
     "definition": "in exactly the same words",
     "sentences": [
-      "The quote was reproduced ____ in the press release.",
-      "The quote was reproduced meadow in the press release.",
-      "The quote was reproduced orchard in the press release.",
-      "The quote was reproduced verbatim in the press release."
+      "She verbatim to the office every morning.",
+      "I am feeling very verbatim today.",
+      "He quoted the policy verbatim during the meeting.",
+      "Please verbatim two coffees for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Verbatim' = word-for-word; legal/journalism register.",
     "explanationJa": "「verbatim」は一字一句そのままという意味で、法務やジャーナリズムの語彙です。"
   },
@@ -2945,10 +2945,10 @@
     "word": "litigation",
     "definition": "the process of legal action",
     "sentences": [
-      "The dispute is now in ____ and may take years to resolve.",
-      "The dispute is now in meadow and may take years to resolve.",
-      "The dispute is now in litigation and may take years to resolve.",
-      "The dispute is now in orchard and may take years to resolve."
+      "She litigation to the office every morning.",
+      "I am feeling very litigation today.",
+      "The dispute went into prolonged litigation.",
+      "Please litigation two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Litigation' = lawsuit process; legal vocabulary.",
@@ -2960,10 +2960,10 @@
     "word": "caveat",
     "definition": "a warning or condition",
     "sentences": [
-      "The deal comes with one important ____ regarding pricing.",
-      "The deal comes with one important meadow regarding pricing.",
-      "The deal comes with one important caveat regarding pricing.",
-      "The deal comes with one important orchard regarding pricing."
+      "She caveat to the office every morning casually.",
+      "I am feeling very caveat today.",
+      "There is one important caveat to that proposal.",
+      "Please caveat two emotions for the meeting."
     ],
     "answer": 2,
     "explanation": "'Caveat' = qualification, warning; formal.",
@@ -2975,10 +2975,10 @@
     "word": "indemnify",
     "definition": "to compensate for harm or loss",
     "sentences": [
-      "The contract requires the seller to ____ the buyer for defects.",
-      "The contract requires the seller to germinate the buyer for defects.",
-      "The contract requires the seller to indemnify the buyer for defects.",
-      "The contract requires the seller to harmonise the buyer for defects."
+      "She indemnify to the office every morning.",
+      "I am feeling very indemnify today.",
+      "The contract requires us to indemnify the other party.",
+      "Please indemnify two coffees for the meeting."
     ],
     "answer": 2,
     "explanation": "'Indemnify' = compensate against loss; legal/insurance term.",
@@ -2990,12 +2990,12 @@
     "word": "redress",
     "definition": "a remedy for a wrong",
     "sentences": [
-      "Customers may seek ____ through the ombudsman.",
-      "Customers may seek meadow through the ombudsman.",
-      "Customers may seek orchard through the ombudsman.",
-      "Customers may seek redress through the ombudsman."
+      "She redress to the office every morning casually.",
+      "I am feeling very redress today.",
+      "Customers may seek redress through the ombudsman.",
+      "Please redress two emotions for the meeting."
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'Redress' = remedy or compensation for wrong; formal.",
     "explanationJa": "「redress」は不当行為への救済・補償のことで、格式ある語です。"
   }

@@ -710,9 +710,9 @@
     "suffix": "make sense, finally.",
     "answer": [
       "is",
+      "actually",
       "starting",
-      "to",
-      "actually"
+      "to"
     ],
     "grammar": "'start to + V' + 'actually' = beginning to in fact.",
     "translation": "やっとそれがちゃんと意味を成してきた。",
@@ -1271,10 +1271,10 @@
     "answer": [
       "really",
       "came",
-      "completely",
+      "right",
       "out"
     ],
-    "grammar": "'out of the blue' = unexpectedly; stacks intensifiers.",
+    "grammar": "'out of the blue' = unexpectedly.",
     "translation": "あの発言、本当に突然来た感じ。",
     "explanation": "Casual surprise at unexpected remark.",
     "explanationJa": "「came completely right out of the blue」=「いきなり突然出てきた」。"
@@ -1770,7 +1770,7 @@
       "really",
       "good"
     ],
-    "grammar": "'kind of' = somewhat.",
+    "grammar": "'actually' + 'really good' = sincere acknowledgment.",
     "translation": "それ、実はけっこう良い質問だね。",
     "explanation": "Softened acknowledgement.",
     "explanationJa": "「kind of」=「ちょっと/まあまあ」。"
@@ -1914,7 +1914,7 @@
       "really",
       "fair"
     ],
-    "grammar": "'kind of' softens.",
+    "grammar": "'actually' + 'really fair' = genuine concession.",
     "translation": "それ、正直けっこう一理あるね。",
     "explanation": "Softened concession.",
     "explanationJa": "「kind of a fair point」=「まあ一理あるね」。"
@@ -2631,13 +2631,13 @@
     "answer": [
       "am",
       "still",
-      "sitting",
-      "undecided"
+      "really",
+      "torn"
     ],
-    "grammar": "'on the fence' equivalent meaning.",
+    "grammar": "'be torn on' = unable to decide between options.",
     "translation": "反論するかどうかまだ決めかねてる。",
-    "explanation": "Adult idiom for indecision.",
-    "explanationJa": "「sitting undecided」=「迷っている」。"
+    "explanation": "Adult phrasing for indecision.",
+    "explanationJa": "「torn on」=「〜について迷っている」。"
   },
   {
     "id": 166,
@@ -2888,7 +2888,7 @@
       "really",
       "throws",
       "a",
-      "serious"
+      "major"
     ],
     "grammar": "'throw a wrench in' = disrupt.",
     "translation": "あれ、こっちの計画に完全に水を差す。",
@@ -3043,14 +3043,14 @@
     "id": 191,
     "level": 3,
     "prefix": "He",
-    "suffix": "his ground in the discussion.",
+    "suffix": "during the discussion.",
     "answer": [
       "really",
       "held",
-      "firmly",
-      "onto"
+      "his",
+      "ground"
     ],
-    "grammar": "'hold one's ground' = not yield.",
+    "grammar": "'hold one's ground' = stand firm, not yield.",
     "translation": "彼、その議論でしっかり自分の立場を守ってた。",
     "explanation": "Adult idiom for firmness.",
     "explanationJa": "「hold one's ground」=「立場を守る」。"
