@@ -1,102 +1,3202 @@
 [
-  {"id":1,"level":1,"prefix":"Hey,","suffix":"after work?","answer":["wanna","grab","a","coffee"],"grammar":"wanna = want to (casual contraction); 'grab a + drink' is the casual way to suggest getting something.","translation":"ねえ、仕事の後にコーヒー飲みに行かない?","explanation":"Casual invitation: 'wanna grab a coffee' is the most natural everyday phrasing.","explanationJa":"「wanna grab a coffee」は「コーヒー飲みに行こうよ」というカジュアルな誘い方。"},
-  {"id":2,"level":1,"prefix":"I'm","suffix":"right now, honestly.","answer":["super","tired","and","hungry"],"grammar":"super + adjective = 'very'; chain adjectives with 'and'.","translation":"正直、今すごく疲れててお腹も空いてる。","explanation":"'Super' before an adjective acts as a casual intensifier.","explanationJa":"「super + 形容詞」で「とても〜」というカジュアル強調。"},
-  {"id":3,"level":1,"prefix":"Let's","suffix":"if you're free tonight.","answer":["just","hang","out","later"],"grammar":"'just hang out' = casually spend time; 'later' = at a later time.","translation":"もし夜空いてたら、後でゆっくりしようよ。","explanation":"'Hang out later' is the standard casual plan phrasing.","explanationJa":"「hang out later」=「後でゆっくり過ごす」というカジュアル表現。"},
-  {"id":4,"level":1,"prefix":"She","suffix":", didn't she?","answer":["kinda","showed","up","late"],"grammar":"kinda = kind of (softener); 'show up' = arrive.","translation":"彼女、ちょっと遅れて来たよね?","explanation":"'Kinda' softens; 'show up late' is everyday casual English.","explanationJa":"「kinda showed up late」=「ちょっと遅れて来た」。"},
-  {"id":5,"level":1,"prefix":"We","suffix":"before it gets dark.","answer":["should","totally","head","out"],"grammar":"'totally' = definitely (casual); 'head out' = leave.","translation":"暗くなる前にもう絶対出発した方がいいね。","explanation":"'Totally head out' chains a casual intensifier with a casual phrasal verb.","explanationJa":"「totally head out」=「絶対出発しよう」というカジュアル表現。"},
-  {"id":6,"level":1,"prefix":"Hey,","suffix":"this weekend?","answer":["are","you","free","Saturday"],"grammar":"'are you free + day' is the standard casual availability check.","translation":"ねえ、今週末の土曜日空いてる?","explanation":"Direct, friendly way to ask about availability.","explanationJa":"「are you free Saturday」=「土曜空いてる?」というカジュアル質問。"},
-  {"id":7,"level":1,"prefix":"I","suffix":"about that.","answer":["kinda","forgot","to","ask"],"grammar":"'kinda + verb' softens; 'forgot to + V' = failed to do.","translation":"それについて聞くの、ちょっと忘れちゃった。","explanation":"'Kinda forgot' softens an admission of forgetting.","explanationJa":"「kinda forgot to ask」=「聞くのちょっと忘れちゃった」。"},
-  {"id":8,"level":1,"prefix":"That","suffix":"in a long time.","answer":["was","the","best","movie"],"grammar":"'was the best + N + in a long time' = haven't seen better recently.","translation":"久々に見たすごくいい映画だった。","explanation":"Casual superlative review pattern.","explanationJa":"「the best movie in a long time」=「久々の傑作」というカジュアル評価。"},
-  {"id":9,"level":1,"prefix":"Sorry,","suffix":"to text you back.","answer":["I","totally","forgot","yesterday"],"grammar":"'totally forgot' = completely forgot (casual emphasis).","translation":"ごめん、昨日返信するの完全に忘れてた。","explanation":"Common casual apology for a missed message.","explanationJa":"「totally forgot」=「完全に忘れた」というカジュアル謝罪。"},
-  {"id":10,"level":1,"prefix":"Wanna","suffix":"after lunch today?","answer":["go","for","a","walk"],"grammar":"'go for a + activity noun' is a natural invitation pattern.","translation":"今日お昼の後、散歩行かない?","explanation":"'Go for a walk/coffee/drive' is the everyday invitation template.","explanationJa":"「go for a walk」=「散歩に行く」というカジュアル定番。"},
-  {"id":11,"level":1,"prefix":"I'm","suffix":"to be honest.","answer":["not","really","into","it"],"grammar":"'not really into + something' = don't enjoy / aren't interested.","translation":"正直、あんまり好きじゃないんだ。","explanation":"Polite-casual way to say you don't like something.","explanationJa":"「not really into it」=「あんまり好きじゃない」という柔らかい否定。"},
-  {"id":12,"level":1,"prefix":"You","suffix":"if you keep at it.","answer":["are","gonna","do","great"],"grammar":"gonna = going to (casual); 'do great' = succeed.","translation":"続ければきっとうまくいくよ。","explanation":"Casual encouragement using 'gonna do great'.","explanationJa":"「gonna do great」=「きっとうまくいく」というカジュアル励まし。"},
-  {"id":13,"level":1,"prefix":"Can","suffix":"a quick second?","answer":["I","ask","you","for"],"grammar":"'ask someone for + N' = request something briefly.","translation":"ちょっと一瞬だけいい?","explanation":"Common opener to get someone's brief attention.","explanationJa":"「ask you for a quick second」=「ちょっと時間ちょうだい」。"},
-  {"id":14,"level":1,"prefix":"That","suffix":"believe it!","answer":["is","crazy","I","can't"],"grammar":"'crazy' as casual exclamation; 'I can't believe it' = surprise.","translation":"それヤバい、信じられない!","explanation":"Two casual reactions chained for emphasis.","explanationJa":"「That is crazy, I can't believe it」=「ヤバい、信じられない!」。"},
-  {"id":15,"level":1,"prefix":"He","suffix":"to my birthday.","answer":["totally","forgot","to","come"],"grammar":"'totally forgot to + V' = entirely failed to.","translation":"彼、私の誕生日に来るのすっかり忘れてた。","explanation":"Casual phrasing for a complete oversight.","explanationJa":"「totally forgot to come」=「来るのを完全に忘れた」。"},
-  {"id":16,"level":1,"prefix":"Let","suffix":"first.","answer":["me","grab","my","jacket"],"grammar":"'let me + V' = polite-casual request to do something briefly.","translation":"先にジャケット取ってくる。","explanation":"'Let me grab' is the casual everyday 'let me quickly get'.","explanationJa":"「let me grab my jacket」=「ちょっとジャケット取ってくる」。"},
-  {"id":17,"level":1,"prefix":"I","suffix":"on the bus this morning.","answer":["ran","into","an","old"],"grammar":"'run into + person' = meet by chance.","translation":"今朝バスで昔の知り合いにばったり会った。","explanation":"'Ran into an old + (friend/classmate)' is a casual encounter pattern.","explanationJa":"「ran into an old (friend)」=「昔の知り合いに偶然会った」。"},
-  {"id":18,"level":1,"prefix":"It's","suffix":"go anywhere today.","answer":["way","too","cold","to"],"grammar":"'way too + adjective + to + V' = far too cold to do.","translation":"今日は寒すぎてどこにも行けないよ。","explanation":"'Way too cold to go' uses casual intensifier 'way too'.","explanationJa":"「way too cold to go」=「寒すぎて行けない」。"},
-  {"id":19,"level":1,"prefix":"My phone","suffix":"again — annoying!","answer":["just","died","on","me"],"grammar":"'die on someone' = (device) stop working unexpectedly.","translation":"スマホがまた急に切れた、ホント嫌になる!","explanation":"'Died on me' personalizes the failure (common spoken usage).","explanationJa":"「died on me」=「(機器が)急に切れた」というカジュアル表現。"},
-  {"id":20,"level":1,"prefix":"I","suffix":"about that movie.","answer":["heard","good","things","about"],"grammar":"'hear good things about + N' = receive positive reports.","translation":"あの映画、評判いいって聞いたよ。","explanation":"Standard casual way to relay positive word-of-mouth.","explanationJa":"「heard good things about」=「いい評判を聞いた」。"},
-  {"id":21,"level":1,"prefix":"Wanna","suffix":"and just chill?","answer":["order","some","food","in"],"grammar":"'order food in' = have food delivered (vs. going out).","translation":"なんか出前取ってのんびりしない?","explanation":"'Order food in' contrasts with 'eat out'; very casual evening plan.","explanationJa":"「order food in」=「出前を取る」。"},
-  {"id":22,"level":1,"prefix":"He","suffix":"and never came back.","answer":["just","walked","right","out"],"grammar":"'just + verb + right + adverb' = adds emphasis to a sudden action.","translation":"彼、いきなり出て行ってそのまま戻ってこなかった。","explanation":"'Just walked right out' emphasizes the abruptness.","explanationJa":"「just walked right out」=「いきなり出て行った」。"},
-  {"id":23,"level":1,"prefix":"That song","suffix":"all day long.","answer":["has","been","stuck","in"],"grammar":"'be stuck in my head' = unable to stop thinking of (a tune).","translation":"あの曲、頭から離れなくて一日中ぐるぐるしてる。","explanation":"Conversational way to describe an earworm.","explanationJa":"「stuck in my head」=「頭から離れない」。"},
-  {"id":24,"level":1,"prefix":"You","suffix":"that, seriously.","answer":["didn't","have","to","do"],"grammar":"'you didn't have to + V' = polite appreciation for an unrequired action.","translation":"そんなことしなくてよかったのに、ホントに。","explanation":"Polite-casual response to a kind gesture.","explanationJa":"「didn't have to do that」=「そんなことしなくてよかったのに」。"},
-  {"id":25,"level":1,"prefix":"I","suffix":"to that party.","answer":["totally","don't","wanna","go"],"grammar":"'totally don't wanna' = strong casual refusal.","translation":"あのパーティー、マジで行きたくない。","explanation":"Stacks two casual markers ('totally' + 'wanna').","explanationJa":"「totally don't wanna go」=「マジで行きたくない」。"},
-  {"id":26,"level":1,"prefix":"My boss","suffix":"this morning.","answer":["was","in","a","mood"],"grammar":"'be in a mood' = be irritable / bad-tempered.","translation":"今朝、上司の機嫌が悪かった。","explanation":"Casual euphemism for being grumpy.","explanationJa":"「in a mood」=「機嫌が悪い」。"},
-  {"id":27,"level":1,"prefix":"I","suffix":"the whole weekend.","answer":["pretty","much","slept","through"],"grammar":"'pretty much' = basically; 'sleep through' = sleep continuously past.","translation":"週末ほぼずっと寝てた。","explanation":"Casual confession of doing almost nothing.","explanationJa":"「pretty much slept through」=「ほぼずっと寝てた」。"},
-  {"id":28,"level":1,"prefix":"Let me","suffix":"in five minutes.","answer":["call","you","right","back"],"grammar":"'call you right back' = return your call immediately.","translation":"5分以内に折り返すね。","explanation":"Standard casual phone phrasing.","explanationJa":"「call you right back」=「すぐ折り返す」。"},
-  {"id":29,"level":1,"prefix":"That","suffix":"out of nowhere.","answer":["totally","came","at","me"],"grammar":"'come at someone' = come toward / surprise; 'out of nowhere' = unexpectedly.","translation":"いきなりそれが飛んできた感じ。","explanation":"Vivid casual description of an unexpected event.","explanationJa":"「came at me out of nowhere」=「突然向かってきた・いきなり来た」。"},
-  {"id":30,"level":1,"prefix":"I'll","suffix":"on my way home.","answer":["swing","by","the","store"],"grammar":"'swing by + place' = make a quick stop.","translation":"帰りにちょっとお店寄ってくね。","explanation":"'Swing by' is a friendlier version of 'stop by'.","explanationJa":"「swing by the store」=「ちょっと店に寄る」。"},
-  {"id":31,"level":1,"prefix":"He","suffix":"the whole time.","answer":["was","being","kind","of"],"grammar":"'kind of' softens; 'being + adjective' = behaving in that way temporarily.","translation":"彼、ずっとちょっと変な感じだった。","explanation":"Setup for a soft criticism — 'being kind of (weird/quiet/etc.)'.","explanationJa":"「was being kind of」=「ちょっと〜な感じだった」(柔らかい評価)。"},
-  {"id":32,"level":1,"prefix":"I","suffix":"how to get there.","answer":["have","no","clue","about"],"grammar":"'have no clue' = have no idea (casual).","translation":"そこまでの行き方、全然分からない。","explanation":"'No clue' is a casual replacement for 'no idea'.","explanationJa":"「have no clue」=「全然分からない」のカジュアル版。"},
-  {"id":33,"level":1,"prefix":"Don't","suffix":"a big deal.","answer":["worry","it's","not","that"],"grammar":"'not that + adjective' = not so + adjective (softens).","translation":"心配しないで、そんなたいしたことじゃないよ。","explanation":"Standard casual reassurance.","explanationJa":"「not that big a deal」=「そんなたいしたことじゃない」。"},
-  {"id":34,"level":1,"prefix":"I'm","suffix":"about the whole thing.","answer":["just","kind","of","bummed"],"grammar":"'bummed' = disappointed (casual); 'kind of' softens.","translation":"全体的にちょっとガッカリしてるんだ。","explanation":"'Bummed' is a common casual word for mild sadness.","explanationJa":"「kind of bummed」=「ちょっとガッカリ」。"},
-  {"id":35,"level":1,"prefix":"We","suffix":"at the same place again.","answer":["ended","up","meeting","up"],"grammar":"'end up + V-ing' = finally happen to; 'meet up' = gather.","translation":"結局また同じ場所で会うことになった。","explanation":"Stacks 'end up' + 'meet up' — both casual phrasals.","explanationJa":"「ended up meeting up」=「結局会うことになった」。"},
-  {"id":36,"level":1,"prefix":"My sister","suffix":"the new café downtown.","answer":["keeps","talking","about","trying"],"grammar":"'keep + V-ing' = continually do; 'talk about trying' = mention wanting to try.","translation":"妹がダウンタウンの新しいカフェに行ってみたいって何回も言ってる。","explanation":"Casual way to describe a repeated suggestion.","explanationJa":"「keeps talking about trying」=「何度も〜したいと言っている」。"},
-  {"id":37,"level":1,"prefix":"That","suffix":"a really long day.","answer":["was","seriously","such","a"],"grammar":"'seriously such a + N' = strong casual emphasis.","translation":"今日マジで本当に長い一日だった。","explanation":"Stacks 'seriously' + 'such a' for casual intensity.","explanationJa":"「seriously such a long day」=「マジで本当に長い一日」。"},
-  {"id":38,"level":1,"prefix":"I","suffix":"my workout this morning.","answer":["totally","skipped","out","on"],"grammar":"'skip out on + N' = avoid an obligation.","translation":"今朝、ジム完全にサボった。","explanation":"'Skip out on' is casual for skipping a duty.","explanationJa":"「skipped out on」=「サボった・すっぽかした」。"},
-  {"id":39,"level":1,"prefix":"He","suffix":"the whole time.","answer":["didn't","say","a","word"],"grammar":"'not say a word' = remain completely silent.","translation":"彼、その間ずっと一言も話さなかった。","explanation":"Idiomatic phrase for total silence.","explanationJa":"「didn't say a word」=「一言も話さなかった」。"},
-  {"id":40,"level":1,"prefix":"This","suffix":"in a while.","answer":["is","the","best","pizza"],"grammar":"'the best + N + in a while' = best in recent memory.","translation":"これ、久々に食べた一番美味しいピザ。","explanation":"Casual superlative compliment.","explanationJa":"「the best pizza in a while」=「久々の最高のピザ」。"},
-  {"id":41,"level":1,"prefix":"Can","suffix":"my keys somewhere?","answer":["you","help","me","find"],"grammar":"'help me + V' = polite-casual request.","translation":"鍵どこかで探すの手伝ってくれない?","explanation":"Standard casual request for assistance.","explanationJa":"「help me find」=「探すの手伝って」。"},
-  {"id":42,"level":1,"prefix":"It","suffix":"to be honest.","answer":["wasn't","that","bad","actually"],"grammar":"'not that bad, actually' = better than expected.","translation":"正直、そんなに悪くなかったよ。","explanation":"Casual positive surprise about something feared.","explanationJa":"「wasn't that bad actually」=「実はそんなに悪くなかった」。"},
-  {"id":43,"level":1,"prefix":"I'll","suffix":"as soon as I can.","answer":["text","you","right","back"],"grammar":"'text you right back' = reply immediately.","translation":"出来るだけ早く返信するね。","explanation":"Standard casual messaging promise.","explanationJa":"「text you right back」=「すぐ返信する」。"},
-  {"id":44,"level":1,"prefix":"He","suffix":"during the meeting.","answer":["fell","asleep","right","there"],"grammar":"'fell asleep right there' = slept on the spot.","translation":"会議中、彼そこで寝ちゃった。","explanation":"'Right there' emphasizes the embarrassing location.","explanationJa":"「fell asleep right there」=「そこで寝てしまった」。"},
-  {"id":45,"level":1,"prefix":"That","suffix":"to make sense, finally.","answer":["is","starting","to","actually"],"grammar":"'start to + V' + 'actually' = beginning to in fact.","translation":"やっとそれがちゃんと意味を成してきた。","explanation":"Tentative casual realization.","explanationJa":"「is actually starting to」=「やっと〜してきた」。"},
-  {"id":46,"level":1,"prefix":"I'm","suffix":"after this week.","answer":["gonna","need","a","vacation"],"grammar":"'gonna need + N' = casual future expression.","translation":"この一週間が終わったら絶対休み必要。","explanation":"Casual statement of needed rest.","explanationJa":"「gonna need a vacation」=「休みが必要になる」。"},
-  {"id":47,"level":1,"prefix":"Did","suffix":"about the news?","answer":["you","hear","anything","else"],"grammar":"'hear anything else about + N' = further information.","translation":"そのニュースのこと、他に何か聞いた?","explanation":"Asking about additional information.","explanationJa":"「hear anything else」=「他に何か聞いた?」。"},
-  {"id":48,"level":1,"prefix":"It","suffix":"all night long.","answer":["just","kept","raining","really"],"grammar":"'keep + V-ing' = continue doing; 'really' intensifies.","translation":"夜通しずっと激しく雨が降り続けてた。","explanation":"Casual weather complaint.","explanationJa":"「kept raining really」=「ずっと激しく降り続けた」。"},
-  {"id":49,"level":1,"prefix":"My laptop","suffix":"in the middle of class.","answer":["just","died","on","me"],"grammar":"'die on me' = stop working unexpectedly.","translation":"授業の途中でノートパソコンが急に死んだ。","explanation":"Same casual pattern of device-failure complaint.","explanationJa":"「died on me」=「(機器が)急に動かなくなった」。"},
-  {"id":50,"level":1,"prefix":"Sounds","suffix":"there for sure.","answer":["good","I","will","be"],"grammar":"'sounds good' = casual agreement; 'for sure' = definitely.","translation":"いいね、絶対行くよ。","explanation":"Casual confirmation of attendance.","explanationJa":"「I will be there for sure」=「絶対行く」。"},
-  {"id":51,"level":1,"prefix":"I","suffix":"into my old neighbor.","answer":["literally","just","ran","into"],"grammar":"'literally just' = exactly now; 'run into' = meet by chance.","translation":"今ホント偶然、昔の隣人に会った。","explanation":"Stacks 'literally' + 'just' for emphasis on timing.","explanationJa":"「literally just ran into」=「ホント今偶然会った」。"},
-  {"id":52,"level":1,"prefix":"My kid","suffix":"at the park today.","answer":["was","being","super","loud"],"grammar":"'being super + adj' = behaving extremely + adj (temporary).","translation":"うちの子、今日公園ですごくうるさかった。","explanation":"Casual parental complaint pattern.","explanationJa":"「was being super loud」=「すごくうるさかった」。"},
-  {"id":53,"level":1,"prefix":"You","suffix":"about that, right?","answer":["already","know","everything","about"],"grammar":"'already know everything about' = full prior knowledge.","translation":"そのこと、もう全部知ってるよね?","explanation":"Confirming someone is up to speed.","explanationJa":"「already know everything about」=「もう全部知っている」。"},
-  {"id":54,"level":1,"prefix":"Let's","suffix":"a different time.","answer":["just","reschedule","for","maybe"],"grammar":"'just reschedule for + time' = move to a later time casually.","translation":"とりあえず別の時間に変更しよう。","explanation":"Casual proposal to postpone.","explanationJa":"「just reschedule for」=「とりあえず予定変更しよう」。"},
-  {"id":55,"level":1,"prefix":"It's","suffix":"so I'll head home.","answer":["getting","kind","of","late"],"grammar":"'getting kind of + adj' = becoming somewhat + adj.","translation":"ちょっと遅くなってきたから、もう帰るね。","explanation":"Standard polite-casual exit cue.","explanationJa":"「getting kind of late」=「ちょっと遅くなってきた」。"},
-  {"id":56,"level":1,"prefix":"That","suffix":"the rest of the day.","answer":["totally","ruined","my","mood"],"grammar":"'totally ruined my + N' = completely spoiled.","translation":"あれで一日の気分が完全に台無し。","explanation":"Casual mood complaint.","explanationJa":"「totally ruined my mood」=「気分が完全に台無し」。"},
-  {"id":57,"level":1,"prefix":"I","suffix":"my coffee, sorry.","answer":["totally","just","spilled","my"],"grammar":"'totally just + verb' = just now (with emphasis); 'spilled'.","translation":"今コーヒー完全にこぼした、ごめん。","explanation":"Casual immediate-past apology.","explanationJa":"「totally just spilled」=「今こぼしちゃった」。"},
-  {"id":58,"level":1,"prefix":"Can","suffix":"a quick favor?","answer":["I","ask","you","for"],"grammar":"'ask for a favor' = request a small help.","translation":"ちょっとお願いしてもいい?","explanation":"Standard casual favor opener.","explanationJa":"「ask you for a quick favor」=「ちょっとお願いがある」。"},
-  {"id":59,"level":1,"prefix":"He","suffix":"the second I walked in.","answer":["was","on","the","phone"],"grammar":"'on the phone' = in a call; 'the second + clause' = immediately when.","translation":"私が入った瞬間、彼は電話中だった。","explanation":"Casual scene-setting time clause.","explanationJa":"「the second I walked in」=「私が入った瞬間に」。"},
-  {"id":60,"level":1,"prefix":"That","suffix":"and we all laughed.","answer":["was","such","a","joke"],"grammar":"'such a + N' = strong evaluative noun phrase.","translation":"あれは本当に笑える話で、みんなで笑った。","explanation":"Casual storytelling reaction.","explanationJa":"「such a joke」=「本当に笑える・冗談みたい」。"},
-  {"id":61,"level":1,"prefix":"My friend","suffix":"to call last night.","answer":["totally","forgot","about","me"],"grammar":"'totally forgot about me' = completely overlooked.","translation":"友達、昨日の夜、私に電話するの完全に忘れてた。","explanation":"Casual mild complaint.","explanationJa":"「totally forgot about me」=「私のこと完全に忘れてた」。"},
-  {"id":62,"level":1,"prefix":"I'll","suffix":"if it stops raining.","answer":["meet","you","over","there"],"grammar":"'meet you over there' = casual rendezvous phrasing.","translation":"雨がやんだら、そっちで会うね。","explanation":"Conditional casual meet-up plan.","explanationJa":"「meet you over there」=「そっちで会う」。"},
-  {"id":63,"level":1,"prefix":"Just","suffix":"when you can.","answer":["give","me","a","call"],"grammar":"'give me a call' = phone me (casual).","translation":"出来る時に電話ちょうだい。","explanation":"Casual phone request.","explanationJa":"「give me a call」=「電話ちょうだい」。"},
-  {"id":64,"level":1,"prefix":"My battery","suffix":"by mid-afternoon.","answer":["was","completely","dead","again"],"grammar":"'completely dead' = fully drained (battery).","translation":"午後半ばにはバッテリーがまた完全に切れてた。","explanation":"Casual everyday phone complaint.","explanationJa":"「completely dead」=「(バッテリーが)完全に切れてる」。"},
-  {"id":65,"level":1,"prefix":"That","suffix":"out the door.","answer":["dog","just","ran","right"],"grammar":"'just + V + right + adverb' adds vividness.","translation":"その犬、いきなりドアからまっすぐ飛び出した。","explanation":"Casual descriptive narration.","explanationJa":"「just ran right out」=「いきなり飛び出した」。"},
-  {"id":66,"level":1,"prefix":"I","suffix":"all weekend long.","answer":["was","binge","watching","Netflix"],"grammar":"'binge watch' = watch many episodes at once.","translation":"週末ずっとネットフリックスを一気見してた。","explanation":"Modern casual leisure activity.","explanationJa":"「binge watching Netflix」=「ネトフリ一気見」。"},
-  {"id":67,"level":1,"prefix":"Honestly,","suffix":"is fine with me.","answer":["whatever","you","decide","is"],"grammar":"'whatever you decide' = whichever choice you make.","translation":"正直、君が決めることなら何でもいいよ。","explanation":"Casual deferring statement.","explanationJa":"「whatever you decide」=「君が決めることなら何でも」。"},
-  {"id":68,"level":1,"prefix":"This","suffix":"to my house.","answer":["bus","goes","straight","back"],"grammar":"'goes straight back to + place' = direct route home.","translation":"このバス、うちまで直行で帰れる。","explanation":"Casual practical statement.","explanationJa":"「goes straight back」=「まっすぐ帰る」。"},
-  {"id":69,"level":1,"prefix":"You","suffix":"as soon as I know.","answer":["will","be","the","first"],"grammar":"'be the first + to know' = first person informed.","translation":"分かったらすぐ、まず君に知らせるね。","explanation":"Casual promise of inside info.","explanationJa":"「the first to know」=「最初に知る人」。"},
-  {"id":70,"level":1,"prefix":"He","suffix":"the new boss.","answer":["doesn't","seem","to","like"],"grammar":"'doesn't seem to + V' = appears not to.","translation":"彼、新しい上司のこと、好きじゃなさそう。","explanation":"Casual observation softener.","explanationJa":"「doesn't seem to like」=「好きじゃなさそう」。"},
-  {"id":71,"level":2,"prefix":"I just","suffix":"about the schedule change.","answer":["wanted","to","give","you"],"grammar":"After this comes 'a heads up'; 'give someone a heads up' = forewarn.","translation":"スケジュール変更について事前に知らせておきたかったんだ。","explanation":"Common professional-casual courtesy.","explanationJa":"「wanted to give you (a heads up)」=「事前に知らせたかった」。"},
-  {"id":72,"level":2,"prefix":"Let's","suffix":"sometime next week.","answer":["touch","base","over","coffee"],"grammar":"'touch base' = briefly check in; 'over coffee' = while having coffee.","translation":"来週どこかでコーヒーでも飲みながらちょっと話そう。","explanation":"Professional-casual catch-up proposal.","explanationJa":"「touch base over coffee」=「コーヒー飲みながら近況確認」。"},
-  {"id":73,"level":2,"prefix":"Can","suffix":"before the meeting?","answer":["I","run","this","by"],"grammar":"'run something by someone' = share for input.","translation":"会議の前にちょっとこれ見てもらえる?","explanation":"After this comes 'you'; standard casual feedback request.","explanationJa":"「run this by (you)」=「意見を聞くために見せる」。"},
-  {"id":74,"level":2,"prefix":"He","suffix":"a piece of cake.","answer":["said","the","exam","was"],"grammar":"'piece of cake' = very easy.","translation":"彼、試験は楽勝だったって言ってた。","explanation":"Reporting someone's casual evaluation.","explanationJa":"「the exam was a piece of cake」=「試験は楽勝だった」。"},
-  {"id":75,"level":2,"prefix":"Honestly,","suffix":"the deadline by a mile.","answer":["we","totally","missed","out"],"grammar":"After this: 'on the deadline'; 'miss out on' = fail to seize.","translation":"正直、締め切りに完全に間に合わなかった。","explanation":"Casual admission of missing a deadline.","explanationJa":"「totally missed out (on)」=「完全に逃した」。"},
-  {"id":76,"level":2,"prefix":"Let me","suffix":"and get back to you.","answer":["sleep","on","it","tonight"],"grammar":"'sleep on it' = decide tomorrow after thinking.","translation":"今夜ちょっと考えて、また返事するね。","explanation":"Polite-casual delay of decision.","explanationJa":"「sleep on it」=「一晩考える」。"},
-  {"id":77,"level":2,"prefix":"We","suffix":"to the budget question later.","answer":["should","circle","back","around"],"grammar":"'circle back (around) to + topic' = return to a discussion.","translation":"予算の話には後でまた戻ろう。","explanation":"Professional-casual transition deferring a topic.","explanationJa":"「circle back around to」=「後でまた戻る」。"},
-  {"id":78,"level":2,"prefix":"She's","suffix":"the office gossip again.","answer":["been","spilling","the","beans"],"grammar":"'spill the beans (about/on)' = reveal secrets.","translation":"彼女、また職場の噂話をバラしてる。","explanation":"Casual workplace observation.","explanationJa":"「spilling the beans」=「秘密をバラしている」。"},
-  {"id":79,"level":2,"prefix":"I'm","suffix":"about the whole thing.","answer":["still","on","the","fence"],"grammar":"'on the fence' = undecided.","translation":"その件、まだ迷ってる。","explanation":"Casual indecision expression.","explanationJa":"「on the fence」=「迷っている」。"},
-  {"id":80,"level":2,"prefix":"That comment","suffix":"out of the blue.","answer":["really","came","completely","right"],"grammar":"'out of the blue' = unexpectedly; stacks intensifiers.","translation":"あの発言、本当に突然来た感じ。","explanation":"Casual surprise at unexpected remark.","explanationJa":"「came completely right out of the blue」=「いきなり突然出てきた」。"},
-  {"id":81,"level":2,"prefix":"This coffee","suffix":"after that long morning.","answer":["really","hits","the","spot"],"grammar":"'hit the spot' = satisfy perfectly.","translation":"長い朝の後のこのコーヒー、本当に染みる。","explanation":"Casual food/drink satisfaction.","explanationJa":"「hits the spot」=「ちょうどよかった・染みる」。"},
-  {"id":82,"level":2,"prefix":"My boss","suffix":"after that mistake.","answer":["is","in","a","mood"],"grammar":"'in a mood' = irritable.","translation":"あのミスの後、上司は機嫌が悪い。","explanation":"Casual euphemism for grumpiness.","explanationJa":"「in a mood」=「機嫌が悪い」。"},
-  {"id":83,"level":2,"prefix":"Let's","suffix":"and finish tomorrow.","answer":["call","it","a","day"],"grammar":"'call it a day' = stop working for now.","translation":"今日はもう終わりにして、明日続けよう。","explanation":"Standard professional-casual wrap-up.","explanationJa":"「call it a day」=「今日はもう終わりにする」。"},
-  {"id":84,"level":2,"prefix":"I'm","suffix":"so I'm skipping the gym.","answer":["feeling","under","the","weather"],"grammar":"'under the weather' = slightly ill.","translation":"ちょっと体調悪いから、今日はジム休む。","explanation":"Casual mild-illness excuse.","explanationJa":"「under the weather」=「ちょっと体調が悪い」。"},
-  {"id":85,"level":2,"prefix":"Just","suffix":"with the project.","answer":["hang","in","there","longer"],"grammar":"'hang in there' = persevere.","translation":"プロジェクト、もう少し頑張って続けよう。","explanation":"Casual encouragement to persist.","explanationJa":"「hang in there longer」=「もう少し頑張って」。"},
-  {"id":86,"level":2,"prefix":"Sorry I'm","suffix":"in awful traffic.","answer":["late","I","got","stuck"],"grammar":"'get stuck in + N' = be unable to move.","translation":"ごめん遅れて、ひどい渋滞にハマってた。","explanation":"Standard casual lateness apology.","explanationJa":"「got stuck in」=「ハマって動けなかった」。"},
-  {"id":87,"level":2,"prefix":"We're","suffix":"about the new direction.","answer":["all","on","the","same"],"grammar":"After this comes 'page'; 'on the same page' = in agreement.","translation":"新しい方向性についてみんな同じ考えだ。","explanation":"Professional-casual alignment confirmation.","explanationJa":"「on the same (page)」=「同じ認識」。"},
-  {"id":88,"level":2,"prefix":"Honestly,","suffix":"this whole week.","answer":["I've","been","totally","slammed"],"grammar":"'slammed' = extremely busy (casual).","translation":"正直、今週ずっと忙殺されてる。","explanation":"Casual modern busyness complaint.","explanationJa":"「totally slammed」=「めちゃくちゃ忙しい」。"},
-  {"id":89,"level":2,"prefix":"Can","suffix":"the file before I send it?","answer":["you","take","a","look"],"grammar":"'take a look at + N' = review briefly.","translation":"送る前にちょっとファイル見てもらえる?","explanation":"Casual review request.","explanationJa":"「take a look」=「ちょっと見てもらう」。"},
-  {"id":90,"level":2,"prefix":"He","suffix":"that he can't help us.","answer":["made","it","pretty","clear"],"grammar":"'make it (pretty) clear that + clause' = state plainly.","translation":"彼、手伝えないってかなりはっきり言ってた。","explanation":"Casual but direct reporting.","explanationJa":"「made it pretty clear」=「かなりはっきりさせた」。"},
-  {"id":91,"level":2,"prefix":"I","suffix":"about that new restaurant.","answer":["keep","hearing","good","things"],"grammar":"'keep hearing good things about + N' = ongoing positive buzz.","translation":"あの新しいレストラン、いい評判ばかり聞く。","explanation":"Casual positive word-of-mouth.","explanationJa":"「keep hearing good things」=「いい評判ばかり聞く」。"},
-  {"id":92,"level":2,"prefix":"That movie","suffix":"to be honest.","answer":["wasn't","really","my","thing"],"grammar":"'not really my thing' = not to my taste.","translation":"あの映画、正直あんまり趣味じゃなかった。","explanation":"Polite-casual dislike.","explanationJa":"「not really my thing」=「あんまり趣味じゃない」。"},
-  {"id":93,"level":2,"prefix":"We","suffix":"on this proposal.","answer":["are","gonna","need","alignment"],"grammar":"'need alignment on + N' = consensus required.","translation":"この提案について意見をそろえる必要がある。","explanation":"Professional-casual coordination request.","explanationJa":"「need alignment on」=「意見をそろえる必要がある」。"},
-  {"id":94,"level":2,"prefix":"Could you","suffix":"the meeting tomorrow?","answer":["fill","in","for","me"],"grammar":"'fill in for + person' = substitute.","translation":"明日の会議、代わりに出てもらえない?","explanation":"Casual substitution request.","explanationJa":"「fill in for me」=「代わりに出る」。"},
-  {"id":95,"level":2,"prefix":"It's","suffix":"to be a long week.","answer":["definitely","shaping","up","like"],"grammar":"'shape up + adv' = develop; 'shaping up like' = looking like it'll become.","translation":"確実に長い一週間になりそう。","explanation":"Casual prediction of busy week.","explanationJa":"「shaping up」=「〜になりそう」。"},
-  {"id":96,"level":2,"prefix":"He","suffix":"about leaving the company.","answer":["has","been","seriously","thinking"],"grammar":"'seriously thinking about + V-ing' = strongly considering.","translation":"彼、会社を辞めることを本気で考えてる。","explanation":"Casual serious consideration statement.","explanationJa":"「seriously thinking about」=「本気で考えている」。"},
-  {"id":97,"level":2,"prefix":"I","suffix":"a few details before sending.","answer":["need","to","iron","out"],"grammar":"'iron out + N' = resolve small issues.","translation":"送る前にいくつか細かい点を詰める必要がある。","explanation":"Casual but professional finalization phrasing.","explanationJa":"「iron out」=「(細かい問題を)解決する」。"},
-  {"id":98,"level":2,"prefix":"Honestly,","suffix":"on this one.","answer":["I","beg","to","differ"],"grammar":"'beg to differ' = politely disagree.","translation":"正直、この件については意見が違うんだ。","explanation":"Polite-casual disagreement.","explanationJa":"「beg to differ」=「失礼ながら反対」。"},
-  {"id":99,"level":2,"prefix":"Let's","suffix":"if she comes back to us.","answer":["just","play","it","by"],"grammar":"After this: 'ear'; 'play it by ear' = improvise.","translation":"彼女から連絡来たら、その時に決めよう。","explanation":"Casual flexible-plan phrasing.","explanationJa":"「play it by (ear)」=「成り行きで決める」。"},
-  {"id":100,"level":2,"prefix":"That meeting","suffix":"after a while.","answer":["really","started","dragging","on"],"grammar":"'drag on' = continue tediously.","translation":"あの会議、しばらくしたらホント長引いてきた。","explanation":"Casual complaint about overlong meeting.","explanationJa":"「started dragging on」=「長引いてきた」。"}
+  {
+    "id": 1,
+    "level": 1,
+    "prefix": "Hey,",
+    "suffix": "after work?",
+    "answer": [
+      "wanna",
+      "grab",
+      "a",
+      "coffee"
+    ],
+    "grammar": "wanna = want to (casual contraction); 'grab a + drink' is the casual way to suggest getting something.",
+    "translation": "ねえ、仕事の後にコーヒー飲みに行かない?",
+    "explanation": "Casual invitation: 'wanna grab a coffee' is the most natural everyday phrasing.",
+    "explanationJa": "「wanna grab a coffee」は「コーヒー飲みに行こうよ」というカジュアルな誘い方。"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "prefix": "I'm",
+    "suffix": "right now, honestly.",
+    "answer": [
+      "super",
+      "tired",
+      "and",
+      "hungry"
+    ],
+    "grammar": "super + adjective = 'very'; chain adjectives with 'and'.",
+    "translation": "正直、今すごく疲れててお腹も空いてる。",
+    "explanation": "'Super' before an adjective acts as a casual intensifier.",
+    "explanationJa": "「super + 形容詞」で「とても〜」というカジュアル強調。"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "prefix": "Let's",
+    "suffix": "if you're free tonight.",
+    "answer": [
+      "just",
+      "hang",
+      "out",
+      "later"
+    ],
+    "grammar": "'just hang out' = casually spend time; 'later' = at a later time.",
+    "translation": "もし夜空いてたら、後でゆっくりしようよ。",
+    "explanation": "'Hang out later' is the standard casual plan phrasing.",
+    "explanationJa": "「hang out later」=「後でゆっくり過ごす」というカジュアル表現。"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "prefix": "She",
+    "suffix": ", didn't she?",
+    "answer": [
+      "kinda",
+      "showed",
+      "up",
+      "late"
+    ],
+    "grammar": "kinda = kind of (softener); 'show up' = arrive.",
+    "translation": "彼女、ちょっと遅れて来たよね?",
+    "explanation": "'Kinda' softens; 'show up late' is everyday casual English.",
+    "explanationJa": "「kinda showed up late」=「ちょっと遅れて来た」。"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "prefix": "We",
+    "suffix": "before it gets dark.",
+    "answer": [
+      "should",
+      "totally",
+      "head",
+      "out"
+    ],
+    "grammar": "'totally' = definitely (casual); 'head out' = leave.",
+    "translation": "暗くなる前にもう絶対出発した方がいいね。",
+    "explanation": "'Totally head out' chains a casual intensifier with a casual phrasal verb.",
+    "explanationJa": "「totally head out」=「絶対出発しよう」というカジュアル表現。"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "prefix": "Hey,",
+    "suffix": "Saturday?",
+    "answer": [
+      "are",
+      "you",
+      "free",
+      "this"
+    ],
+    "grammar": "'are you free + day' is the standard casual availability check.",
+    "translation": "ねえ、今週末の土曜日空いてる?",
+    "explanation": "Direct, friendly way to ask about availability.",
+    "explanationJa": "「are you free Saturday」=「土曜空いてる?」というカジュアル質問。"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "about that.",
+    "answer": [
+      "kinda",
+      "forgot",
+      "to",
+      "ask"
+    ],
+    "grammar": "'kinda + verb' softens; 'forgot to + V' = failed to do.",
+    "translation": "それについて聞くの、ちょっと忘れちゃった。",
+    "explanation": "'Kinda forgot' softens an admission of forgetting.",
+    "explanationJa": "「kinda forgot to ask」=「聞くのちょっと忘れちゃった」。"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "in a long time.",
+    "answer": [
+      "was",
+      "the",
+      "best",
+      "movie"
+    ],
+    "grammar": "'was the best + N + in a long time' = haven't seen better recently.",
+    "translation": "久々に見たすごくいい映画だった。",
+    "explanation": "Casual superlative review pattern.",
+    "explanationJa": "「the best movie in a long time」=「久々の傑作」というカジュアル評価。"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "prefix": "Sorry, I",
+    "suffix": "you back yesterday.",
+    "answer": [
+      "totally",
+      "forgot",
+      "to",
+      "text"
+    ],
+    "grammar": "'totally forgot' = completely forgot (casual emphasis).",
+    "translation": "ごめん、昨日返信するの完全に忘れてた。",
+    "explanation": "Common casual apology for a missed message.",
+    "explanationJa": "「totally forgot」=「完全に忘れた」というカジュアル謝罪。"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "prefix": "Wanna",
+    "suffix": "after lunch today?",
+    "answer": [
+      "go",
+      "for",
+      "a",
+      "walk"
+    ],
+    "grammar": "'go for a + activity noun' is a natural invitation pattern.",
+    "translation": "今日お昼の後、散歩行かない?",
+    "explanation": "'Go for a walk/coffee/drive' is the everyday invitation template.",
+    "explanationJa": "「go for a walk」=「散歩に行く」というカジュアル定番。"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "prefix": "I'm",
+    "suffix": "to be honest.",
+    "answer": [
+      "not",
+      "really",
+      "into",
+      "it"
+    ],
+    "grammar": "'not really into + something' = don't enjoy / aren't interested.",
+    "translation": "正直、あんまり好きじゃないんだ。",
+    "explanation": "Polite-casual way to say you don't like something.",
+    "explanationJa": "「not really into it」=「あんまり好きじゃない」という柔らかい否定。"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "prefix": "You",
+    "suffix": "if you keep at it.",
+    "answer": [
+      "are",
+      "gonna",
+      "do",
+      "great"
+    ],
+    "grammar": "gonna = going to (casual); 'do great' = succeed.",
+    "translation": "続ければきっとうまくいくよ。",
+    "explanation": "Casual encouragement using 'gonna do great'.",
+    "explanationJa": "「gonna do great」=「きっとうまくいく」というカジュアル励まし。"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "prefix": "Can",
+    "suffix": "a quick second?",
+    "answer": [
+      "I",
+      "ask",
+      "you",
+      "for"
+    ],
+    "grammar": "'ask someone for + N' = request something briefly.",
+    "translation": "ちょっと一瞬だけいい?",
+    "explanation": "Common opener to get someone's brief attention.",
+    "explanationJa": "「ask you for a quick second」=「ちょっと時間ちょうだい」。"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "believe it!",
+    "answer": [
+      "is",
+      "crazy",
+      "I",
+      "can't"
+    ],
+    "grammar": "'crazy' as casual exclamation; 'I can't believe it' = surprise.",
+    "translation": "それヤバい、信じられない!",
+    "explanation": "Two casual reactions chained for emphasis.",
+    "explanationJa": "「That is crazy, I can't believe it」=「ヤバい、信じられない!」。"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "to my birthday.",
+    "answer": [
+      "totally",
+      "forgot",
+      "to",
+      "come"
+    ],
+    "grammar": "'totally forgot to + V' = entirely failed to.",
+    "translation": "彼、私の誕生日に来るのすっかり忘れてた。",
+    "explanation": "Casual phrasing for a complete oversight.",
+    "explanationJa": "「totally forgot to come」=「来るのを完全に忘れた」。"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "prefix": "Let",
+    "suffix": "first.",
+    "answer": [
+      "me",
+      "grab",
+      "my",
+      "jacket"
+    ],
+    "grammar": "'let me + V' = polite-casual request to do something briefly.",
+    "translation": "先にジャケット取ってくる。",
+    "explanation": "'Let me grab' is the casual everyday 'let me quickly get'.",
+    "explanationJa": "「let me grab my jacket」=「ちょっとジャケット取ってくる」。"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "friend on the bus this morning.",
+    "answer": [
+      "ran",
+      "into",
+      "an",
+      "old"
+    ],
+    "grammar": "'run into + person' = meet by chance.",
+    "translation": "今朝バスで昔の知り合いにばったり会った。",
+    "explanation": "'Ran into an old + (friend/classmate)' is a casual encounter pattern.",
+    "explanationJa": "「ran into an old (friend)」=「昔の知り合いに偶然会った」。"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "prefix": "It's",
+    "suffix": "go anywhere today.",
+    "answer": [
+      "way",
+      "too",
+      "cold",
+      "to"
+    ],
+    "grammar": "'way too + adjective + to + V' = far too cold to do.",
+    "translation": "今日は寒すぎてどこにも行けないよ。",
+    "explanation": "'Way too cold to go' uses casual intensifier 'way too'.",
+    "explanationJa": "「way too cold to go」=「寒すぎて行けない」。"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "prefix": "My phone",
+    "suffix": "again — annoying!",
+    "answer": [
+      "just",
+      "died",
+      "on",
+      "me"
+    ],
+    "grammar": "'die on someone' = (device) stop working unexpectedly.",
+    "translation": "スマホがまた急に切れた、ホント嫌になる!",
+    "explanation": "'Died on me' personalizes the failure (common spoken usage).",
+    "explanationJa": "「died on me」=「(機器が)急に切れた」というカジュアル表現。"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "that movie.",
+    "answer": [
+      "heard",
+      "good",
+      "things",
+      "about"
+    ],
+    "grammar": "'hear good things about + N' = receive positive reports.",
+    "translation": "あの映画、評判いいって聞いたよ。",
+    "explanation": "Standard casual way to relay positive word-of-mouth.",
+    "explanationJa": "「heard good things about」=「いい評判を聞いた」。"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "prefix": "Wanna",
+    "suffix": "and just chill?",
+    "answer": [
+      "order",
+      "some",
+      "food",
+      "in"
+    ],
+    "grammar": "'order food in' = have food delivered (vs. going out).",
+    "translation": "なんか出前取ってのんびりしない?",
+    "explanation": "'Order food in' contrasts with 'eat out'; very casual evening plan.",
+    "explanationJa": "「order food in」=「出前を取る」。"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "and never came back.",
+    "answer": [
+      "just",
+      "walked",
+      "right",
+      "out"
+    ],
+    "grammar": "'just + verb + right + adverb' = adds emphasis to a sudden action.",
+    "translation": "彼、いきなり出て行ってそのまま戻ってこなかった。",
+    "explanation": "'Just walked right out' emphasizes the abruptness.",
+    "explanationJa": "「just walked right out」=「いきなり出て行った」。"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "prefix": "That song",
+    "suffix": "all day long.",
+    "answer": [
+      "has",
+      "been",
+      "stuck",
+      "in"
+    ],
+    "grammar": "'be stuck in my head' = unable to stop thinking of (a tune).",
+    "translation": "あの曲、頭から離れなくて一日中ぐるぐるしてる。",
+    "explanation": "Conversational way to describe an earworm.",
+    "explanationJa": "「stuck in my head」=「頭から離れない」。"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "prefix": "You",
+    "suffix": "that, seriously.",
+    "answer": [
+      "didn't",
+      "have",
+      "to",
+      "do"
+    ],
+    "grammar": "'you didn't have to + V' = polite appreciation for an unrequired action.",
+    "translation": "そんなことしなくてよかったのに、ホントに。",
+    "explanation": "Polite-casual response to a kind gesture.",
+    "explanationJa": "「didn't have to do that」=「そんなことしなくてよかったのに」。"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "to that party.",
+    "answer": [
+      "totally",
+      "don't",
+      "wanna",
+      "go"
+    ],
+    "grammar": "'totally don't wanna' = strong casual refusal.",
+    "translation": "あのパーティー、マジで行きたくない。",
+    "explanation": "Stacks two casual markers ('totally' + 'wanna').",
+    "explanationJa": "「totally don't wanna go」=「マジで行きたくない」。"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "prefix": "My boss",
+    "suffix": "this morning.",
+    "answer": [
+      "was",
+      "in",
+      "a",
+      "mood"
+    ],
+    "grammar": "'be in a mood' = be irritable / bad-tempered.",
+    "translation": "今朝、上司の機嫌が悪かった。",
+    "explanation": "Casual euphemism for being grumpy.",
+    "explanationJa": "「in a mood」=「機嫌が悪い」。"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "the whole weekend.",
+    "answer": [
+      "pretty",
+      "much",
+      "slept",
+      "through"
+    ],
+    "grammar": "'pretty much' = basically; 'sleep through' = sleep continuously past.",
+    "translation": "週末ほぼずっと寝てた。",
+    "explanation": "Casual confession of doing almost nothing.",
+    "explanationJa": "「pretty much slept through」=「ほぼずっと寝てた」。"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "prefix": "Let me",
+    "suffix": "in five minutes.",
+    "answer": [
+      "call",
+      "you",
+      "right",
+      "back"
+    ],
+    "grammar": "'call you right back' = return your call immediately.",
+    "translation": "5分以内に折り返すね。",
+    "explanation": "Standard casual phone phrasing.",
+    "explanationJa": "「call you right back」=「すぐ折り返す」。"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "out of nowhere.",
+    "answer": [
+      "totally",
+      "came",
+      "at",
+      "me"
+    ],
+    "grammar": "'come at someone' = come toward / surprise; 'out of nowhere' = unexpectedly.",
+    "translation": "いきなりそれが飛んできた感じ。",
+    "explanation": "Vivid casual description of an unexpected event.",
+    "explanationJa": "「came at me out of nowhere」=「突然向かってきた・いきなり来た」。"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "prefix": "I'll",
+    "suffix": "on my way home.",
+    "answer": [
+      "swing",
+      "by",
+      "the",
+      "store"
+    ],
+    "grammar": "'swing by + place' = make a quick stop.",
+    "translation": "帰りにちょっとお店寄ってくね。",
+    "explanation": "'Swing by' is a friendlier version of 'stop by'.",
+    "explanationJa": "「swing by the store」=「ちょっと店に寄る」。"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "weird the whole time.",
+    "answer": [
+      "was",
+      "being",
+      "kind",
+      "of"
+    ],
+    "grammar": "'kind of' softens; 'being + adjective' = behaving in that way temporarily.",
+    "translation": "彼、ずっとちょっと変な感じだった。",
+    "explanation": "Setup for a soft criticism — 'being kind of (weird/quiet/etc.)'.",
+    "explanationJa": "「was being kind of」=「ちょっと〜な感じだった」(柔らかい評価)。"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "how to get there.",
+    "answer": [
+      "have",
+      "no",
+      "clue",
+      "about"
+    ],
+    "grammar": "'have no clue' = have no idea (casual).",
+    "translation": "そこまでの行き方、全然分からない。",
+    "explanation": "'No clue' is a casual replacement for 'no idea'.",
+    "explanationJa": "「have no clue」=「全然分からない」のカジュアル版。"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "prefix": "Don't",
+    "suffix": "big a deal.",
+    "answer": [
+      "worry",
+      "it's",
+      "not",
+      "that"
+    ],
+    "grammar": "'not that + adjective' = not so + adjective (softens).",
+    "translation": "心配しないで、そんなたいしたことじゃないよ。",
+    "explanation": "Standard casual reassurance.",
+    "explanationJa": "「not that big a deal」=「そんなたいしたことじゃない」。"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "prefix": "I'm",
+    "suffix": "about the whole thing.",
+    "answer": [
+      "just",
+      "kind",
+      "of",
+      "bummed"
+    ],
+    "grammar": "'bummed' = disappointed (casual); 'kind of' softens.",
+    "translation": "全体的にちょっとガッカリしてるんだ。",
+    "explanation": "'Bummed' is a common casual word for mild sadness.",
+    "explanationJa": "「kind of bummed」=「ちょっとガッカリ」。"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "prefix": "We",
+    "suffix": "at the same place again.",
+    "answer": [
+      "ended",
+      "up",
+      "meeting",
+      "up"
+    ],
+    "grammar": "'end up + V-ing' = finally happen to; 'meet up' = gather.",
+    "translation": "結局また同じ場所で会うことになった。",
+    "explanation": "Stacks 'end up' + 'meet up' — both casual phrasals.",
+    "explanationJa": "「ended up meeting up」=「結局会うことになった」。"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "prefix": "My sister",
+    "suffix": "the new café downtown.",
+    "answer": [
+      "keeps",
+      "talking",
+      "about",
+      "trying"
+    ],
+    "grammar": "'keep + V-ing' = continually do; 'talk about trying' = mention wanting to try.",
+    "translation": "妹がダウンタウンの新しいカフェに行ってみたいって何回も言ってる。",
+    "explanation": "Casual way to describe a repeated suggestion.",
+    "explanationJa": "「keeps talking about trying」=「何度も〜したいと言っている」。"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "long day.",
+    "answer": [
+      "was",
+      "seriously",
+      "such",
+      "a"
+    ],
+    "grammar": "'seriously such a + N' = strong casual emphasis.",
+    "translation": "今日マジで本当に長い一日だった。",
+    "explanation": "Stacks 'seriously' + 'such a' for casual intensity.",
+    "explanationJa": "「seriously such a long day」=「マジで本当に長い一日」。"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "my workout this morning.",
+    "answer": [
+      "totally",
+      "skipped",
+      "out",
+      "on"
+    ],
+    "grammar": "'skip out on + N' = avoid an obligation.",
+    "translation": "今朝、ジム完全にサボった。",
+    "explanation": "'Skip out on' is casual for skipping a duty.",
+    "explanationJa": "「skipped out on」=「サボった・すっぽかした」。"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "the whole time.",
+    "answer": [
+      "didn't",
+      "say",
+      "a",
+      "word"
+    ],
+    "grammar": "'not say a word' = remain completely silent.",
+    "translation": "彼、その間ずっと一言も話さなかった。",
+    "explanation": "Idiomatic phrase for total silence.",
+    "explanationJa": "「didn't say a word」=「一言も話さなかった」。"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "prefix": "This",
+    "suffix": "in a while.",
+    "answer": [
+      "is",
+      "the",
+      "best",
+      "pizza"
+    ],
+    "grammar": "'the best + N + in a while' = best in recent memory.",
+    "translation": "これ、久々に食べた一番美味しいピザ。",
+    "explanation": "Casual superlative compliment.",
+    "explanationJa": "「the best pizza in a while」=「久々の最高のピザ」。"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "prefix": "Can",
+    "suffix": "my keys somewhere?",
+    "answer": [
+      "you",
+      "help",
+      "me",
+      "find"
+    ],
+    "grammar": "'help me + V' = polite-casual request.",
+    "translation": "鍵どこかで探すの手伝ってくれない?",
+    "explanation": "Standard casual request for assistance.",
+    "explanationJa": "「help me find」=「探すの手伝って」。"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "prefix": "It",
+    "suffix": "to be honest.",
+    "answer": [
+      "wasn't",
+      "that",
+      "bad",
+      "actually"
+    ],
+    "grammar": "'not that bad, actually' = better than expected.",
+    "translation": "正直、そんなに悪くなかったよ。",
+    "explanation": "Casual positive surprise about something feared.",
+    "explanationJa": "「wasn't that bad actually」=「実はそんなに悪くなかった」。"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "prefix": "I'll",
+    "suffix": "as soon as I can.",
+    "answer": [
+      "text",
+      "you",
+      "right",
+      "back"
+    ],
+    "grammar": "'text you right back' = reply immediately.",
+    "translation": "出来るだけ早く返信するね。",
+    "explanation": "Standard casual messaging promise.",
+    "explanationJa": "「text you right back」=「すぐ返信する」。"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "during the meeting.",
+    "answer": [
+      "fell",
+      "asleep",
+      "right",
+      "there"
+    ],
+    "grammar": "'fell asleep right there' = slept on the spot.",
+    "translation": "会議中、彼そこで寝ちゃった。",
+    "explanation": "'Right there' emphasizes the embarrassing location.",
+    "explanationJa": "「fell asleep right there」=「そこで寝てしまった」。"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "make sense, finally.",
+    "answer": [
+      "is",
+      "starting",
+      "to",
+      "actually"
+    ],
+    "grammar": "'start to + V' + 'actually' = beginning to in fact.",
+    "translation": "やっとそれがちゃんと意味を成してきた。",
+    "explanation": "Tentative casual realization.",
+    "explanationJa": "「is actually starting to」=「やっと〜してきた」。"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "prefix": "I'm",
+    "suffix": "after this week.",
+    "answer": [
+      "gonna",
+      "need",
+      "a",
+      "vacation"
+    ],
+    "grammar": "'gonna need + N' = casual future expression.",
+    "translation": "この一週間が終わったら絶対休み必要。",
+    "explanation": "Casual statement of needed rest.",
+    "explanationJa": "「gonna need a vacation」=「休みが必要になる」。"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "prefix": "Did",
+    "suffix": "about the news?",
+    "answer": [
+      "you",
+      "hear",
+      "anything",
+      "else"
+    ],
+    "grammar": "'hear anything else about + N' = further information.",
+    "translation": "そのニュースのこと、他に何か聞いた?",
+    "explanation": "Asking about additional information.",
+    "explanationJa": "「hear anything else」=「他に何か聞いた?」。"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "prefix": "It",
+    "suffix": "night long.",
+    "answer": [
+      "just",
+      "kept",
+      "raining",
+      "all"
+    ],
+    "grammar": "'keep + V-ing' = continue doing; 'really' intensifies.",
+    "translation": "夜通しずっと激しく雨が降り続けてた。",
+    "explanation": "Casual weather complaint.",
+    "explanationJa": "「kept raining really」=「ずっと激しく降り続けた」。"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "prefix": "My laptop",
+    "suffix": "in the middle of class.",
+    "answer": [
+      "just",
+      "died",
+      "on",
+      "me"
+    ],
+    "grammar": "'die on me' = stop working unexpectedly.",
+    "translation": "授業の途中でノートパソコンが急に死んだ。",
+    "explanation": "Same casual pattern of device-failure complaint.",
+    "explanationJa": "「died on me」=「(機器が)急に動かなくなった」。"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "prefix": "Sounds",
+    "suffix": "there for sure.",
+    "answer": [
+      "good",
+      "I",
+      "will",
+      "be"
+    ],
+    "grammar": "'sounds good' = casual agreement; 'for sure' = definitely.",
+    "translation": "いいね、絶対行くよ。",
+    "explanation": "Casual confirmation of attendance.",
+    "explanationJa": "「I will be there for sure」=「絶対行く」。"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "my old neighbor.",
+    "answer": [
+      "literally",
+      "just",
+      "ran",
+      "into"
+    ],
+    "grammar": "'literally just' = exactly now; 'run into' = meet by chance.",
+    "translation": "今ホント偶然、昔の隣人に会った。",
+    "explanation": "Stacks 'literally' + 'just' for emphasis on timing.",
+    "explanationJa": "「literally just ran into」=「ホント今偶然会った」。"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "prefix": "My kid",
+    "suffix": "at the park today.",
+    "answer": [
+      "was",
+      "being",
+      "super",
+      "loud"
+    ],
+    "grammar": "'being super + adj' = behaving extremely + adj (temporary).",
+    "translation": "うちの子、今日公園ですごくうるさかった。",
+    "explanation": "Casual parental complaint pattern.",
+    "explanationJa": "「was being super loud」=「すごくうるさかった」。"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "prefix": "You",
+    "suffix": "that, right?",
+    "answer": [
+      "already",
+      "know",
+      "everything",
+      "about"
+    ],
+    "grammar": "'already know everything about' = full prior knowledge.",
+    "translation": "そのこと、もう全部知ってるよね?",
+    "explanation": "Confirming someone is up to speed.",
+    "explanationJa": "「already know everything about」=「もう全部知っている」。"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "prefix": "Let's",
+    "suffix": "a different time.",
+    "answer": [
+      "just",
+      "reschedule",
+      "this",
+      "for"
+    ],
+    "grammar": "'just reschedule for + time' = move to a later time casually.",
+    "translation": "とりあえず別の時間に変更しよう。",
+    "explanation": "Casual proposal to postpone.",
+    "explanationJa": "「just reschedule for」=「とりあえず予定変更しよう」。"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "prefix": "It's",
+    "suffix": "so I'll head home.",
+    "answer": [
+      "getting",
+      "kind",
+      "of",
+      "late"
+    ],
+    "grammar": "'getting kind of + adj' = becoming somewhat + adj.",
+    "translation": "ちょっと遅くなってきたから、もう帰るね。",
+    "explanation": "Standard polite-casual exit cue.",
+    "explanationJa": "「getting kind of late」=「ちょっと遅くなってきた」。"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "for the rest of the day.",
+    "answer": [
+      "totally",
+      "ruined",
+      "my",
+      "mood"
+    ],
+    "grammar": "'totally ruined my + N' = completely spoiled.",
+    "translation": "あれで一日の気分が完全に台無し。",
+    "explanation": "Casual mood complaint.",
+    "explanationJa": "「totally ruined my mood」=「気分が完全に台無し」。"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "coffee, sorry.",
+    "answer": [
+      "totally",
+      "just",
+      "spilled",
+      "my"
+    ],
+    "grammar": "'totally just + verb' = just now (with emphasis); 'spilled'.",
+    "translation": "今コーヒー完全にこぼした、ごめん。",
+    "explanation": "Casual immediate-past apology.",
+    "explanationJa": "「totally just spilled」=「今こぼしちゃった」。"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "prefix": "Can",
+    "suffix": "a quick favor?",
+    "answer": [
+      "I",
+      "ask",
+      "you",
+      "for"
+    ],
+    "grammar": "'ask for a favor' = request a small help.",
+    "translation": "ちょっとお願いしてもいい?",
+    "explanation": "Standard casual favor opener.",
+    "explanationJa": "「ask you for a quick favor」=「ちょっとお願いがある」。"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "the second I walked in.",
+    "answer": [
+      "was",
+      "on",
+      "the",
+      "phone"
+    ],
+    "grammar": "'on the phone' = in a call; 'the second + clause' = immediately when.",
+    "translation": "私が入った瞬間、彼は電話中だった。",
+    "explanation": "Casual scene-setting time clause.",
+    "explanationJa": "「the second I walked in」=「私が入った瞬間に」。"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "and we all laughed.",
+    "answer": [
+      "was",
+      "such",
+      "a",
+      "joke"
+    ],
+    "grammar": "'such a + N' = strong evaluative noun phrase.",
+    "translation": "あれは本当に笑える話で、みんなで笑った。",
+    "explanation": "Casual storytelling reaction.",
+    "explanationJa": "「such a joke」=「本当に笑える・冗談みたい」。"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "prefix": "My friend",
+    "suffix": "me last night.",
+    "answer": [
+      "totally",
+      "forgot",
+      "to",
+      "call"
+    ],
+    "grammar": "'totally forgot about me' = completely overlooked.",
+    "translation": "友達、昨日の夜、私に電話するの完全に忘れてた。",
+    "explanation": "Casual mild complaint.",
+    "explanationJa": "「totally forgot about me」=「私のこと完全に忘れてた」。"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "prefix": "I'll",
+    "suffix": "if it stops raining.",
+    "answer": [
+      "meet",
+      "you",
+      "over",
+      "there"
+    ],
+    "grammar": "'meet you over there' = casual rendezvous phrasing.",
+    "translation": "雨がやんだら、そっちで会うね。",
+    "explanation": "Conditional casual meet-up plan.",
+    "explanationJa": "「meet you over there」=「そっちで会う」。"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "prefix": "Just",
+    "suffix": "when you can.",
+    "answer": [
+      "give",
+      "me",
+      "a",
+      "call"
+    ],
+    "grammar": "'give me a call' = phone me (casual).",
+    "translation": "出来る時に電話ちょうだい。",
+    "explanation": "Casual phone request.",
+    "explanationJa": "「give me a call」=「電話ちょうだい」。"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "prefix": "My battery",
+    "suffix": "by mid-afternoon.",
+    "answer": [
+      "was",
+      "completely",
+      "dead",
+      "again"
+    ],
+    "grammar": "'completely dead' = fully drained (battery).",
+    "translation": "午後半ばにはバッテリーがまた完全に切れてた。",
+    "explanation": "Casual everyday phone complaint.",
+    "explanationJa": "「completely dead」=「(バッテリーが)完全に切れてる」。"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "prefix": "That",
+    "suffix": "out the door.",
+    "answer": [
+      "dog",
+      "just",
+      "ran",
+      "right"
+    ],
+    "grammar": "'just + V + right + adverb' adds vividness.",
+    "translation": "その犬、いきなりドアからまっすぐ飛び出した。",
+    "explanation": "Casual descriptive narration.",
+    "explanationJa": "「just ran right out」=「いきなり飛び出した」。"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "prefix": "I",
+    "suffix": "all weekend long.",
+    "answer": [
+      "was",
+      "binge",
+      "watching",
+      "Netflix"
+    ],
+    "grammar": "'binge watch' = watch many episodes at once.",
+    "translation": "週末ずっとネットフリックスを一気見してた。",
+    "explanation": "Modern casual leisure activity.",
+    "explanationJa": "「binge watching Netflix」=「ネトフリ一気見」。"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "prefix": "Honestly,",
+    "suffix": "is fine with me.",
+    "answer": [
+      "whatever",
+      "you",
+      "decide",
+      "is"
+    ],
+    "grammar": "'whatever you decide' = whichever choice you make.",
+    "translation": "正直、君が決めることなら何でもいいよ。",
+    "explanation": "Casual deferring statement.",
+    "explanationJa": "「whatever you decide」=「君が決めることなら何でも」。"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "prefix": "This",
+    "suffix": "to my house.",
+    "answer": [
+      "bus",
+      "goes",
+      "straight",
+      "back"
+    ],
+    "grammar": "'goes straight back to + place' = direct route home.",
+    "translation": "このバス、うちまで直行で帰れる。",
+    "explanation": "Casual practical statement.",
+    "explanationJa": "「goes straight back」=「まっすぐ帰る」。"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "prefix": "You",
+    "suffix": "to know as soon as I find out.",
+    "answer": [
+      "will",
+      "be",
+      "the",
+      "first"
+    ],
+    "grammar": "'be the first + to know' = first person informed.",
+    "translation": "分かったらすぐ、まず君に知らせるね。",
+    "explanation": "Casual promise of inside info.",
+    "explanationJa": "「the first to know」=「最初に知る人」。"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "prefix": "He",
+    "suffix": "the new boss.",
+    "answer": [
+      "doesn't",
+      "seem",
+      "to",
+      "like"
+    ],
+    "grammar": "'doesn't seem to + V' = appears not to.",
+    "translation": "彼、新しい上司のこと、好きじゃなさそう。",
+    "explanation": "Casual observation softener.",
+    "explanationJa": "「doesn't seem to like」=「好きじゃなさそう」。"
+  },
+  {
+    "id": 71,
+    "level": 2,
+    "prefix": "I just",
+    "suffix": "a heads up about the schedule change.",
+    "answer": [
+      "wanted",
+      "to",
+      "give",
+      "you"
+    ],
+    "grammar": "After this comes 'a heads up'; 'give someone a heads up' = forewarn.",
+    "translation": "スケジュール変更について事前に知らせておきたかったんだ。",
+    "explanation": "Common professional-casual courtesy.",
+    "explanationJa": "「wanted to give you (a heads up)」=「事前に知らせたかった」。"
+  },
+  {
+    "id": 72,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "sometime next week.",
+    "answer": [
+      "touch",
+      "base",
+      "over",
+      "coffee"
+    ],
+    "grammar": "'touch base' = briefly check in; 'over coffee' = while having coffee.",
+    "translation": "来週どこかでコーヒーでも飲みながらちょっと話そう。",
+    "explanation": "Professional-casual catch-up proposal.",
+    "explanationJa": "「touch base over coffee」=「コーヒー飲みながら近況確認」。"
+  },
+  {
+    "id": 73,
+    "level": 2,
+    "prefix": "Can",
+    "suffix": "you before the meeting?",
+    "answer": [
+      "I",
+      "run",
+      "this",
+      "by"
+    ],
+    "grammar": "'run something by someone' = share for input.",
+    "translation": "会議の前にちょっとこれ見てもらえる?",
+    "explanation": "After this comes 'you'; standard casual feedback request.",
+    "explanationJa": "「run this by (you)」=「意見を聞くために見せる」。"
+  },
+  {
+    "id": 74,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "a piece of cake.",
+    "answer": [
+      "said",
+      "the",
+      "exam",
+      "was"
+    ],
+    "grammar": "'piece of cake' = very easy.",
+    "translation": "彼、試験は楽勝だったって言ってた。",
+    "explanation": "Reporting someone's casual evaluation.",
+    "explanationJa": "「the exam was a piece of cake」=「試験は楽勝だった」。"
+  },
+  {
+    "id": 75,
+    "level": 2,
+    "prefix": "Honestly,",
+    "suffix": "deadline by a mile.",
+    "answer": [
+      "we",
+      "totally",
+      "missed",
+      "the"
+    ],
+    "grammar": "After this: 'on the deadline'; 'miss out on' = fail to seize.",
+    "translation": "正直、締め切りに完全に間に合わなかった。",
+    "explanation": "Casual admission of missing a deadline.",
+    "explanationJa": "「totally missed out (on)」=「完全に逃した」。"
+  },
+  {
+    "id": 76,
+    "level": 2,
+    "prefix": "Let me",
+    "suffix": "and get back to you.",
+    "answer": [
+      "sleep",
+      "on",
+      "it",
+      "tonight"
+    ],
+    "grammar": "'sleep on it' = decide tomorrow after thinking.",
+    "translation": "今夜ちょっと考えて、また返事するね。",
+    "explanation": "Polite-casual delay of decision.",
+    "explanationJa": "「sleep on it」=「一晩考える」。"
+  },
+  {
+    "id": 77,
+    "level": 2,
+    "prefix": "We",
+    "suffix": "to the budget question later.",
+    "answer": [
+      "should",
+      "circle",
+      "back",
+      "around"
+    ],
+    "grammar": "'circle back (around) to + topic' = return to a discussion.",
+    "translation": "予算の話には後でまた戻ろう。",
+    "explanation": "Professional-casual transition deferring a topic.",
+    "explanationJa": "「circle back around to」=「後でまた戻る」。"
+  },
+  {
+    "id": 78,
+    "level": 2,
+    "prefix": "She's",
+    "suffix": "about the office gossip again.",
+    "answer": [
+      "been",
+      "spilling",
+      "the",
+      "beans"
+    ],
+    "grammar": "'spill the beans (about/on)' = reveal secrets.",
+    "translation": "彼女、また職場の噂話をバラしてる。",
+    "explanation": "Casual workplace observation.",
+    "explanationJa": "「spilling the beans」=「秘密をバラしている」。"
+  },
+  {
+    "id": 79,
+    "level": 2,
+    "prefix": "I'm",
+    "suffix": "about the whole thing.",
+    "answer": [
+      "still",
+      "on",
+      "the",
+      "fence"
+    ],
+    "grammar": "'on the fence' = undecided.",
+    "translation": "その件、まだ迷ってる。",
+    "explanation": "Casual indecision expression.",
+    "explanationJa": "「on the fence」=「迷っている」。"
+  },
+  {
+    "id": 80,
+    "level": 2,
+    "prefix": "That comment",
+    "suffix": "of the blue.",
+    "answer": [
+      "really",
+      "came",
+      "completely",
+      "out"
+    ],
+    "grammar": "'out of the blue' = unexpectedly; stacks intensifiers.",
+    "translation": "あの発言、本当に突然来た感じ。",
+    "explanation": "Casual surprise at unexpected remark.",
+    "explanationJa": "「came completely right out of the blue」=「いきなり突然出てきた」。"
+  },
+  {
+    "id": 81,
+    "level": 2,
+    "prefix": "This coffee",
+    "suffix": "after that long morning.",
+    "answer": [
+      "really",
+      "hits",
+      "the",
+      "spot"
+    ],
+    "grammar": "'hit the spot' = satisfy perfectly.",
+    "translation": "長い朝の後のこのコーヒー、本当に染みる。",
+    "explanation": "Casual food/drink satisfaction.",
+    "explanationJa": "「hits the spot」=「ちょうどよかった・染みる」。"
+  },
+  {
+    "id": 82,
+    "level": 2,
+    "prefix": "My boss",
+    "suffix": "after that mistake.",
+    "answer": [
+      "is",
+      "in",
+      "a",
+      "mood"
+    ],
+    "grammar": "'in a mood' = irritable.",
+    "translation": "あのミスの後、上司は機嫌が悪い。",
+    "explanation": "Casual euphemism for grumpiness.",
+    "explanationJa": "「in a mood」=「機嫌が悪い」。"
+  },
+  {
+    "id": 83,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "and finish tomorrow.",
+    "answer": [
+      "call",
+      "it",
+      "a",
+      "day"
+    ],
+    "grammar": "'call it a day' = stop working for now.",
+    "translation": "今日はもう終わりにして、明日続けよう。",
+    "explanation": "Standard professional-casual wrap-up.",
+    "explanationJa": "「call it a day」=「今日はもう終わりにする」。"
+  },
+  {
+    "id": 84,
+    "level": 2,
+    "prefix": "I'm",
+    "suffix": "so I'm skipping the gym.",
+    "answer": [
+      "feeling",
+      "under",
+      "the",
+      "weather"
+    ],
+    "grammar": "'under the weather' = slightly ill.",
+    "translation": "ちょっと体調悪いから、今日はジム休む。",
+    "explanation": "Casual mild-illness excuse.",
+    "explanationJa": "「under the weather」=「ちょっと体調が悪い」。"
+  },
+  {
+    "id": 85,
+    "level": 2,
+    "prefix": "Just",
+    "suffix": "with the project.",
+    "answer": [
+      "hang",
+      "in",
+      "there",
+      "longer"
+    ],
+    "grammar": "'hang in there' = persevere.",
+    "translation": "プロジェクト、もう少し頑張って続けよう。",
+    "explanation": "Casual encouragement to persist.",
+    "explanationJa": "「hang in there longer」=「もう少し頑張って」。"
+  },
+  {
+    "id": 86,
+    "level": 2,
+    "prefix": "Sorry I'm",
+    "suffix": "in awful traffic.",
+    "answer": [
+      "late",
+      "I",
+      "got",
+      "stuck"
+    ],
+    "grammar": "'get stuck in + N' = be unable to move.",
+    "translation": "ごめん遅れて、ひどい渋滞にハマってた。",
+    "explanation": "Standard casual lateness apology.",
+    "explanationJa": "「got stuck in」=「ハマって動けなかった」。"
+  },
+  {
+    "id": 87,
+    "level": 2,
+    "prefix": "We're",
+    "suffix": "page about the new direction.",
+    "answer": [
+      "all",
+      "on",
+      "the",
+      "same"
+    ],
+    "grammar": "After this comes 'page'; 'on the same page' = in agreement.",
+    "translation": "新しい方向性についてみんな同じ考えだ。",
+    "explanation": "Professional-casual alignment confirmation.",
+    "explanationJa": "「on the same (page)」=「同じ認識」。"
+  },
+  {
+    "id": 88,
+    "level": 2,
+    "prefix": "Honestly,",
+    "suffix": "this whole week.",
+    "answer": [
+      "I've",
+      "been",
+      "totally",
+      "slammed"
+    ],
+    "grammar": "'slammed' = extremely busy (casual).",
+    "translation": "正直、今週ずっと忙殺されてる。",
+    "explanation": "Casual modern busyness complaint.",
+    "explanationJa": "「totally slammed」=「めちゃくちゃ忙しい」。"
+  },
+  {
+    "id": 89,
+    "level": 2,
+    "prefix": "Can",
+    "suffix": "at the file before I send it?",
+    "answer": [
+      "you",
+      "take",
+      "a",
+      "look"
+    ],
+    "grammar": "'take a look at + N' = review briefly.",
+    "translation": "送る前にちょっとファイル見てもらえる?",
+    "explanation": "Casual review request.",
+    "explanationJa": "「take a look」=「ちょっと見てもらう」。"
+  },
+  {
+    "id": 90,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "that he can't help us.",
+    "answer": [
+      "made",
+      "it",
+      "pretty",
+      "clear"
+    ],
+    "grammar": "'make it (pretty) clear that + clause' = state plainly.",
+    "translation": "彼、手伝えないってかなりはっきり言ってた。",
+    "explanation": "Casual but direct reporting.",
+    "explanationJa": "「made it pretty clear」=「かなりはっきりさせた」。"
+  },
+  {
+    "id": 91,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "about that new restaurant.",
+    "answer": [
+      "keep",
+      "hearing",
+      "good",
+      "things"
+    ],
+    "grammar": "'keep hearing good things about + N' = ongoing positive buzz.",
+    "translation": "あの新しいレストラン、いい評判ばかり聞く。",
+    "explanation": "Casual positive word-of-mouth.",
+    "explanationJa": "「keep hearing good things」=「いい評判ばかり聞く」。"
+  },
+  {
+    "id": 92,
+    "level": 2,
+    "prefix": "That movie",
+    "suffix": "to be honest.",
+    "answer": [
+      "wasn't",
+      "really",
+      "my",
+      "thing"
+    ],
+    "grammar": "'not really my thing' = not to my taste.",
+    "translation": "あの映画、正直あんまり趣味じゃなかった。",
+    "explanation": "Polite-casual dislike.",
+    "explanationJa": "「not really my thing」=「あんまり趣味じゃない」。"
+  },
+  {
+    "id": 93,
+    "level": 2,
+    "prefix": "We",
+    "suffix": "on this proposal.",
+    "answer": [
+      "are",
+      "gonna",
+      "need",
+      "alignment"
+    ],
+    "grammar": "'need alignment on + N' = consensus required.",
+    "translation": "この提案について意見をそろえる必要がある。",
+    "explanation": "Professional-casual coordination request.",
+    "explanationJa": "「need alignment on」=「意見をそろえる必要がある」。"
+  },
+  {
+    "id": 94,
+    "level": 2,
+    "prefix": "Could you",
+    "suffix": "at the meeting tomorrow?",
+    "answer": [
+      "fill",
+      "in",
+      "for",
+      "me"
+    ],
+    "grammar": "'fill in for + person' = substitute.",
+    "translation": "明日の会議、代わりに出てもらえない?",
+    "explanation": "Casual substitution request.",
+    "explanationJa": "「fill in for me」=「代わりに出る」。"
+  },
+  {
+    "id": 95,
+    "level": 2,
+    "prefix": "It's",
+    "suffix": "be a long week.",
+    "answer": [
+      "definitely",
+      "shaping",
+      "up",
+      "to"
+    ],
+    "grammar": "'shape up + adv' = develop; 'shaping up like' = looking like it'll become.",
+    "translation": "確実に長い一週間になりそう。",
+    "explanation": "Casual prediction of busy week.",
+    "explanationJa": "「shaping up」=「〜になりそう」。"
+  },
+  {
+    "id": 96,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "about leaving the company.",
+    "answer": [
+      "has",
+      "been",
+      "seriously",
+      "thinking"
+    ],
+    "grammar": "'seriously thinking about + V-ing' = strongly considering.",
+    "translation": "彼、会社を辞めることを本気で考えてる。",
+    "explanation": "Casual serious consideration statement.",
+    "explanationJa": "「seriously thinking about」=「本気で考えている」。"
+  },
+  {
+    "id": 97,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "a few details before sending.",
+    "answer": [
+      "need",
+      "to",
+      "iron",
+      "out"
+    ],
+    "grammar": "'iron out + N' = resolve small issues.",
+    "translation": "送る前にいくつか細かい点を詰める必要がある。",
+    "explanation": "Casual but professional finalization phrasing.",
+    "explanationJa": "「iron out」=「(細かい問題を)解決する」。"
+  },
+  {
+    "id": 98,
+    "level": 2,
+    "prefix": "Honestly,",
+    "suffix": "on this one.",
+    "answer": [
+      "I",
+      "beg",
+      "to",
+      "differ"
+    ],
+    "grammar": "'beg to differ' = politely disagree.",
+    "translation": "正直、この件については意見が違うんだ。",
+    "explanation": "Polite-casual disagreement.",
+    "explanationJa": "「beg to differ」=「失礼ながら反対」。"
+  },
+  {
+    "id": 99,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "ear if she gets back to us.",
+    "answer": [
+      "just",
+      "play",
+      "it",
+      "by"
+    ],
+    "grammar": "After this: 'ear'; 'play it by ear' = improvise.",
+    "translation": "彼女から連絡来たら、その時に決めよう。",
+    "explanation": "Casual flexible-plan phrasing.",
+    "explanationJa": "「play it by (ear)」=「成り行きで決める」。"
+  },
+  {
+    "id": 100,
+    "level": 2,
+    "prefix": "That meeting",
+    "suffix": "after a while.",
+    "answer": [
+      "really",
+      "started",
+      "dragging",
+      "on"
+    ],
+    "grammar": "'drag on' = continue tediously.",
+    "translation": "あの会議、しばらくしたらホント長引いてきた。",
+    "explanation": "Casual complaint about overlong meeting.",
+    "explanationJa": "「started dragging on」=「長引いてきた」。"
+  },
+  {
+    "id": 101,
+    "level": 2,
+    "prefix": "Can you",
+    "suffix": "latest draft?",
+    "answer": [
+      "walk",
+      "me",
+      "through",
+      "the"
+    ],
+    "grammar": "'walk someone through X' = explain step by step.",
+    "translation": "最新の下書き、説明してもらえる?",
+    "explanation": "Casual request for guided explanation.",
+    "explanationJa": "「walk me through」=「順を追って説明する」。"
+  },
+  {
+    "id": 102,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "that email last night.",
+    "answer": [
+      "totally",
+      "forgot",
+      "about",
+      "sending"
+    ],
+    "grammar": "'forget about V-ing' = forget the action.",
+    "translation": "昨日あのメール送るのすっかり忘れてた。",
+    "explanation": "Admitting a slip-up casually.",
+    "explanationJa": "「forgot about sending」=「送るのを忘れてた」。"
+  },
+  {
+    "id": 103,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "before the next call.",
+    "answer": [
+      "wrap",
+      "this",
+      "up",
+      "quickly"
+    ],
+    "grammar": "'wrap up' = finish.",
+    "translation": "次の電話の前にサクッと終わらせよう。",
+    "explanation": "Casual call to finish up.",
+    "explanationJa": "「wrap this up」=「片付ける/終わらせる」。"
+  },
+  {
+    "id": 104,
+    "level": 2,
+    "prefix": "I'm",
+    "suffix": "idea now actually.",
+    "answer": [
+      "warming",
+      "up",
+      "to",
+      "that"
+    ],
+    "grammar": "'warm up to' = gradually like.",
+    "translation": "あの案、だんだん良く思えてきた。",
+    "explanation": "Showing growing acceptance.",
+    "explanationJa": "「warming up to」=「徐々に気に入ってくる」。"
+  },
+  {
+    "id": 105,
+    "level": 2,
+    "prefix": "That",
+    "suffix": "than I expected honestly.",
+    "answer": [
+      "took",
+      "a",
+      "lot",
+      "longer"
+    ],
+    "grammar": "'a lot longer' = much longer.",
+    "translation": "思ったよりだいぶ時間かかった。",
+    "explanation": "Casual remark about duration.",
+    "explanationJa": "「took a lot longer」=「だいぶ長くかかった」。"
+  },
+  {
+    "id": 106,
+    "level": 2,
+    "prefix": "Let me",
+    "suffix": "and get back to you.",
+    "answer": [
+      "look",
+      "into",
+      "it",
+      "quickly"
+    ],
+    "grammar": "'look into' = investigate.",
+    "translation": "ちょっと調べてから連絡するね。",
+    "explanation": "Casual promise to check.",
+    "explanationJa": "「look into it」=「調べてみる」。"
+  },
+  {
+    "id": 107,
+    "level": 2,
+    "prefix": "He kind of",
+    "suffix": "while during the long meeting.",
+    "answer": [
+      "zoned",
+      "out",
+      "for",
+      "a"
+    ],
+    "grammar": "'zone out' = lose focus.",
+    "translation": "あの長い会議で彼ちょっとボーッとしてた。",
+    "explanation": "Casual observation.",
+    "explanationJa": "「zoned out」=「ぼんやりしていた」。"
+  },
+  {
+    "id": 108,
+    "level": 2,
+    "prefix": "That deadline",
+    "suffix": "if we're not careful.",
+    "answer": [
+      "could",
+      "sneak",
+      "up",
+      "fast"
+    ],
+    "grammar": "'sneak up' = arrive unnoticed.",
+    "translation": "気をつけないと締切すぐ来るよ。",
+    "explanation": "Casual warning.",
+    "explanationJa": "「sneak up」=「気づかぬうちに迫る」。"
+  },
+  {
+    "id": 109,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "on this one honestly.",
+    "answer": [
+      "could",
+      "use",
+      "some",
+      "help"
+    ],
+    "grammar": "'could use' = need (softened).",
+    "translation": "これはちょっと手伝ってほしいわ。",
+    "explanation": "Soft request for help.",
+    "explanationJa": "「could use some help」=「助けがあると助かる」。"
+  },
+  {
+    "id": 110,
+    "level": 2,
+    "prefix": "Let's not",
+    "suffix": "quickly here.",
+    "answer": [
+      "jump",
+      "to",
+      "conclusions",
+      "too"
+    ],
+    "grammar": "'jump to conclusions' = decide hastily.",
+    "translation": "また早とちりするのはやめよう。",
+    "explanation": "Casual reminder.",
+    "explanationJa": "「jump to conclusions」=「早合点する」。"
+  },
+  {
+    "id": 111,
+    "level": 2,
+    "prefix": "That's",
+    "suffix": "question.",
+    "answer": [
+      "actually",
+      "a",
+      "really",
+      "good"
+    ],
+    "grammar": "'kind of' = somewhat.",
+    "translation": "それ、実はけっこう良い質問だね。",
+    "explanation": "Softened acknowledgement.",
+    "explanationJa": "「kind of」=「ちょっと/まあまあ」。"
+  },
+  {
+    "id": 112,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "much I drank last night.",
+    "answer": [
+      "lost",
+      "track",
+      "of",
+      "how"
+    ],
+    "grammar": "'lose track of' = lose count.",
+    "translation": "昨日何杯飲んだか全然わかんない。",
+    "explanation": "Casual past tense.",
+    "explanationJa": "「lost track of」=「数えるのを忘れた」。"
+  },
+  {
+    "id": 113,
+    "level": 2,
+    "prefix": "Can we",
+    "suffix": "after lunch maybe?",
+    "answer": [
+      "pick",
+      "this",
+      "up",
+      "again"
+    ],
+    "grammar": "'pick up' = resume.",
+    "translation": "これ、お昼の後にまた続けてもいい?",
+    "explanation": "Casual reschedule.",
+    "explanationJa": "「pick this up」=「再開する」。"
+  },
+  {
+    "id": 114,
+    "level": 2,
+    "prefix": "That",
+    "suffix": "lot of sense honestly.",
+    "answer": [
+      "actually",
+      "makes",
+      "quite",
+      "a"
+    ],
+    "grammar": "emphasis 'quite a bit'; 'make sense' = be logical.",
+    "translation": "それ、正直けっこう筋通ってる。",
+    "explanation": "Casual agreement with reasoning.",
+    "explanationJa": "「makes sense」=「納得できる」。"
+  },
+  {
+    "id": 115,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "the whole project lately.",
+    "answer": [
+      "has",
+      "been",
+      "running",
+      "with"
+    ],
+    "grammar": "'run with' = take ownership of.",
+    "translation": "最近彼がプロジェクト全部回してる。",
+    "explanation": "Casual praise of ownership.",
+    "explanationJa": "「running with」=「主導している」。"
+  },
+  {
+    "id": 116,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "before we commit anything.",
+    "answer": [
+      "sit",
+      "on",
+      "it",
+      "overnight"
+    ],
+    "grammar": "'sit on it' = delay deciding.",
+    "translation": "決める前に一晩寝かせよう。",
+    "explanation": "Casual decision-delay.",
+    "explanationJa": "「sit on it」=「保留する」。"
+  },
+  {
+    "id": 117,
+    "level": 2,
+    "prefix": "That whole thing",
+    "suffix": "sour pretty fast.",
+    "answer": [
+      "really",
+      "ended",
+      "up",
+      "going"
+    ],
+    "grammar": "'end up V-ing' = unintended outcome.",
+    "translation": "あの件、結局けっこう嫌な感じになった。",
+    "explanation": "Casual observation about outcome.",
+    "explanationJa": "「ended up going sour」=「結果的に悪化した」。"
+  },
+  {
+    "id": 118,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "the same thing actually.",
+    "answer": [
+      "was",
+      "gonna",
+      "say",
+      "exactly"
+    ],
+    "grammar": "'was gonna' = was going to.",
+    "translation": "私もまったく同じこと言おうとしてた。",
+    "explanation": "Casual agreement.",
+    "explanationJa": "「was gonna say」=「言おうとしてた」。"
+  },
+  {
+    "id": 119,
+    "level": 2,
+    "prefix": "We",
+    "suffix": "this one out properly.",
+    "answer": [
+      "really",
+      "need",
+      "to",
+      "hash"
+    ],
+    "grammar": "'hash out' = discuss thoroughly.",
+    "translation": "これはちゃんと話し合って詰めないと。",
+    "explanation": "Casual call to discuss.",
+    "explanationJa": "「hash out」=「議論して詰める」。"
+  },
+  {
+    "id": 120,
+    "level": 2,
+    "prefix": "That's",
+    "suffix": "point honestly.",
+    "answer": [
+      "actually",
+      "a",
+      "really",
+      "fair"
+    ],
+    "grammar": "'kind of' softens.",
+    "translation": "それ、正直けっこう一理あるね。",
+    "explanation": "Softened concession.",
+    "explanationJa": "「kind of a fair point」=「まあ一理あるね」。"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "about that whole situation.",
+    "answer": [
+      "have",
+      "mixed",
+      "feelings",
+      "honestly"
+    ],
+    "grammar": "'mixed feelings' = ambivalent.",
+    "translation": "あの状況については正直複雑な気分。",
+    "explanation": "Casual ambivalence.",
+    "explanationJa": "「mixed feelings」=「複雑な気持ち」。"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "that point earlier.",
+    "answer": [
+      "sort",
+      "of",
+      "glossed",
+      "over"
+    ],
+    "grammar": "'gloss over' = avoid in detail.",
+    "translation": "さっき彼、その点をサラッと流してた。",
+    "explanation": "Casual observation.",
+    "explanationJa": "「glossed over」=「軽く流した」。"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "prefix": "Let's just",
+    "suffix": "and see what happens.",
+    "answer": [
+      "take",
+      "it",
+      "from",
+      "there"
+    ],
+    "grammar": "'take it from there' = proceed flexibly.",
+    "translation": "とりあえずやって、そこから考えよう。",
+    "explanation": "Casual flexible-plan phrasing.",
+    "explanationJa": "「take it from there」=「そこから先は様子見」。"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "prefix": "That",
+    "suffix": "bit out of nowhere.",
+    "answer": [
+      "sort",
+      "of",
+      "came",
+      "a"
+    ],
+    "grammar": "After: 'nowhere'; 'come out of nowhere' = unexpected.",
+    "translation": "あれ、ちょっと唐突だったね。",
+    "explanation": "Casual surprise.",
+    "explanationJa": "「kind of came (from nowhere)」=「ちょっと唐突」。"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "prefix": "We",
+    "suffix": "that issue another day.",
+    "answer": [
+      "can",
+      "circle",
+      "back",
+      "on"
+    ],
+    "grammar": "'circle back on' = revisit.",
+    "translation": "あの件は別の日にまた戻ってこよう。",
+    "explanation": "Casual deferral.",
+    "explanationJa": "「circle back on」=「後で戻って話す」。"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "with how it turned out.",
+    "answer": [
+      "am",
+      "pretty",
+      "happy",
+      "actually"
+    ],
+    "grammar": "'pretty + adj' = quite.",
+    "translation": "結果、思ったよりけっこう満足してる。",
+    "explanation": "Casual positive reflection.",
+    "explanationJa": "「pretty happy」=「けっこう満足」。"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "and decide tomorrow.",
+    "answer": [
+      "sleep",
+      "on",
+      "it",
+      "tonight"
+    ],
+    "grammar": "'sleep on it' = think overnight.",
+    "translation": "今週ちょっと寝かせてから決めよう。",
+    "explanation": "Casual decision-delay.",
+    "explanationJa": "「sleep on it」=「一晩考える」。"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "prefix": "That",
+    "suffix": "a bit of a stretch.",
+    "answer": [
+      "might",
+      "be",
+      "kind",
+      "of"
+    ],
+    "grammar": "'a stretch' = unlikely interpretation.",
+    "translation": "それはちょっと無理がある気がする。",
+    "explanation": "Casual mild objection.",
+    "explanationJa": "「a stretch」=「こじつけ気味」。"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "his previous statement.",
+    "answer": [
+      "had",
+      "to",
+      "walk",
+      "back"
+    ],
+    "grammar": "'walk back' = retract.",
+    "translation": "彼、前の発言を撤回せざるを得なかった。",
+    "explanation": "Casual but professional.",
+    "explanationJa": "「walk back」=「発言を撤回」。"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "by you if you have time today.",
+    "answer": [
+      "wanted",
+      "to",
+      "run",
+      "something"
+    ],
+    "grammar": "After: 'by you'; 'run something by' = consult.",
+    "translation": "今日時間あったらちょっと相談したいことが。",
+    "explanation": "Casual professional ask.",
+    "explanationJa": "「run something (by)」=「相談する」。"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "prefix": "That",
+    "suffix": "a lot to unpack honestly.",
+    "answer": [
+      "is",
+      "actually",
+      "kind",
+      "of"
+    ],
+    "grammar": "'a lot to unpack' = much to discuss.",
+    "translation": "それ、正直けっこう中身が濃いね。",
+    "explanation": "Casual acknowledgement of complexity.",
+    "explanationJa": "「a lot to unpack」=「掘り下げる点が多い」。"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "you mean.",
+    "answer": [
+      "sort",
+      "of",
+      "see",
+      "what"
+    ],
+    "grammar": "After: 'what you mean'; softened understanding.",
+    "translation": "言いたいこと、なんとなくわかるよ。",
+    "explanation": "Casual partial agreement.",
+    "explanationJa": "「sort of see」=「なんとなく分かる」。"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "prefix": "Let me",
+    "suffix": "my thoughts and reply.",
+    "answer": [
+      "just",
+      "gather",
+      "up",
+      "all"
+    ],
+    "grammar": "'gather up' = collect.",
+    "translation": "考えをまとめてから返信するね。",
+    "explanation": "Casual delay phrasing.",
+    "explanationJa": "「gather up my thoughts」=「考えをまとめる」。"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "prefix": "Honestly,",
+    "suffix": "a long week already.",
+    "answer": [
+      "it",
+      "has",
+      "been",
+      "quite"
+    ],
+    "grammar": "'quite a + N' = considerable.",
+    "translation": "正直、もうけっこう長い一週間。",
+    "explanation": "Casual venting.",
+    "explanationJa": "「quite a long week」=「かなり長い一週間」。"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "to come in early today.",
+    "answer": [
+      "did",
+      "not",
+      "really",
+      "want"
+    ],
+    "grammar": "'didn't really want' = soft negative.",
+    "translation": "彼、本当は今日早く来たくなかったみたい。",
+    "explanation": "Casual softened observation.",
+    "explanationJa": "「did not really want」=「あまり〜したくなかった」。"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "prefix": "We",
+    "suffix": "in on the budget question.",
+    "answer": [
+      "should",
+      "probably",
+      "loop",
+      "Finance"
+    ],
+    "grammar": "After: 'Finance'; 'loop in' = include.",
+    "translation": "予算の件、誰か関係者を巻き込んだ方がいい。",
+    "explanation": "Casual professional suggestion.",
+    "explanationJa": "「loop in」=「巻き込む/共有する」。"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "prefix": "That",
+    "suffix": "a long story honestly.",
+    "answer": [
+      "is",
+      "kind",
+      "of",
+      "just"
+    ],
+    "grammar": "casual filler.",
+    "translation": "それ、正直けっこう長い話なんだ。",
+    "explanation": "Deferring an explanation.",
+    "explanationJa": "「kind of a long story」=「ちょっと長い話」。"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "prefix": "I",
+    "suffix": "that approach honestly.",
+    "answer": [
+      "am",
+      "leaning",
+      "more",
+      "toward"
+    ],
+    "grammar": "'lean toward' = prefer.",
+    "translation": "正直、そっちの方向に傾いてきてる。",
+    "explanation": "Casual preference shift.",
+    "explanationJa": "「leaning toward」=「〜寄りに考えている」。"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "prefix": "He",
+    "suffix": "on that one too quickly.",
+    "answer": [
+      "maybe",
+      "jumped",
+      "the",
+      "gun"
+    ],
+    "grammar": "'jump the gun' = act prematurely.",
+    "translation": "彼、ちょっと早まってあれ決めたかも。",
+    "explanation": "Casual mild criticism.",
+    "explanationJa": "「jumped the gun」=「先走った」。"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "prefix": "Let's",
+    "suffix": "now until we know more.",
+    "answer": [
+      "just",
+      "table",
+      "it",
+      "for"
+    ],
+    "grammar": "'table it' (US) = postpone discussion.",
+    "translation": "この件は一旦置いとこう。",
+    "explanation": "Casual professional deferral.",
+    "explanationJa": "「table it」=「(議論を)棚上げにする」。"
+  },
+  {
+    "id": 141,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "with you on Monday morning.",
+    "answer": [
+      "wanted",
+      "to",
+      "touch",
+      "base"
+    ],
+    "grammar": "'touch base' = brief check-in.",
+    "translation": "月曜の朝、ちょっと連絡取りたかった。",
+    "explanation": "Adult-casual professional check-in.",
+    "explanationJa": "「touch base」=「軽く連絡を取る」。"
+  },
+  {
+    "id": 142,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "from what we discussed earlier.",
+    "answer": [
+      "is",
+      "a",
+      "far",
+      "cry"
+    ],
+    "grammar": "After: 'from'; 'a far cry from' = very different.",
+    "translation": "それ、さっき話した内容とは全然違う。",
+    "explanation": "Adult idiom for divergence.",
+    "explanationJa": "「a far cry from」=「〜とはほど遠い」。"
+  },
+  {
+    "id": 143,
+    "level": 3,
+    "prefix": "Granted,",
+    "suffix": "with the proposal so far.",
+    "answer": [
+      "I",
+      "do",
+      "have",
+      "issues"
+    ],
+    "grammar": "'Granted' = concession marker.",
+    "translation": "確かに、提案にはいくつか問題がある。",
+    "explanation": "Discourse marker + softened critique.",
+    "explanationJa": "「Granted」=「確かに/もっとも」(譲歩)。"
+  },
+  {
+    "id": 144,
+    "level": 3,
+    "prefix": "Mind you,",
+    "suffix": "the easiest path forward.",
+    "answer": [
+      "this",
+      "may",
+      "not",
+      "be"
+    ],
+    "grammar": "'Mind you' = caveat marker.",
+    "translation": "言っとくけど、これが一番楽な道ではないよ。",
+    "explanation": "Adult discourse marker.",
+    "explanationJa": "「Mind you」=「言っとくけど」(注意喚起)。"
+  },
+  {
+    "id": 145,
+    "level": 3,
+    "prefix": "That said,",
+    "suffix": "a good case overall.",
+    "answer": [
+      "she",
+      "still",
+      "makes",
+      "quite"
+    ],
+    "grammar": "'That said' = however.",
+    "translation": "とはいえ、彼女の主張は全体的にしっかりしてる。",
+    "explanation": "Adult discourse pivot.",
+    "explanationJa": "「That said」=「とはいえ」。"
+  },
+  {
+    "id": 146,
+    "level": 3,
+    "prefix": "Let's",
+    "suffix": "if possible.",
+    "answer": [
+      "take",
+      "this",
+      "discussion",
+      "offline"
+    ],
+    "grammar": "After: 'offline'; mistype-safe: 'take ... talk' awkward — corrected meaning conveyed.",
+    "translation": "この話は別途オフラインで話そう。",
+    "explanation": "Adult professional pivot.",
+    "explanationJa": "「take it offline」=「別途で話す」。"
+  },
+  {
+    "id": 147,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "discussing the topic.",
+    "answer": [
+      "went",
+      "to",
+      "great",
+      "lengths"
+    ],
+    "grammar": "'go to great lengths' = put in serious effort.",
+    "translation": "彼はそのテーマについて相当力を入れて話してた。",
+    "explanation": "Adult idiom for effort.",
+    "explanationJa": "「went to great lengths」=「労を惜しまず尽くした」。"
+  },
+  {
+    "id": 148,
+    "level": 3,
+    "prefix": "For what it's",
+    "suffix": "agree with your read.",
+    "answer": [
+      "worth",
+      "I",
+      "actually",
+      "do"
+    ],
+    "grammar": "'For what it's worth' = humble qualifier.",
+    "translation": "ご参考までに、私は君の見方に賛成だよ。",
+    "explanation": "Adult discourse marker.",
+    "explanationJa": "「For what it's worth」=「ご参考までに」。"
+  },
+  {
+    "id": 149,
+    "level": 3,
+    "prefix": "When push",
+    "suffix": "make the right call honestly.",
+    "answer": [
+      "comes",
+      "to",
+      "shove",
+      "we'll"
+    ],
+    "grammar": "After: 'shove, we'll make'; idiom = when it really matters.",
+    "translation": "いざとなれば、正しい判断をするさ。",
+    "explanation": "Adult idiom for crunch time.",
+    "explanationJa": "「when push comes to shove」=「いざとなれば」。"
+  },
+  {
+    "id": 150,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "par for the course really.",
+    "answer": [
+      "seems",
+      "to",
+      "be",
+      "pretty"
+    ],
+    "grammar": "'par for the course' = typical/expected.",
+    "translation": "まあ、それはほぼ想定内って感じだね。",
+    "explanation": "Adult idiom for normalcy.",
+    "explanationJa": "「par for the course」=「いつもの事」。"
+  },
+  {
+    "id": 151,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "on the back burner.",
+    "answer": [
+      "had",
+      "to",
+      "put",
+      "it"
+    ],
+    "grammar": "'on the back burner' = low priority.",
+    "translation": "優先度を下げて後回しにせざるを得なかった。",
+    "explanation": "Adult professional idiom.",
+    "explanationJa": "「on the back burner」=「後回し」。"
+  },
+  {
+    "id": 152,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "a tough pill to swallow.",
+    "answer": [
+      "was",
+      "honestly",
+      "kind",
+      "of"
+    ],
+    "grammar": "'tough pill to swallow' = hard truth.",
+    "translation": "あれは正直けっこう受け入れがたい話だった。",
+    "explanation": "Adult idiom for hard news.",
+    "explanationJa": "「tough pill to swallow」=「受け入れ難い事実」。"
+  },
+  {
+    "id": 153,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "the issue rather than addressing it.",
+    "answer": [
+      "sort",
+      "of",
+      "danced",
+      "around"
+    ],
+    "grammar": "'dance around' = avoid directly.",
+    "translation": "彼、その問題を真正面から扱わずに避けてた。",
+    "explanation": "Adult professional critique.",
+    "explanationJa": "「danced around」=「核心を避けた」。"
+  },
+  {
+    "id": 154,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "left field honestly.",
+    "answer": [
+      "came",
+      "completely",
+      "out",
+      "of"
+    ],
+    "grammar": "'out of left field' = unexpected.",
+    "translation": "あれ、正直まったくの不意打ちだった。",
+    "explanation": "Adult idiom for surprise.",
+    "explanationJa": "「out of left field」=「予想外」。"
+  },
+  {
+    "id": 155,
+    "level": 3,
+    "prefix": "We",
+    "suffix": "on this proposal soon.",
+    "answer": [
+      "should",
+      "probably",
+      "weigh",
+      "in"
+    ],
+    "grammar": "'weigh in on' = give opinion.",
+    "translation": "この提案について、近いうちに意見を出すべき。",
+    "explanation": "Adult professional usage.",
+    "explanationJa": "「weigh in」=「意見を述べる」。"
+  },
+  {
+    "id": 156,
+    "level": 3,
+    "prefix": "Honestly,",
+    "suffix": "of the woods just yet.",
+    "answer": [
+      "we",
+      "are",
+      "not",
+      "out"
+    ],
+    "grammar": "'out of the woods' = past danger.",
+    "translation": "正直、まだ完全には安心できない状況だ。",
+    "explanation": "Adult idiom for ongoing risk.",
+    "explanationJa": "「out of the woods」=「危機を脱した」。"
+  },
+  {
+    "id": 157,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "with some time.",
+    "answer": [
+      "should",
+      "probably",
+      "sit",
+      "better"
+    ],
+    "grammar": "'sit better' = feel more acceptable.",
+    "translation": "少し時間が経てば、もっと受け入れやすくなるはず。",
+    "explanation": "Adult reflective phrasing.",
+    "explanationJa": "「sit better」=「より納得感がある」。"
+  },
+  {
+    "id": 158,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "on me about the deadline.",
+    "answer": [
+      "has",
+      "been",
+      "leaning",
+      "hard"
+    ],
+    "grammar": "'lean on' = pressure.",
+    "translation": "彼、締切のことでけっこう私にプレッシャーかけてくる。",
+    "explanation": "Adult casual idiom.",
+    "explanationJa": "「leaning on」=「圧力をかけている」。"
+  },
+  {
+    "id": 159,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "whole point really.",
+    "answer": [
+      "sort",
+      "of",
+      "misses",
+      "the"
+    ],
+    "grammar": "'miss the point' = fail to understand essence.",
+    "translation": "それ、ちょっと本質を外してると思う。",
+    "explanation": "Adult critique phrasing.",
+    "explanationJa": "「misses the point」=「要点を外している」。"
+  },
+  {
+    "id": 160,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "over overnight if possible.",
+    "answer": [
+      "would",
+      "rather",
+      "mull",
+      "this"
+    ],
+    "grammar": "'mull over' = ponder carefully.",
+    "translation": "できればこれ、一晩じっくり考えたい。",
+    "explanation": "Adult reflective phrasing.",
+    "explanationJa": "「mull over」=「じっくり考える」。"
+  },
+  {
+    "id": 161,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "on him eventually.",
+    "answer": [
+      "started",
+      "to",
+      "really",
+      "wear"
+    ],
+    "grammar": "'wear on' = tire/grate.",
+    "translation": "あれ、最終的に彼にこたえ始めたみたい。",
+    "explanation": "Adult psychological observation.",
+    "explanationJa": "「wear on」=「徐々に堪えてくる」。"
+  },
+  {
+    "id": 162,
+    "level": 3,
+    "prefix": "Let's",
+    "suffix": "the kinks before launch.",
+    "answer": [
+      "work",
+      "out",
+      "all",
+      "of"
+    ],
+    "grammar": "'work out the kinks' = fix small problems.",
+    "translation": "ローンチ前に細かい問題を全部解消しよう。",
+    "explanation": "Adult professional idiom.",
+    "explanationJa": "「work out the kinks」=「細かい不具合を直す」。"
+  },
+  {
+    "id": 163,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "his stance on the matter.",
+    "answer": [
+      "had",
+      "to",
+      "walk",
+      "back"
+    ],
+    "grammar": "'walk back' = retract.",
+    "translation": "彼、その件で立場を撤回せざるを得なかった。",
+    "explanation": "Adult professional retraction.",
+    "explanationJa": "「walk back」=「撤回する」。"
+  },
+  {
+    "id": 164,
+    "level": 3,
+    "prefix": "She",
+    "suffix": "a shoo-in for the role.",
+    "answer": [
+      "really",
+      "is",
+      "pretty",
+      "much"
+    ],
+    "grammar": "'shoo-in' = sure winner.",
+    "translation": "彼女、そのポジションはほぼ確実だね。",
+    "explanation": "Adult idiom for certainty.",
+    "explanationJa": "「shoo-in」=「ほぼ確実な選択」。"
+  },
+  {
+    "id": 165,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "on whether to push back.",
+    "answer": [
+      "am",
+      "still",
+      "sitting",
+      "undecided"
+    ],
+    "grammar": "'on the fence' equivalent meaning.",
+    "translation": "反論するかどうかまだ決めかねてる。",
+    "explanation": "Adult idiom for indecision.",
+    "explanationJa": "「sitting undecided」=「迷っている」。"
+  },
+  {
+    "id": 166,
+    "level": 3,
+    "prefix": "That whole team",
+    "suffix": "face on us today.",
+    "answer": [
+      "did",
+      "an",
+      "abrupt",
+      "about"
+    ],
+    "grammar": "'about face' = total reversal.",
+    "translation": "あのチーム、今日急に方針転換してきた。",
+    "explanation": "Adult idiom for reversal.",
+    "explanationJa": "「about face」=「方針転換」。"
+  },
+  {
+    "id": 167,
+    "level": 3,
+    "prefix": "It",
+    "suffix": "on him toward the end.",
+    "answer": [
+      "finally",
+      "started",
+      "to",
+      "dawn"
+    ],
+    "grammar": "'dawn on' = become realized.",
+    "translation": "最後の方で、彼ようやく気づき始めた。",
+    "explanation": "Adult phrasal for realization.",
+    "explanationJa": "「dawn on」=「(理解が)ふと訪れる」。"
+  },
+  {
+    "id": 168,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "to me as a workaround.",
+    "answer": [
+      "did",
+      "not",
+      "really",
+      "occur"
+    ],
+    "grammar": "'occur to' = come to mind.",
+    "translation": "その代替案、正直思いつかなかった。",
+    "explanation": "Adult professional reflection.",
+    "explanationJa": "「occur to」=「思い浮かぶ」。"
+  },
+  {
+    "id": 169,
+    "level": 3,
+    "prefix": "We",
+    "suffix": "this from multiple angles first.",
+    "answer": [
+      "should",
+      "probably",
+      "look",
+      "at"
+    ],
+    "grammar": "'look at from multiple angles' = consider thoroughly.",
+    "translation": "まず色んな角度から検討した方がいい。",
+    "explanation": "Adult professional advice.",
+    "explanationJa": "「multiple angles」=「複数の視点」。"
+  },
+  {
+    "id": 170,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "situation rather well actually.",
+    "answer": [
+      "managed",
+      "to",
+      "defuse",
+      "the"
+    ],
+    "grammar": "'defuse' = calm tension.",
+    "translation": "彼、その場をけっこう上手く収めたんだよ。",
+    "explanation": "Adult professional praise.",
+    "explanationJa": "「defuse」=「事態を鎮める」。"
+  },
+  {
+    "id": 171,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "back to bite us later honestly.",
+    "answer": [
+      "is",
+      "going",
+      "to",
+      "come"
+    ],
+    "grammar": "After: 'back'; 'come back to bite' = have consequences.",
+    "translation": "あれ、後でしっぺ返し来ると思う。",
+    "explanation": "Adult idiom for delayed consequence.",
+    "explanationJa": "「come back to bite」=「しっぺ返しを食らう」。"
+  },
+  {
+    "id": 172,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "in this case, I think.",
+    "answer": [
+      "am",
+      "inclined",
+      "to",
+      "agree"
+    ],
+    "grammar": "'inclined to' = tend to.",
+    "translation": "今回に関しては、賛成寄りかな。",
+    "explanation": "Adult softened agreement.",
+    "explanationJa": "「inclined to agree」=「賛成寄り」。"
+  },
+  {
+    "id": 173,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "a stretch, even for him.",
+    "answer": [
+      "really",
+      "does",
+      "seem",
+      "like"
+    ],
+    "grammar": "'a stretch' = far-fetched.",
+    "translation": "あれ、彼にしてもさすがに無理があるね。",
+    "explanation": "Adult mild skepticism.",
+    "explanationJa": "「a stretch」=「ちょっと無理がある」。"
+  },
+  {
+    "id": 174,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "to push his agenda again.",
+    "answer": [
+      "was",
+      "just",
+      "trying",
+      "hard"
+    ],
+    "grammar": "'push one's agenda' = advocate own goals.",
+    "translation": "彼、また自分の主張を通そうとしてただけ。",
+    "explanation": "Adult professional critique.",
+    "explanationJa": "「push his agenda」=「自分の意図を押し通す」。"
+  },
+  {
+    "id": 175,
+    "level": 3,
+    "prefix": "Let's",
+    "suffix": "elephant in the room.",
+    "answer": [
+      "actually",
+      "just",
+      "address",
+      "the"
+    ],
+    "grammar": "'elephant in the room' = obvious unspoken issue.",
+    "translation": "皆が避けてるその大きな話、いっそ取り上げよう。",
+    "explanation": "Adult idiom for facing issues.",
+    "explanationJa": "「elephant in the room」=「皆が避けてる明白な問題」。"
+  },
+  {
+    "id": 176,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "in the long run honestly.",
+    "answer": [
+      "might",
+      "actually",
+      "pay",
+      "off"
+    ],
+    "grammar": "'pay off' = yield benefit.",
+    "translation": "あれ、長期的には報われるかもね。",
+    "explanation": "Adult financial idiom.",
+    "explanationJa": "「pay off」=「報われる」。"
+  },
+  {
+    "id": 177,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "of context honestly.",
+    "answer": [
+      "took",
+      "it",
+      "completely",
+      "out"
+    ],
+    "grammar": "'take out of context' = misrepresent.",
+    "translation": "彼、ほぼ完全に文脈を無視して扱ってた。",
+    "explanation": "Adult critique for misuse.",
+    "explanationJa": "「out of context」=「文脈無視」。"
+  },
+  {
+    "id": 178,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "in our favor for now.",
+    "answer": [
+      "seems",
+      "to",
+      "be",
+      "working"
+    ],
+    "grammar": "'work in one's favor' = benefit.",
+    "translation": "あれ、今のところ私たちに有利に働いてる。",
+    "explanation": "Adult professional observation.",
+    "explanationJa": "「in our favor」=「有利に」。"
+  },
+  {
+    "id": 179,
+    "level": 3,
+    "prefix": "We",
+    "suffix": "out a few details before signing.",
+    "answer": [
+      "still",
+      "need",
+      "to",
+      "iron"
+    ],
+    "grammar": "After: 'out'; 'iron out' = resolve.",
+    "translation": "署名前にまだ細かい点を詰める必要がある。",
+    "explanation": "Adult professional finalization.",
+    "explanationJa": "「iron out」=「(細部を)詰める」。"
+  },
+  {
+    "id": 180,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "under his breath about it.",
+    "answer": [
+      "was",
+      "muttering",
+      "something",
+      "quietly"
+    ],
+    "grammar": "'mutter under one's breath' = grumble quietly.",
+    "translation": "彼、それについて小声でブツブツ言ってた。",
+    "explanation": "Adult observational idiom.",
+    "explanationJa": "「mutter under his breath」=「ぼそぼそ独り言」。"
+  },
+  {
+    "id": 181,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "wrench in our plans.",
+    "answer": [
+      "really",
+      "throws",
+      "a",
+      "serious"
+    ],
+    "grammar": "'throw a wrench in' = disrupt.",
+    "translation": "あれ、こっちの計画に完全に水を差す。",
+    "explanation": "Adult idiom for disruption.",
+    "explanationJa": "「throw a wrench in」=「計画を狂わせる」。"
+  },
+  {
+    "id": 182,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "on this matter, frankly speaking.",
+    "answer": [
+      "am",
+      "fairly",
+      "torn",
+      "still"
+    ],
+    "grammar": "'torn' = unable to decide.",
+    "translation": "正直、この件についてはまだかなり迷ってる。",
+    "explanation": "Adult emotional ambivalence.",
+    "explanationJa": "「torn」=「決めかねている」。"
+  },
+  {
+    "id": 183,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "of his depth in that meeting.",
+    "answer": [
+      "seemed",
+      "kind",
+      "of",
+      "out"
+    ],
+    "grammar": "'out of one's depth' = beyond ability.",
+    "translation": "あの会議では、彼ちょっと手に余ってた感じ。",
+    "explanation": "Adult idiom for being overwhelmed.",
+    "explanationJa": "「out of his depth」=「手に負えない状況」。"
+  },
+  {
+    "id": 184,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "bigger picture entirely.",
+    "answer": [
+      "seems",
+      "to",
+      "overlook",
+      "the"
+    ],
+    "grammar": "'overlook the bigger picture' = miss broad view.",
+    "translation": "あれ、全体像をかなり見落としてる感じ。",
+    "explanation": "Adult professional critique.",
+    "explanationJa": "「bigger picture」=「全体像」。"
+  },
+  {
+    "id": 185,
+    "level": 3,
+    "prefix": "We",
+    "suffix": "part for next quarter.",
+    "answer": [
+      "should",
+      "probably",
+      "shelve",
+      "that"
+    ],
+    "grammar": "'shelve' = postpone indefinitely.",
+    "translation": "その部分は来四半期に回した方がよさそう。",
+    "explanation": "Adult professional deferral.",
+    "explanationJa": "「shelve」=「棚上げ」。"
+  },
+  {
+    "id": 186,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "some of the weight off us.",
+    "answer": [
+      "should",
+      "at",
+      "least",
+      "take"
+    ],
+    "grammar": "'take the weight off' = relieve burden.",
+    "translation": "少なくともこっちの負担は軽くなるはず。",
+    "explanation": "Adult professional relief phrasing.",
+    "explanationJa": "「take the weight off」=「負担を軽くする」。"
+  },
+  {
+    "id": 187,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "the bandwagon pretty late.",
+    "answer": [
+      "sort",
+      "of",
+      "jumped",
+      "on"
+    ],
+    "grammar": "'jump on the bandwagon' = join trend late.",
+    "translation": "彼、けっこう遅れて流れに乗ってきた。",
+    "explanation": "Adult idiom for late adoption.",
+    "explanationJa": "「jump on the bandwagon」=「流れに便乗」。"
+  },
+  {
+    "id": 188,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "quite high for us.",
+    "answer": [
+      "really",
+      "sets",
+      "the",
+      "bar"
+    ],
+    "grammar": "'set the bar high' = create high standard.",
+    "translation": "あれ、こっちのハードルもかなり上げてくる。",
+    "explanation": "Adult idiom for standards.",
+    "explanationJa": "「set the bar high」=「基準を上げる」。"
+  },
+  {
+    "id": 189,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "to that conclusion as well.",
+    "answer": [
+      "am",
+      "slowly",
+      "coming",
+      "around"
+    ],
+    "grammar": "'come around to' = gradually accept.",
+    "translation": "私もその結論にだんだん近づいてきてる。",
+    "explanation": "Adult shift of opinion.",
+    "explanationJa": "「come around」=「考えが変わる」。"
+  },
+  {
+    "id": 190,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "more than we bargained for.",
+    "answer": [
+      "ended",
+      "up",
+      "being",
+      "way"
+    ],
+    "grammar": "'more than we bargained for' = unexpectedly larger.",
+    "translation": "想定してたよりずいぶん大変なことになった。",
+    "explanation": "Adult idiom for over-scope.",
+    "explanationJa": "「more than we bargained for」=「想定外に大きい」。"
+  },
+  {
+    "id": 191,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "his ground in the discussion.",
+    "answer": [
+      "really",
+      "held",
+      "firmly",
+      "onto"
+    ],
+    "grammar": "'hold one's ground' = not yield.",
+    "translation": "彼、その議論でしっかり自分の立場を守ってた。",
+    "explanation": "Adult idiom for firmness.",
+    "explanationJa": "「hold one's ground」=「立場を守る」。"
+  },
+  {
+    "id": 192,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "the gist of it honestly.",
+    "answer": [
+      "is",
+      "pretty",
+      "much",
+      "just"
+    ],
+    "grammar": "'the gist of it' = main point.",
+    "translation": "正直、それがだいたいの要点だね。",
+    "explanation": "Adult casual summary.",
+    "explanationJa": "「the gist of it」=「大体の要点」。"
+  },
+  {
+    "id": 193,
+    "level": 3,
+    "prefix": "We",
+    "suffix": "some loose ends before launch.",
+    "answer": [
+      "still",
+      "need",
+      "to",
+      "tie"
+    ],
+    "grammar": "After: 'up'; 'tie up loose ends' = finish details.",
+    "translation": "ローンチ前に細かい未処理を片付ける必要がある。",
+    "explanation": "Adult professional finalization.",
+    "explanationJa": "「tie up loose ends」=「未処理を片付ける」。"
+  },
+  {
+    "id": 194,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "corners on quality lately.",
+    "answer": [
+      "seems",
+      "to",
+      "be",
+      "cutting"
+    ],
+    "grammar": "'cut corners' = take shortcuts.",
+    "translation": "最近、品質面で手を抜いてる感じだね。",
+    "explanation": "Adult professional critique.",
+    "explanationJa": "「cut corners」=「手を抜く」。"
+  },
+  {
+    "id": 195,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "a slippery slope honestly speaking.",
+    "answer": [
+      "is",
+      "kind",
+      "of",
+      "just"
+    ],
+    "grammar": "'slippery slope' = risky chain reaction.",
+    "translation": "それ、正直けっこう危ない方向だと思う。",
+    "explanation": "Adult idiom for risk.",
+    "explanationJa": "「slippery slope」=「危険な流れ」。"
+  },
+  {
+    "id": 196,
+    "level": 3,
+    "prefix": "I",
+    "suffix": "into this role gradually.",
+    "answer": [
+      "am",
+      "still",
+      "easing",
+      "myself"
+    ],
+    "grammar": "'ease into' = adapt slowly.",
+    "translation": "このポジション、まだ徐々に慣れていってる感じ。",
+    "explanation": "Adult adjustment phrasing.",
+    "explanationJa": "「ease into」=「徐々に慣れる」。"
+  },
+  {
+    "id": 197,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "through the cracks completely honestly.",
+    "answer": [
+      "really",
+      "seems",
+      "to",
+      "fall"
+    ],
+    "grammar": "'fall through the cracks' = be overlooked.",
+    "translation": "あれ、完全に見落とされてる感じ。",
+    "explanation": "Adult idiom for oversight.",
+    "explanationJa": "「fall through the cracks」=「見落とされる」。"
+  },
+  {
+    "id": 198,
+    "level": 3,
+    "prefix": "He",
+    "suffix": "well in that situation.",
+    "answer": [
+      "read",
+      "the",
+      "room",
+      "rather"
+    ],
+    "grammar": "'read the room' = sense atmosphere.",
+    "translation": "彼、その場の空気をうまく読んでた。",
+    "explanation": "Adult idiom for social awareness.",
+    "explanationJa": "「read the room」=「空気を読む」。"
+  },
+  {
+    "id": 199,
+    "level": 3,
+    "prefix": "That",
+    "suffix": "out of proportion in my opinion.",
+    "answer": [
+      "is",
+      "getting",
+      "blown",
+      "way"
+    ],
+    "grammar": "'blow out of proportion' = exaggerate.",
+    "translation": "あれ、私の感覚ではかなり大げさになってる。",
+    "explanation": "Adult idiom for exaggeration.",
+    "explanationJa": "「blown out of proportion」=「大げさに扱われる」。"
+  },
+  {
+    "id": 200,
+    "level": 3,
+    "prefix": "Let's",
+    "suffix": "on a positive note today.",
+    "answer": [
+      "just",
+      "wrap",
+      "things",
+      "up"
+    ],
+    "grammar": "'wrap up on a positive note' = end well.",
+    "translation": "今日はいい感じで締めくくろう。",
+    "explanation": "Adult positive closure.",
+    "explanationJa": "「wrap up on a positive note」=「前向きに締めくくる」。"
+  }
 ]

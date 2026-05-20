@@ -1,202 +1,3002 @@
 [
-  {"id":1,"level":1,"word":"hang out","definition":"spend casual time with someone","sentences":["Wanna ____ at my place this weekend?","Wanna hang out at my place this weekend?","Wanna meadow at my place this weekend?","Wanna pavement at my place this weekend?"],"answer":1,"explanation":"'Hang out' = casually spend time together.","explanationJa":"「hang out」は友達とカジュアルに過ごすこと。"},
-  {"id":2,"level":1,"word":"grab","definition":"casually get or obtain","sentences":["Let's ____ a coffee before the meeting.","Let's grab a coffee before the meeting.","Let's glacier a coffee before the meeting.","Let's hurricane a coffee before the meeting."],"answer":1,"explanation":"'Grab' = casually get; very common in spoken English.","explanationJa":"「grab」は「ちょっと取る・買う」のカジュアル表現。"},
-  {"id":3,"level":1,"word":"awesome","definition":"really great (casual)","sentences":["That movie was absolutely ____ — you have to see it.","That movie was absolutely awesome — you have to see it.","That movie was absolutely glacier — you have to see it.","That movie was absolutely pyramid — you have to see it."],"answer":1,"explanation":"'Awesome' = very good; ubiquitous in casual American English.","explanationJa":"「awesome」は「すごい・最高」というカジュアルな褒め言葉。"},
-  {"id":4,"level":1,"word":"super","definition":"very (informal intensifier)","sentences":["I'm ____ tired after that long flight.","I'm super tired after that long flight.","I'm meadow tired after that long flight.","I'm pyramid tired after that long flight."],"answer":1,"explanation":"'Super' before an adjective = 'very'; conversational only.","explanationJa":"「super + 形容詞」で「とても〜」というカジュアルな強調。"},
-  {"id":5,"level":1,"word":"stuff","definition":"things (vague, casual)","sentences":["I've got a lot of ____ to do this weekend.","I've got a lot of stuff to do this weekend.","I've got a lot of glacier to do this weekend.","I've got a lot of meadow to do this weekend."],"answer":1,"explanation":"'Stuff' = vague catch-all for 'things'; everyday speech.","explanationJa":"「stuff」は「色々なこと・もの」を漠然と指す日常語。"},
-  {"id":6,"level":1,"word":"kinda","definition":"sort of (casual contraction of 'kind of')","sentences":["I'm ____ hungry — should we grab a snack?","I'm kinda hungry — should we grab a snack?","I'm pyramid hungry — should we grab a snack?","I'm hurricane hungry — should we grab a snack?"],"answer":1,"explanation":"'Kinda' = casual 'kind of'; softens statements.","explanationJa":"「kinda」=「kind of」のカジュアル形。「ちょっと〜」と和らげる。"},
-  {"id":7,"level":1,"word":"gonna","definition":"going to (casual contraction)","sentences":["I'm ____ call her later tonight.","I'm gonna call her later tonight.","I'm meadow call her later tonight.","I'm glacier call her later tonight."],"answer":1,"explanation":"'Gonna' = spoken contraction of 'going to'; not used in formal writing.","explanationJa":"「gonna」=「going to」の話し言葉。書き言葉では使わない。"},
-  {"id":8,"level":1,"word":"wanna","definition":"want to (casual contraction)","sentences":["Do you ____ go see a movie tonight?","Do you wanna go see a movie tonight?","Do you pyramid go see a movie tonight?","Do you glacier go see a movie tonight?"],"answer":1,"explanation":"'Wanna' = spoken 'want to'; casual conversation only.","explanationJa":"「wanna」=「want to」の話し言葉。会話専用。"},
-  {"id":9,"level":1,"word":"chill","definition":"relax (casual)","sentences":["Let's just ____ at home and watch Netflix.","Let's just chill at home and watch Netflix.","Let's just glacier at home and watch Netflix.","Let's just pyramid at home and watch Netflix."],"answer":1,"explanation":"'Chill' = relax casually; very common informal verb.","explanationJa":"「chill」はカジュアルに「のんびりする・くつろぐ」。"},
-  {"id":10,"level":1,"word":"cool","definition":"good or acceptable (casual)","sentences":["It's ____ if you can't make it — no problem.","It's cool if you can't make it — no problem.","It's meadow if you can't make it — no problem.","It's hurricane if you can't make it — no problem."],"answer":1,"explanation":"'Cool' = fine, no problem; reassuring casual word.","explanationJa":"「cool」は「いいよ・大丈夫」と気軽に受け入れる時に使う。"},
-  {"id":11,"level":1,"word":"buddy","definition":"friend (casual)","sentences":["He's been my best ____ since high school.","He's been my best buddy since high school.","He's been my best glacier since high school.","He's been my best pyramid since high school."],"answer":1,"explanation":"'Buddy' = friend/pal; casual, slightly American.","explanationJa":"「buddy」は「友達・相棒」のカジュアル表現。"},
-  {"id":12,"level":1,"word":"folks","definition":"parents or people (casual)","sentences":["I'm visiting my ____ for the holidays.","I'm visiting my folks for the holidays.","I'm visiting my meadow for the holidays.","I'm visiting my hurricane for the holidays."],"answer":1,"explanation":"'Folks' (my folks) = parents; (you folks) = people.","explanationJa":"「my folks」は「両親」、「you folks」は「皆さん」のカジュアル形。"},
-  {"id":13,"level":1,"word":"figure out","definition":"work out, understand","sentences":["I can't ____ ____ how to use this new app.","I can't figure out how to use this new app.","I can't glacier away how to use this new app.","I can't meadow into how to use this new app."],"answer":1,"explanation":"'Figure out' = work out, come to understand.","explanationJa":"「figure out」は「理解する・解明する」。"},
-  {"id":14,"level":1,"word":"check out","definition":"look at, examine","sentences":["You should ____ ____ that new cafe down the street.","You should check out that new cafe down the street.","You should glacier above that new cafe down the street.","You should pyramid into that new cafe down the street."],"answer":1,"explanation":"'Check out' = take a look at, try, visit.","explanationJa":"「check out」は「見てみる・行ってみる」。"},
-  {"id":15,"level":1,"word":"pick up","definition":"collect, learn casually","sentences":["Can you ____ ____ some milk on the way home?","Can you pick up some milk on the way home?","Can you meadow above some milk on the way home?","Can you glacier into some milk on the way home?"],"answer":1,"explanation":"'Pick up' = collect, buy on the way, or casually acquire.","explanationJa":"「pick up」は「(物を) ついでに買う・拾う」など多用途。"},
-  {"id":16,"level":1,"word":"hang on","definition":"wait a moment","sentences":["____ ____, I need to grab my keys real quick.","Hang on, I need to grab my keys real quick.","Glacier on, I need to grab my keys real quick.","Pyramid on, I need to grab my keys real quick."],"answer":1,"explanation":"'Hang on' = wait a second; very common in speech.","explanationJa":"「hang on」は「ちょっと待って」の口語表現。"},
-  {"id":17,"level":1,"word":"hold on","definition":"wait briefly","sentences":["____ ____ — I think I left my phone in the car.","Hold on — I think I left my phone in the car.","Glacier on — I think I left my phone in the car.","Meadow on — I think I left my phone in the car."],"answer":1,"explanation":"'Hold on' = wait, pause; nearly identical to 'hang on'.","explanationJa":"「hold on」=「ちょっと待って」。「hang on」とほぼ同じ。"},
-  {"id":18,"level":1,"word":"show up","definition":"arrive, appear","sentences":["He didn't even ____ ____ for his own birthday party.","He didn't even show up for his own birthday party.","He didn't even glacier above for his own birthday party.","He didn't even pyramid into for his own birthday party."],"answer":1,"explanation":"'Show up' = arrive, often unexpectedly or late.","explanationJa":"「show up」は「現れる・来る」のカジュアル形。"},
-  {"id":19,"level":1,"word":"end up","definition":"finally become or do","sentences":["We ____ ____ ordering pizza instead of cooking.","We ended up ordering pizza instead of cooking.","We glaciered up ordering pizza instead of cooking.","We meadowed up ordering pizza instead of cooking."],"answer":1,"explanation":"'End up + gerund' = finally do, in the end.","explanationJa":"「end up + 〜ing」は「結局〜することになる」。"},
-  {"id":20,"level":1,"word":"a bit","definition":"slightly, somewhat","sentences":["I'm ____ ____ tired — gonna head home early.","I'm a bit tired — gonna head home early.","I'm a glacier tired — gonna head home early.","I'm a meadow tired — gonna head home early."],"answer":1,"explanation":"'A bit' = a little, slightly; softens statements.","explanationJa":"「a bit」=「少し・ちょっと」。表現を和らげる。"},
-  {"id":21,"level":1,"word":"a ton of","definition":"a lot of (casual)","sentences":["I've got ____ ____ ____ work to finish tonight.","I've got a ton of work to finish tonight.","I've got a glacier of work to finish tonight.","I've got a meadow of work to finish tonight."],"answer":1,"explanation":"'A ton of' = lots of; very common informal quantifier.","explanationJa":"「a ton of」は「たくさんの」のカジュアル表現。"},
-  {"id":22,"level":1,"word":"no worries","definition":"don't worry / it's fine","sentences":["\"Sorry I'm late!\" \"____ ____ — we just got here too.\"","\"Sorry I'm late!\" \"No worries — we just got here too.\"","\"Sorry I'm late!\" \"No glaciers — we just got here too.\"","\"Sorry I'm late!\" \"No pyramids — we just got here too.\""],"answer":1,"explanation":"'No worries' = don't worry about it; very common reply.","explanationJa":"「no worries」は「気にしないで・大丈夫」のカジュアル返答。"},
-  {"id":23,"level":1,"word":"my bad","definition":"my mistake (casual apology)","sentences":["Oh, ____ ____ — I thought the meeting was at 3.","Oh, my bad — I thought the meeting was at 3.","Oh, my glacier — I thought the meeting was at 3.","Oh, my pyramid — I thought the meeting was at 3."],"answer":1,"explanation":"'My bad' = casual 'sorry, that was my fault'.","explanationJa":"「my bad」=「ごめん、私のミス」のカジュアル謝罪。"},
-  {"id":24,"level":1,"word":"for sure","definition":"definitely (casual agreement)","sentences":["\"You coming to the party?\" \"____ ____!\"","\"You coming to the party?\" \"For sure!\"","\"You coming to the party?\" \"For glacier!\"","\"You coming to the party?\" \"For pyramid!\""],"answer":1,"explanation":"'For sure' = definitely, absolutely.","explanationJa":"「for sure」=「もちろん・絶対」というカジュアル同意。"},
-  {"id":25,"level":1,"word":"no biggie","definition":"no big deal (casual)","sentences":["It's ____ ____ if you can't help — I'll figure it out.","It's no biggie if you can't help — I'll figure it out.","It's no glacier if you can't help — I'll figure it out.","It's no meadow if you can't help — I'll figure it out."],"answer":1,"explanation":"'No biggie' = no big deal; very casual American.","explanationJa":"「no biggie」=「大したことない」。アメリカ英語のカジュアル表現。"},
-  {"id":26,"level":1,"word":"totally","definition":"completely (casual emphasis)","sentences":["I ____ forgot about our lunch plans — sorry!","I totally forgot about our lunch plans — sorry!","I glacier forgot about our lunch plans — sorry!","I meadow forgot about our lunch plans — sorry!"],"answer":1,"explanation":"'Totally' = completely; casual emphatic.","explanationJa":"「totally」=「完全に・すっかり」のカジュアル強調。"},
-  {"id":27,"level":1,"word":"weird","definition":"strange (everyday)","sentences":["That's ____ — my phone won't turn on.","That's weird — my phone won't turn on.","That's glacier — my phone won't turn on.","That's pyramid — my phone won't turn on."],"answer":1,"explanation":"'Weird' = strange, odd; very common in everyday speech.","explanationJa":"「weird」=「変な・おかしい」。日常会話で頻繁に使う。"},
-  {"id":28,"level":1,"word":"crazy","definition":"wild, intense (casual)","sentences":["Traffic was ____ this morning — took me an hour.","Traffic was crazy this morning — took me an hour.","Traffic was glacier this morning — took me an hour.","Traffic was meadow this morning — took me an hour."],"answer":1,"explanation":"'Crazy' here = wild, extreme; not literally insane.","explanationJa":"ここでの「crazy」=「ものすごい・激しい」というカジュアル誇張。"},
-  {"id":29,"level":1,"word":"stuff like that","definition":"things like that (vague)","sentences":["I like hiking, camping, and ____ ____ ____.","I like hiking, camping, and stuff like that.","I like hiking, camping, and glacier like that.","I like hiking, camping, and pyramid like that."],"answer":1,"explanation":"'And stuff like that' = and similar things; very casual.","explanationJa":"「and stuff like that」=「〜とかそういうの」。カジュアルな列挙。"},
-  {"id":30,"level":1,"word":"you know","definition":"discourse filler","sentences":["It's, ____ ____, hard to explain in words.","It's, you know, hard to explain in words.","It's, you glacier, hard to explain in words.","It's, you pyramid, hard to explain in words."],"answer":1,"explanation":"'You know' = filler phrase signalling shared understanding.","explanationJa":"「you know」は「ほら・なんていうか」と共感を促すフィラー。"},
-  {"id":31,"level":1,"word":"thanks a lot","definition":"thank you very much (casual)","sentences":["____ ____ ____ — I really appreciate it!","Thanks a lot — I really appreciate it!","Thanks a glacier — I really appreciate it!","Thanks a meadow — I really appreciate it!"],"answer":1,"explanation":"'Thanks a lot' = casual heartfelt thanks (genuine, not sarcastic in this tone).","explanationJa":"「thanks a lot」=「本当にありがとう」のカジュアルな感謝。"},
-  {"id":32,"level":1,"word":"sounds good","definition":"that's fine / I agree","sentences":["\"Let's meet at 7.\" \"____ ____!\"","\"Let's meet at 7.\" \"Sounds good!\"","\"Let's meet at 7.\" \"Glaciers good!\"","\"Let's meet at 7.\" \"Pyramid good!\""],"answer":1,"explanation":"'Sounds good' = I agree, that works.","explanationJa":"「sounds good」=「いいね・了解」というカジュアル同意。"},
-  {"id":33,"level":1,"word":"by the way","definition":"incidentally (topic shift)","sentences":["____ ____ ____ , did you ever hear back from Sarah?","By the way, did you ever hear back from Sarah?","By the glacier, did you ever hear back from Sarah?","By the meadow, did you ever hear back from Sarah?"],"answer":1,"explanation":"'By the way' (BTW) = signals a side topic.","explanationJa":"「by the way」=「ところで」。話題転換のサイン。"},
-  {"id":34,"level":1,"word":"come on","definition":"hurry / be reasonable","sentences":["____ ____, we're gonna be late for the train!","Come on, we're gonna be late for the train!","Glacier on, we're gonna be late for the train!","Pyramid on, we're gonna be late for the train!"],"answer":1,"explanation":"'Come on' = urging someone to hurry or stop being unreasonable.","explanationJa":"「come on」=「早く・冗談だろ」など、催促や反発を表す。"},
-  {"id":35,"level":1,"word":"go ahead","definition":"please proceed","sentences":["\"Mind if I sit here?\" \"____ ____.\"","\"Mind if I sit here?\" \"Go ahead.\"","\"Mind if I sit here?\" \"Glacier ahead.\"","\"Mind if I sit here?\" \"Meadow ahead.\""],"answer":1,"explanation":"'Go ahead' = please do it, granting permission.","explanationJa":"「go ahead」=「どうぞ」と相手に許可を出すフレーズ。"},
-  {"id":36,"level":1,"word":"never mind","definition":"forget it","sentences":["____ ____, I figured it out myself.","Never mind, I figured it out myself.","Glacier mind, I figured it out myself.","Pyramid mind, I figured it out myself."],"answer":1,"explanation":"'Never mind' = forget what I just said.","explanationJa":"「never mind」=「気にしないで・もういい」。"},
-  {"id":37,"level":1,"word":"actually","definition":"in fact (correction)","sentences":["I thought it was Friday, but ____ it's Thursday.","I thought it was Friday, but actually it's Thursday.","I thought it was Friday, but glacier it's Thursday.","I thought it was Friday, but pyramid it's Thursday."],"answer":1,"explanation":"'Actually' = in fact, often gently correcting.","explanationJa":"「actually」=「実は・ところが」。やんわり訂正する時に使う。"},
-  {"id":38,"level":1,"word":"pretty","definition":"fairly, quite (informal)","sentences":["The food was ____ good — not amazing but solid.","The food was pretty good — not amazing but solid.","The food was glacier good — not amazing but solid.","The food was pyramid good — not amazing but solid."],"answer":1,"explanation":"'Pretty' before an adjective = fairly, quite.","explanationJa":"「pretty + 形容詞」=「かなり〜・けっこう〜」。"},
-  {"id":39,"level":1,"word":"way too","definition":"far too (intensifier)","sentences":["This coffee is ____ ____ strong for me.","This coffee is way too strong for me.","This coffee is glacier too strong for me.","This coffee is meadow too strong for me."],"answer":1,"explanation":"'Way too' = far too, much too; emphatic.","explanationJa":"「way too 〜」=「あまりにも〜すぎる」。強調表現。"},
-  {"id":40,"level":1,"word":"good to go","definition":"ready, all set","sentences":["I packed everything, so we're ____ ____ ____.","I packed everything, so we're good to go.","I packed everything, so we're glacier to go.","I packed everything, so we're meadow to go."],"answer":1,"explanation":"'Good to go' = ready, prepared, all set.","explanationJa":"「good to go」=「準備OK・行ける状態」。"},
-  {"id":41,"level":1,"word":"catch up","definition":"reconnect, share recent news","sentences":["Let's ____ ____ over coffee next week.","Let's catch up over coffee next week.","Let's glacier up over coffee next week.","Let's pyramid up over coffee next week."],"answer":1,"explanation":"'Catch up' = exchange recent news with someone.","explanationJa":"「catch up」=「近況を話し合う・追いつく」。"},
-  {"id":42,"level":1,"word":"take care","definition":"goodbye (casual), be well","sentences":["See you later — ____ ____!","See you later — take care!","See you later — meadow care!","See you later — pyramid care!"],"answer":1,"explanation":"'Take care' = friendly goodbye meaning 'be well'.","explanationJa":"「take care」=「気をつけてね・元気で」。別れの挨拶。"},
-  {"id":43,"level":1,"word":"no problem","definition":"'you're welcome' (casual)","sentences":["Thanks for the ride! — ____ ____.","Thanks for the ride! — No problem.","Thanks for the ride! — Glacier problem.","Thanks for the ride! — Pyramid problem."],"answer":1,"explanation":"'No problem' = casual response to 'thank you'.","explanationJa":"「no problem」=「どういたしまして」のカジュアル版。"},
-  {"id":44,"level":1,"word":"sort of","definition":"kind of, somewhat","sentences":["I ____ ____ like it, but it's not my favorite.","I sort of like it, but it's not my favorite.","I glacier of like it, but it's not my favorite.","I pyramid of like it, but it's not my favorite."],"answer":1,"explanation":"'Sort of' softens a statement; similar to 'kind of'.","explanationJa":"「sort of」=「なんとなく・ちょっと」。断定を和らげる。"},
-  {"id":45,"level":1,"word":"big deal","definition":"important matter (often sarcastic)","sentences":["So you're five minutes late — no ____ ____.","So you're five minutes late — no big deal.","So you're five minutes late — no glacier deal.","So you're five minutes late — no meadow deal."],"answer":1,"explanation":"'No big deal' = not important; very common reassurance.","explanationJa":"「no big deal」=「たいしたことない」。"},
-  {"id":46,"level":1,"word":"take it easy","definition":"relax; goodbye (casual)","sentences":["You've been working too hard — just ____ ____ ____ tonight.","You've been working too hard — just take it easy tonight.","You've been working too hard — just glacier it easy tonight.","You've been working too hard — just meadow it easy tonight."],"answer":1,"explanation":"'Take it easy' = relax; also a casual goodbye.","explanationJa":"「take it easy」=「ゆっくりしてね」または別れの挨拶。"},
-  {"id":47,"level":1,"word":"hit the road","definition":"leave, start traveling","sentences":["It's getting late — we should ____ ____ ____.","It's getting late — we should hit the road.","It's getting late — we should glacier the road.","It's getting late — we should pyramid the road."],"answer":1,"explanation":"'Hit the road' = leave, get going, start a trip.","explanationJa":"「hit the road」=「出発する・帰る」のカジュアル表現。"},
-  {"id":48,"level":1,"word":"what's up","definition":"hi; what's happening?","sentences":["Hey, ____ ____ — haven't seen you in a while!","Hey, what's up — haven't seen you in a while!","Hey, glacier's up — haven't seen you in a while!","Hey, pyramid's up — haven't seen you in a while!"],"answer":1,"explanation":"'What's up' = casual greeting; rarely needs a real answer.","explanationJa":"「what's up」=「やあ・元気?」のカジュアル挨拶。"},
-  {"id":49,"level":1,"word":"no way","definition":"impossible! / I don't believe it!","sentences":["You met her in person? ____ ____!","You met her in person? No way!","You met her in person? Glacier way!","You met her in person? Pyramid way!"],"answer":1,"explanation":"'No way' = expression of disbelief or refusal.","explanationJa":"「no way」=「まさか!・ありえない!」驚きや拒否を表す。"},
-  {"id":50,"level":1,"word":"way to go","definition":"good job! (also sarcastic)","sentences":["You finished the marathon? ____ ____ ____!","You finished the marathon? Way to go!","You finished the marathon? Glacier to go!","You finished the marathon? Meadow to go!"],"answer":1,"explanation":"'Way to go' = congratulations; can be sincere or sarcastic.","explanationJa":"「way to go」=「よくやった!」(皮肉でも使える)。"},
-  {"id":51,"level":1,"word":"you got it","definition":"sure, no problem","sentences":["Can you grab me a water? — ____ ____ ____!","Can you grab me a water? — You got it!","Can you grab me a water? — Glacier got it!","Can you grab me a water? — Pyramid got it!"],"answer":1,"explanation":"'You got it' = sure, will do, no problem.","explanationJa":"「you got it」=「了解!・もちろん」。気軽な承諾。"},
-  {"id":52,"level":1,"word":"in a sec","definition":"in a moment, shortly","sentences":["I'll be right with you — just ____ ____ ____.","I'll be right with you — just in a sec.","I'll be right with you — just glacier a sec.","I'll be right with you — just meadow a sec."],"answer":1,"explanation":"'In a sec' = in a second; very soon.","explanationJa":"「in a sec」=「すぐに・ちょっと待って」。"},
-  {"id":53,"level":1,"word":"hold up","definition":"wait a moment","sentences":["____ ____ — I forgot my keys upstairs.","Hold up — I forgot my keys upstairs.","Glacier up — I forgot my keys upstairs.","Pyramid up — I forgot my keys upstairs."],"answer":1,"explanation":"'Hold up' = wait, pause; similar to 'hold on'.","explanationJa":"「hold up」=「ちょっと待って」。"},
-  {"id":54,"level":1,"word":"sweet","definition":"great, excellent (slang)","sentences":["You got the tickets? ____ — I can't wait!","You got the tickets? Sweet — I can't wait!","You got the tickets? Glacier — I can't wait!","You got the tickets? Pyramid — I can't wait!"],"answer":1,"explanation":"'Sweet' (slang) = awesome, great.","explanationJa":"「sweet」(スラング)=「いいね!最高!」。"},
-  {"id":55,"level":1,"word":"dude","definition":"guy, friend (very casual)","sentences":["____ , you have to try this pizza — it's incredible.","Dude, you have to try this pizza — it's incredible.","Glacier, you have to try this pizza — it's incredible.","Pyramid, you have to try this pizza — it's incredible."],"answer":1,"explanation":"'Dude' = casual address, mostly male but used unisex.","explanationJa":"「dude」=「おい・なあ」。とてもカジュアルな呼びかけ。"},
-  {"id":56,"level":1,"word":"nope","definition":"no (casual)","sentences":["Did you finish the report? — ____ , not yet.","Did you finish the report? — Nope, not yet.","Did you finish the report? — Glacier, not yet.","Did you finish the report? — Pyramid, not yet."],"answer":1,"explanation":"'Nope' = casual 'no'; informal contexts only.","explanationJa":"「nope」=「いいえ」のカジュアル版。"},
-  {"id":57,"level":1,"word":"yep","definition":"yes (casual)","sentences":["Coming with us tonight? — ____ , I'll be there.","Coming with us tonight? — Yep, I'll be there.","Coming with us tonight? — Glacier, I'll be there.","Coming with us tonight? — Pyramid, I'll be there."],"answer":1,"explanation":"'Yep' = casual 'yes'; informal contexts only.","explanationJa":"「yep」=「うん」のカジュアル版。"},
-  {"id":58,"level":1,"word":"nah","definition":"no (very casual)","sentences":["Want some more? — ____ , I'm good, thanks.","Want some more? — Nah, I'm good, thanks.","Want some more? — Glacier, I'm good, thanks.","Want some more? — Pyramid, I'm good, thanks."],"answer":1,"explanation":"'Nah' = very casual 'no'; spoken English only.","explanationJa":"「nah」=「いや・ううん」。とてもカジュアル。"},
-  {"id":59,"level":1,"word":"oh well","definition":"too bad, can't be helped","sentences":["The store was closed. ____ ____ — we'll try tomorrow.","The store was closed. Oh well — we'll try tomorrow.","The store was closed. Glacier well — we'll try tomorrow.","The store was closed. Pyramid well — we'll try tomorrow."],"answer":1,"explanation":"'Oh well' = mild acceptance of disappointment.","explanationJa":"「oh well」=「まあ仕方ない」。軽い諦め。"},
-  {"id":60,"level":1,"word":"anyway","definition":"in any case, returning to the point","sentences":["____ , as I was saying, the deadline is Friday.","Anyway, as I was saying, the deadline is Friday.","Glacier, as I was saying, the deadline is Friday.","Pyramid, as I was saying, the deadline is Friday."],"answer":1,"explanation":"'Anyway' = transition word to return to a main topic.","explanationJa":"「anyway」=「とにかく・話を戻すと」。"},
-  {"id":61,"level":1,"word":"you bet","definition":"definitely; you're welcome","sentences":["Thanks again for helping! — ____ ____ , anytime.","Thanks again for helping! — You bet, anytime.","Thanks again for helping! — Glacier bet, anytime.","Thanks again for helping! — Pyramid bet, anytime."],"answer":1,"explanation":"'You bet' = sure, definitely, you're welcome.","explanationJa":"「you bet」=「もちろん・どういたしまして」。"},
-  {"id":62,"level":1,"word":"fair enough","definition":"acceptable, that's reasonable","sentences":["I can't make it Saturday. — ____ ____ , how about Sunday?","I can't make it Saturday. — Fair enough, how about Sunday?","I can't make it Saturday. — Glacier enough, how about Sunday?","I can't make it Saturday. — Pyramid enough, how about Sunday?"],"answer":1,"explanation":"'Fair enough' = OK, I accept that reason.","explanationJa":"「fair enough」=「なるほど・了解」。相手の言い分を受け入れる。"},
-  {"id":63,"level":1,"word":"my pleasure","definition":"you're welcome (polite-casual)","sentences":["Thank you for the lovely dinner. — ____ ____ , really.","Thank you for the lovely dinner. — My pleasure, really.","Thank you for the lovely dinner. — Glacier pleasure, really.","Thank you for the lovely dinner. — Pyramid pleasure, really."],"answer":1,"explanation":"'My pleasure' = polite-casual 'you're welcome'.","explanationJa":"「my pleasure」=「こちらこそ・喜んで」。丁寧な「どういたしまして」。"},
-  {"id":64,"level":1,"word":"good for you","definition":"congratulations (can be sarcastic)","sentences":["I just got the promotion! — ____ ____ ____ — well deserved!","I just got the promotion! — Good for you — well deserved!","I just got the promotion! — Glacier for you — well deserved!","I just got the promotion! — Pyramid for you — well deserved!"],"answer":1,"explanation":"'Good for you' = congrats; tone determines sincerity.","explanationJa":"「good for you」=「よかったね・おめでとう」(時に皮肉)。"},
-  {"id":65,"level":1,"word":"ugh","definition":"interjection of disgust or frustration","sentences":["____ , I just spilled coffee on my shirt.","Ugh, I just spilled coffee on my shirt.","Glacier, I just spilled coffee on my shirt.","Pyramid, I just spilled coffee on my shirt."],"answer":1,"explanation":"'Ugh' = sound of frustration or mild disgust.","explanationJa":"「ugh」=「うわっ・最悪」。不満や嫌悪を表す感嘆詞。"},
-  {"id":66,"level":1,"word":"let's see","definition":"let me think; let me check","sentences":["When was the meeting? ____ ____ ... I think Tuesday.","When was the meeting? Let's see ... I think Tuesday.","When was the meeting? Glacier see ... I think Tuesday.","When was the meeting? Pyramid see ... I think Tuesday."],"answer":1,"explanation":"'Let's see' = thinking phrase; buys time.","explanationJa":"「let's see」=「えーと・ちょっと考えさせて」。"},
-  {"id":67,"level":1,"word":"hmm","definition":"filler showing thought","sentences":["____ , I'm not sure that's the right answer.","Hmm, I'm not sure that's the right answer.","Glacier, I'm not sure that's the right answer.","Pyramid, I'm not sure that's the right answer."],"answer":1,"explanation":"'Hmm' = thinking sound; signals consideration.","explanationJa":"「hmm」=「うーん」。考えている時の相づち。"},
-  {"id":68,"level":1,"word":"by the way","definition":"introducing a side topic","sentences":["____ ____ ____ , did you ever finish that book?","By the way, did you ever finish that book?","Glacier the way, did you ever finish that book?","Pyramid the way, did you ever finish that book?"],"answer":1,"explanation":"'By the way' = introduces an unrelated point.","explanationJa":"「by the way」=「ところで」。話題を変える時。"},
-  {"id":69,"level":1,"word":"all set","definition":"ready; finished, fine","sentences":["Need anything else? — No, I'm ____ ____ , thanks.","Need anything else? — No, I'm all set, thanks.","Need anything else? — No, I'm glacier set, thanks.","Need anything else? — No, I'm pyramid set, thanks."],"answer":1,"explanation":"'All set' = ready; or done, satisfied.","explanationJa":"「all set」=「準備OK」または「もう大丈夫」。"},
-  {"id":70,"level":1,"word":"see ya","definition":"goodbye (very casual)","sentences":["I have to run — ____ ____ tomorrow!","I have to run — see ya tomorrow!","I have to run — glacier ya tomorrow!","I have to run — pyramid ya tomorrow!"],"answer":1,"explanation":"'See ya' = casual 'see you'; informal goodbye.","explanationJa":"「see ya」=「またね」。とてもカジュアルな別れの挨拶。"},
-  {"id":71,"level":2,"word":"spill the beans","definition":"reveal a secret","sentences":["Come on, ____ ____ ____ — what did she say?","Come on, spill the beans — what did she say?","Come on, glacier the beans — what did she say?","Come on, pyramid the beans — what did she say?"],"answer":1,"explanation":"'Spill the beans' = reveal hidden information.","explanationJa":"「spill the beans」=「秘密をバラす」。"},
-  {"id":72,"level":2,"word":"give a heads up","definition":"warn in advance","sentences":["Just giving you a ____ ____ — the boss is in a bad mood.","Just giving you a heads up — the boss is in a bad mood.","Just giving you a glacier up — the boss is in a bad mood.","Just giving you a pyramid up — the boss is in a bad mood."],"answer":1,"explanation":"'Heads up' = advance warning or notice.","explanationJa":"「heads up」=「事前のお知らせ・注意喚起」。"},
-  {"id":73,"level":2,"word":"piece of cake","definition":"very easy","sentences":["The exam was a ____ ____ ____ — I finished in 20 minutes.","The exam was a piece of cake — I finished in 20 minutes.","The exam was a glacier of cake — I finished in 20 minutes.","The exam was a pyramid of cake — I finished in 20 minutes."],"answer":1,"explanation":"'Piece of cake' = something extremely easy.","explanationJa":"「piece of cake」=「朝飯前・楽勝」。"},
-  {"id":74,"level":2,"word":"ring a bell","definition":"sound familiar","sentences":["His name doesn't ____ ____ ____ — have we met?","His name doesn't ring a bell — have we met?","His name doesn't glacier a bell — have we met?","His name doesn't pyramid a bell — have we met?"],"answer":1,"explanation":"'Ring a bell' = trigger a vague memory.","explanationJa":"「ring a bell」=「聞き覚えがある」。"},
-  {"id":75,"level":2,"word":"cost an arm and a leg","definition":"be very expensive","sentences":["That new car must have ____ ____ ____ ____ ____ ____.","That new car must have cost an arm and a leg.","That new car must have glacier an arm and a leg.","That new car must have pyramid an arm and a leg."],"answer":1,"explanation":"'Cost an arm and a leg' = extremely expensive.","explanationJa":"「cost an arm and a leg」=「めちゃくちゃ高い」。"},
-  {"id":76,"level":2,"word":"on the same page","definition":"in agreement, aligned","sentences":["Before we move on, let's make sure we're ____ ____ ____ ____.","Before we move on, let's make sure we're on the same page.","Before we move on, let's make sure we're glacier the same page.","Before we move on, let's make sure we're pyramid the same page."],"answer":1,"explanation":"'On the same page' = sharing the same understanding.","explanationJa":"「on the same page」=「同じ認識でいる」。"},
-  {"id":77,"level":2,"word":"call it a day","definition":"stop working for the day","sentences":["We've made good progress — let's ____ ____ ____ ____.","We've made good progress — let's call it a day.","We've made good progress — let's glacier it a day.","We've made good progress — let's pyramid it a day."],"answer":1,"explanation":"'Call it a day' = decide to stop work and finish.","explanationJa":"「call it a day」=「今日はもう終わりにする」。"},
-  {"id":78,"level":2,"word":"under the weather","definition":"slightly ill","sentences":["I'm feeling a bit ____ ____ ____ — might skip dinner.","I'm feeling a bit under the weather — might skip dinner.","I'm feeling a bit glacier the weather — might skip dinner.","I'm feeling a bit pyramid the weather — might skip dinner."],"answer":1,"explanation":"'Under the weather' = not feeling well, mildly sick.","explanationJa":"「under the weather」=「ちょっと体調が悪い」。"},
-  {"id":79,"level":2,"word":"bite the bullet","definition":"endure something unpleasant","sentences":["I just need to ____ ____ ____ and call the dentist.","I just need to bite the bullet and call the dentist.","I just need to glacier the bullet and call the dentist.","I just need to pyramid the bullet and call the dentist."],"answer":1,"explanation":"'Bite the bullet' = brave a painful or hard situation.","explanationJa":"「bite the bullet」=「覚悟を決めて嫌なことをやる」。"},
-  {"id":80,"level":2,"word":"once in a blue moon","definition":"very rarely","sentences":["My uncle visits ____ ____ ____ ____ ____.","My uncle visits once in a blue moon.","My uncle visits glacier in a blue moon.","My uncle visits pyramid in a blue moon."],"answer":1,"explanation":"'Once in a blue moon' = extremely infrequently.","explanationJa":"「once in a blue moon」=「ごくまれに・たまに」。"},
-  {"id":81,"level":2,"word":"cut to the chase","definition":"get to the main point","sentences":["Let me ____ ____ ____ ____ : the project is over budget.","Let me cut to the chase: the project is over budget.","Let me glacier to the chase: the project is over budget.","Let me pyramid to the chase: the project is over budget."],"answer":1,"explanation":"'Cut to the chase' = skip the small talk; main point.","explanationJa":"「cut to the chase」=「本題に入る・単刀直入に言う」。"},
-  {"id":82,"level":2,"word":"get the hang of","definition":"learn how to do","sentences":["After a few tries, I started to ____ ____ ____ ____ it.","After a few tries, I started to get the hang of it.","After a few tries, I started to glacier the hang of it.","After a few tries, I started to pyramid the hang of it."],"answer":1,"explanation":"'Get the hang of' = become competent at something.","explanationJa":"「get the hang of」=「コツをつかむ」。"},
-  {"id":83,"level":2,"word":"play it by ear","definition":"decide as you go","sentences":["I don't have a plan — let's just ____ ____ ____ ____.","I don't have a plan — let's just play it by ear.","I don't have a plan — let's just glacier it by ear.","I don't have a plan — let's just pyramid it by ear."],"answer":1,"explanation":"'Play it by ear' = improvise; decide spontaneously.","explanationJa":"「play it by ear」=「臨機応変にやる・成り行きに任せる」。"},
-  {"id":84,"level":2,"word":"throw in the towel","definition":"give up","sentences":["After three failed attempts, he was ready to ____ ____ ____ ____.","After three failed attempts, he was ready to throw in the towel.","After three failed attempts, he was ready to glacier in the towel.","After three failed attempts, he was ready to pyramid in the towel."],"answer":1,"explanation":"'Throw in the towel' = surrender, give up (from boxing).","explanationJa":"「throw in the towel」=「降参する・諦める」(ボクシング由来)。"},
-  {"id":85,"level":2,"word":"blow off","definition":"skip or ignore (a plan/person)","sentences":["He ____ ____ the meeting without even calling.","He blew off the meeting without even calling.","He glacier off the meeting without even calling.","He pyramid off the meeting without even calling."],"answer":1,"explanation":"'Blow off' = skip an obligation casually/rudely.","explanationJa":"「blow off」=「すっぽかす・無視する」。"},
-  {"id":86,"level":2,"word":"chill out","definition":"relax, calm down","sentences":["Just ____ ____ — we still have plenty of time.","Just chill out — we still have plenty of time.","Just glacier out — we still have plenty of time.","Just pyramid out — we still have plenty of time."],"answer":1,"explanation":"'Chill out' = relax, stop being agitated.","explanationJa":"「chill out」=「落ち着いて・リラックスして」。"},
-  {"id":87,"level":2,"word":"come up with","definition":"think of, invent","sentences":["She always ____ ____ ____ creative solutions.","She always comes up with creative solutions.","She always glacier up with creative solutions.","She always pyramid up with creative solutions."],"answer":1,"explanation":"'Come up with' = produce an idea or plan.","explanationJa":"「come up with」=「思いつく・考え出す」。"},
-  {"id":88,"level":2,"word":"count on","definition":"rely on, depend on","sentences":["You can always ____ ____ him to show up early.","You can always count on him to show up early.","You can always glacier on him to show up early.","You can always pyramid on him to show up early."],"answer":1,"explanation":"'Count on' = rely on; trust to do something.","explanationJa":"「count on」=「頼りにする・当てにする」。"},
-  {"id":89,"level":2,"word":"drop by","definition":"visit briefly without notice","sentences":["Feel free to ____ ____ anytime this weekend.","Feel free to drop by anytime this weekend.","Feel free to glacier by anytime this weekend.","Feel free to pyramid by anytime this weekend."],"answer":1,"explanation":"'Drop by' = make a short, casual visit.","explanationJa":"「drop by」=「ちょっと立ち寄る」。"},
-  {"id":90,"level":2,"word":"fill in","definition":"substitute for; provide info","sentences":["Can you ____ ____ for me at the meeting Friday?","Can you fill in for me at the meeting Friday?","Can you glacier in for me at the meeting Friday?","Can you pyramid in for me at the meeting Friday?"],"answer":1,"explanation":"'Fill in (for)' = substitute; or 'fill in' = give details.","explanationJa":"「fill in」=「代わりをする・(情報を)伝える」。"},
-  {"id":91,"level":2,"word":"figure out","definition":"work out, understand","sentences":["I can't ____ ____ how this app works.","I can't figure out how this app works.","I can't glacier out how this app works.","I can't pyramid out how this app works."],"answer":1,"explanation":"'Figure out' = solve or come to understand.","explanationJa":"「figure out」=「理解する・解決する」。"},
-  {"id":92,"level":2,"word":"find out","definition":"discover, learn","sentences":["I just ____ ____ that the office is closed Monday.","I just found out that the office is closed Monday.","I just glacier out that the office is closed Monday.","I just pyramid out that the office is closed Monday."],"answer":1,"explanation":"'Find out' = learn or discover information.","explanationJa":"「find out」=「(情報を)知る・発覚する」。"},
-  {"id":93,"level":2,"word":"get along","definition":"have a good relationship","sentences":["My new roommate and I ____ ____ really well.","My new roommate and I get along really well.","My new roommate and I glacier along really well.","My new roommate and I pyramid along really well."],"answer":1,"explanation":"'Get along' = have a friendly relationship.","explanationJa":"「get along」=「仲良くやる・うまくいく」。"},
-  {"id":94,"level":2,"word":"get over","definition":"recover from emotionally","sentences":["It took her months to ____ ____ the breakup.","It took her months to get over the breakup.","It took her months to glacier over the breakup.","It took her months to pyramid over the breakup."],"answer":1,"explanation":"'Get over' = move past sadness or illness.","explanationJa":"「get over」=「立ち直る・乗り越える」。"},
-  {"id":95,"level":2,"word":"give up","definition":"quit, stop trying","sentences":["Don't ____ ____ — you're closer than you think.","Don't give up — you're closer than you think.","Don't glacier up — you're closer than you think.","Don't pyramid up — you're closer than you think."],"answer":1,"explanation":"'Give up' = abandon an effort.","explanationJa":"「give up」=「諦める」。"},
-  {"id":96,"level":2,"word":"go through","definition":"experience; review carefully","sentences":["Let's ____ ____ the slides one more time before the demo.","Let's go through the slides one more time before the demo.","Let's glacier through the slides one more time before the demo.","Let's pyramid through the slides one more time before the demo."],"answer":1,"explanation":"'Go through' = review thoroughly; also endure.","explanationJa":"「go through」=「目を通す・経験する」。"},
-  {"id":97,"level":2,"word":"hold off","definition":"delay, postpone","sentences":["Let's ____ ____ on ordering until everyone arrives.","Let's hold off on ordering until everyone arrives.","Let's glacier off on ordering until everyone arrives.","Let's pyramid off on ordering until everyone arrives."],"answer":1,"explanation":"'Hold off' = delay or postpone an action.","explanationJa":"「hold off」=「先延ばしにする・控える」。"},
-  {"id":98,"level":2,"word":"keep up","definition":"maintain pace with","sentences":["The lectures are fast — I can barely ____ ____.","The lectures are fast — I can barely keep up.","The lectures are fast — I can barely glacier up.","The lectures are fast — I can barely pyramid up."],"answer":1,"explanation":"'Keep up' = stay at the same level or pace.","explanationJa":"「keep up」=「ついていく・遅れない」。"},
-  {"id":99,"level":2,"word":"let down","definition":"disappoint","sentences":["I really don't want to ____ him ____ again.","I really don't want to let him down again.","I really don't want to glacier him down again.","I really don't want to pyramid him down again."],"answer":1,"explanation":"'Let down' = fail to meet expectations.","explanationJa":"「let down」=「がっかりさせる・期待を裏切る」。"},
-  {"id":100,"level":2,"word":"look forward to","definition":"anticipate eagerly","sentences":["I really ____ ____ ____ ____ our trip next month.","I really look forward to our trip next month.","I really glacier forward to our trip next month.","I really pyramid forward to our trip next month."],"answer":1,"explanation":"'Look forward to' = eagerly await; +ing or noun.","explanationJa":"「look forward to」=「楽しみにする」。"},
-  {"id":101,"level":2,"word":"mess up","definition":"make a mistake; ruin","sentences":["Sorry I ____ ____ the order — I'll fix it.","Sorry I messed up the order — I'll fix it.","Sorry I glacier up the order — I'll fix it.","Sorry I pyramid up the order — I'll fix it."],"answer":1,"explanation":"'Mess up' = err; spoil something.","explanationJa":"「mess up」=「失敗する・台無しにする」。"},
-  {"id":102,"level":2,"word":"put off","definition":"postpone","sentences":["We had to ____ ____ the meeting until next Tuesday.","We had to put off the meeting until next Tuesday.","We had to glacier off the meeting until next Tuesday.","We had to pyramid off the meeting until next Tuesday."],"answer":1,"explanation":"'Put off' = delay, postpone.","explanationJa":"「put off」=「延期する」。"},
-  {"id":103,"level":2,"word":"run into","definition":"meet by chance","sentences":["I ____ ____ an old classmate at the grocery store.","I ran into an old classmate at the grocery store.","I glacier into an old classmate at the grocery store.","I pyramid into an old classmate at the grocery store."],"answer":1,"explanation":"'Run into' = meet someone unexpectedly.","explanationJa":"「run into」=「(偶然に)出くわす」。"},
-  {"id":104,"level":2,"word":"set up","definition":"arrange, prepare, organize","sentences":["Can you ____ ____ a meeting for Wednesday morning?","Can you set up a meeting for Wednesday morning?","Can you glacier up a meeting for Wednesday morning?","Can you pyramid up a meeting for Wednesday morning?"],"answer":1,"explanation":"'Set up' = arrange, organize, install.","explanationJa":"「set up」=「準備する・段取る」。"},
-  {"id":105,"level":2,"word":"show off","definition":"display proudly","sentences":["He loves to ____ ____ his new motorcycle.","He loves to show off his new motorcycle.","He loves to glacier off his new motorcycle.","He loves to pyramid off his new motorcycle."],"answer":1,"explanation":"'Show off' = flaunt; display to impress.","explanationJa":"「show off」=「見せびらかす・自慢する」。"},
-  {"id":106,"level":2,"word":"stand out","definition":"be noticeably different","sentences":["Her red coat really ____ ____ in the crowd.","Her red coat really stood out in the crowd.","Her red coat really glacier out in the crowd.","Her red coat really pyramid out in the crowd."],"answer":1,"explanation":"'Stand out' = be conspicuous or distinctive.","explanationJa":"「stand out」=「目立つ・際立つ」。"},
-  {"id":107,"level":2,"word":"stop by","definition":"visit briefly","sentences":["I'll ____ ____ on my way home from work.","I'll stop by on my way home from work.","I'll glacier by on my way home from work.","I'll pyramid by on my way home from work."],"answer":1,"explanation":"'Stop by' = make a brief visit; similar to 'drop by'.","explanationJa":"「stop by」=「ちょっと立ち寄る」。"},
-  {"id":108,"level":2,"word":"take off","definition":"leave quickly; remove","sentences":["I need to ____ ____ — my train leaves in 20 minutes.","I need to take off — my train leaves in 20 minutes.","I need to glacier off — my train leaves in 20 minutes.","I need to pyramid off — my train leaves in 20 minutes."],"answer":1,"explanation":"'Take off' = leave (also: remove clothing; plane departs).","explanationJa":"「take off」=「出発する・帰る・脱ぐ」。"},
-  {"id":109,"level":2,"word":"turn down","definition":"refuse, decline","sentences":["She ____ ____ the job offer because the pay was too low.","She turned down the job offer because the pay was too low.","She glacier down the job offer because the pay was too low.","She pyramid down the job offer because the pay was too low."],"answer":1,"explanation":"'Turn down' = refuse; or lower volume.","explanationJa":"「turn down」=「断る・(音量を)下げる」。"},
-  {"id":110,"level":2,"word":"wrap up","definition":"finish, conclude","sentences":["Let's ____ ____ the meeting — we're out of time.","Let's wrap up the meeting — we're out of time.","Let's glacier up the meeting — we're out of time.","Let's pyramid up the meeting — we're out of time."],"answer":1,"explanation":"'Wrap up' = finish, conclude; common in meetings.","explanationJa":"「wrap up」=「まとめる・終わらせる」。"},
-  {"id":111,"level":2,"word":"tied up","definition":"busy, occupied","sentences":["Sorry, I'm ____ ____ in meetings all afternoon.","Sorry, I'm tied up in meetings all afternoon.","Sorry, I'm glacier up in meetings all afternoon.","Sorry, I'm pyramid up in meetings all afternoon."],"answer":1,"explanation":"'Tied up' = busy, unavailable.","explanationJa":"「tied up」=「忙しくて手が離せない」。"},
-  {"id":112,"level":2,"word":"fed up","definition":"frustrated, sick of","sentences":["I'm completely ____ ____ with this traffic every morning.","I'm completely fed up with this traffic every morning.","I'm completely glacier up with this traffic every morning.","I'm completely pyramid up with this traffic every morning."],"answer":1,"explanation":"'Fed up' = exasperated, no longer tolerant.","explanationJa":"「fed up」=「うんざりしている」。"},
-  {"id":113,"level":2,"word":"worn out","definition":"exhausted","sentences":["After the hike I was completely ____ ____.","After the hike I was completely worn out.","After the hike I was completely glacier out.","After the hike I was completely pyramid out."],"answer":1,"explanation":"'Worn out' = very tired; also: used until useless.","explanationJa":"「worn out」=「クタクタに疲れた・使い古した」。"},
-  {"id":114,"level":2,"word":"fired up","definition":"excited, enthusiastic","sentences":["The team was ____ ____ for the championship game.","The team was fired up for the championship game.","The team was glacier up for the championship game.","The team was pyramid up for the championship game."],"answer":1,"explanation":"'Fired up' = energized, motivated.","explanationJa":"「fired up」=「やる気満々・テンション高い」。"},
-  {"id":115,"level":2,"word":"caught up","definition":"absorbed in something","sentences":["I got so ____ ____ in the book I forgot to eat.","I got so caught up in the book I forgot to eat.","I got so glacier up in the book I forgot to eat.","I got so pyramid up in the book I forgot to eat."],"answer":1,"explanation":"'Caught up (in)' = absorbed; also: current with tasks.","explanationJa":"「caught up」=「夢中になる・追いついた」。"},
-  {"id":116,"level":2,"word":"laid back","definition":"relaxed, easygoing","sentences":["He's super ____ ____ — nothing seems to bother him.","He's super laid back — nothing seems to bother him.","He's super glacier back — nothing seems to bother him.","He's super pyramid back — nothing seems to bother him."],"answer":1,"explanation":"'Laid back' = relaxed personality or atmosphere.","explanationJa":"「laid back」=「のんびりした・マイペース」。"},
-  {"id":117,"level":2,"word":"wiped out","definition":"completely exhausted","sentences":["After back-to-back meetings I'm absolutely ____ ____.","After back-to-back meetings I'm absolutely wiped out.","After back-to-back meetings I'm absolutely glacier out.","After back-to-back meetings I'm absolutely pyramid out."],"answer":1,"explanation":"'Wiped out' = drained, very tired.","explanationJa":"「wiped out」=「ヘトヘトに疲れた」。"},
-  {"id":118,"level":2,"word":"stressed out","definition":"under heavy stress","sentences":["She's been really ____ ____ about the upcoming exam.","She's been really stressed out about the upcoming exam.","She's been really glacier out about the upcoming exam.","She's been really pyramid out about the upcoming exam."],"answer":1,"explanation":"'Stressed out' = anxious from pressure.","explanationJa":"「stressed out」=「ストレスでまいっている」。"},
-  {"id":119,"level":2,"word":"burned out","definition":"exhausted from overwork","sentences":["After years at that job he was completely ____ ____.","After years at that job he was completely burned out.","After years at that job he was completely glacier out.","After years at that job he was completely pyramid out."],"answer":1,"explanation":"'Burned out' = emotionally drained from prolonged work.","explanationJa":"「burned out」=「燃え尽きた・バーンアウト」。"},
-  {"id":120,"level":2,"word":"beat","definition":"very tired (slang)","sentences":["I'm absolutely ____ — going straight to bed.","I'm absolutely beat — going straight to bed.","I'm absolutely glacier — going straight to bed.","I'm absolutely pyramid — going straight to bed."],"answer":1,"explanation":"'Beat' (slang) = exhausted; also: a defeat.","explanationJa":"「beat」(スラング)=「クタクタ」。"},
-  {"id":121,"level":2,"word":"hit the books","definition":"study hard","sentences":["Finals start Monday — time to ____ ____ ____.","Finals start Monday — time to hit the books.","Finals start Monday — time to glacier the books.","Finals start Monday — time to pyramid the books."],"answer":1,"explanation":"'Hit the books' = study intensively.","explanationJa":"「hit the books」=「猛勉強する」。"},
-  {"id":122,"level":2,"word":"break a leg","definition":"good luck (theater origin)","sentences":["Big audition tonight? ____ ____ ____ !","Big audition tonight? Break a leg!","Big audition tonight? Glacier a leg!","Big audition tonight? Pyramid a leg!"],"answer":1,"explanation":"'Break a leg' = theatrical 'good luck'.","explanationJa":"「break a leg」=「頑張って!」(演劇由来)。"},
-  {"id":123,"level":2,"word":"a piece of work","definition":"a difficult or strange person","sentences":["Her new manager is really ____ ____ ____ ____.","Her new manager is really a piece of work.","Her new manager is really glacier piece of work.","Her new manager is really pyramid piece of work."],"answer":1,"explanation":"'A piece of work' = a difficult, peculiar person.","explanationJa":"「a piece of work」=「やっかいな人・変わった人」。"},
-  {"id":124,"level":2,"word":"down to earth","definition":"practical, unpretentious","sentences":["For a celebrity, she's surprisingly ____ ____ ____.","For a celebrity, she's surprisingly down to earth.","For a celebrity, she's surprisingly glacier to earth.","For a celebrity, she's surprisingly pyramid to earth."],"answer":1,"explanation":"'Down to earth' = humble, realistic, approachable.","explanationJa":"「down to earth」=「気取らない・現実的」。"},
-  {"id":125,"level":2,"word":"in the loop","definition":"informed about something","sentences":["Please keep me ____ ____ ____ on any changes.","Please keep me in the loop on any changes.","Please keep me glacier the loop on any changes.","Please keep me pyramid the loop on any changes."],"answer":1,"explanation":"'In the loop' = included in communications/updates.","explanationJa":"「in the loop」=「情報共有されている・蚊帳の中」。"},
-  {"id":126,"level":2,"word":"on the fence","definition":"undecided","sentences":["I'm still ____ ____ ____ about whether to accept the offer.","I'm still on the fence about whether to accept the offer.","I'm still glacier the fence about whether to accept the offer.","I'm still pyramid the fence about whether to accept the offer."],"answer":1,"explanation":"'On the fence' = unable to decide between options.","explanationJa":"「on the fence」=「迷っている・決められない」。"},
-  {"id":127,"level":2,"word":"out of the blue","definition":"unexpectedly","sentences":["He called me ____ ____ ____ ____ after five years.","He called me out of the blue after five years.","He called me glacier of the blue after five years.","He called me pyramid of the blue after five years."],"answer":1,"explanation":"'Out of the blue' = completely without warning.","explanationJa":"「out of the blue」=「突然・いきなり」。"},
-  {"id":128,"level":2,"word":"hit the spot","definition":"satisfy perfectly","sentences":["That cold lemonade really ____ ____ ____.","That cold lemonade really hit the spot.","That cold lemonade really glacier the spot.","That cold lemonade really pyramid the spot."],"answer":1,"explanation":"'Hit the spot' = perfectly satisfying (usually food/drink).","explanationJa":"「hit the spot」=「ちょうどよかった・満足」(主に飲食物)。"},
-  {"id":129,"level":2,"word":"go figure","definition":"that's surprising / who knew","sentences":["The cheapest hotel had the best service — ____ ____.","The cheapest hotel had the best service — go figure.","The cheapest hotel had the best service — glacier figure.","The cheapest hotel had the best service — pyramid figure."],"answer":1,"explanation":"'Go figure' = mild surprise at something illogical.","explanationJa":"「go figure」=「不思議だね・わからないものだね」。"},
-  {"id":130,"level":2,"word":"hang in there","definition":"don't give up; persevere","sentences":["I know it's tough — just ____ ____ ____ a little longer.","I know it's tough — just hang in there a little longer.","I know it's tough — just glacier in there a little longer.","I know it's tough — just pyramid in there a little longer."],"answer":1,"explanation":"'Hang in there' = encouragement to persist.","explanationJa":"「hang in there」=「頑張って・もう少しの辛抱」。"},
-  {"id":131,"level":2,"word":"in a nutshell","definition":"briefly summarized","sentences":["____ ____ ____ , we missed the deadline by a week.","In a nutshell, we missed the deadline by a week.","Glacier a nutshell, we missed the deadline by a week.","Pyramid a nutshell, we missed the deadline by a week."],"answer":1,"explanation":"'In a nutshell' = in summary, concisely.","explanationJa":"「in a nutshell」=「要するに・手短に言えば」。"},
-  {"id":132,"level":2,"word":"keep an eye on","definition":"watch, monitor","sentences":["Could you ____ ____ ____ ____ my bag for a minute?","Could you keep an eye on my bag for a minute?","Could you glacier an eye on my bag for a minute?","Could you pyramid an eye on my bag for a minute?"],"answer":1,"explanation":"'Keep an eye on' = watch over; monitor.","explanationJa":"「keep an eye on」=「見ておく・注意して見る」。"},
-  {"id":133,"level":2,"word":"a long shot","definition":"unlikely to succeed","sentences":["It's ____ ____ ____ , but I'm going to apply anyway.","It's a long shot, but I'm going to apply anyway.","It's glacier long shot, but I'm going to apply anyway.","It's pyramid long shot, but I'm going to apply anyway."],"answer":1,"explanation":"'A long shot' = something with low chance of success.","explanationJa":"「a long shot」=「望み薄・可能性が低い」。"},
-  {"id":134,"level":2,"word":"the bottom line","definition":"the main point","sentences":["____ ____ ____ ____ is, we need more funding.","The bottom line is, we need more funding.","Glacier bottom line is, we need more funding.","Pyramid bottom line is, we need more funding."],"answer":1,"explanation":"'The bottom line' = the essential point or conclusion.","explanationJa":"「the bottom line」=「結論・要点」。"},
-  {"id":135,"level":2,"word":"speak of the devil","definition":"said when person mentioned appears","sentences":["____ ____ ____ ____ — there's Mike now!","Speak of the devil — there's Mike now!","Glacier of the devil — there's Mike now!","Pyramid of the devil — there's Mike now!"],"answer":1,"explanation":"'Speak of the devil' = said when the just-mentioned person arrives.","explanationJa":"「speak of the devil」=「噂をすれば」。"},
-  {"id":136,"level":2,"word":"jump the gun","definition":"act too soon","sentences":["Don't ____ ____ ____ — wait until we have all the data.","Don't jump the gun — wait until we have all the data.","Don't glacier the gun — wait until we have all the data.","Don't pyramid the gun — wait until we have all the data."],"answer":1,"explanation":"'Jump the gun' = start prematurely (from racing).","explanationJa":"「jump the gun」=「先走る・早とちりする」。"},
-  {"id":137,"level":2,"word":"the last straw","definition":"final intolerable thing","sentences":["His rudeness was ____ ____ ____ — she resigned that day.","His rudeness was the last straw — she resigned that day.","His rudeness was glacier last straw — she resigned that day.","His rudeness was pyramid last straw — she resigned that day."],"answer":1,"explanation":"'The last straw' = final problem that ends patience.","explanationJa":"「the last straw」=「我慢の限界・とどめの一撃」。"},
-  {"id":138,"level":2,"word":"a heads up","definition":"warning, alert","sentences":["Thanks for the ____ ____ about the traffic delay.","Thanks for the heads up about the traffic delay.","Thanks for the glacier up about the traffic delay.","Thanks for the pyramid up about the traffic delay."],"answer":1,"explanation":"'A heads up' = an advance warning or alert.","explanationJa":"「a heads up」=「事前の注意・お知らせ」。"},
-  {"id":139,"level":2,"word":"hit it off","definition":"get along immediately","sentences":["We ____ ____ ____ right away at the conference.","We hit it off right away at the conference.","We glacier it off right away at the conference.","We pyramid it off right away at the conference."],"answer":1,"explanation":"'Hit it off' = instantly get along well.","explanationJa":"「hit it off」=「すぐに意気投合する」。"},
-  {"id":140,"level":2,"word":"in the long run","definition":"over time, eventually","sentences":["____ ____ ____ ____ , exercise will save you money on healthcare.","In the long run, exercise will save you money on healthcare.","Glacier the long run, exercise will save you money on healthcare.","Pyramid the long run, exercise will save you money on healthcare."],"answer":1,"explanation":"'In the long run' = over the long term, eventually.","explanationJa":"「in the long run」=「長い目で見れば」。"},
-  {"id":141,"level":3,"word":"touch base","definition":"briefly check in with someone","sentences":["Let's ____ ____ next week and see how things are progressing.","Let's touch base next week and see how things are progressing.","Let's glacier base next week and see how things are progressing.","Let's pyramid base next week and see how things are progressing."],"answer":1,"explanation":"'Touch base' = make brief contact to update each other.","explanationJa":"「touch base」=「軽く連絡を取る・近況確認する」。"},
-  {"id":142,"level":3,"word":"run by","definition":"share for someone's input","sentences":["Mind if I ____ this idea ____ you before the meeting?","Mind if I run this idea by you before the meeting?","Mind if I glacier this idea by you before the meeting?","Mind if I pyramid this idea by you before the meeting?"],"answer":1,"explanation":"'Run something by someone' = present for feedback.","explanationJa":"「run something by someone」=「意見を聞くために話す」。"},
-  {"id":143,"level":3,"word":"sleep on it","definition":"decide tomorrow after thinking","sentences":["It's a big decision — let me ____ ____ ____ and tell you tomorrow.","It's a big decision — let me sleep on it and tell you tomorrow.","It's a big decision — let me glacier on it and tell you tomorrow.","It's a big decision — let me pyramid on it and tell you tomorrow."],"answer":1,"explanation":"'Sleep on it' = postpone a decision to think overnight.","explanationJa":"「sleep on it」=「一晩考える」。"},
-  {"id":144,"level":3,"word":"circle back","definition":"return to a topic later","sentences":["Let's ____ ____ to the budget question after lunch.","Let's circle back to the budget question after lunch.","Let's glacier back to the budget question after lunch.","Let's pyramid back to the budget question after lunch."],"answer":1,"explanation":"'Circle back' = revisit a discussion later.","explanationJa":"「circle back」=「後でまた戻って話す」。"},
-  {"id":145,"level":3,"word":"gloss over","definition":"deal with superficially","sentences":["The report ____ ____ the financial risks too quickly.","The report glossed over the financial risks too quickly.","The report glacier over the financial risks too quickly.","The report pyramid over the financial risks too quickly."],"answer":1,"explanation":"'Gloss over' = mention briefly to avoid scrutiny.","explanationJa":"「gloss over」=「軽く触れてごまかす・お茶を濁す」。"},
-  {"id":146,"level":3,"word":"walk back","definition":"retract or soften a statement","sentences":["The senator had to ____ ____ his earlier comments.","The senator had to walk back his earlier comments.","The senator had to glacier back his earlier comments.","The senator had to pyramid back his earlier comments."],"answer":1,"explanation":"'Walk back' = retract or moderate a public statement.","explanationJa":"「walk back」=「発言を撤回する・トーンダウンする」。"},
-  {"id":147,"level":3,"word":"talk through","definition":"discuss step by step","sentences":["Can we ____ ____ the plan one more time before tomorrow?","Can we talk through the plan one more time before tomorrow?","Can we glacier through the plan one more time before tomorrow?","Can we pyramid through the plan one more time before tomorrow?"],"answer":1,"explanation":"'Talk through' = walk through verbally in detail.","explanationJa":"「talk through」=「順を追って話し合う」。"},
-  {"id":148,"level":3,"word":"weigh in","definition":"contribute an opinion","sentences":["Before we decide, I'd like the team to ____ ____.","Before we decide, I'd like the team to weigh in.","Before we decide, I'd like the team to glacier in.","Before we decide, I'd like the team to pyramid in."],"answer":1,"explanation":"'Weigh in' = offer one's opinion on a matter.","explanationJa":"「weigh in」=「意見を述べる・口を挟む」。"},
-  {"id":149,"level":3,"word":"mull over","definition":"consider carefully","sentences":["Give me a day to ____ ____ the offer before I respond.","Give me a day to mull over the offer before I respond.","Give me a day to glacier over the offer before I respond.","Give me a day to pyramid over the offer before I respond."],"answer":1,"explanation":"'Mull over' = think over carefully and slowly.","explanationJa":"「mull over」=「じっくり考える」。"},
-  {"id":150,"level":3,"word":"iron out","definition":"resolve small problems","sentences":["We still need to ____ ____ a few details in the contract.","We still need to iron out a few details in the contract.","We still need to glacier out a few details in the contract.","We still need to pyramid out a few details in the contract."],"answer":1,"explanation":"'Iron out' = work out remaining issues.","explanationJa":"「iron out」=「(細かい問題を)解決する・調整する」。"},
-  {"id":151,"level":3,"word":"brush up on","definition":"refresh knowledge of","sentences":["I should ____ ____ ____ my French before the Paris trip.","I should brush up on my French before the Paris trip.","I should glacier up on my French before the Paris trip.","I should pyramid up on my French before the Paris trip."],"answer":1,"explanation":"'Brush up on' = revise / refresh a skill.","explanationJa":"「brush up on」=「(知識・技能を)復習する」。"},
-  {"id":152,"level":3,"word":"ease into","definition":"start gradually","sentences":["I prefer to ____ ____ a new project rather than dive in.","I prefer to ease into a new project rather than dive in.","I prefer to glacier into a new project rather than dive in.","I prefer to pyramid into a new project rather than dive in."],"answer":1,"explanation":"'Ease into' = begin gradually, without pressure.","explanationJa":"「ease into」=「徐々に慣れる・始める」。"},
-  {"id":153,"level":3,"word":"fall through","definition":"fail to happen","sentences":["The deal ____ ____ at the last minute.","The deal fell through at the last minute.","The deal glacier through at the last minute.","The deal pyramid through at the last minute."],"answer":1,"explanation":"'Fall through' = collapse, fail to be completed.","explanationJa":"「fall through」=「(計画などが)流れる・ダメになる」。"},
-  {"id":154,"level":3,"word":"follow through","definition":"complete what was started","sentences":["He makes big promises but rarely ____ ____.","He makes big promises but rarely follows through.","He makes big promises but rarely glacier through.","He makes big promises but rarely pyramid through."],"answer":1,"explanation":"'Follow through' = carry an action to completion.","explanationJa":"「follow through」=「最後までやり遂げる・実行する」。"},
-  {"id":155,"level":3,"word":"come around","definition":"change one's mind in favor","sentences":["She didn't like the idea at first, but eventually ____ ____.","She didn't like the idea at first, but eventually came around.","She didn't like the idea at first, but eventually glacier around.","She didn't like the idea at first, but eventually pyramid around."],"answer":1,"explanation":"'Come around' = change opinion to accept something.","explanationJa":"「come around」=「考えを変える・賛成するようになる」。"},
-  {"id":156,"level":3,"word":"dawn on","definition":"become realized by","sentences":["It suddenly ____ ____ me that I had left the keys inside.","It suddenly dawned on me that I had left the keys inside.","It suddenly glacier on me that I had left the keys inside.","It suddenly pyramid on me that I had left the keys inside."],"answer":1,"explanation":"'Dawn on' = (an idea) becomes clear to someone.","explanationJa":"「dawn on」=「(突然)思い当たる・気づく」。"},
-  {"id":157,"level":3,"word":"lean toward","definition":"prefer slightly","sentences":["I'm ____ ____ the second proposal, though I'm not sure yet.","I'm leaning toward the second proposal, though I'm not sure yet.","I'm glacier toward the second proposal, though I'm not sure yet.","I'm pyramid toward the second proposal, though I'm not sure yet."],"answer":1,"explanation":"'Lean toward' = tentatively favor an option.","explanationJa":"「lean toward」=「〜のほうに気持ちが傾いている」。"},
-  {"id":158,"level":3,"word":"mind you","definition":"however; note that","sentences":["She got the promotion — ____ ____ , she worked very hard for it.","She got the promotion — mind you, she worked very hard for it.","She got the promotion — glacier you, she worked very hard for it.","She got the promotion — pyramid you, she worked very hard for it."],"answer":1,"explanation":"'Mind you' = adds a qualifying remark; 'note that'.","explanationJa":"「mind you」=「もっとも・ただし」。補足を入れる時。"},
-  {"id":159,"level":3,"word":"granted","definition":"admittedly (concession)","sentences":["____ , the price is high — but the quality justifies it.","Granted, the price is high — but the quality justifies it.","Glacier, the price is high — but the quality justifies it.","Pyramid, the price is high — but the quality justifies it."],"answer":1,"explanation":"'Granted' = concedes a point before countering.","explanationJa":"「granted」=「確かに〜だが」。譲歩を表す。"},
-  {"id":160,"level":3,"word":"that said","definition":"however, on the other hand","sentences":["I enjoyed the film. ____ ____ , it was longer than necessary.","I enjoyed the film. That said, it was longer than necessary.","I enjoyed the film. Glacier said, it was longer than necessary.","I enjoyed the film. Pyramid said, it was longer than necessary."],"answer":1,"explanation":"'That said' = transition to a contrasting point.","explanationJa":"「that said」=「とはいえ・そうは言っても」。"},
-  {"id":161,"level":3,"word":"come to think of it","definition":"now that I consider it","sentences":["____ ____ ____ ____ ____ , I haven't seen him at work this week.","Come to think of it, I haven't seen him at work this week.","Glacier to think of it, I haven't seen him at work this week.","Pyramid to think of it, I haven't seen him at work this week."],"answer":1,"explanation":"'Come to think of it' = recall introducing a new thought.","explanationJa":"「come to think of it」=「そういえば・考えてみると」。"},
-  {"id":162,"level":3,"word":"on second thought","definition":"after reconsidering","sentences":["I'll have the salad — ____ ____ ____ , make it the soup instead.","I'll have the salad — on second thought, make it the soup instead.","I'll have the salad — glacier second thought, make it the soup instead.","I'll have the salad — pyramid second thought, make it the soup instead."],"answer":1,"explanation":"'On second thought' = changing the previous answer.","explanationJa":"「on second thought」=「やっぱり・考え直して」。"},
-  {"id":163,"level":3,"word":"all things considered","definition":"taking everything into account","sentences":["____ ____ ____ , I think we did fairly well this quarter.","All things considered, I think we did fairly well this quarter.","Glacier things considered, I think we did fairly well this quarter.","Pyramid things considered, I think we did fairly well this quarter."],"answer":1,"explanation":"'All things considered' = on balance, overall.","explanationJa":"「all things considered」=「すべてを考慮すると・総合的に見て」。"},
-  {"id":164,"level":3,"word":"fair point","definition":"that's a valid argument","sentences":["____ ____ — I hadn't looked at it from that angle.","Fair point — I hadn't looked at it from that angle.","Glacier point — I hadn't looked at it from that angle.","Pyramid point — I hadn't looked at it from that angle."],"answer":1,"explanation":"'Fair point' = acknowledging a valid argument.","explanationJa":"「fair point」=「もっともだ・一理ある」。"},
-  {"id":165,"level":3,"word":"point taken","definition":"I accept your argument","sentences":["____ ____ — I'll be more careful with the wording next time.","Point taken — I'll be more careful with the wording next time.","Glacier taken — I'll be more careful with the wording next time.","Pyramid taken — I'll be more careful with the wording next time."],"answer":1,"explanation":"'Point taken' = acknowledging valid criticism.","explanationJa":"「point taken」=「了解・分かった・もっとも」。"},
-  {"id":166,"level":3,"word":"beg to differ","definition":"politely disagree","sentences":["I ____ ____ ____ — the data tells a different story.","I beg to differ — the data tells a different story.","I glacier to differ — the data tells a different story.","I pyramid to differ — the data tells a different story."],"answer":1,"explanation":"'Beg to differ' = polite expression of disagreement.","explanationJa":"「beg to differ」=「失礼ながら意見が違います」。丁寧な反論。"},
-  {"id":167,"level":3,"word":"have a point","definition":"be correct on something","sentences":["You ____ ____ ____ — we probably should reconsider the timeline.","You have a point — we probably should reconsider the timeline.","You glacier a point — we probably should reconsider the timeline.","You pyramid a point — we probably should reconsider the timeline."],"answer":1,"explanation":"'Have a point' = make a valid argument.","explanationJa":"「have a point」=「一理ある」。"},
-  {"id":168,"level":3,"word":"for what it's worth","definition":"this may or may not help","sentences":["____ ____ ____ ____ , I thought your presentation was excellent.","For what it's worth, I thought your presentation was excellent.","Glacier what it's worth, I thought your presentation was excellent.","Pyramid what it's worth, I thought your presentation was excellent."],"answer":1,"explanation":"'For what it's worth' = preface for a modest opinion.","explanationJa":"「for what it's worth」=「ご参考までに・つまらない意見ですが」。"},
-  {"id":169,"level":3,"word":"needless to say","definition":"obviously","sentences":["____ ____ ____ , punctuality is essential in this role.","Needless to say, punctuality is essential in this role.","Glacier to say, punctuality is essential in this role.","Pyramid to say, punctuality is essential in this role."],"answer":1,"explanation":"'Needless to say' = it goes without saying.","explanationJa":"「needless to say」=「言うまでもなく」。"},
-  {"id":170,"level":3,"word":"as a matter of fact","definition":"in fact, actually","sentences":["____ ____ ____ ____ ____ , I just spoke with her this morning.","As a matter of fact, I just spoke with her this morning.","Glacier a matter of fact, I just spoke with her this morning.","Pyramid a matter of fact, I just spoke with her this morning."],"answer":1,"explanation":"'As a matter of fact' = emphatic 'actually'.","explanationJa":"「as a matter of fact」=「実は・実際のところ」。"},
-  {"id":171,"level":3,"word":"when push comes to shove","definition":"when it really matters","sentences":["____ ____ ____ ____ ____ , she'll do whatever it takes to win.","When push comes to shove, she'll do whatever it takes to win.","Glacier push comes to shove, she'll do whatever it takes to win.","Pyramid push comes to shove, she'll do whatever it takes to win."],"answer":1,"explanation":"'When push comes to shove' = when the situation gets serious.","explanationJa":"「when push comes to shove」=「いざという時には」。"},
-  {"id":172,"level":3,"word":"a far cry from","definition":"very different from","sentences":["This apartment is ____ ____ ____ ____ what I expected.","This apartment is a far cry from what I expected.","This apartment is glacier far cry from what I expected.","This apartment is pyramid far cry from what I expected."],"answer":1,"explanation":"'A far cry from' = significantly different from.","explanationJa":"「a far cry from」=「〜とは大違い・程遠い」。"},
-  {"id":173,"level":3,"word":"at the end of the day","definition":"ultimately, when it counts","sentences":["____ ____ ____ ____ ____ ____ , family is what matters most.","At the end of the day, family is what matters most.","Glacier the end of the day, family is what matters most.","Pyramid the end of the day, family is what matters most."],"answer":1,"explanation":"'At the end of the day' = ultimately, in the final analysis.","explanationJa":"「at the end of the day」=「結局のところ」。"},
-  {"id":174,"level":3,"word":"benefit of the doubt","definition":"trust without proof","sentences":["I'll give him the ____ ____ ____ ____ for now.","I'll give him the benefit of the doubt for now.","I'll give him the glacier of the doubt for now.","I'll give him the pyramid of the doubt for now."],"answer":1,"explanation":"'Give the benefit of the doubt' = trust until proven otherwise.","explanationJa":"「give the benefit of the doubt」=「疑わしきは罰せず・信用してあげる」。"},
-  {"id":175,"level":3,"word":"read between the lines","definition":"infer hidden meaning","sentences":["You have to ____ ____ ____ ____ — she's clearly unhappy.","You have to read between the lines — she's clearly unhappy.","You have to glacier between the lines — she's clearly unhappy.","You have to pyramid between the lines — she's clearly unhappy."],"answer":1,"explanation":"'Read between the lines' = perceive unstated meaning.","explanationJa":"「read between the lines」=「行間を読む」。"},
-  {"id":176,"level":3,"word":"cross that bridge","definition":"deal with later","sentences":["We'll ____ ____ ____ when we come to it.","We'll cross that bridge when we come to it.","We'll glacier that bridge when we come to it.","We'll pyramid that bridge when we come to it."],"answer":1,"explanation":"'Cross that bridge when we come to it' = handle later.","explanationJa":"「cross that bridge when we come to it」=「その時になって考えよう」。"},
-  {"id":177,"level":3,"word":"play devil's advocate","definition":"argue opposite for discussion","sentences":["Let me ____ ____ ____ for a moment — what if the market shifts?","Let me play devil's advocate for a moment — what if the market shifts?","Let me glacier devil's advocate for a moment — what if the market shifts?","Let me pyramid devil's advocate for a moment — what if the market shifts?"],"answer":1,"explanation":"'Play devil's advocate' = argue an opposing view to test ideas.","explanationJa":"「play devil's advocate」=「あえて反対意見を言う」。"},
-  {"id":178,"level":3,"word":"a tough call","definition":"a difficult decision","sentences":["Choosing between the two offers was ____ ____ ____.","Choosing between the two offers was a tough call.","Choosing between the two offers was glacier tough call.","Choosing between the two offers was pyramid tough call."],"answer":1,"explanation":"'A tough call' = a hard decision to make.","explanationJa":"「a tough call」=「難しい判断・苦渋の決断」。"},
-  {"id":179,"level":3,"word":"in the same boat","definition":"in the same situation","sentences":["Don't worry — we're all ____ ____ ____ ____ here.","Don't worry — we're all in the same boat here.","Don't worry — we're all glacier the same boat here.","Don't worry — we're all pyramid the same boat here."],"answer":1,"explanation":"'In the same boat' = facing the same circumstances.","explanationJa":"「in the same boat」=「同じ立場・運命共同体」。"},
-  {"id":180,"level":3,"word":"by and large","definition":"generally speaking","sentences":["____ ____ ____ , the response has been positive.","By and large, the response has been positive.","Glacier and large, the response has been positive.","Pyramid and large, the response has been positive."],"answer":1,"explanation":"'By and large' = generally, on the whole.","explanationJa":"「by and large」=「全般的に・概して」。"},
-  {"id":181,"level":3,"word":"for the most part","definition":"mostly","sentences":["The team agrees, ____ ____ ____ ____ , on the new direction.","The team agrees, for the most part, on the new direction.","The team agrees, glacier the most part, on the new direction.","The team agrees, pyramid the most part, on the new direction."],"answer":1,"explanation":"'For the most part' = in most respects, mostly.","explanationJa":"「for the most part」=「大部分は・ほとんど」。"},
-  {"id":182,"level":3,"word":"more or less","definition":"approximately; basically","sentences":["The project is ____ ____ ____ on schedule.","The project is more or less on schedule.","The project is glacier or less on schedule.","The project is pyramid or less on schedule."],"answer":1,"explanation":"'More or less' = roughly; basically; about.","explanationJa":"「more or less」=「だいたい・ほぼ」。"},
-  {"id":183,"level":3,"word":"one way or another","definition":"somehow","sentences":["We'll get it done ____ ____ ____ ____ by Friday.","We'll get it done one way or another by Friday.","We'll get it done glacier way or another by Friday.","We'll get it done pyramid way or another by Friday."],"answer":1,"explanation":"'One way or another' = somehow; by some means.","explanationJa":"「one way or another」=「なんとかして・どうにかして」。"},
-  {"id":184,"level":3,"word":"like it or not","definition":"whether you accept it or not","sentences":["____ ____ ____ ____ , remote work is here to stay.","Like it or not, remote work is here to stay.","Glacier it or not, remote work is here to stay.","Pyramid it or not, remote work is here to stay."],"answer":1,"explanation":"'Like it or not' = a stated fact must be accepted.","explanationJa":"「like it or not」=「好むと好まざるとにかかわらず」。"},
-  {"id":185,"level":3,"word":"as luck would have it","definition":"by chance","sentences":["____ ____ ____ ____ ____ , the rain stopped just as we arrived.","As luck would have it, the rain stopped just as we arrived.","Glacier luck would have it, the rain stopped just as we arrived.","Pyramid luck would have it, the rain stopped just as we arrived."],"answer":1,"explanation":"'As luck would have it' = by chance (good or bad).","explanationJa":"「as luck would have it」=「運よく・運悪く・偶然にも」。"},
-  {"id":186,"level":3,"word":"truth be told","definition":"honestly speaking","sentences":["____ ____ ____ , I wasn't very prepared for that meeting.","Truth be told, I wasn't very prepared for that meeting.","Glacier be told, I wasn't very prepared for that meeting.","Pyramid be told, I wasn't very prepared for that meeting."],"answer":1,"explanation":"'Truth be told' = to be honest; frankly.","explanationJa":"「truth be told」=「正直に言うと」。"},
-  {"id":187,"level":3,"word":"on the off chance","definition":"in case of small possibility","sentences":["I called ____ ____ ____ ____ they had a cancellation.","I called on the off chance they had a cancellation.","I called glacier the off chance they had a cancellation.","I called pyramid the off chance they had a cancellation."],"answer":1,"explanation":"'On the off chance' = in case of a slim possibility.","explanationJa":"「on the off chance」=「もしかしたら〜かもしれないので」。"},
-  {"id":188,"level":3,"word":"odds are","definition":"it's likely","sentences":["____ ____ , the meeting will be rescheduled.","Odds are, the meeting will be rescheduled.","Glacier are, the meeting will be rescheduled.","Pyramid are, the meeting will be rescheduled."],"answer":1,"explanation":"'Odds are' = it's probable that.","explanationJa":"「odds are」=「おそらく・たぶん」。"},
-  {"id":189,"level":3,"word":"as far as I can tell","definition":"based on what I know","sentences":["____ ____ ____ ____ ____ , the server is back online.","As far as I can tell, the server is back online.","Glacier far as I can tell, the server is back online.","Pyramid far as I can tell, the server is back online."],"answer":1,"explanation":"'As far as I can tell' = from my limited knowledge.","explanationJa":"「as far as I can tell」=「私の知る限りでは」。"},
-  {"id":190,"level":3,"word":"give it a shot","definition":"try it","sentences":["I've never tried curling but I'd ____ ____ ____ ____.","I've never tried curling but I'd give it a shot.","I've never tried curling but I'd glacier it a shot.","I've never tried curling but I'd pyramid it a shot."],"answer":1,"explanation":"'Give it a shot' = make an attempt.","explanationJa":"「give it a shot」=「やってみる・挑戦してみる」。"},
-  {"id":191,"level":3,"word":"in hot water","definition":"in trouble","sentences":["He's ____ ____ ____ with his boss after missing the deadline.","He's in hot water with his boss after missing the deadline.","He's glacier hot water with his boss after missing the deadline.","He's pyramid hot water with his boss after missing the deadline."],"answer":1,"explanation":"'In hot water' = in serious trouble.","explanationJa":"「in hot water」=「困ったことになっている・窮地に立たされる」。"},
-  {"id":192,"level":3,"word":"a stone's throw","definition":"very close (distance)","sentences":["The café is just ____ ____ ____ from the station.","The café is just a stone's throw from the station.","The café is just glacier stone's throw from the station.","The café is just pyramid stone's throw from the station."],"answer":1,"explanation":"'A stone's throw' = very short distance away.","explanationJa":"「a stone's throw」=「目と鼻の先・すぐ近く」。"},
-  {"id":193,"level":3,"word":"second nature","definition":"effortless from practice","sentences":["After years of driving, parallel parking is ____ ____ to her.","After years of driving, parallel parking is second nature to her.","After years of driving, parallel parking is glacier nature to her.","After years of driving, parallel parking is pyramid nature to her."],"answer":1,"explanation":"'Second nature' = a habit that feels natural.","explanationJa":"「second nature」=「身についている・自然にできる」。"},
-  {"id":194,"level":3,"word":"in a pinch","definition":"in an emergency","sentences":["This recipe works ____ ____ ____ when you're short on time.","This recipe works in a pinch when you're short on time.","This recipe works glacier a pinch when you're short on time.","This recipe works pyramid a pinch when you're short on time."],"answer":1,"explanation":"'In a pinch' = when necessary, in an emergency.","explanationJa":"「in a pinch」=「いざという時・困った時」。"},
-  {"id":195,"level":3,"word":"par for the course","definition":"normal, expected","sentences":["Long lines on Friday evening are ____ ____ ____ ____.","Long lines on Friday evening are par for the course.","Long lines on Friday evening are glacier for the course.","Long lines on Friday evening are pyramid for the course."],"answer":1,"explanation":"'Par for the course' = typical, what's expected.","explanationJa":"「par for the course」=「いつものこと・想定内」。"},
-  {"id":196,"level":3,"word":"give or take","definition":"approximately","sentences":["It's about a 30-minute drive, ____ ____ ____ five minutes.","It's about a 30-minute drive, give or take five minutes.","It's about a 30-minute drive, glacier or take five minutes.","It's about a 30-minute drive, pyramid or take five minutes."],"answer":1,"explanation":"'Give or take' = approximately; plus or minus.","explanationJa":"「give or take」=「だいたい・前後で」。"},
-  {"id":197,"level":3,"word":"see eye to eye","definition":"fully agree","sentences":["We don't always ____ ____ ____ ____ , but we respect each other.","We don't always see eye to eye, but we respect each other.","We don't always glacier eye to eye, but we respect each other.","We don't always pyramid eye to eye, but we respect each other."],"answer":1,"explanation":"'See eye to eye' = be in complete agreement.","explanationJa":"「see eye to eye」=「意見が一致する」。"},
-  {"id":198,"level":3,"word":"keep posted","definition":"keep informed","sentences":["Please keep me ____ on the negotiations as they progress.","Please keep me posted on the negotiations as they progress.","Please keep me glacier on the negotiations as they progress.","Please keep me pyramid on the negotiations as they progress."],"answer":1,"explanation":"'Keep (someone) posted' = continually update.","explanationJa":"「keep posted」=「逐一知らせる・情報を更新する」。"},
-  {"id":199,"level":3,"word":"a tall order","definition":"a difficult request","sentences":["Finishing all this by Monday is ____ ____ ____.","Finishing all this by Monday is a tall order.","Finishing all this by Monday is glacier tall order.","Finishing all this by Monday is pyramid tall order."],"answer":1,"explanation":"'A tall order' = a demanding or difficult task.","explanationJa":"「a tall order」=「無理難題・大変な要求」。"},
-  {"id":200,"level":3,"word":"the jury is still out","definition":"undecided yet","sentences":["____ ____ ____ ____ ____ on whether the new policy will work.","The jury is still out on whether the new policy will work.","Glacier jury is still out on whether the new policy will work.","Pyramid jury is still out on whether the new policy will work."],"answer":1,"explanation":"'The jury is still out' = a verdict / decision is not yet reached.","explanationJa":"「the jury is still out」=「まだ結論が出ていない」。"}
+  {
+    "id": 1,
+    "level": 1,
+    "word": "hang out",
+    "definition": "spend casual time with someone",
+    "sentences": [
+      "Please hang out the leftover food in the trash.",
+      "Wanna hang out at my place this weekend?",
+      "She hung out a beautiful song at karaoke.",
+      "I hung out the math problem in five minutes."
+    ],
+    "answer": 1,
+    "explanation": "'hang out' = spend casual time. Doesn't mean sing, throw away, or solve.",
+    "explanationJa": "「hang out」は「カジュアルに一緒に過ごす」。歌う・捨てる・解くの意味では使わない。"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "word": "grab",
+    "definition": "get/take quickly (esp. food/drink)",
+    "sentences": [
+      "I grabbed my homework finished last night.",
+      "She grabbed all her makeup onto her face.",
+      "He grabbed his shoes very expensive yesterday.",
+      "Let me grab a coffee before the meeting starts."
+    ],
+    "answer": 3,
+    "explanation": "'grab' = quickly get something. Not 'finish,' 'apply,' or 'cost.'",
+    "explanationJa": "「grab」は「サッと取る/買う」。「終える」「塗る」「値段が高い」の意味では使わない。"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "word": "awesome",
+    "definition": "really great",
+    "sentences": [
+      "That new ramen place downtown is awesome.",
+      "Please awesome the door before leaving.",
+      "She awesomed three coffees this morning.",
+      "I awesomed the report before lunch."
+    ],
+    "answer": 0,
+    "explanation": "'awesome' is an adjective meaning great. Never a verb.",
+    "explanationJa": "「awesome」は形容詞「すごい・最高」。動詞では使わない。"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "word": "super",
+    "definition": "very (intensifier)",
+    "sentences": [
+      "He supered the meeting room loudly.",
+      "It's super cold outside this morning.",
+      "I super the dishes every night.",
+      "She gave me a super yesterday."
+    ],
+    "answer": 1,
+    "explanation": "Casual 'super' is an intensifier (=very). Not a verb or noun.",
+    "explanationJa": "カジュアルな「super」=「とても」。動詞・名詞ではない。"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "word": "stuff",
+    "definition": "things (general/vague)",
+    "sentences": [
+      "She stuffed me to the party last night.",
+      "Can you stuff the meeting tomorrow?",
+      "He stuff a great speech yesterday.",
+      "I left my stuff in the car, give me a sec."
+    ],
+    "answer": 3,
+    "explanation": "'stuff' = vague things. The verb 'stuff' = to fill, not invite/give-speech/attend.",
+    "explanationJa": "「stuff」は「物・所持品」。動詞「stuff」は「詰める」で、誘う・話す・出席するではない。"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "word": "kinda",
+    "definition": "kind of (somewhat)",
+    "sentences": [
+      "He kinda the project last Friday.",
+      "She bought a kinda at the store.",
+      "I'm kinda tired after that long flight.",
+      "The kinda was very loud last night."
+    ],
+    "answer": 2,
+    "explanation": "'kinda' = 'kind of' (adverb). Not a noun or verb.",
+    "explanationJa": "「kinda」=「kind of」(なんとなく)。名詞・動詞では使わない。"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "word": "gonna",
+    "definition": "going to (future)",
+    "sentences": [
+      "He has many gonnas in his bag.",
+      "She gonna a sandwich at lunch.",
+      "The gonna was delicious yesterday.",
+      "I'm gonna call her later tonight."
+    ],
+    "answer": 3,
+    "explanation": "'gonna' = 'going to' for future plans. Always part of a verb phrase.",
+    "explanationJa": "「gonna」=「going to」(未来表現)。名詞では使わない。"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "word": "wanna",
+    "definition": "want to",
+    "sentences": [
+      "He wanna very tall person.",
+      "The wanna fell on the floor.",
+      "I bought a wanna at the mall.",
+      "Do you wanna grab dinner tonight?"
+    ],
+    "answer": 3,
+    "explanation": "'wanna' = 'want to' before a verb. Not a noun.",
+    "explanationJa": "「wanna」=「want to」(動詞の前で使用)。名詞ではない。"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "word": "chill",
+    "definition": "relax / be cool",
+    "sentences": [
+      "She chilled three emails this morning.",
+      "I chilled the report before the deadline.",
+      "Let's just chill at home tonight.",
+      "He chilled the door very loudly."
+    ],
+    "answer": 2,
+    "explanation": "Slang 'chill' = relax. Not 'finish,' 'send,' or 'close.'",
+    "explanationJa": "スラングの「chill」は「リラックスする」。「仕上げる」「送る」「閉める」ではない。"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "word": "cool",
+    "definition": "great / acceptable (slang)",
+    "sentences": [
+      "She gave me a cool from the store.",
+      "I cooled the homework yesterday.",
+      "That movie was really cool, you should watch it.",
+      "He cooled to the meeting at 3pm."
+    ],
+    "answer": 2,
+    "explanation": "Slang 'cool' = great/fine. Not finish/buy/attend.",
+    "explanationJa": "スラングの「cool」=「いい・素敵」。終える・買う・行くではない。"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "word": "buddy",
+    "definition": "friend (casual)",
+    "sentences": [
+      "I buddied my report this morning.",
+      "He buddied three sandwiches at lunch.",
+      "He's an old buddy from high school.",
+      "She buddied the door before leaving."
+    ],
+    "answer": 2,
+    "explanation": "'buddy' = friend (noun). Not a verb.",
+    "explanationJa": "「buddy」は名詞「友達」。動詞では使わない。"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "word": "folks",
+    "definition": "people / parents",
+    "sentences": [
+      "She bought new folks at the mall.",
+      "I folksed my homework last night.",
+      "He folksed the meeting very early.",
+      "My folks are visiting from Tokyo next week."
+    ],
+    "answer": 3,
+    "explanation": "'folks' = people or one's parents. Not a verb.",
+    "explanationJa": "「folks」=「人々」または「両親」。動詞では使わない。"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "word": "figure out",
+    "definition": "understand/solve",
+    "sentences": [
+      "I finally figured out how to use this app.",
+      "I figured out three coffees this morning.",
+      "He figured out his shoes onto his feet.",
+      "She figured out a sandwich at lunchtime."
+    ],
+    "answer": 0,
+    "explanation": "'figure out' = solve/understand. Not eat/wear/order.",
+    "explanationJa": "「figure out」=「理解する・解決する」。「食べる・履く・注文する」ではない。"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "word": "check out",
+    "definition": "look at / try",
+    "sentences": [
+      "She checked out three buddies at the park.",
+      "You should check out that new ramen shop.",
+      "He checked out his shoes very tightly.",
+      "I checked out my homework before class."
+    ],
+    "answer": 1,
+    "explanation": "'check out' = look at/try. Not finish, befriend, or tie.",
+    "explanationJa": "「check out」=「見てみる・試す」。終える・友達になる・締めるではない。"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "word": "pick up",
+    "definition": "get/buy/give a ride",
+    "sentences": [
+      "She picked up the door very slowly.",
+      "He picked up to the meeting room loudly.",
+      "Can you pick up some milk on the way home?",
+      "I picked up my homework on the test."
+    ],
+    "answer": 2,
+    "explanation": "'pick up' = get/buy/collect. Not score, close, or attend.",
+    "explanationJa": "「pick up」=「手に取る・買う・迎えに行く」。点数を取る・閉める・出席するではない。"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "word": "hang on",
+    "definition": "wait a moment",
+    "sentences": [
+      "She hung on three sandwiches at lunch.",
+      "He hung on his shoes before running.",
+      "Hang on, I need to find my keys.",
+      "I hung on the homework last night."
+    ],
+    "answer": 2,
+    "explanation": "'hang on' = wait briefly. Not finish, eat, or wear.",
+    "explanationJa": "「hang on」=「ちょっと待って」。終える・食べる・履くではない。"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "word": "hold on",
+    "definition": "wait / stop",
+    "sentences": [
+      "She held on her homework yesterday.",
+      "Hold on a second, I'm almost ready.",
+      "He held on three coffees this morning.",
+      "I held on the door very loudly."
+    ],
+    "answer": 1,
+    "explanation": "'hold on' = wait. Not finish, drink, or close.",
+    "explanationJa": "「hold on」=「ちょっと待って」。終える・飲む・閉めるではない。"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "word": "show up",
+    "definition": "arrive/appear",
+    "sentences": [
+      "He didn't show up to the party last night.",
+      "He showed up a sandwich very quickly.",
+      "She showed up her report before lunch.",
+      "I showed up the door before leaving."
+    ],
+    "answer": 0,
+    "explanation": "'show up' = arrive/appear. Not finish, eat, or close.",
+    "explanationJa": "「show up」=「現れる・来る」。終える・食べる・閉めるではない。"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "word": "end up",
+    "definition": "result in / finally do",
+    "sentences": [
+      "She ended up her homework at 9pm.",
+      "He ended up three buddies at the park.",
+      "We ended up staying home all weekend.",
+      "I ended up the door before leaving."
+    ],
+    "answer": 2,
+    "explanation": "'end up' = result in (a state). Not finish a task, befriend, or close.",
+    "explanationJa": "「end up」=「結局〜になる」。タスク完了・友達作る・閉めるではない。"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "word": "a bit",
+    "definition": "a little",
+    "sentences": [
+      "She bought a bit at the store yesterday.",
+      "I'm a bit tired today, sorry.",
+      "I a bit my homework last night.",
+      "He a bit the meeting very loudly."
+    ],
+    "answer": 1,
+    "explanation": "'a bit' = a little. Not a noun for purchase or a verb.",
+    "explanationJa": "「a bit」=「少し」。買う物の名詞や動詞では使わない。"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "word": "a ton of",
+    "definition": "a lot of",
+    "sentences": [
+      "He bought a ton of very loudly.",
+      "I have a ton of work this week.",
+      "The a ton of fell on the floor.",
+      "She a ton of three sandwiches at lunch."
+    ],
+    "answer": 1,
+    "explanation": "'a ton of' = a lot of (quantifier before noun). Not a verb or standalone noun.",
+    "explanationJa": "「a ton of」=「たくさんの」(名詞の前)。動詞や単独名詞では使わない。"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "word": "no worries",
+    "definition": "don't worry about it",
+    "sentences": [
+      "She no worries the homework yesterday.",
+      "You're late? No worries, we just started.",
+      "He no worries his shoes very tightly.",
+      "I bought no worries at the store."
+    ],
+    "answer": 1,
+    "explanation": "'no worries' = it's fine/don't worry. Not a noun or verb.",
+    "explanationJa": "「no worries」=「大丈夫・気にしないで」。名詞・動詞では使わない。"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "word": "my bad",
+    "definition": "my mistake",
+    "sentences": [
+      "He my bad three coffees this morning.",
+      "She my bad the meeting at 3pm.",
+      "Oh, my bad, I sent the wrong file.",
+      "I bought a my bad at the store."
+    ],
+    "answer": 2,
+    "explanation": "'my bad' = my mistake. Not a noun or verb.",
+    "explanationJa": "「my bad」=「ごめん・私のミス」。名詞・動詞では使わない。"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "word": "for sure",
+    "definition": "definitely",
+    "sentences": [
+      "I for sure my homework before class.",
+      "He for sure the door yesterday.",
+      "She bought for sure at the mall.",
+      "I'll be there for sure tomorrow morning."
+    ],
+    "answer": 3,
+    "explanation": "'for sure' = definitely (adverbial). Not a noun or verb.",
+    "explanationJa": "「for sure」=「絶対に・確かに」。名詞・動詞では使わない。"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "word": "no biggie",
+    "definition": "not a big deal",
+    "sentences": [
+      "He no biggie the door very loudly.",
+      "She bought a no biggie at the store.",
+      "I no biggie my homework yesterday.",
+      "You forgot? No biggie, I have an extra one."
+    ],
+    "answer": 3,
+    "explanation": "'no biggie' = not a big deal. Not a verb or purchase.",
+    "explanationJa": "「no biggie」=「大したことない」。動詞や買う物としては使わない。"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "word": "totally",
+    "definition": "completely / yes",
+    "sentences": [
+      "He totally three sandwiches at lunch.",
+      "The totally fell on the floor.",
+      "I'm totally on board with that plan.",
+      "She bought a totally at the mall."
+    ],
+    "answer": 2,
+    "explanation": "'totally' = completely (adverb). Not a noun or main verb.",
+    "explanationJa": "「totally」=「完全に・全く」(副詞)。名詞・動詞では使わない。"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "word": "weird",
+    "definition": "strange",
+    "sentences": [
+      "She weirded three coffees this morning.",
+      "He weirded his shoes very tightly.",
+      "That movie had a really weird ending.",
+      "I weirded the report before lunch."
+    ],
+    "answer": 2,
+    "explanation": "'weird' is an adjective. Not commonly used as a verb.",
+    "explanationJa": "「weird」は形容詞。動詞としては使わない。"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "word": "crazy",
+    "definition": "wild / amazing",
+    "sentences": [
+      "Traffic was crazy on the way here.",
+      "I crazied my homework yesterday.",
+      "He crazied three sandwiches at lunch.",
+      "She crazied the meeting at 3pm."
+    ],
+    "answer": 0,
+    "explanation": "'crazy' is an adjective. Not a verb.",
+    "explanationJa": "「crazy」は形容詞。動詞ではない。"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "word": "stuff like that",
+    "definition": "things of that kind",
+    "sentences": [
+      "He stuff like that his shoes very tightly.",
+      "I bought a stuff like that at the store.",
+      "She stuff like that the homework yesterday.",
+      "I read books, watch movies, stuff like that."
+    ],
+    "answer": 3,
+    "explanation": "'stuff like that' = filler. Not verb or singular noun.",
+    "explanationJa": "「stuff like that」=「そんな感じのもの」。動詞や単数名詞ではない。"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "word": "you know",
+    "definition": "filler / 'right?'",
+    "sentences": [
+      "He you know the door very loudly.",
+      "It was, you know, kind of awkward.",
+      "She bought a you know at the store.",
+      "I you know my homework yesterday."
+    ],
+    "answer": 1,
+    "explanation": "'you know' = filler phrase. Not verb or noun.",
+    "explanationJa": "「you know」=「ほら・〜じゃん」。動詞・名詞ではない。"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "word": "thanks a lot",
+    "definition": "thank you very much",
+    "sentences": [
+      "She bought a thanks a lot at the mall.",
+      "He thanks a lot three sandwiches at lunch.",
+      "I thanks a lot my homework yesterday.",
+      "Thanks a lot for picking me up at the airport."
+    ],
+    "answer": 3,
+    "explanation": "'thanks a lot' is a thank-you phrase.",
+    "explanationJa": "「thanks a lot」=「どうもありがとう」。動詞や買う物ではない。"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "word": "sounds good",
+    "definition": "okay / agreed",
+    "sentences": [
+      "He sounds good the door very loudly.",
+      "I sounds good my homework yesterday.",
+      "She bought a sounds good at the mall.",
+      "Lunch at noon? Sounds good to me."
+    ],
+    "answer": 3,
+    "explanation": "'sounds good' = agreement. Not a verb or noun.",
+    "explanationJa": "「sounds good」=「いいね・了解」。動詞や名詞ではない。"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "word": "by the way",
+    "definition": "incidentally",
+    "sentences": [
+      "She bought a by the way at the store.",
+      "He by the way three coffees this morning.",
+      "I by the way my homework yesterday.",
+      "By the way, did you see the email from Sam?"
+    ],
+    "answer": 3,
+    "explanation": "'by the way' = incidentally (transition).",
+    "explanationJa": "「by the way」=「ところで」。動詞・名詞ではない。"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "word": "come on",
+    "definition": "really? / hurry",
+    "sentences": [
+      "He come on three sandwiches at lunch.",
+      "Come on, we're going to be late!",
+      "I come on my homework yesterday.",
+      "She bought a come on at the mall."
+    ],
+    "answer": 1,
+    "explanation": "'come on' = exhortation. Not a transitive verb.",
+    "explanationJa": "「come on」=「ねえねえ・早く」。物に対する動詞ではない。"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "word": "go ahead",
+    "definition": "please proceed",
+    "sentences": [
+      "She bought a go ahead at the store.",
+      "Go ahead and start without me.",
+      "I go ahead my homework yesterday.",
+      "He go ahead three coffees this morning."
+    ],
+    "answer": 1,
+    "explanation": "'go ahead' = invitation to proceed.",
+    "explanationJa": "「go ahead」=「どうぞ・先に進んで」。物に対する動詞ではない。"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "word": "never mind",
+    "definition": "forget it",
+    "sentences": [
+      "He never mind the door very loudly.",
+      "Never mind, I figured it out myself.",
+      "I never mind my homework yesterday.",
+      "She bought a never mind at the mall."
+    ],
+    "answer": 1,
+    "explanation": "'never mind' = drop it. Not a verb taking direct objects.",
+    "explanationJa": "「never mind」=「気にしないで」。直接目的語を取る動詞ではない。"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "word": "actually",
+    "definition": "in fact",
+    "sentences": [
+      "He actually three coffees this morning.",
+      "She bought an actually at the mall.",
+      "I actually my homework yesterday.",
+      "Actually, I changed my mind about that."
+    ],
+    "answer": 3,
+    "explanation": "'actually' is an adverb. Not a noun or main verb.",
+    "explanationJa": "「actually」=「実は」(副詞)。名詞・動詞ではない。"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "word": "pretty",
+    "definition": "fairly / quite",
+    "sentences": [
+      "I prettied my homework yesterday.",
+      "He prettied the door very loudly.",
+      "That test was pretty hard, honestly.",
+      "She prettied three sandwiches at lunch."
+    ],
+    "answer": 2,
+    "explanation": "'pretty' here = quite (adverb). Not a verb.",
+    "explanationJa": "「pretty」=「かなり・けっこう」(副詞)。動詞ではない。"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "word": "way too",
+    "definition": "much too",
+    "sentences": [
+      "She way too the homework yesterday.",
+      "He bought a way too at the store.",
+      "I way too three coffees this morning.",
+      "It's way too cold to go swimming today."
+    ],
+    "answer": 3,
+    "explanation": "'way too' = much too (intensifier).",
+    "explanationJa": "「way too」=「〜すぎる」(強調)。動詞・名詞ではない。"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "word": "good to go",
+    "definition": "ready",
+    "sentences": [
+      "She bought a good to go at the mall.",
+      "I good to go my homework yesterday.",
+      "He good to go the door very loudly.",
+      "All packed? Good to go!"
+    ],
+    "answer": 3,
+    "explanation": "'good to go' = ready.",
+    "explanationJa": "「good to go」=「準備OK」。動詞・名詞ではない。"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "word": "catch up",
+    "definition": "talk after time apart",
+    "sentences": [
+      "She catch up the homework yesterday.",
+      "I catch up the door before leaving.",
+      "He catch up three sandwiches at lunch.",
+      "Let's catch up over coffee next week."
+    ],
+    "answer": 3,
+    "explanation": "'catch up' = talk after time. Not finish/eat/close.",
+    "explanationJa": "「catch up」=「久しぶりに話す」。終える・食べる・閉めるではない。"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "word": "take care",
+    "definition": "goodbye / look after",
+    "sentences": [
+      "Take care, see you next week!",
+      "She take care three coffees this morning.",
+      "I take care my homework yesterday.",
+      "He take care the door very loudly."
+    ],
+    "answer": 0,
+    "explanation": "'take care' = goodbye or look after.",
+    "explanationJa": "「take care」=「お元気で・気をつけて」。"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "word": "no problem",
+    "definition": "you're welcome / fine",
+    "sentences": [
+      "I no problem my homework yesterday.",
+      "Thanks for the ride. — No problem!",
+      "He no problem three sandwiches at lunch.",
+      "She bought a no problem at the store."
+    ],
+    "answer": 1,
+    "explanation": "'no problem' = you're welcome.",
+    "explanationJa": "「no problem」=「どういたしまして・大丈夫」。"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "word": "sort of",
+    "definition": "kind of (somewhat)",
+    "sentences": [
+      "She bought a sort of at the mall.",
+      "It's sort of complicated, honestly.",
+      "I sort of my homework yesterday.",
+      "He sort of three sandwiches at lunch."
+    ],
+    "answer": 1,
+    "explanation": "'sort of' = somewhat (softener).",
+    "explanationJa": "「sort of」=「ちょっと・まあ」。動詞・名詞ではない。"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "word": "big deal",
+    "definition": "important matter",
+    "sentences": [
+      "I big deal my homework yesterday.",
+      "He big deal the door very loudly.",
+      "She big deal three coffees this morning.",
+      "It's not a big deal if you can't make it."
+    ],
+    "answer": 3,
+    "explanation": "'big deal' = noun phrase ('important matter').",
+    "explanationJa": "「big deal」=「大したこと」(名詞句)。動詞ではない。"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "word": "take it easy",
+    "definition": "relax / goodbye",
+    "sentences": [
+      "She take it easy three sandwiches at lunch.",
+      "He take it easy the door very loudly.",
+      "I take it easy my homework yesterday.",
+      "Take it easy this weekend, you've earned it."
+    ],
+    "answer": 3,
+    "explanation": "'take it easy' = relax/farewell.",
+    "explanationJa": "「take it easy」=「のんびりして・じゃあね」。"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "word": "hit the road",
+    "definition": "leave / depart",
+    "sentences": [
+      "It's getting late, let's hit the road.",
+      "He hit the road his shoes before running.",
+      "I hit the road my homework yesterday.",
+      "She hit the road three coffees this morning."
+    ],
+    "answer": 0,
+    "explanation": "'hit the road' = leave/depart. Intransitive.",
+    "explanationJa": "「hit the road」=「出発する」。直接目的語を取らない。"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "word": "what's up",
+    "definition": "hi / what's happening",
+    "sentences": [
+      "I what's up my homework yesterday.",
+      "Hey, what's up? Long time no see.",
+      "She bought a what's up at the mall.",
+      "He what's up the door very loudly."
+    ],
+    "answer": 1,
+    "explanation": "'what's up' = greeting/question.",
+    "explanationJa": "「what's up」=「やあ・どうした」。"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "word": "no way",
+    "definition": "really? / refusal",
+    "sentences": [
+      "He no way three sandwiches at lunch.",
+      "No way, you actually met him?",
+      "She bought a no way at the store.",
+      "I no way my homework yesterday."
+    ],
+    "answer": 1,
+    "explanation": "'no way' = exclamation of disbelief/refusal.",
+    "explanationJa": "「no way」=「まさか・ありえない」。"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "word": "way to go",
+    "definition": "good job (or sarcasm)",
+    "sentences": [
+      "He way to go the door very loudly.",
+      "I way to go my homework yesterday.",
+      "She bought a way to go at the mall.",
+      "You finished the marathon? Way to go!"
+    ],
+    "answer": 3,
+    "explanation": "'way to go' = good job.",
+    "explanationJa": "「way to go」=「よくやった」。"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "word": "you got it",
+    "definition": "sure / understood",
+    "sentences": [
+      "He you got it three sandwiches at lunch.",
+      "She bought a you got it at the store.",
+      "Need a refill? You got it!",
+      "I you got it my homework yesterday."
+    ],
+    "answer": 2,
+    "explanation": "'you got it' = of course/understood.",
+    "explanationJa": "「you got it」=「了解・もちろん」。"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "word": "in a sec",
+    "definition": "in a moment",
+    "sentences": [
+      "She bought a in a sec at the mall.",
+      "I in a sec my homework yesterday.",
+      "He in a sec the door very loudly.",
+      "I'll be right with you in a sec."
+    ],
+    "answer": 3,
+    "explanation": "'in a sec' = soon (adverbial).",
+    "explanationJa": "「in a sec」=「すぐに」(副詞句)。"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "word": "hold up",
+    "definition": "wait",
+    "sentences": [
+      "She hold up three coffees this morning.",
+      "I hold up my homework yesterday.",
+      "Hold up, I forgot my wallet.",
+      "He hold up his shoes before running."
+    ],
+    "answer": 2,
+    "explanation": "'hold up' = wait.",
+    "explanationJa": "「hold up」=「ちょっと待って」。"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "word": "sweet",
+    "definition": "great",
+    "sentences": [
+      "I sweet my homework yesterday.",
+      "You got tickets? Sweet!",
+      "He sweet three sandwiches at lunch.",
+      "She sweet the meeting at 3pm."
+    ],
+    "answer": 1,
+    "explanation": "Slang 'sweet' = great. Not a verb.",
+    "explanationJa": "スラングの「sweet」=「やった・最高」。動詞ではない。"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "word": "dude",
+    "definition": "guy / friend (casual)",
+    "sentences": [
+      "I duded my homework yesterday.",
+      "She duded three coffees this morning.",
+      "Hey dude, long time no see!",
+      "He duded the door very loudly."
+    ],
+    "answer": 2,
+    "explanation": "'dude' = casual noun. Not a verb.",
+    "explanationJa": "「dude」=「やつ・友達」。動詞では使わない。"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "word": "nope",
+    "definition": "no",
+    "sentences": [
+      "He nope three sandwiches at lunch.",
+      "She bought a nope at the mall.",
+      "Are you coming tonight? — Nope, I'm tired.",
+      "I nope my homework yesterday."
+    ],
+    "answer": 2,
+    "explanation": "'nope' = casual no.",
+    "explanationJa": "「nope」=「いいえ」(カジュアル)。"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "word": "yep",
+    "definition": "yes",
+    "sentences": [
+      "Are you ready? — Yep, let's go.",
+      "I yep my homework yesterday.",
+      "He yep the door very loudly.",
+      "She bought a yep at the store."
+    ],
+    "answer": 0,
+    "explanation": "'yep' = casual yes.",
+    "explanationJa": "「yep」=「はい」(カジュアル)。"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "word": "nah",
+    "definition": "no (casual)",
+    "sentences": [
+      "I nah my homework yesterday.",
+      "Want some pizza? — Nah, I just ate.",
+      "He nah three coffees this morning.",
+      "She bought a nah at the mall."
+    ],
+    "answer": 1,
+    "explanation": "'nah' = casual no.",
+    "explanationJa": "「nah」=「いや」(カジュアル)。"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "word": "oh well",
+    "definition": "too bad / accept it",
+    "sentences": [
+      "He oh well the door very loudly.",
+      "Sold out already? Oh well, next time.",
+      "She bought a oh well at the store.",
+      "I oh well my homework yesterday."
+    ],
+    "answer": 1,
+    "explanation": "'oh well' = expression of acceptance.",
+    "explanationJa": "「oh well」=「まあいいや」。"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "word": "anyway",
+    "definition": "in any case (transition)",
+    "sentences": [
+      "Anyway, what were you saying?",
+      "He anyway three sandwiches at lunch.",
+      "She bought an anyway at the mall.",
+      "I anyway my homework yesterday."
+    ],
+    "answer": 0,
+    "explanation": "'anyway' = transition adverb.",
+    "explanationJa": "「anyway」=「とにかく」(つなぎの副詞)。"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "word": "you bet",
+    "definition": "of course",
+    "sentences": [
+      "Need a hand? — You bet, what's up?",
+      "I you bet my homework yesterday.",
+      "He you bet three coffees this morning.",
+      "She bought a you bet at the store."
+    ],
+    "answer": 0,
+    "explanation": "'you bet' = of course.",
+    "explanationJa": "「you bet」=「もちろん」。"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "word": "fair enough",
+    "definition": "okay, that's reasonable",
+    "sentences": [
+      "He fair enough the door very loudly.",
+      "I fair enough my homework yesterday.",
+      "She bought a fair enough at the mall.",
+      "You don't like spicy food? Fair enough."
+    ],
+    "answer": 3,
+    "explanation": "'fair enough' = reasonable/accepted.",
+    "explanationJa": "「fair enough」=「なるほど・わかった」。"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "word": "my pleasure",
+    "definition": "you're welcome (polite)",
+    "sentences": [
+      "Thanks for helping! — My pleasure.",
+      "I my pleasure the homework yesterday.",
+      "He my pleasure three sandwiches at lunch.",
+      "She bought a my pleasure at the store."
+    ],
+    "answer": 0,
+    "explanation": "'my pleasure' = polite 'you're welcome.'",
+    "explanationJa": "「my pleasure」=「どういたしまして」(丁寧)。"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "word": "good for you",
+    "definition": "congratulations",
+    "sentences": [
+      "She bought a good for you at the mall.",
+      "You got the job? Good for you!",
+      "I good for you my homework yesterday.",
+      "He good for you three coffees this morning."
+    ],
+    "answer": 1,
+    "explanation": "'good for you' = congrats.",
+    "explanationJa": "「good for you」=「よかったね」。"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "word": "ugh",
+    "definition": "expression of disgust/frustration",
+    "sentences": [
+      "Ugh, I forgot my umbrella again.",
+      "He ugh the door very loudly.",
+      "I ugh my homework yesterday.",
+      "She bought an ugh at the store."
+    ],
+    "answer": 0,
+    "explanation": "'ugh' = interjection.",
+    "explanationJa": "「ugh」=「げっ・うんざり」(感嘆詞)。"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "word": "let's see",
+    "definition": "let me think",
+    "sentences": [
+      "Let's see, I think the meeting was Tuesday.",
+      "I let's see my homework yesterday.",
+      "He let's see three sandwiches at lunch.",
+      "She bought a let's see at the mall."
+    ],
+    "answer": 0,
+    "explanation": "'let's see' = let me think (filler).",
+    "explanationJa": "「let's see」=「えーと・どれどれ」。"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "word": "hmm",
+    "definition": "thinking sound",
+    "sentences": [
+      "Hmm, that's a tough question.",
+      "She bought a hmm at the store.",
+      "I hmm my homework yesterday.",
+      "He hmm the door very loudly."
+    ],
+    "answer": 0,
+    "explanation": "'hmm' = thinking interjection.",
+    "explanationJa": "「hmm」=「うーん」。"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "word": "by the way",
+    "definition": "incidentally (topic switch)",
+    "sentences": [
+      "By the way, your jacket is in the closet.",
+      "I by the way the report yesterday.",
+      "He by the way three coffees this morning.",
+      "She bought a by the way at the mall."
+    ],
+    "answer": 0,
+    "explanation": "'by the way' = incidentally.",
+    "explanationJa": "「by the way」=「ところで」。"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "word": "all set",
+    "definition": "ready",
+    "sentences": [
+      "Are we all set for the trip?",
+      "She bought an all set at the store.",
+      "He all set the door very loudly.",
+      "I all set my homework yesterday."
+    ],
+    "answer": 0,
+    "explanation": "'all set' = ready.",
+    "explanationJa": "「all set」=「準備OK」。"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "word": "see ya",
+    "definition": "goodbye (casual)",
+    "sentences": [
+      "He see ya three sandwiches at lunch.",
+      "She bought a see ya at the mall.",
+      "I see ya my homework yesterday.",
+      "Alright, see ya tomorrow!"
+    ],
+    "answer": 3,
+    "explanation": "'see ya' = casual goodbye.",
+    "explanationJa": "「see ya」=「またね」(カジュアル)。"
+  },
+  {
+    "id": 71,
+    "level": 2,
+    "word": "spill the beans",
+    "definition": "reveal a secret",
+    "sentences": [
+      "She spilled the beans all over the kitchen floor.",
+      "He spilled the beans into a bowl for dinner.",
+      "I spilled the beans across the road during the trip.",
+      "Don't spill the beans about the surprise party!"
+    ],
+    "answer": 3,
+    "explanation": "'spill the beans' = reveal a secret (idiomatic). Not literal beans.",
+    "explanationJa": "「spill the beans」は「秘密を漏らす」という慣用表現。本物の豆をこぼす意味ではない。"
+  },
+  {
+    "id": 72,
+    "level": 2,
+    "word": "give a heads up",
+    "definition": "warn or notify in advance",
+    "sentences": [
+      "She gave a heads up onto the table during lunch.",
+      "I gave a heads up around the building yesterday.",
+      "Thanks for giving me a heads up about the deadline change.",
+      "He gave a heads up of three inches taller this year."
+    ],
+    "answer": 2,
+    "explanation": "'give a heads up' = notify in advance. Not a physical or measurement term.",
+    "explanationJa": "「give a heads up」は「前もって知らせる」。物理的・サイズの意味では使わない。"
+  },
+  {
+    "id": 73,
+    "level": 2,
+    "word": "piece of cake",
+    "definition": "very easy task",
+    "sentences": [
+      "That exam was a piece of cake — I finished early.",
+      "She baked a piece of cake of the difficult report.",
+      "I cut a piece of cake into the project schedule.",
+      "He ate a piece of cake on the math problem quickly."
+    ],
+    "answer": 0,
+    "explanation": "'piece of cake' = easy (idiom). Not literal cake when describing tasks.",
+    "explanationJa": "「piece of cake」は「とても簡単」という慣用句。タスクに使うと食べ物の意味ではない。"
+  },
+  {
+    "id": 74,
+    "level": 2,
+    "word": "ring a bell",
+    "definition": "sound familiar",
+    "sentences": [
+      "I rang a bell into the wall while moving furniture.",
+      "She rang a bell of pasta for dinner tonight.",
+      "That name rings a bell, but I can't remember where from.",
+      "He rang a bell across his shirt this morning."
+    ],
+    "answer": 2,
+    "explanation": "'ring a bell' = sound familiar (idiom). Not literal bell-ringing here.",
+    "explanationJa": "「ring a bell」は「聞き覚えがある」。物理的にベルを鳴らす意味では使わない。"
+  },
+  {
+    "id": 75,
+    "level": 2,
+    "word": "cost an arm and a leg",
+    "definition": "be very expensive",
+    "sentences": [
+      "That new phone costs an arm and a leg these days.",
+      "She cost an arm and a leg onto the table at dinner.",
+      "He cost an arm and a leg of running every morning.",
+      "The doctor cost an arm and a leg during the surgery."
+    ],
+    "answer": 0,
+    "explanation": "'cost an arm and a leg' = very expensive (idiom). Not literal body parts.",
+    "explanationJa": "「cost an arm and a leg」は「とても高価」。実際の体の一部の意味ではない。"
+  },
+  {
+    "id": 76,
+    "level": 2,
+    "word": "on the same page",
+    "definition": "in agreement / sharing understanding",
+    "sentences": [
+      "He sat on the same page during the long flight.",
+      "The cat slept on the same page next to the fireplace.",
+      "Let's make sure we're on the same page before the meeting.",
+      "She wrote her name on the same page as the book."
+    ],
+    "answer": 2,
+    "explanation": "'on the same page' = in agreement (idiom). Not a literal page.",
+    "explanationJa": "「on the same page」は「意見が一致している」。実際のページの意味ではない。"
+  },
+  {
+    "id": 77,
+    "level": 2,
+    "word": "call it a day",
+    "definition": "stop working for the day",
+    "sentences": [
+      "We've done enough — let's call it a day and go home.",
+      "He called it a day in three different languages.",
+      "She called it a day onto the calendar yesterday.",
+      "I called it a day across the parking lot."
+    ],
+    "answer": 0,
+    "explanation": "'call it a day' = stop working (idiom). Not naming or labeling.",
+    "explanationJa": "「call it a day」は「今日は終わりにする」。名前を付ける意味ではない。"
+  },
+  {
+    "id": 78,
+    "level": 2,
+    "word": "under the weather",
+    "definition": "feeling slightly ill",
+    "sentences": [
+      "The umbrella sat under the weather near the doorway.",
+      "I'm feeling a bit under the weather, so I'll skip the gym.",
+      "She stood under the weather waiting for the bus.",
+      "He parked under the weather behind the office building."
+    ],
+    "answer": 1,
+    "explanation": "'under the weather' = mildly sick (idiom). Not a physical location.",
+    "explanationJa": "「under the weather」は「体調が少し悪い」。物理的な場所の意味ではない。"
+  },
+  {
+    "id": 79,
+    "level": 2,
+    "word": "bite the bullet",
+    "definition": "endure something difficult",
+    "sentences": [
+      "I bit the bullet of cheese before the party started.",
+      "He bit the bullet onto the floor in the kitchen.",
+      "She bit the bullet during her sandwich at lunchtime.",
+      "I just bit the bullet and told my boss about the mistake."
+    ],
+    "answer": 3,
+    "explanation": "'bite the bullet' = endure something hard (idiom). Not literal biting.",
+    "explanationJa": "「bite the bullet」は「つらいことに耐える」。実際に噛む意味ではない。"
+  },
+  {
+    "id": 80,
+    "level": 2,
+    "word": "once in a blue moon",
+    "definition": "very rarely",
+    "sentences": [
+      "The store opens once in a blue moon across the street.",
+      "I only see my old college friends once in a blue moon.",
+      "She climbed once in a blue moon onto the rooftop.",
+      "He runs once in a blue moon of distance every morning."
+    ],
+    "answer": 1,
+    "explanation": "'once in a blue moon' = very rarely (idiom). Not literal moon timing.",
+    "explanationJa": "「once in a blue moon」は「ごくまれに」という慣用句。実際の月の意味ではない。"
+  },
+  {
+    "id": 81,
+    "level": 2,
+    "word": "cut to the chase",
+    "definition": "get to the point",
+    "sentences": [
+      "He cut to the chase across the running track quickly.",
+      "She cut to the chase with her sharp kitchen knife.",
+      "Let's cut to the chase — what's the actual budget?",
+      "I cut to the chase into small pieces for the recipe."
+    ],
+    "answer": 2,
+    "explanation": "'cut to the chase' = get to the point (idiom). Not literal cutting.",
+    "explanationJa": "「cut to the chase」は「本題に入る」。実際に切る意味ではない。"
+  },
+  {
+    "id": 82,
+    "level": 2,
+    "word": "get the hang of",
+    "definition": "learn how to do something",
+    "sentences": [
+      "I got the hang of around the picture frame.",
+      "He got the hang of onto the wall in his bedroom.",
+      "I'm finally getting the hang of this new software.",
+      "She got the hang of from the closet door yesterday."
+    ],
+    "answer": 2,
+    "explanation": "'get the hang of' = learn (idiom). Not about hanging objects.",
+    "explanationJa": "「get the hang of」は「コツをつかむ」。物を吊るす意味ではない。"
+  },
+  {
+    "id": 83,
+    "level": 2,
+    "word": "play it by ear",
+    "definition": "improvise / decide as you go",
+    "sentences": [
+      "He played it by ear next to his head during the call.",
+      "She played it by ear with her violin during the concert.",
+      "I played it by ear of music for two hours straight.",
+      "We don't have firm plans — we'll just play it by ear."
+    ],
+    "answer": 3,
+    "explanation": "'play it by ear' = improvise (idiom). Not literal music-playing.",
+    "explanationJa": "「play it by ear」は「臨機応変にやる」。実際に演奏する意味ではない。"
+  },
+  {
+    "id": 84,
+    "level": 2,
+    "word": "throw in the towel",
+    "definition": "give up",
+    "sentences": [
+      "He threw in the towel across the bathroom floor.",
+      "After three failed attempts, he threw in the towel.",
+      "She threw in the towel onto the laundry basket.",
+      "I threw in the towel into the washing machine yesterday."
+    ],
+    "answer": 1,
+    "explanation": "'throw in the towel' = give up (idiom). Not literal towel-throwing.",
+    "explanationJa": "「throw in the towel」は「あきらめる」。実際にタオルを投げる意味ではない。"
+  },
+  {
+    "id": 85,
+    "level": 2,
+    "word": "blow off",
+    "definition": "skip / not take seriously",
+    "sentences": [
+      "He totally blew off our plans without even calling.",
+      "He blew off the dust from the old bookshelf yesterday.",
+      "I blew off the leaves into the front yard area.",
+      "She blew off the candles on her birthday cake quickly."
+    ],
+    "answer": 0,
+    "explanation": "'blow off' (idiom) = skip/ignore. Not the literal blowing meaning.",
+    "explanationJa": "「blow off」は「無視する・サボる」(慣用)。物理的に吹く意味ではない。"
+  },
+  {
+    "id": 86,
+    "level": 2,
+    "word": "chill out",
+    "definition": "relax / calm down",
+    "sentences": [
+      "Just chill out — we still have plenty of time to finish.",
+      "I chilled out the soup before serving it to guests.",
+      "He chilled out the meat overnight in the refrigerator.",
+      "She chilled out her drinks in the freezer for hours."
+    ],
+    "answer": 0,
+    "explanation": "'chill out' = relax (idiom). Not literal cooling of food.",
+    "explanationJa": "「chill out」は「リラックスする」。食べ物を冷やす意味ではない。"
+  },
+  {
+    "id": 87,
+    "level": 2,
+    "word": "come up with",
+    "definition": "think of / produce (an idea)",
+    "sentences": [
+      "I came up with my friend onto the rooftop yesterday.",
+      "She came up with the stairs after climbing for hours.",
+      "He came up with the elevator from the basement floor.",
+      "She came up with a brilliant solution during the meeting."
+    ],
+    "answer": 3,
+    "explanation": "'come up with' = produce/think of (idiom). Not literal upward movement.",
+    "explanationJa": "「come up with」は「思いつく」。物理的に上がる意味ではない。"
+  },
+  {
+    "id": 88,
+    "level": 2,
+    "word": "count on",
+    "definition": "rely on / depend on",
+    "sentences": [
+      "She counted on her fingers up to twenty during class.",
+      "I counted on the coins into the piggy bank slowly.",
+      "You can count on me to finish the report by Friday.",
+      "He counted on the sheep onto the field for hours."
+    ],
+    "answer": 2,
+    "explanation": "'count on' = rely on (idiom). Not literal counting of objects.",
+    "explanationJa": "「count on」は「頼る」。物を数える意味ではない。"
+  },
+  {
+    "id": 89,
+    "level": 2,
+    "word": "drop by",
+    "definition": "visit briefly without notice",
+    "sentences": [
+      "He dropped by his keys into the bathroom sink.",
+      "She dropped by her phone onto the kitchen floor.",
+      "Feel free to drop by my office anytime this week.",
+      "I dropped by my book during the long bus ride."
+    ],
+    "answer": 2,
+    "explanation": "'drop by' = visit briefly (idiom). Not literal dropping of items.",
+    "explanationJa": "「drop by」は「ちょっと立ち寄る」。物を落とす意味ではない。"
+  },
+  {
+    "id": 90,
+    "level": 2,
+    "word": "fill in",
+    "definition": "substitute / provide missing info",
+    "sentences": [
+      "I filled in the swimming pool with cold water yesterday.",
+      "He filled in the gas tank during the road trip.",
+      "She filled in the bucket of water from the well.",
+      "Can you fill in for me at the meeting tomorrow?"
+    ],
+    "answer": 3,
+    "explanation": "'fill in' (idiom) = substitute or complete info. Not filling containers.",
+    "explanationJa": "「fill in」は「代わりを務める/記入する」。容器を満たす意味ではない。"
+  },
+  {
+    "id": 91,
+    "level": 2,
+    "word": "figure out",
+    "definition": "solve / understand",
+    "sentences": [
+      "He figured out his height as six feet exactly.",
+      "I finally figured out why the printer wasn't working.",
+      "She figured out a beautiful sculpture in the park.",
+      "I figured out the painting on the gallery wall."
+    ],
+    "answer": 1,
+    "explanation": "'figure out' = solve (idiom). Not about figures or shapes.",
+    "explanationJa": "「figure out」は「解決する/理解する」。形や数字の意味ではない。"
+  },
+  {
+    "id": 92,
+    "level": 2,
+    "word": "find out",
+    "definition": "discover / learn",
+    "sentences": [
+      "I just found out that the meeting was canceled.",
+      "She found out her keys under the kitchen counter.",
+      "He found out his glasses on the coffee table.",
+      "I found out my wallet in the back of the drawer."
+    ],
+    "answer": 0,
+    "explanation": "'find out' = learn information (idiom). Not finding lost objects.",
+    "explanationJa": "「find out」は「知る・発見する(情報)」。物を見つける意味ではない。"
+  },
+  {
+    "id": 93,
+    "level": 2,
+    "word": "get along",
+    "definition": "have a good relationship",
+    "sentences": [
+      "She got along the highway during the long road trip.",
+      "I got along the path through the dense forest.",
+      "I really get along with my new coworkers so far.",
+      "He got along the hallway toward his next class."
+    ],
+    "answer": 2,
+    "explanation": "'get along' = have good relationship (idiom). Not movement along a path.",
+    "explanationJa": "「get along」は「仲良くやる」。道を進む意味ではない。"
+  },
+  {
+    "id": 94,
+    "level": 2,
+    "word": "get over",
+    "definition": "recover from",
+    "sentences": [
+      "He got over the puddle on his way to work.",
+      "I got over the small bridge during my morning jog.",
+      "She got over the fence in the backyard quickly.",
+      "It took her months to get over the breakup."
+    ],
+    "answer": 3,
+    "explanation": "'get over' = recover emotionally (idiom). Not climbing or crossing.",
+    "explanationJa": "「get over」は「(感情から)立ち直る」。物理的に越える意味ではない。"
+  },
+  {
+    "id": 95,
+    "level": 2,
+    "word": "give up",
+    "definition": "stop trying",
+    "sentences": [
+      "She gave up her coat to the receptionist at the door.",
+      "He gave up his seat to the elderly man on the bus.",
+      "I gave up my umbrella to my friend in the rain.",
+      "Don't give up — you're really close to figuring it out."
+    ],
+    "answer": 3,
+    "explanation": "'give up' = quit (idiom). Not handing items to others.",
+    "explanationJa": "「give up」は「あきらめる」。物を渡す意味ではない。"
+  },
+  {
+    "id": 96,
+    "level": 2,
+    "word": "go through",
+    "definition": "experience / examine carefully",
+    "sentences": [
+      "She's going through a tough time at work right now.",
+      "He went through the front door of the museum.",
+      "I went through the gate to enter the stadium quickly.",
+      "She went through the tunnel while driving home."
+    ],
+    "answer": 0,
+    "explanation": "'go through' (idiom) = experience or examine. Not physical passage.",
+    "explanationJa": "「go through」は「経験する/詳しく調べる」。通り抜ける意味ではない。"
+  },
+  {
+    "id": 97,
+    "level": 2,
+    "word": "hold off",
+    "definition": "delay / postpone",
+    "sentences": [
+      "She held off her dog from the busy street.",
+      "I held off the box from falling off the shelf.",
+      "He held off the door for the people behind him.",
+      "Let's hold off on that decision until next week."
+    ],
+    "answer": 3,
+    "explanation": "'hold off' = delay (idiom). Not physically holding things.",
+    "explanationJa": "「hold off」は「先延ばしにする」。物理的に押さえる意味ではない。"
+  },
+  {
+    "id": 98,
+    "level": 2,
+    "word": "keep up",
+    "definition": "maintain pace / stay current",
+    "sentences": [
+      "She kept up her hat during the windy afternoon walk.",
+      "It's hard to keep up with all the new technology.",
+      "I kept up my hood while running through the park.",
+      "He kept up his umbrella over his head in the rain."
+    ],
+    "answer": 1,
+    "explanation": "'keep up' = maintain pace (idiom). Not physically holding things up.",
+    "explanationJa": "「keep up」は「ついていく/維持する」。物を上に保つ意味ではない。"
+  },
+  {
+    "id": 99,
+    "level": 2,
+    "word": "let down",
+    "definition": "disappoint",
+    "sentences": [
+      "She let down her hair from the tight ponytail.",
+      "I let down the rope from the second floor balcony.",
+      "Don't worry — I won't let you down on this project.",
+      "He let down the window in the car for fresh air."
+    ],
+    "answer": 2,
+    "explanation": "'let down' = disappoint (idiom). Not lowering objects.",
+    "explanationJa": "「let down」は「がっかりさせる」。物を下ろす意味ではない。"
+  },
+  {
+    "id": 100,
+    "level": 2,
+    "word": "look forward to",
+    "definition": "anticipate eagerly",
+    "sentences": [
+      "He looked forward to the front of the long line.",
+      "I looked forward to the screen during the movie.",
+      "I'm really looking forward to our trip next month.",
+      "She looked forward to the road during her morning drive."
+    ],
+    "answer": 2,
+    "explanation": "'look forward to' = anticipate (idiom). Not literal looking direction.",
+    "explanationJa": "「look forward to」は「楽しみにする」。前を見る意味ではない。"
+  },
+  {
+    "id": 101,
+    "level": 2,
+    "word": "mess up",
+    "definition": "make a mistake",
+    "sentences": [
+      "Sorry, I totally messed up the order at the cafe.",
+      "I messed up the living room before the guests arrived.",
+      "He messed up the kitchen during dinner preparation.",
+      "She messed up her bedroom with toys and laundry."
+    ],
+    "answer": 0,
+    "explanation": "'mess up' = make mistake (idiom). Not creating physical mess.",
+    "explanationJa": "「mess up」は「失敗する」。部屋を散らかす意味ではない。"
+  },
+  {
+    "id": 102,
+    "level": 2,
+    "word": "put off",
+    "definition": "postpone",
+    "sentences": [
+      "She put off her jacket onto the coat rack quickly.",
+      "He put off his shoes by the front door yesterday.",
+      "Let's not put off this conversation any longer.",
+      "I put off my hat into the closet after work."
+    ],
+    "answer": 2,
+    "explanation": "'put off' = postpone (idiom). Not removing clothing.",
+    "explanationJa": "「put off」は「延期する」。服を脱ぐ意味ではない。"
+  },
+  {
+    "id": 103,
+    "level": 2,
+    "word": "run into",
+    "definition": "encounter unexpectedly",
+    "sentences": [
+      "I ran into an old friend at the grocery store today.",
+      "He ran into the door after slipping on the floor.",
+      "I ran into the pole while looking at my phone earlier.",
+      "She ran into the wall accidentally while playing tag."
+    ],
+    "answer": 0,
+    "explanation": "'run into' = meet unexpectedly (idiom). Not literal collision.",
+    "explanationJa": "「run into」は「偶然出会う」。物理的に衝突する意味ではない。"
+  },
+  {
+    "id": 104,
+    "level": 2,
+    "word": "set up",
+    "definition": "arrange / organize",
+    "sentences": [
+      "She set up her chair on top of the table outside.",
+      "Can you set up a meeting with the design team?",
+      "He set up his lamp onto the floor of the bedroom.",
+      "I set up my plants under the bathroom sink yesterday."
+    ],
+    "answer": 1,
+    "explanation": "'set up' = arrange/organize (idiom). Not awkward placement of objects.",
+    "explanationJa": "「set up」は「準備する/手配する」。妙な配置の意味ではない。"
+  },
+  {
+    "id": 105,
+    "level": 2,
+    "word": "show off",
+    "definition": "display proudly",
+    "sentences": [
+      "She showed off the lights in the dark hallway.",
+      "He showed off the music during the long car trip.",
+      "He's always showing off his new gadgets at parties.",
+      "I showed off the food on the dinner table tonight."
+    ],
+    "answer": 2,
+    "explanation": "'show off' = display proudly (idiom). Not turning things on.",
+    "explanationJa": "「show off」は「見せびらかす」。スイッチを入れる意味ではない。"
+  },
+  {
+    "id": 106,
+    "level": 2,
+    "word": "stand out",
+    "definition": "be noticeable",
+    "sentences": [
+      "I stood out the building during the fire drill.",
+      "She stood out the window during the heavy rainstorm.",
+      "Her bright red dress really stood out at the party.",
+      "He stood out the door waiting for his ride home."
+    ],
+    "answer": 2,
+    "explanation": "'stand out' = be noticeable (idiom). Not standing outside.",
+    "explanationJa": "「stand out」は「目立つ」。外に立つ意味ではない。"
+  },
+  {
+    "id": 107,
+    "level": 2,
+    "word": "stop by",
+    "definition": "visit briefly",
+    "sentences": [
+      "I'll stop by your place after work to grab the book.",
+      "He stopped by his bike near the bus stop today.",
+      "She stopped by her car at the red light intersection.",
+      "I stopped by my scooter on the busy main road."
+    ],
+    "answer": 0,
+    "explanation": "'stop by' = visit briefly (idiom). Not stopping vehicles.",
+    "explanationJa": "「stop by」は「立ち寄る」。乗り物を止める意味ではない。"
+  },
+  {
+    "id": 108,
+    "level": 2,
+    "word": "take off",
+    "definition": "leave / depart",
+    "sentences": [
+      "She took off her makeup before going to sleep tonight.",
+      "I took off my watch before showering this morning.",
+      "I need to take off — my train leaves in 20 minutes.",
+      "He took off his glasses during the eye examination."
+    ],
+    "answer": 2,
+    "explanation": "'take off' = leave (idiom). Not removing accessories here.",
+    "explanationJa": "「take off」は「出発する」。物を外す意味ではない。"
+  },
+  {
+    "id": 109,
+    "level": 2,
+    "word": "turn down",
+    "definition": "reject / decline",
+    "sentences": [
+      "He turned down the heat in the kitchen oven.",
+      "She turned down the volume on her stereo system.",
+      "I turned down the brightness on my laptop screen.",
+      "She turned down the job offer because of the location."
+    ],
+    "answer": 3,
+    "explanation": "'turn down' = decline (idiom). Not adjusting volume/settings.",
+    "explanationJa": "「turn down」は「断る」。音量や設定を下げる意味ではない。"
+  },
+  {
+    "id": 110,
+    "level": 2,
+    "word": "wrap up",
+    "definition": "finish / conclude",
+    "sentences": [
+      "I wrapped up the package in bubble wrap before mailing.",
+      "Let's wrap up the meeting — we're running late.",
+      "She wrapped up the gift in colorful paper for the party.",
+      "He wrapped up the sandwich in foil for his lunch box."
+    ],
+    "answer": 1,
+    "explanation": "'wrap up' = finish (idiom). Not literal wrapping of items.",
+    "explanationJa": "「wrap up」は「終える」。物を包む意味ではない。"
+  },
+  {
+    "id": 111,
+    "level": 2,
+    "word": "tied up",
+    "definition": "busy / unavailable",
+    "sentences": [
+      "Sorry, I'm tied up with meetings all afternoon today.",
+      "I tied up the package with string before mailing it.",
+      "She tied up her shoelaces before going for a run.",
+      "He tied up the boat to the dock at the harbor."
+    ],
+    "answer": 0,
+    "explanation": "'tied up' = busy (idiom). Not literal tying.",
+    "explanationJa": "「tied up」は「忙しい」。物を結ぶ意味ではない。"
+  },
+  {
+    "id": 112,
+    "level": 2,
+    "word": "fed up",
+    "definition": "frustrated / annoyed",
+    "sentences": [
+      "I fed up the cat with tuna in the kitchen earlier.",
+      "I'm so fed up with this slow internet connection.",
+      "He fed up the baby with warm milk before bedtime.",
+      "She fed up the dog with extra treats this morning."
+    ],
+    "answer": 1,
+    "explanation": "'fed up' = frustrated (idiom). Not feeding animals.",
+    "explanationJa": "「fed up」は「うんざり」。動物に餌をやる意味ではない。"
+  },
+  {
+    "id": 113,
+    "level": 2,
+    "word": "worn out",
+    "definition": "exhausted",
+    "sentences": [
+      "He worn out his running shoes from daily training.",
+      "I'm completely worn out after that long hike yesterday.",
+      "She worn out her favorite jeans after years of use.",
+      "I worn out my backpack from carrying heavy textbooks."
+    ],
+    "answer": 1,
+    "explanation": "'worn out' (about people) = exhausted (idiom). Not damaged from use.",
+    "explanationJa": "「worn out」(人について)は「疲れ切った」。物が古くなる意味ではない。"
+  },
+  {
+    "id": 114,
+    "level": 2,
+    "word": "fired up",
+    "definition": "excited / motivated",
+    "sentences": [
+      "I fired up the campfire on the cold evening trip.",
+      "The team is really fired up about the upcoming game.",
+      "He fired up the oven before baking the cake.",
+      "She fired up the grill for the backyard barbecue."
+    ],
+    "answer": 1,
+    "explanation": "'fired up' (about people) = excited (idiom). Not literal igniting.",
+    "explanationJa": "「fired up」(人について)は「やる気満々」。火をつける意味ではない。"
+  },
+  {
+    "id": 115,
+    "level": 2,
+    "word": "caught up",
+    "definition": "busy / behind on things",
+    "sentences": [
+      "She caught up the ball during the baseball game.",
+      "I got caught up at work and missed the train home.",
+      "He caught up the frisbee in the park yesterday.",
+      "I caught up the falling glass right before it hit."
+    ],
+    "answer": 1,
+    "explanation": "'caught up' = busy or behind (idiom). Not catching objects.",
+    "explanationJa": "「caught up」は「忙しい/取り紛れる」。物をつかむ意味ではない。"
+  },
+  {
+    "id": 116,
+    "level": 2,
+    "word": "laid back",
+    "definition": "relaxed / easygoing (personality)",
+    "sentences": [
+      "I laid back the blanket onto the bedroom mattress.",
+      "He's super laid back — nothing seems to bother him.",
+      "He laid back the books onto the library shelf.",
+      "She laid back the carpet before mopping the floor."
+    ],
+    "answer": 1,
+    "explanation": "'laid back' = relaxed personality (idiom). Not placing objects down.",
+    "explanationJa": "「laid back」は「のんびりした性格」。物を置く意味ではない。"
+  },
+  {
+    "id": 117,
+    "level": 2,
+    "word": "wiped out",
+    "definition": "extremely tired",
+    "sentences": [
+      "I wiped out the bathroom mirror with a soft cloth.",
+      "I'm wiped out after that twelve-hour shift yesterday.",
+      "She wiped out the table after the messy dinner party.",
+      "He wiped out the kitchen counter before cooking."
+    ],
+    "answer": 1,
+    "explanation": "'wiped out' (people) = exhausted (idiom). Not cleaning surfaces.",
+    "explanationJa": "「wiped out」(人)は「ヘトヘト」。表面を拭く意味ではない。"
+  },
+  {
+    "id": 118,
+    "level": 2,
+    "word": "stressed out",
+    "definition": "very anxious / overwhelmed",
+    "sentences": [
+      "He stressed out the rope between the two trees.",
+      "I stressed out the cable along the office floor.",
+      "She's super stressed out about the upcoming exam.",
+      "She stressed out the fabric across the sewing table."
+    ],
+    "answer": 2,
+    "explanation": "'stressed out' = anxious (idiom). Not stretching things tight.",
+    "explanationJa": "「stressed out」は「ストレスでまいっている」。物を張る意味ではない。"
+  },
+  {
+    "id": 119,
+    "level": 2,
+    "word": "burned out",
+    "definition": "mentally exhausted from overwork",
+    "sentences": [
+      "After three years there, I'm completely burned out.",
+      "I burned out the wood in the backyard fire pit.",
+      "She burned out the toast in the broken kitchen oven.",
+      "He burned out the candles on the dinner table."
+    ],
+    "answer": 0,
+    "explanation": "'burned out' (people) = mentally exhausted (idiom). Not literal burning.",
+    "explanationJa": "「burned out」(人)は「燃え尽きた」。物が燃え尽きる意味ではない。"
+  },
+  {
+    "id": 120,
+    "level": 2,
+    "word": "beat",
+    "definition": "very tired (slang)",
+    "sentences": [
+      "She beat the eggs for the cake with a whisk.",
+      "I beat the dust out of the rug in the backyard.",
+      "I'm absolutely beat after running that marathon today.",
+      "He beat the drum during the school band practice."
+    ],
+    "answer": 2,
+    "explanation": "'beat' (about people) = tired (slang). Not striking objects.",
+    "explanationJa": "「beat」(人について)は「クタクタ」。物を叩く意味ではない。"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "word": "hit the books",
+    "definition": "study hard",
+    "sentences": [
+      "I need to hit the books — finals start next week.",
+      "I hit the books while moving them to the new shelf.",
+      "She hit the books accidentally with her elbow today.",
+      "He hit the books off the shelf while cleaning."
+    ],
+    "answer": 0,
+    "explanation": "'hit the books' = study (idiom). Not striking books.",
+    "explanationJa": "「hit the books」は「猛勉強する」。本を叩く意味ではない。"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "word": "break a leg",
+    "definition": "good luck (theater)",
+    "sentences": [
+      "He broke a leg falling off his bicycle yesterday.",
+      "I broke a leg slipping on the icy sidewalk.",
+      "She broke a leg during the skiing trip last winter.",
+      "Break a leg out there — you've practiced so hard!"
+    ],
+    "answer": 3,
+    "explanation": "'break a leg' = good luck (idiom). Not literal injury.",
+    "explanationJa": "「break a leg」は「頑張って」(演劇用語)。実際の怪我の意味ではない。"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "word": "a piece of work",
+    "definition": "difficult/strange person",
+    "sentences": [
+      "He completed a piece of work in his ceramics class.",
+      "I sold a piece of work at the local art gallery.",
+      "She finished a piece of work on the assembly line.",
+      "Her new boss is really a piece of work — so demanding."
+    ],
+    "answer": 3,
+    "explanation": "'a piece of work' (about people) = difficult person (idiom).",
+    "explanationJa": "「a piece of work」(人)は「やっかいな人」。作品の意味ではない。"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "word": "down to earth",
+    "definition": "practical / unpretentious",
+    "sentences": [
+      "She's so down to earth despite all her success.",
+      "He fell down to earth from the second floor balcony.",
+      "I dropped down to earth from the playground monkey bars.",
+      "She came down to earth from the tall climbing wall."
+    ],
+    "answer": 0,
+    "explanation": "'down to earth' = practical (idiom). Not literal falling.",
+    "explanationJa": "「down to earth」は「気取らない」。落ちる意味ではない。"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "word": "in the loop",
+    "definition": "informed / kept updated",
+    "sentences": [
+      "I sat in the loop of the rollercoaster track.",
+      "She walked in the loop around the running track.",
+      "He stood in the loop of rope during the magic show.",
+      "Please keep me in the loop on the project updates."
+    ],
+    "answer": 3,
+    "explanation": "'in the loop' = informed (idiom). Not literal loop position.",
+    "explanationJa": "「in the loop」は「情報を共有されている」。輪の中の意味ではない。"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "word": "on the fence",
+    "definition": "undecided",
+    "sentences": [
+      "The cat slept on the fence behind the garage.",
+      "She climbed on the fence in the backyard playfully.",
+      "I'm on the fence about taking that new job offer.",
+      "He sat on the fence near the school playground."
+    ],
+    "answer": 2,
+    "explanation": "'on the fence' = undecided (idiom). Not literal fence-sitting.",
+    "explanationJa": "「on the fence」は「迷っている」。実際の柵の上の意味ではない。"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "word": "out of the blue",
+    "definition": "unexpectedly",
+    "sentences": [
+      "He flew out of the blue sky during his hot air balloon ride.",
+      "She came out of the blue ocean after diving deep underwater.",
+      "I jumped out of the blue pool after swimming for an hour.",
+      "She called me out of the blue after five years of silence."
+    ],
+    "answer": 3,
+    "explanation": "'out of the blue' = unexpectedly (idiom). Not literal blue places.",
+    "explanationJa": "「out of the blue」は「突然」。青い場所の意味ではない。"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "word": "hit the spot",
+    "definition": "exactly satisfy a need",
+    "sentences": [
+      "I hit the spot on the target during archery practice.",
+      "She hit the spot on the dartboard during the game.",
+      "He hit the spot on the wall while hanging the picture.",
+      "That cold drink really hit the spot after my workout."
+    ],
+    "answer": 3,
+    "explanation": "'hit the spot' = satisfy (idiom). Not hitting targets.",
+    "explanationJa": "「hit the spot」は「ぴったり満たす」。的に当てる意味ではない。"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "word": "go figure",
+    "definition": "expression of surprise/confusion",
+    "sentences": [
+      "He never showed up to his own party — go figure.",
+      "I went figure drawing in art class yesterday afternoon.",
+      "He went figure shopping in the toy aisle today.",
+      "She went figure skating at the rink last weekend."
+    ],
+    "answer": 0,
+    "explanation": "'go figure' = expression of disbelief (idiom). Not 'go' + 'figure'.",
+    "explanationJa": "「go figure」は「不思議だね」(慣用句)。「figure」の動詞活用ではない。"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "word": "hang in there",
+    "definition": "persevere / stay strong",
+    "sentences": [
+      "He hung in there onto the rope during the climb.",
+      "Hang in there — things will definitely get better soon.",
+      "She hung in there from the closet door for hours.",
+      "I hung in there from the tree branch in the park."
+    ],
+    "answer": 1,
+    "explanation": "'hang in there' = persevere (idiom). Not literal hanging.",
+    "explanationJa": "「hang in there」は「頑張って耐える」。実際にぶら下がる意味ではない。"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "word": "in a nutshell",
+    "definition": "in summary / briefly",
+    "sentences": [
+      "In a nutshell, the project is over budget and behind.",
+      "He cracked a peanut in a nutshell at the baseball game.",
+      "I found an almond in a nutshell during my walk home.",
+      "She put a nut in a nutshell during her cooking demo."
+    ],
+    "answer": 0,
+    "explanation": "'in a nutshell' = briefly (idiom). Not actual nutshells.",
+    "explanationJa": "「in a nutshell」は「要するに」。実際の殻の意味ではない。"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "word": "keep an eye on",
+    "definition": "watch / monitor",
+    "sentences": [
+      "He kept an eye on his head while wearing the new helmet.",
+      "Can you keep an eye on my bag while I use the restroom?",
+      "She kept an eye on her face during the makeup tutorial.",
+      "I kept an eye on my body during the doctor's appointment."
+    ],
+    "answer": 1,
+    "explanation": "'keep an eye on' = watch over (idiom). Not literal eye actions.",
+    "explanationJa": "「keep an eye on」は「目を配る」。実際の目の意味ではない。"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "word": "a long shot",
+    "definition": "unlikely chance",
+    "sentences": [
+      "He fired a long shot from his rifle at the practice range.",
+      "She took a long shot with her camera at the basketball game.",
+      "I made a long shot from the three-point line in basketball.",
+      "It's a long shot, but I'm applying for the scholarship anyway."
+    ],
+    "answer": 3,
+    "explanation": "'a long shot' = unlikely (idiom). Not literal long shots.",
+    "explanationJa": "「a long shot」は「望み薄」。実際の遠射の意味ではない。"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "word": "the bottom line",
+    "definition": "the main point / conclusion",
+    "sentences": [
+      "The bottom line is, we need more time to finish this.",
+      "He underlined the bottom line of the report yesterday.",
+      "I erased the bottom line from the whiteboard quickly.",
+      "She drew the bottom line of the document with a pencil."
+    ],
+    "answer": 0,
+    "explanation": "'the bottom line' = main point (idiom). Not literal bottom lines.",
+    "explanationJa": "「the bottom line」は「結論」。実際の最下行の意味ではない。"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "word": "speak of the devil",
+    "definition": "said when someone mentioned appears",
+    "sentences": [
+      "I spoke of the devil in the church history class lecture.",
+      "She spoke of the devil during her religious sermon today.",
+      "Speak of the devil — there's Tom now, walking right in.",
+      "He spoke of the devil in the fictional novel he wrote."
+    ],
+    "answer": 2,
+    "explanation": "'speak of the devil' = said when person appears (idiom).",
+    "explanationJa": "「speak of the devil」は「噂をすれば影」。文字通りの悪魔の意味ではない。"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "word": "jump the gun",
+    "definition": "act prematurely",
+    "sentences": [
+      "He jumped the gun at the start line of the race.",
+      "Don't jump the gun — let's wait for the official announcement.",
+      "She jumped the gun on the obstacle course during practice.",
+      "I jumped the gun over the fence in the backyard."
+    ],
+    "answer": 1,
+    "explanation": "'jump the gun' = act too early (idiom). Not literal jumping.",
+    "explanationJa": "「jump the gun」は「早まって行動する」。実際にジャンプする意味ではない。"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "word": "the last straw",
+    "definition": "final problem that ends patience",
+    "sentences": [
+      "She used the last straw at the bottom of her drink today.",
+      "Missing the deadline was the last straw — he got fired.",
+      "I bought the last straw from the convenience store earlier.",
+      "He found the last straw in the box at the cafe."
+    ],
+    "answer": 1,
+    "explanation": "'the last straw' = final breaking point (idiom). Not literal straw.",
+    "explanationJa": "「the last straw」は「我慢の限界」。実際のストローの意味ではない。"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "word": "a heads up",
+    "definition": "advance warning",
+    "sentences": [
+      "He gave a heads up the ladder during the painting job.",
+      "Just a heads up — the meeting got moved to Thursday.",
+      "I gave a heads up the stairs while carrying the boxes.",
+      "She gave a heads up the wall while doing her exercises."
+    ],
+    "answer": 1,
+    "explanation": "'a heads up' = advance warning (idiom). Not directional.",
+    "explanationJa": "「a heads up」は「事前のお知らせ」。方向の意味ではない。"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "word": "hit it off",
+    "definition": "instantly get along well",
+    "sentences": [
+      "I hit it off the counter accidentally with my elbow.",
+      "He hit it off the shelf while cleaning the bookcase.",
+      "We hit it off right away — felt like old friends.",
+      "She hit it off the table during the loud party."
+    ],
+    "answer": 2,
+    "explanation": "'hit it off' = get along (idiom). Not literal hitting.",
+    "explanationJa": "「hit it off」は「すぐ意気投合する」。物を叩く意味ではない。"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "word": "in the long run",
+    "definition": "eventually / over time",
+    "sentences": [
+      "She trained in the long run before the marathon next month.",
+      "It's expensive now, but it'll save money in the long run.",
+      "I participated in the long run during the charity event.",
+      "He competed in the long run at the track meet."
+    ],
+    "answer": 1,
+    "explanation": "'in the long run' = over time (idiom). Not a literal long-distance run.",
+    "explanationJa": "「in the long run」は「長い目で見れば」。長距離走の意味ではない。"
+  },
+  {
+    "id": 141,
+    "level": 3,
+    "word": "touch base",
+    "definition": "briefly check in / reconnect",
+    "sentences": [
+      "Let's touch base next week to review the project status.",
+      "She touched base on the baseball field during practice.",
+      "I touched base sliding into home plate during the game.",
+      "He touched base while running on the diamond yesterday."
+    ],
+    "answer": 0,
+    "explanation": "'touch base' = check in (idiom). Not literal baseball action.",
+    "explanationJa": "「touch base」は「連絡を取り合う」。野球の塁の意味ではない。"
+  },
+  {
+    "id": 142,
+    "level": 3,
+    "word": "run by",
+    "definition": "share an idea for feedback",
+    "sentences": [
+      "Can I run something by you before the meeting tomorrow?",
+      "I ran by the park during my weekend training session.",
+      "He ran by the coffee shop without stopping today.",
+      "She ran by the office building on her morning jog."
+    ],
+    "answer": 0,
+    "explanation": "'run by' = ask for feedback (idiom). Not jogging past places.",
+    "explanationJa": "「run by」は「意見を求める」。走って通り過ぎる意味ではない。"
+  },
+  {
+    "id": 143,
+    "level": 3,
+    "word": "sleep on it",
+    "definition": "wait before deciding",
+    "sentences": [
+      "She slept on it for warmth during the cold winter night.",
+      "I slept on it in the corner of the camping tent.",
+      "He slept on it on the lumpy mattress at the hotel.",
+      "It's a big decision — let me sleep on it and call you tomorrow."
+    ],
+    "answer": 3,
+    "explanation": "'sleep on it' = delay deciding (idiom). Not literal sleeping on objects.",
+    "explanationJa": "「sleep on it」は「一晩考える」。物の上で寝る意味ではない。"
+  },
+  {
+    "id": 144,
+    "level": 3,
+    "word": "circle back",
+    "definition": "return to a topic later",
+    "sentences": [
+      "She circled back her car around the parking lot twice.",
+      "Let's circle back to that point after we finish this section.",
+      "He circled back his bike around the school playground.",
+      "I circled back my route on the running trail today."
+    ],
+    "answer": 1,
+    "explanation": "'circle back' (meeting) = revisit topic. Not literal circling.",
+    "explanationJa": "「circle back」は「後で戻って話す」。物理的に回る意味ではない。"
+  },
+  {
+    "id": 145,
+    "level": 3,
+    "word": "gloss over",
+    "definition": "skip / minimize importance",
+    "sentences": [
+      "He glossed over his lips with shiny lip balm.",
+      "He glossed over the budget concerns in his presentation.",
+      "She glossed over the table with furniture polish today.",
+      "I glossed over the wood with a clear protective coat."
+    ],
+    "answer": 1,
+    "explanation": "'gloss over' (topics) = minimize. Not applying gloss to surfaces.",
+    "explanationJa": "「gloss over」は「軽く流す」。表面を磨く意味ではない。"
+  },
+  {
+    "id": 146,
+    "level": 3,
+    "word": "walk back",
+    "definition": "retract or soften a statement",
+    "sentences": [
+      "She walked back home from the train station last night.",
+      "He walked back to his desk after the lunch break.",
+      "I walked back to the office after my dental appointment.",
+      "She had to walk back her comments after the backlash."
+    ],
+    "answer": 3,
+    "explanation": "'walk back' (statements) = retract. Not literal walking.",
+    "explanationJa": "「walk back」は「発言を撤回する」。歩いて戻る意味ではない。"
+  },
+  {
+    "id": 147,
+    "level": 3,
+    "word": "talk through",
+    "definition": "explain step by step",
+    "sentences": [
+      "Can you talk me through how this new system actually works?",
+      "He talked through the wall to his neighbor next door.",
+      "She talked through the door to the delivery person.",
+      "I talked through the phone for two hours last night."
+    ],
+    "answer": 0,
+    "explanation": "'talk through' = explain stepwise. Not talking via barriers.",
+    "explanationJa": "「talk through」は「順を追って説明する」。何かを通して話す意味ではない。"
+  },
+  {
+    "id": 148,
+    "level": 3,
+    "word": "weigh in",
+    "definition": "offer opinion on a discussion",
+    "sentences": [
+      "He weighed in before the boxing match at the arena.",
+      "She weighed in at the doctor's office for her checkup.",
+      "I weighed in on the bathroom scale this morning.",
+      "I'd love to hear you weigh in on this hiring decision."
+    ],
+    "answer": 3,
+    "explanation": "'weigh in' (discussions) = offer opinion. Not literal weighing.",
+    "explanationJa": "「weigh in」は「意見を述べる」。体重を計る意味ではない。"
+  },
+  {
+    "id": 149,
+    "level": 3,
+    "word": "mull over",
+    "definition": "consider carefully",
+    "sentences": [
+      "He mulled over the cider with spices on the stove.",
+      "I need to mull over the offer before giving my answer.",
+      "I mulled over the apple juice for a hot winter drink.",
+      "She mulled over the wine with cinnamon for the holiday."
+    ],
+    "answer": 1,
+    "explanation": "'mull over' (decisions) = consider. Not heating spiced drinks.",
+    "explanationJa": "「mull over」は「じっくり考える」。飲み物を温める意味ではない。"
+  },
+  {
+    "id": 150,
+    "level": 3,
+    "word": "iron out",
+    "definition": "resolve issues / details",
+    "sentences": [
+      "We still need to iron out a few details before we launch.",
+      "I ironed out the wrinkles from the linen tablecloth.",
+      "He ironed out his pants on the ironing board this morning.",
+      "She ironed out her dress shirt before the interview."
+    ],
+    "answer": 0,
+    "explanation": "'iron out' (problems) = resolve. Not ironing clothes.",
+    "explanationJa": "「iron out」は「問題を解決する」。アイロンをかける意味ではない。"
+  },
+  {
+    "id": 151,
+    "level": 3,
+    "word": "brush up on",
+    "definition": "review / refresh skill",
+    "sentences": [
+      "She brushed up on her teeth before the dentist visit.",
+      "I brushed up on the carpet before the guests arrived.",
+      "He brushed up on his hair before the family photo session.",
+      "I need to brush up on my Spanish before the trip next month."
+    ],
+    "answer": 3,
+    "explanation": "'brush up on' (skills) = review. Not literal brushing.",
+    "explanationJa": "「brush up on」は「復習する」。実際にブラシをかける意味ではない。"
+  },
+  {
+    "id": 152,
+    "level": 3,
+    "word": "ease into",
+    "definition": "gradually start",
+    "sentences": [
+      "She eased into the warm bathtub on the cold evening.",
+      "I eased into the swimming pool during the hot afternoon.",
+      "I'm trying to ease into a new exercise routine this month.",
+      "He eased into the comfortable couch after a long day."
+    ],
+    "answer": 2,
+    "explanation": "'ease into' (activities) = gradually start. Not physical entry.",
+    "explanationJa": "「ease into」は「徐々に始める」。物理的に入る意味ではない。"
+  },
+  {
+    "id": 153,
+    "level": 3,
+    "word": "fall through",
+    "definition": "fail to happen as planned",
+    "sentences": [
+      "He fell through the thin ice while skating on the lake.",
+      "I fell through the trapdoor during the haunted house tour.",
+      "The deal fell through at the last minute, unfortunately.",
+      "She fell through the broken floorboards in the old attic."
+    ],
+    "answer": 2,
+    "explanation": "'fall through' (plans) = fail. Not literal falling.",
+    "explanationJa": "「fall through」は「(計画が)流れる」。物理的に落ちる意味ではない。"
+  },
+  {
+    "id": 154,
+    "level": 3,
+    "word": "follow through",
+    "definition": "complete what was started",
+    "sentences": [
+      "He talks a big game but rarely follows through on promises.",
+      "He followed through the hallway during the office tour.",
+      "I followed through the park during the guided nature walk.",
+      "She followed through the door behind her colleague today."
+    ],
+    "answer": 0,
+    "explanation": "'follow through' (commitments) = complete. Not following physically.",
+    "explanationJa": "「follow through」は「最後までやり通す」。物理的に追う意味ではない。"
+  },
+  {
+    "id": 155,
+    "level": 3,
+    "word": "come around",
+    "definition": "change one's mind / agree eventually",
+    "sentences": [
+      "He came around the back of the house through the garden.",
+      "She came around the corner of the office building today.",
+      "I came around the side of the parked truck slowly.",
+      "She wasn't sure at first, but she came around to the idea."
+    ],
+    "answer": 3,
+    "explanation": "'come around' (opinions) = agree eventually. Not physical movement.",
+    "explanationJa": "「come around」は「考えを変えて同意する」。回り込む意味ではない。"
+  },
+  {
+    "id": 156,
+    "level": 3,
+    "word": "dawn on",
+    "definition": "suddenly realize",
+    "sentences": [
+      "Light dawned on the lake during the peaceful morning.",
+      "The morning dawned on the campsite during our trip.",
+      "The sun dawned on the mountains during the early hike.",
+      "It just dawned on me that I forgot to send the invoice."
+    ],
+    "answer": 3,
+    "explanation": "'dawn on' (realization) = suddenly realize. Not actual dawn.",
+    "explanationJa": "「dawn on」は「ハッと気づく」。実際の夜明けの意味ではない。"
+  },
+  {
+    "id": 157,
+    "level": 3,
+    "word": "lean toward",
+    "definition": "tend to prefer",
+    "sentences": [
+      "He leaned toward the doorway during the long conversation.",
+      "She leaned toward the wall while taking the family photo.",
+      "I leaned toward the bookshelf to reach the top shelf.",
+      "I'm leaning toward the second candidate for this role."
+    ],
+    "answer": 3,
+    "explanation": "'lean toward' (preferences) = prefer. Not physical leaning.",
+    "explanationJa": "「lean toward」は「~の方に傾く(好み)」。物理的に傾く意味ではない。"
+  },
+  {
+    "id": 158,
+    "level": 3,
+    "word": "mind you",
+    "definition": "as a side note / remember",
+    "sentences": [
+      "She minded you carefully during the daycare shift today.",
+      "I minded you at the kindergarten this whole afternoon.",
+      "He minded you in the playground while the parents talked.",
+      "It's a great deal — mind you, the warranty is limited."
+    ],
+    "answer": 3,
+    "explanation": "'mind you' = note that (idiom). Not 'taking care of you'.",
+    "explanationJa": "「mind you」は「ただし~だけど」。「あなたの世話をする」意味ではない。"
+  },
+  {
+    "id": 159,
+    "level": 3,
+    "word": "granted",
+    "definition": "admittedly / I concede",
+    "sentences": [
+      "Granted, the price is high, but the quality justifies it.",
+      "He granted the loan to the qualified applicant today.",
+      "She granted the wish for her birthday this year.",
+      "I granted permission for the field trip to the museum."
+    ],
+    "answer": 0,
+    "explanation": "'granted' (concession) = admittedly. Not 'giving' meaning.",
+    "explanationJa": "「granted」(譲歩)は「確かに」。「与える」意味ではない。"
+  },
+  {
+    "id": 160,
+    "level": 3,
+    "word": "that said",
+    "definition": "however / on the other hand",
+    "sentences": [
+      "I that said my opinion at the parent teacher conference.",
+      "It's a great phone. That said, the battery life isn't ideal.",
+      "She that said her speech at the wedding reception.",
+      "He that said his lines on the theater stage perfectly."
+    ],
+    "answer": 1,
+    "explanation": "'that said' = however (transition phrase). Not a verb construction.",
+    "explanationJa": "「that said」は「とはいえ」(つなぎ表現)。動詞句ではない。"
+  },
+  {
+    "id": 161,
+    "level": 3,
+    "word": "come to think of it",
+    "definition": "now that I consider it",
+    "sentences": [
+      "She came to think of it across the wide open meadow today.",
+      "He came to think of it under the bridge while waiting.",
+      "I came to think of it through the long quiet hallway.",
+      "Come to think of it, I haven't seen Mark since last summer."
+    ],
+    "answer": 3,
+    "explanation": "'come to think of it' = now realizing. Not physical motion.",
+    "explanationJa": "「come to think of it」は「そう言えば」。物理的な動きではない。"
+  },
+  {
+    "id": 162,
+    "level": 3,
+    "word": "on second thought",
+    "definition": "after reconsidering",
+    "sentences": [
+      "On second thought, let's just order delivery instead.",
+      "He drew on second thought across the canvas yesterday.",
+      "I painted on second thought onto the bedroom wall.",
+      "She wrote on second thought in her diary every evening."
+    ],
+    "answer": 0,
+    "explanation": "'on second thought' = reconsidering. Not writing surfaces.",
+    "explanationJa": "「on second thought」は「やっぱり」。書く場所の意味ではない。"
+  },
+  {
+    "id": 163,
+    "level": 3,
+    "word": "all things considered",
+    "definition": "taking everything into account",
+    "sentences": [
+      "All things considered, the trip was a real success.",
+      "He stacked all things considered on the storage shelf.",
+      "I arranged all things considered into the moving truck.",
+      "She put all things considered onto the kitchen table."
+    ],
+    "answer": 0,
+    "explanation": "'all things considered' = overall. Not physical things.",
+    "explanationJa": "「all things considered」は「全てを考慮すると」。物の意味ではない。"
+  },
+  {
+    "id": 164,
+    "level": 3,
+    "word": "fair point",
+    "definition": "valid argument",
+    "sentences": [
+      "She scored a fair point during the basketball game.",
+      "I gained a fair point during the volleyball tournament.",
+      "Fair point — I hadn't thought about it from that angle.",
+      "He earned a fair point in the tennis match yesterday."
+    ],
+    "answer": 2,
+    "explanation": "'fair point' = valid argument. Not a sports point.",
+    "explanationJa": "「fair point」は「もっともな指摘」。スポーツの得点ではない。"
+  },
+  {
+    "id": 165,
+    "level": 3,
+    "word": "point taken",
+    "definition": "I accept your point",
+    "sentences": [
+      "I point taken the test in school this morning quickly.",
+      "Point taken — I'll be more careful with my deadlines.",
+      "She point taken the photo of the family during dinner.",
+      "He point taken the ball into the basketball hoop."
+    ],
+    "answer": 1,
+    "explanation": "'point taken' = I accept your argument. Not a verb construction.",
+    "explanationJa": "「point taken」は「了解した、納得」。動詞句ではない。"
+  },
+  {
+    "id": 166,
+    "level": 3,
+    "word": "beg to differ",
+    "definition": "politely disagree",
+    "sentences": [
+      "I beg to differ — the data actually shows the opposite trend.",
+      "She begged to differ for some money on the street corner.",
+      "He begged to differ for food outside the restaurant.",
+      "I begged to differ for shelter during the heavy rainstorm."
+    ],
+    "answer": 0,
+    "explanation": "'beg to differ' = politely disagree (idiom). Not literal begging.",
+    "explanationJa": "「beg to differ」は「失礼ながら反対する」。物乞いの意味ではない。"
+  },
+  {
+    "id": 167,
+    "level": 3,
+    "word": "have a point",
+    "definition": "make a valid argument",
+    "sentences": [
+      "She has a point on top of her sharpened pencil today.",
+      "He has a point on his fishing hook for tomorrow's trip.",
+      "I have a point on the end of my new sewing needle.",
+      "You have a point — maybe we should reconsider this approach."
+    ],
+    "answer": 3,
+    "explanation": "'have a point' (arguments) = valid argument. Not literal points.",
+    "explanationJa": "「have a point」は「言い分にも一理ある」。物の先端の意味ではない。"
+  },
+  {
+    "id": 168,
+    "level": 3,
+    "word": "for what it's worth",
+    "definition": "this may not help, but",
+    "sentences": [
+      "I traded it for what it's worth at the consignment shop.",
+      "He bought it for what it's worth at the antique store.",
+      "She sold it for what it's worth at the garage sale.",
+      "For what it's worth, I think you made the right call."
+    ],
+    "answer": 3,
+    "explanation": "'for what it's worth' (opinion) = humbly offered. Not actual value.",
+    "explanationJa": "「for what it's worth」は「参考までに」。実際の価値の意味ではない。"
+  },
+  {
+    "id": 169,
+    "level": 3,
+    "word": "needless to say",
+    "definition": "obviously",
+    "sentences": [
+      "He kept it needless to say in the meditation studio today.",
+      "Needless to say, the project deadline is non-negotiable.",
+      "She found it needless to say at the noisy quiet library.",
+      "I made it needless to say during the silent retreat."
+    ],
+    "answer": 1,
+    "explanation": "'needless to say' = obviously (transition). Not a verb action.",
+    "explanationJa": "「needless to say」は「言うまでもなく」。動詞ではない。"
+  },
+  {
+    "id": 170,
+    "level": 3,
+    "word": "as a matter of fact",
+    "definition": "actually / in fact",
+    "sentences": [
+      "She solved as a matter of fact during the science experiment.",
+      "As a matter of fact, I just spoke with him this morning.",
+      "I researched as a matter of fact for my history assignment.",
+      "He proved as a matter of fact in the geometry problem set."
+    ],
+    "answer": 1,
+    "explanation": "'as a matter of fact' = in fact (transition). Not 'a fact'.",
+    "explanationJa": "「as a matter of fact」は「実は」。「事実」そのものではない。"
+  },
+  {
+    "id": 171,
+    "level": 3,
+    "word": "when push comes to shove",
+    "definition": "in a critical moment",
+    "sentences": [
+      "I tripped when push comes to shove during the soccer match.",
+      "She started when push comes to shove during the rugby game.",
+      "He fell when push comes to shove during wrestling practice.",
+      "When push comes to shove, you can really count on her."
+    ],
+    "answer": 3,
+    "explanation": "'when push comes to shove' = at critical moment. Not physical pushing.",
+    "explanationJa": "「when push comes to shove」は「いざという時」。実際に押し合う意味ではない。"
+  },
+  {
+    "id": 172,
+    "level": 3,
+    "word": "a far cry from",
+    "definition": "very different from",
+    "sentences": [
+      "He shouted a far cry from across the canyon during the hike.",
+      "She made a far cry from the back of the auditorium today.",
+      "This new place is a far cry from our old apartment.",
+      "I let out a far cry from the top of the mountain peak."
+    ],
+    "answer": 2,
+    "explanation": "'a far cry from' = very different. Not literal crying out.",
+    "explanationJa": "「a far cry from」は「~とは大違い」。遠くで叫ぶ意味ではない。"
+  },
+  {
+    "id": 173,
+    "level": 3,
+    "word": "at the end of the day",
+    "definition": "ultimately",
+    "sentences": [
+      "At the end of the day, what matters most is being healthy.",
+      "She felt tired at the end of the day after her shift.",
+      "He came home at the end of the day from the office.",
+      "I relaxed at the end of the day on my comfortable couch."
+    ],
+    "answer": 0,
+    "explanation": "'at the end of the day' (idiom) = ultimately. Not literal day's end.",
+    "explanationJa": "「at the end of the day」は「結局のところ」。一日の終わりの意味ではない。"
+  },
+  {
+    "id": 174,
+    "level": 3,
+    "word": "benefit of the doubt",
+    "definition": "trust without proof",
+    "sentences": [
+      "I'll give him the benefit of the doubt on this one.",
+      "He claimed the benefit of the doubt on his tax return.",
+      "I applied for the benefit of the doubt at the welfare office.",
+      "She received the benefit of the doubt from her health insurance."
+    ],
+    "answer": 0,
+    "explanation": "'benefit of the doubt' = give trust (idiom). Not financial benefit.",
+    "explanationJa": "「benefit of the doubt」は「疑わしきは罰せず」。給付金の意味ではない。"
+  },
+  {
+    "id": 175,
+    "level": 3,
+    "word": "read between the lines",
+    "definition": "infer hidden meaning",
+    "sentences": [
+      "If you read between the lines, she's clearly unhappy here.",
+      "I read between the lines of the printed graph paper.",
+      "He read between the lines of the lined exercise book.",
+      "She read between the lines on the ruled notebook paper today."
+    ],
+    "answer": 0,
+    "explanation": "'read between the lines' = infer (idiom). Not literal reading.",
+    "explanationJa": "「read between the lines」は「行間を読む」。実際に行間を読む意味ではない。"
+  },
+  {
+    "id": 176,
+    "level": 3,
+    "word": "cross that bridge",
+    "definition": "deal with later",
+    "sentences": [
+      "She crossed that bridge over the river during the morning hike.",
+      "I crossed that bridge near the train station this weekend.",
+      "He crossed that bridge in the city park yesterday afternoon.",
+      "We'll cross that bridge when we come to it next month."
+    ],
+    "answer": 3,
+    "explanation": "'cross that bridge' = deal with later (idiom). Not physical bridges.",
+    "explanationJa": "「cross that bridge」は「その時はその時」。実際の橋を渡る意味ではない。"
+  },
+  {
+    "id": 177,
+    "level": 3,
+    "word": "play devil's advocate",
+    "definition": "argue opposing view for discussion",
+    "sentences": [
+      "Let me play devil's advocate here — what if we're wrong?",
+      "He played devil's advocate at the church theatrical performance.",
+      "I played devil's advocate in the school drama production.",
+      "She played devil's advocate on the courtroom stage during the play."
+    ],
+    "answer": 0,
+    "explanation": "'play devil's advocate' = argue opposite for discussion. Not acting role.",
+    "explanationJa": "「play devil's advocate」は「あえて反対意見を言う」。役を演じる意味ではない。"
+  },
+  {
+    "id": 178,
+    "level": 3,
+    "word": "a tough call",
+    "definition": "difficult decision",
+    "sentences": [
+      "I received a tough call from the long distance number today.",
+      "Choosing between those two finalists was a tough call.",
+      "She made a tough call on her cell phone during the interview.",
+      "He answered a tough call at the busy customer service desk."
+    ],
+    "answer": 1,
+    "explanation": "'a tough call' = hard decision (idiom). Not a phone call.",
+    "explanationJa": "「a tough call」は「難しい判断」。電話の意味ではない。"
+  },
+  {
+    "id": 179,
+    "level": 3,
+    "word": "in the same boat",
+    "definition": "in the same situation",
+    "sentences": [
+      "He rowed in the same boat across the calm pond today.",
+      "I rode in the same boat on the river cruise yesterday.",
+      "We're all in the same boat with these new requirements.",
+      "She sat in the same boat during the lake fishing trip."
+    ],
+    "answer": 2,
+    "explanation": "'in the same boat' = same situation (idiom). Not actual boats.",
+    "explanationJa": "「in the same boat」は「同じ状況」。実際の船の意味ではない。"
+  },
+  {
+    "id": 180,
+    "level": 3,
+    "word": "by and large",
+    "definition": "generally / mostly",
+    "sentences": [
+      "I parked by and large in the spacious parking lot today.",
+      "She worked by and large in the office supply storage room.",
+      "He stood by and large near the warehouse loading dock.",
+      "By and large, the team is happy with the new schedule."
+    ],
+    "answer": 3,
+    "explanation": "'by and large' = generally (idiom). Not a position descriptor.",
+    "explanationJa": "「by and large」は「概して」。位置の意味ではない。"
+  },
+  {
+    "id": 181,
+    "level": 3,
+    "word": "for the most part",
+    "definition": "mostly / generally",
+    "sentences": [
+      "I sold for the most part at the local farmers market.",
+      "She bought for the most part at the grocery store yesterday.",
+      "For the most part, the meeting went smoothly today.",
+      "He paid for the most part on his way out of the cafe."
+    ],
+    "answer": 2,
+    "explanation": "'for the most part' = mostly (transition). Not 'the largest part'.",
+    "explanationJa": "「for the most part」は「大部分は」(つなぎ)。実際の量の意味ではない。"
+  },
+  {
+    "id": 182,
+    "level": 3,
+    "word": "more or less",
+    "definition": "approximately",
+    "sentences": [
+      "The project is more or less done — just final edits remain.",
+      "He poured more or less into the empty glass at the table.",
+      "I added more or less to the recipe while baking yesterday.",
+      "She had more or less in the pitcher during dinner tonight."
+    ],
+    "answer": 0,
+    "explanation": "'more or less' = approximately (idiom). Not quantities of liquid.",
+    "explanationJa": "「more or less」は「だいたい」。液体の量の意味ではない。"
+  },
+  {
+    "id": 183,
+    "level": 3,
+    "word": "one way or another",
+    "definition": "by some means",
+    "sentences": [
+      "He walked one way or another along the country road.",
+      "I cycled one way or another through the city streets.",
+      "She drove one way or another down the busy highway.",
+      "One way or another, we'll get this finished by Friday."
+    ],
+    "answer": 3,
+    "explanation": "'one way or another' = somehow (idiom). Not literal directions.",
+    "explanationJa": "「one way or another」は「何とかして」。方向の意味ではない。"
+  },
+  {
+    "id": 184,
+    "level": 3,
+    "word": "like it or not",
+    "definition": "regardless of preference",
+    "sentences": [
+      "I liked it or not the music at the concert last weekend.",
+      "He liked it or not the movie at the theater yesterday.",
+      "Like it or not, remote work is here to stay these days.",
+      "She liked it or not the food at the new restaurant tonight."
+    ],
+    "answer": 2,
+    "explanation": "'like it or not' = regardless (idiom). Not a verb construction.",
+    "explanationJa": "「like it or not」は「好むと好まざるとに関わらず」。動詞句ではない。"
+  },
+  {
+    "id": 185,
+    "level": 3,
+    "word": "as luck would have it",
+    "definition": "by coincidence",
+    "sentences": [
+      "I prayed as luck would have it before the big competition.",
+      "She wished as luck would have it during her birthday wish.",
+      "He hoped as luck would have it before opening the lottery ticket.",
+      "As luck would have it, we ran into him at the airport."
+    ],
+    "answer": 3,
+    "explanation": "'as luck would have it' = by coincidence. Not 'wishing for luck'.",
+    "explanationJa": "「as luck would have it」は「運のいいことに」。幸運を願う意味ではない。"
+  },
+  {
+    "id": 186,
+    "level": 3,
+    "word": "truth be told",
+    "definition": "honestly speaking",
+    "sentences": [
+      "She told the truth be told to the police officer at the scene.",
+      "I shared the truth be told during the formal interview.",
+      "Truth be told, I wasn't a fan of the proposal either.",
+      "He spoke the truth be told on the witness stand in court."
+    ],
+    "answer": 2,
+    "explanation": "'truth be told' = honestly (idiom phrase). Not 'telling truth'.",
+    "explanationJa": "「truth be told」は「正直に言うと」。「真実を語る」意味ではない。"
+  },
+  {
+    "id": 187,
+    "level": 3,
+    "word": "on the off chance",
+    "definition": "in the small possibility",
+    "sentences": [
+      "He gambled on the off chance during the football game.",
+      "She bet on the off chance at the casino last weekend.",
+      "I wagered on the off chance during the horse racing event.",
+      "On the off chance you see Sarah, please tell her I called."
+    ],
+    "answer": 3,
+    "explanation": "'on the off chance' = small possibility (idiom). Not gambling odds.",
+    "explanationJa": "「on the off chance」は「もしかしたら」。賭けの確率の意味ではない。"
+  },
+  {
+    "id": 188,
+    "level": 3,
+    "word": "odds are",
+    "definition": "it is likely that",
+    "sentences": [
+      "Odds are, the package will arrive sometime tomorrow afternoon.",
+      "He calculated the odds are at the casino blackjack table.",
+      "She bet the odds are on the lottery numbers this week.",
+      "I checked the odds are on the sports betting website today."
+    ],
+    "answer": 0,
+    "explanation": "'odds are' = likely (idiom). Not betting odds.",
+    "explanationJa": "「odds are」は「~の可能性が高い」。賭けのオッズの意味ではない。"
+  },
+  {
+    "id": 189,
+    "level": 3,
+    "word": "as far as I can tell",
+    "definition": "based on what I know",
+    "sentences": [
+      "She walked as far as I can tell down the long sidewalk.",
+      "As far as I can tell, the system is working correctly now.",
+      "He ran as far as I can tell on the marathon course route.",
+      "I biked as far as I can tell along the scenic mountain trail."
+    ],
+    "answer": 1,
+    "explanation": "'as far as I can tell' = to my knowledge (idiom). Not distance.",
+    "explanationJa": "「as far as I can tell」は「私の知る限り」。距離の意味ではない。"
+  },
+  {
+    "id": 190,
+    "level": 3,
+    "word": "give it a shot",
+    "definition": "try it",
+    "sentences": [
+      "She gave it a shot of espresso at the morning meeting.",
+      "I gave it a shot of vaccine during the medical checkup.",
+      "He gave it a shot of vodka with the cocktail tonight.",
+      "Why not give it a shot? You've got nothing to lose, really."
+    ],
+    "answer": 3,
+    "explanation": "'give it a shot' = try (idiom). Not a measurement of liquid/medicine.",
+    "explanationJa": "「give it a shot」は「やってみる」。量や注射の意味ではない。"
+  },
+  {
+    "id": 191,
+    "level": 3,
+    "word": "in hot water",
+    "definition": "in trouble",
+    "sentences": [
+      "He's in hot water with the boss after missing the deadline.",
+      "I cooked in hot water during the pasta-making demonstration.",
+      "He soaked in hot water in the bathtub after a long workday.",
+      "She bathed in hot water at the spa during her relaxing weekend."
+    ],
+    "answer": 0,
+    "explanation": "'in hot water' = in trouble (idiom). Not literal hot water.",
+    "explanationJa": "「in hot water」は「困った状況」。実際のお湯の意味ではない。"
+  },
+  {
+    "id": 192,
+    "level": 3,
+    "word": "a stone's throw",
+    "definition": "very close distance",
+    "sentences": [
+      "Our office is just a stone's throw from the train station.",
+      "She did a stone's throw across the calm pond yesterday.",
+      "I attempted a stone's throw at the lake during the picnic.",
+      "He practiced a stone's throw at the river over the weekend."
+    ],
+    "answer": 0,
+    "explanation": "'a stone's throw' = nearby (idiom). Not literal throwing stones.",
+    "explanationJa": "「a stone's throw」は「目と鼻の先」。石を投げる意味ではない。"
+  },
+  {
+    "id": 193,
+    "level": 3,
+    "word": "second nature",
+    "definition": "deeply familiar / automatic",
+    "sentences": [
+      "He explored second nature during the wilderness camping trip.",
+      "She studied second nature at the local botanical garden.",
+      "I photographed second nature in the forest preserve yesterday.",
+      "Driving stick is second nature to me after all these years."
+    ],
+    "answer": 3,
+    "explanation": "'second nature' = automatic skill (idiom). Not literal nature.",
+    "explanationJa": "「second nature」は「すっかり身についた」。自然の意味ではない。"
+  },
+  {
+    "id": 194,
+    "level": 3,
+    "word": "in a pinch",
+    "definition": "in an emergency / if needed",
+    "sentences": [
+      "It's not perfect, but it'll work in a pinch for tonight.",
+      "I noticed a small in a pinch on my arm from the bug bite.",
+      "She gave him in a pinch on the cheek to wake him up.",
+      "He felt a pain in a pinch from the tight new shoes."
+    ],
+    "answer": 0,
+    "explanation": "'in a pinch' = if needed (idiom). Not literal pinching.",
+    "explanationJa": "「in a pinch」は「いざという時」。つねる意味ではない。"
+  },
+  {
+    "id": 195,
+    "level": 3,
+    "word": "par for the course",
+    "definition": "typical / expected",
+    "sentences": [
+      "I scored par for the course during my morning round of golf.",
+      "She shot par for the course during the golf tournament.",
+      "Late deliveries are pretty much par for the course with them.",
+      "He achieved par for the course at the country club tournament."
+    ],
+    "answer": 2,
+    "explanation": "'par for the course' = expected (idiom). Not literal golf score.",
+    "explanationJa": "「par for the course」は「お決まり/想定内」。ゴルフの得点の意味ではない。"
+  },
+  {
+    "id": 196,
+    "level": 3,
+    "word": "give or take",
+    "definition": "approximately / plus or minus",
+    "sentences": [
+      "He chose give or take in the gift exchange at the holiday party.",
+      "It'll take an hour, give or take, depending on traffic conditions.",
+      "She did give or take from the donation box at the charity event.",
+      "I selected give or take from the office supply closet today."
+    ],
+    "answer": 1,
+    "explanation": "'give or take' = approximately (idiom). Not give/take action.",
+    "explanationJa": "「give or take」は「だいたい」。「与える/受け取る」意味ではない。"
+  },
+  {
+    "id": 197,
+    "level": 3,
+    "word": "see eye to eye",
+    "definition": "agree completely",
+    "sentences": [
+      "She saw eye to eye in the optometrist's office during the exam.",
+      "He saw eye to eye through the new prescription glasses.",
+      "I saw eye to eye during the routine vision test today.",
+      "We don't always see eye to eye, but we work well together."
+    ],
+    "answer": 3,
+    "explanation": "'see eye to eye' = agree (idiom). Not literal eye contact.",
+    "explanationJa": "「see eye to eye」は「意見が合う」。実際の目の意味ではない。"
+  },
+  {
+    "id": 198,
+    "level": 3,
+    "word": "keep posted",
+    "definition": "keep informed",
+    "sentences": [
+      "I kept posted by the front door during the open house tour.",
+      "Keep me posted on how the negotiation goes tomorrow.",
+      "She kept posted at the front desk during her shift.",
+      "He kept posted near the building entrance during the event."
+    ],
+    "answer": 1,
+    "explanation": "'keep posted' = keep informed (idiom). Not standing as a guard.",
+    "explanationJa": "「keep posted」は「随時知らせて」。立ち番をする意味ではない。"
+  },
+  {
+    "id": 199,
+    "level": 3,
+    "word": "a tall order",
+    "definition": "difficult task",
+    "sentences": [
+      "Finishing this report by tomorrow is a tall order, honestly.",
+      "He requested a tall order at the fast food drive thru today.",
+      "She placed a tall order at the coffee shop this morning.",
+      "I made a tall order at the takeout restaurant for dinner."
+    ],
+    "answer": 0,
+    "explanation": "'a tall order' = difficult task (idiom). Not a beverage size.",
+    "explanationJa": "「a tall order」は「難題」。飲み物のサイズの意味ではない。"
+  },
+  {
+    "id": 200,
+    "level": 3,
+    "word": "the jury is still out",
+    "definition": "decision not yet made",
+    "sentences": [
+      "I noted the jury is still out at the legal proceedings yesterday.",
+      "She watched the jury is still out in the courtroom drama film.",
+      "The jury is still out on whether the new policy will work.",
+      "He observed the jury is still out during the murder trial."
+    ],
+    "answer": 2,
+    "explanation": "'the jury is still out' = undecided (idiom). Not a literal jury.",
+    "explanationJa": "「the jury is still out」は「まだ結論が出ていない」。実際の陪審員の意味ではない。"
+  }
 ]

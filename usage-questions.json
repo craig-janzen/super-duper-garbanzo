@@ -11,7 +11,8 @@
       "I deadline my emails every morning."
     ],
     "answer": 2,
-    "explanation": "'Deadline' is a noun, not a verb. You meet, miss, or set a deadline. Use 'finish', 'submit', or 'send' for the verb."
+    "explanation": "'Deadline' is a noun, not a verb. You meet, miss, or set a deadline. Use 'finish', 'submit', or 'send' for the verb.",
+    "explanationJa": "「deadline」は名詞で、動詞ではありません。meet/miss/set a deadline のように使います。動詞には finish, submit, send を使いましょう。"
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
       "Please schedule the printer in the corner."
     ],
     "answer": 0,
-    "explanation": "'Schedule' as a verb means to plan a time for something. The other sentences confuse it with 'show', 'busy', or 'place'."
+    "explanation": "'Schedule' as a verb means to plan a time for something. The other sentences confuse it with 'show', 'busy', or 'place'.",
+    "explanationJa": "動詞「schedule」は予定を立てるという意味です。show, busy, place の意味と混同されています。"
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
       "I will budget you the file by email."
     ],
     "answer": 1,
-    "explanation": "A budget is an amount of money set aside. The other sentences misuse it for 'schedule', 'lock', or 'send'."
+    "explanation": "A budget is an amount of money set aside. The other sentences misuse it for 'schedule', 'lock', or 'send'.",
+    "explanationJa": "「budget」は予算として確保したお金のことです。schedule, lock, send の代わりには使えません。"
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
       "The colleague of the report was clear."
     ],
     "answer": 1,
-    "explanation": "'Colleague' is a noun referring to a coworker. It is not a verb, an object, or a synonym for 'conclusion'."
+    "explanation": "'Colleague' is a noun referring to a coworker. It is not a verb, an object, or a synonym for 'conclusion'.",
+    "explanationJa": "「colleague」は同僚を意味する名詞です。動詞や conclusion の同義語ではありません。"
   },
   {
     "id": 5,
@@ -67,7 +71,8 @@
       "She approved against the proposal."
     ],
     "answer": 0,
-    "explanation": "'Approve' means to give official agreement. It does not mean 'arrive', 'prefer', or 'vote against' (which would be 'oppose')."
+    "explanation": "'Approve' means to give official agreement. It does not mean 'arrive', 'prefer', or 'vote against' (which would be 'oppose').",
+    "explanationJa": "「approve」は公式に同意するという意味です。arrive, prefer, oppose の意味ではありません。"
   },
   {
     "id": 6,
@@ -81,7 +86,8 @@
       "She submit very tired after the long meeting."
     ],
     "answer": 1,
-    "explanation": "'Submit' is a verb meaning to formally hand in. The other sentences confuse it with 'leave', a noun form, or 'looked'."
+    "explanation": "'Submit' is a verb meaning to formally hand in. The other sentences confuse it with 'leave', a noun form, or 'looked'.",
+    "explanationJa": "「submit」は正式に提出するという動詞です。leave や名詞形、looked と混同されています。"
   },
   {
     "id": 7,
@@ -95,7 +101,8 @@
       "The attend of the meeting was Mr. Lee."
     ],
     "answer": 0,
-    "explanation": "'Attend' means to be present at. It is not used for 'forward' (email), 'type', or as a noun for 'chairperson'."
+    "explanation": "'Attend' means to be present at. It is not used for 'forward' (email), 'type', or as a noun for 'chairperson'.",
+    "explanationJa": "「attend」は出席するという意味です。forward(転送)、type、chairperson の代わりには使いません。"
   },
   {
     "id": 8,
@@ -109,7 +116,8 @@
       "She confirmed the door behind her."
     ],
     "answer": 0,
-    "explanation": "'Confirm' means to verify or formally agree. It is not a synonym for 'order', 'make', or 'close'."
+    "explanation": "'Confirm' means to verify or formally agree. It is not a synonym for 'order', 'make', or 'close'.",
+    "explanationJa": "「confirm」は確認・正式同意を意味します。order, make, close の同義語ではありません。"
   },
   {
     "id": 9,
@@ -123,7 +131,8 @@
       "The weather was cancel today."
     ],
     "answer": 1,
-    "explanation": "'Cancel' means to call off a plan. It is not used for 'order', 'arrive', or as an adjective for weather."
+    "explanation": "'Cancel' means to call off a plan. It is not used for 'order', 'arrive', or as an adjective for weather.",
+    "explanationJa": "「cancel」は予定を取りやめるという意味です。order, arrive、天候を表す形容詞ではありません。"
   },
   {
     "id": 10,
@@ -137,7 +146,8 @@
       "The meeting was urgent in the main room."
     ],
     "answer": 2,
-    "explanation": "'Urgent' describes something needing immediate action. It is not a synonym for 'busy', a verb meaning 'push', or 'held'."
+    "explanation": "'Urgent' describes something needing immediate action. It is not a synonym for 'busy', a verb meaning 'push', or 'held'.",
+    "explanationJa": "「urgent」は早急な対応が必要なことを表します。busy や push の動詞、held の意味ではありません。"
   },
   {
     "id": 11,
@@ -151,7 +161,8 @@
       "The invoice of the team is very high."
     ],
     "answer": 1,
-    "explanation": "An invoice is a bill for goods or services. It is not used for 'book', 'inform', or as a synonym for 'morale'."
+    "explanation": "An invoice is a bill for goods or services. It is not used for 'book', 'inform', or as a synonym for 'morale'.",
+    "explanationJa": "「invoice」は請求書のことです。book, inform、morale の代わりには使えません。"
   },
   {
     "id": 12,
@@ -165,7 +176,8 @@
       "The supplier was very tired after the long flight."
     ],
     "answer": 0,
-    "explanation": "A supplier is a business that provides goods. It is not 'organiser', a verb 'to refill', or a synonym for 'traveller'."
+    "explanation": "A supplier is a business that provides goods. It is not 'organiser', a verb 'to refill', or a synonym for 'traveller'.",
+    "explanationJa": "「supplier」は商品を供給する業者です。organiser, refill の動詞、traveller の意味ではありません。"
   },
   {
     "id": 13,
@@ -179,7 +191,8 @@
       "She recruited very early this morning."
     ],
     "answer": 1,
-    "explanation": "'Recruit' means to hire new staff. The other sentences confuse it with 'submit', a noun for 'noise', or 'arrived'."
+    "explanation": "'Recruit' means to hire new staff. The other sentences confuse it with 'submit', a noun for 'noise', or 'arrived'.",
+    "explanationJa": "「recruit」は新しい人材を採用するという意味です。submit、騒音の名詞、arrived と混同されています。"
   },
   {
     "id": 14,
@@ -193,7 +206,8 @@
       "She is a complaint person to work with."
     ],
     "answer": 0,
-    "explanation": "A 'complaint' is a noun expressing dissatisfaction. The other sentences misuse it as a verb meaning 'submit', 'walked', or as an adjective."
+    "explanation": "A 'complaint' is a noun expressing dissatisfaction. The other sentences misuse it as a verb meaning 'submit', 'walked', or as an adjective.",
+    "explanationJa": "「complaint」は不満を表す名詞です。submit の動詞、walked、形容詞用法と混同されています。"
   },
   {
     "id": 15,
@@ -207,7 +221,8 @@
       "The team rescheduled very loudly."
     ],
     "answer": 1,
-    "explanation": "'Reschedule' means to change a planned time. It does not mean 'order', 'close', or 'talked'."
+    "explanation": "'Reschedule' means to change a planned time. It does not mean 'order', 'close', or 'talked'.",
+    "explanationJa": "「reschedule」は予定を変更するという意味です。order, close, talked の意味ではありません。"
   },
   {
     "id": 16,
@@ -221,7 +236,8 @@
       "The forward of the report was excellent."
     ],
     "answer": 0,
-    "explanation": "In a business email context, 'forward' means to pass a message on. It does not mean 'buy', 'walked', or 'introduction'."
+    "explanation": "In a business email context, 'forward' means to pass a message on. It does not mean 'buy', 'walked', or 'introduction'.",
+    "explanationJa": "ビジネスメールでの「forward」はメールを転送するという意味です。buy, walked, introduction の意味ではありません。"
   },
   {
     "id": 17,
@@ -235,7 +251,8 @@
       "We department the meeting at 9 a.m."
     ],
     "answer": 0,
-    "explanation": "A 'department' is an organisational unit. It is not a verb meaning 'meet', an adjective for 'busy', or 'schedule'."
+    "explanation": "A 'department' is an organisational unit. It is not a verb meaning 'meet', an adjective for 'busy', or 'schedule'.",
+    "explanationJa": "「department」は組織の部署のことです。動詞 meet、busy の形容詞、schedule の意味ではありません。"
   },
   {
     "id": 18,
@@ -249,7 +266,8 @@
       "The quarter of the team is high today."
     ],
     "answer": 0,
-    "explanation": "In business, a 'quarter' is a fiscal period. It is not used as a verb meaning 'split', 'arrive', or as 'morale'."
+    "explanation": "In business, a 'quarter' is a fiscal period. It is not used as a verb meaning 'split', 'arrive', or as 'morale'.",
+    "explanationJa": "ビジネスでの「quarter」は四半期を指します。動詞 split, arrive、morale の意味ではありません。"
   },
   {
     "id": 19,
@@ -263,7 +281,8 @@
       "Please promote your time sheet by Friday."
     ],
     "answer": 2,
-    "explanation": "'Promote' (in HR) means to give someone a higher role. It does not mean 'buy', 'walked', or 'submit'."
+    "explanation": "'Promote' (in HR) means to give someone a higher role. It does not mean 'buy', 'walked', or 'submit'.",
+    "explanationJa": "人事における「promote」は昇進させるという意味です。buy, walked, submit の意味ではありません。"
   },
   {
     "id": 20,
@@ -277,7 +296,8 @@
       "The agenda was very cold this morning."
     ],
     "answer": 1,
-    "explanation": "An 'agenda' is a meeting plan. It is not a verb meaning 'close', 'walked', or an adjective for weather."
+    "explanation": "An 'agenda' is a meeting plan. It is not a verb meaning 'close', 'walked', or an adjective for weather.",
+    "explanationJa": "「agenda」は会議の議題のことです。動詞 close, walked、天候の形容詞ではありません。"
   },
   {
     "id": 21,
@@ -291,7 +311,8 @@
       "I leverage two coffees every morning."
     ],
     "answer": 0,
-    "explanation": "'Leverage' (v) means to use a strength to gain advantage. It is not 'walked', an adjective, or 'order'."
+    "explanation": "'Leverage' (v) means to use a strength to gain advantage. It is not 'walked', an adjective, or 'order'.",
+    "explanationJa": "動詞「leverage」は強みを活用するという意味です。walked、形容詞、order の意味ではありません。"
   },
   {
     "id": 22,
@@ -305,7 +326,8 @@
       "She is a very streamline person."
     ],
     "answer": 2,
-    "explanation": "'Streamline' means to simplify a process. It is not 'close', 'arrived', or a personality adjective."
+    "explanation": "'Streamline' means to simplify a process. It is not 'close', 'arrived', or a personality adjective.",
+    "explanationJa": "「streamline」はプロセスを簡略化するという意味です。close, arrived や性格を表す形容詞ではありません。"
   },
   {
     "id": 23,
@@ -319,7 +341,8 @@
       "She is feeling very allocate today."
     ],
     "answer": 0,
-    "explanation": "'Allocate' means to formally assign resources. It is not 'travel', 'talked', or an adjective."
+    "explanation": "'Allocate' means to formally assign resources. It is not 'travel', 'talked', or an adjective.",
+    "explanationJa": "「allocate」は資源を正式に割り当てるという意味です。travel, talked、形容詞ではありません。"
   },
   {
     "id": 24,
@@ -333,7 +356,8 @@
       "I outsource a coffee every morning."
     ],
     "answer": 1,
-    "explanation": "'Outsource' means to contract work to another company. It does not mean 'walked', 'busy', or 'order'."
+    "explanation": "'Outsource' means to contract work to another company. It does not mean 'walked', 'busy', or 'order'.",
+    "explanationJa": "「outsource」は業務を外部に委託するという意味です。walked, busy, order の意味ではありません。"
   },
   {
     "id": 25,
@@ -347,7 +371,8 @@
       "He liaised a sandwich for lunch."
     ],
     "answer": 0,
-    "explanation": "'Liaise' means to coordinate between groups, often with 'with'. It is not 'grew', 'closed', or 'ordered'."
+    "explanation": "'Liaise' means to coordinate between groups, often with 'with'. It is not 'grew', 'closed', or 'ordered'.",
+    "explanationJa": "「liaise」は集団間で連絡調整することで、よく with と一緒に使います。grew, closed, ordered の意味ではありません。"
   },
   {
     "id": 26,
@@ -361,7 +386,8 @@
       "The counter of the project was on Friday."
     ],
     "answer": 0,
-    "explanation": "'Counter' as a verb in negotiation means to reply with another offer. It is not 'arrive', an adjective, or 'deadline'."
+    "explanation": "'Counter' as a verb in negotiation means to reply with another offer. It is not 'arrive', an adjective, or 'deadline'.",
+    "explanationJa": "交渉での動詞「counter」は対案を出すという意味です。arrive、形容詞、deadline の意味ではありません。"
   },
   {
     "id": 27,
@@ -375,7 +401,8 @@
       "The team is very concede this week."
     ],
     "answer": 1,
-    "explanation": "'Concede' means to grant or admit something in negotiation. It is not 'walked', 'talked', or an adjective."
+    "explanation": "'Concede' means to grant or admit something in negotiation. It is not 'walked', 'talked', or an adjective.",
+    "explanationJa": "「concede」は交渉で譲歩・認めるという意味です。walked, talked、形容詞ではありません。"
   },
   {
     "id": 28,
@@ -389,7 +416,8 @@
       "The team exceed in the corner of the room."
     ],
     "answer": 0,
-    "explanation": "'Exceed' means to surpass a limit. It is not 'close', 'order', or 'gather'."
+    "explanation": "'Exceed' means to surpass a limit. It is not 'close', 'order', or 'gather'.",
+    "explanationJa": "「exceed」は限度を超えるという意味です。close, order, gather の意味ではありません。"
   },
   {
     "id": 29,
@@ -403,7 +431,8 @@
       "The team pending very loudly."
     ],
     "answer": 0,
-    "explanation": "'Pending' means awaiting a decision; it is used as adjective or preposition. It is not a verb meaning 'walked', 'ordered', or 'talked'."
+    "explanation": "'Pending' means awaiting a decision; it is used as adjective or preposition. It is not a verb meaning 'walked', 'ordered', or 'talked'.",
+    "explanationJa": "「pending」は決定待ちを意味し、形容詞・前置詞として使います。動詞 walked, ordered, talked の意味ではありません。"
   },
   {
     "id": 30,
@@ -417,7 +446,8 @@
       "The team interim very loudly."
     ],
     "answer": 0,
-    "explanation": "'Interim' means temporary, usually before a role like CEO or report. It is not a verb."
+    "explanation": "'Interim' means temporary, usually before a role like CEO or report. It is not a verb.",
+    "explanationJa": "「interim」は暫定的・一時的という意味で、CEO や報告書の前に使われます。動詞ではありません。"
   },
   {
     "id": 31,
@@ -431,7 +461,8 @@
       "The team align in the corner of the room."
     ],
     "answer": 0,
-    "explanation": "'Align (on)' means to reach agreement, especially among colleagues. It is not 'order', 'close', or 'gather'."
+    "explanation": "'Align (on)' means to reach agreement, especially among colleagues. It is not 'order', 'close', or 'gather'.",
+    "explanationJa": "「align (on)」は同僚間で合意に達するという意味です。order, close, gather の意味ではありません。"
   },
   {
     "id": 32,
@@ -445,7 +476,8 @@
       "The delegate of the meeting was loud."
     ],
     "answer": 0,
-    "explanation": "'Delegate' (v) means to assign a task to others. It is not 'arrive', an adjective, or 'noise'."
+    "explanation": "'Delegate' (v) means to assign a task to others. It is not 'arrive', an adjective, or 'noise'.",
+    "explanationJa": "動詞「delegate」は他者に業務を委任するという意味です。arrive、形容詞、騒音の意味ではありません。"
   },
   {
     "id": 33,
@@ -459,7 +491,8 @@
       "The team is very consensus today."
     ],
     "answer": 0,
-    "explanation": "'Consensus' is a noun meaning general agreement. It is not a verb or an adjective."
+    "explanation": "'Consensus' is a noun meaning general agreement. It is not a verb or an adjective.",
+    "explanationJa": "「consensus」は全体合意を表す名詞です。動詞や形容詞ではありません。"
   },
   {
     "id": 34,
@@ -473,7 +506,8 @@
       "He is feeling very forecast today."
     ],
     "answer": 0,
-    "explanation": "'Forecast' (v) means to predict, especially numbers. It is not 'order', 'close', or an adjective."
+    "explanation": "'Forecast' (v) means to predict, especially numbers. It is not 'order', 'close', or an adjective.",
+    "explanationJa": "動詞「forecast」は特に数値を予測するという意味です。order, close、形容詞ではありません。"
   },
   {
     "id": 35,
@@ -487,7 +521,8 @@
       "The team retain very loudly."
     ],
     "answer": 0,
-    "explanation": "'Retain' in HR/marketing means to keep staff or customers. It is not 'arrive', 'order', or 'talked'."
+    "explanation": "'Retain' in HR/marketing means to keep staff or customers. It is not 'arrive', 'order', or 'talked'.",
+    "explanationJa": "人事・マーケティングでの「retain」は社員や顧客を維持するという意味です。arrive, order, talked の意味ではありません。"
   },
   {
     "id": 36,
@@ -501,7 +536,8 @@
       "The liability is very cold this morning."
     ],
     "answer": 0,
-    "explanation": "A 'liability' is a risk, debt, or disadvantage. It is not a verb or weather adjective."
+    "explanation": "A 'liability' is a risk, debt, or disadvantage. It is not a verb or weather adjective.",
+    "explanationJa": "「liability」はリスク・負債・不利な要素のことです。動詞や天候の形容詞ではありません。"
   },
   {
     "id": 37,
@@ -515,7 +551,8 @@
       "The team is feeling very backlog today."
     ],
     "answer": 0,
-    "explanation": "A 'backlog' is a stack of pending work. It is not a verb or adjective."
+    "explanation": "A 'backlog' is a stack of pending work. It is not a verb or adjective.",
+    "explanationJa": "「backlog」は未処理の業務の山を意味します。動詞や形容詞ではありません。"
   },
   {
     "id": 38,
@@ -529,7 +566,8 @@
       "The team milestone very loudly."
     ],
     "answer": 0,
-    "explanation": "A 'milestone' is a significant achievement or stage. It is not used as a verb."
+    "explanation": "A 'milestone' is a significant achievement or stage. It is not used as a verb.",
+    "explanationJa": "「milestone」は重要な達成点や段階のことです。動詞としては使いません。"
   },
   {
     "id": 39,
@@ -543,7 +581,8 @@
       "The team is feeling very stakeholder today."
     ],
     "answer": 0,
-    "explanation": "A 'stakeholder' is someone with an interest in a project. It is a noun only."
+    "explanation": "A 'stakeholder' is someone with an interest in a project. It is a noun only.",
+    "explanationJa": "「stakeholder」はプロジェクトに利害関係を持つ人のことで、名詞のみです。"
   },
   {
     "id": 40,
@@ -557,7 +596,8 @@
       "The team is very on behalf of today."
     ],
     "answer": 0,
-    "explanation": "'On behalf of' is a fixed phrase meaning 'representing'. It is not used as a verb or adjective."
+    "explanation": "'On behalf of' is a fixed phrase meaning 'representing'. It is not used as a verb or adjective.",
+    "explanationJa": "「on behalf of」は「〜を代表して」という意味の固定句です。動詞や形容詞としては使いません。"
   },
   {
     "id": 41,
@@ -571,7 +611,8 @@
       "The contingent was very loud this morning."
     ],
     "answer": 0,
-    "explanation": "'Contingent (on)' means conditional. It is not a verb or weather adjective."
+    "explanation": "'Contingent (on)' means conditional. It is not a verb or weather adjective.",
+    "explanationJa": "「contingent (on)」は条件付きという意味です。動詞や天候形容詞ではありません。"
   },
   {
     "id": 42,
@@ -585,7 +626,8 @@
       "The team mitigate in the corner of the room."
     ],
     "answer": 0,
-    "explanation": "'Mitigate' means to reduce severity, especially of risk. It is not 'order', 'close', or 'gather'."
+    "explanation": "'Mitigate' means to reduce severity, especially of risk. It is not 'order', 'close', or 'gather'.",
+    "explanationJa": "「mitigate」はリスクなどの深刻さを軽減するという意味です。order, close, gather の意味ではありません。"
   },
   {
     "id": 43,
@@ -599,7 +641,8 @@
       "He is feeling very lucrative this morning."
     ],
     "answer": 0,
-    "explanation": "'Lucrative' is an adjective describing something profitable. It does not describe people or actions."
+    "explanation": "'Lucrative' is an adjective describing something profitable. It does not describe people or actions.",
+    "explanationJa": "「lucrative」は利益が大きいことを表す形容詞です。人や行為には使いません。"
   },
   {
     "id": 44,
@@ -613,7 +656,8 @@
       "The team unprecedented very loudly."
     ],
     "answer": 0,
-    "explanation": "'Unprecedented' is an adjective meaning never seen before. It is not a verb."
+    "explanation": "'Unprecedented' is an adjective meaning never seen before. It is not a verb.",
+    "explanationJa": "「unprecedented」は前例のないことを表す形容詞です。動詞ではありません。"
   },
   {
     "id": 45,
@@ -627,7 +671,8 @@
       "The team is feeling very discrepancy today."
     ],
     "answer": 0,
-    "explanation": "A 'discrepancy' is an unexplained difference, often in numbers. It is not a verb."
+    "explanation": "A 'discrepancy' is an unexplained difference, often in numbers. It is not a verb.",
+    "explanationJa": "「discrepancy」は数値などの説明のつかない不一致のことです。動詞ではありません。"
   },
   {
     "id": 46,
@@ -641,7 +686,8 @@
       "He is feeling very reconcile today."
     ],
     "answer": 0,
-    "explanation": "'Reconcile' in finance means to make two records agree. It is not 'arrive', 'order', or an adjective."
+    "explanation": "'Reconcile' in finance means to make two records agree. It is not 'arrive', 'order', or an adjective.",
+    "explanationJa": "金融での「reconcile」は2つの記録を一致させるという意味です。arrive, order や形容詞の意味ではありません。"
   },
   {
     "id": 47,
@@ -655,7 +701,8 @@
       "The team is feeling very preempt today."
     ],
     "answer": 0,
-    "explanation": "'Preempt' means to act first to block another's action. It is not 'walked', 'ordered', or an adjective."
+    "explanation": "'Preempt' means to act first to block another's action. It is not 'walked', 'ordered', or an adjective.",
+    "explanationJa": "「preempt」は他者の行動を先回りして阻止するという意味です。walked, ordered、形容詞ではありません。"
   },
   {
     "id": 48,
@@ -669,7 +716,8 @@
       "The team fluctuate very loudly."
     ],
     "answer": 0,
-    "explanation": "'Fluctuate' means to vary up and down. It is not 'arrive', 'close', or 'talk'."
+    "explanation": "'Fluctuate' means to vary up and down. It is not 'arrive', 'close', or 'talk'.",
+    "explanationJa": "「fluctuate」は上下に変動するという意味です。arrive, close, talk の意味ではありません。"
   },
   {
     "id": 49,
@@ -683,7 +731,8 @@
       "The team tentative very loudly."
     ],
     "answer": 0,
-    "explanation": "'Tentative' is an adjective meaning provisional. It is not a verb."
+    "explanation": "'Tentative' is an adjective meaning provisional. It is not a verb.",
+    "explanationJa": "「tentative」は暫定的という意味の形容詞です。動詞ではありません。"
   },
   {
     "id": 50,
@@ -697,7 +746,8 @@
       "The team is feeling very divest today."
     ],
     "answer": 0,
-    "explanation": "'Divest' means to sell off part of a business. It is not 'order', 'close', or an adjective."
+    "explanation": "'Divest' means to sell off part of a business. It is not 'order', 'close', or an adjective.",
+    "explanationJa": "「divest」は事業の一部を売却するという意味です。order, close、形容詞ではありません。"
   },
   {
     "id": 51,
@@ -711,7 +761,8 @@
       "He is feeling very circumvent today."
     ],
     "answer": 0,
-    "explanation": "'Circumvent' means to find a way around rules or limits. It is not 'travel', 'order', or an adjective."
+    "explanation": "'Circumvent' means to find a way around rules or limits. It is not 'travel', 'order', or an adjective.",
+    "explanationJa": "「circumvent」は規則や制限を回避する方法を見つけるという意味です。travel, order、形容詞ではありません。"
   },
   {
     "id": 52,
@@ -725,7 +776,8 @@
       "The team is feeling very attrition today."
     ],
     "answer": 0,
-    "explanation": "'Attrition' refers to gradual staff loss. It is not a verb or personality adjective."
+    "explanation": "'Attrition' refers to gradual staff loss. It is not a verb or personality adjective.",
+    "explanationJa": "「attrition」は社員などの自然減少を意味します。動詞や性格の形容詞ではありません。"
   },
   {
     "id": 53,
@@ -739,7 +791,8 @@
       "He is feeling very forfeit today."
     ],
     "answer": 0,
-    "explanation": "'Forfeit' means to lose something as a penalty. It is not 'arrive', 'close', or an adjective."
+    "explanation": "'Forfeit' means to lose something as a penalty. It is not 'arrive', 'close', or an adjective.",
+    "explanationJa": "「forfeit」は罰として何かを失うという意味です。arrive, close、形容詞ではありません。"
   },
   {
     "id": 54,
@@ -753,7 +806,8 @@
       "The team is feeling very expedite today."
     ],
     "answer": 0,
-    "explanation": "'Expedite' means to speed up a process. It is not 'walked', 'ordered', or an adjective."
+    "explanation": "'Expedite' means to speed up a process. It is not 'walked', 'ordered', or an adjective.",
+    "explanationJa": "「expedite」はプロセスを速めるという意味です。walked, ordered、形容詞ではありません。"
   },
   {
     "id": 55,
@@ -767,7 +821,8 @@
       "He is feeling very consolidate today."
     ],
     "answer": 0,
-    "explanation": "'Consolidate' means to combine into a single, stronger unit. It is not 'travel', 'order', or an adjective."
+    "explanation": "'Consolidate' means to combine into a single, stronger unit. It is not 'travel', 'order', or an adjective.",
+    "explanationJa": "「consolidate」は単一でより強固な単位に統合するという意味です。travel, order、形容詞ではありません。"
   },
   {
     "id": 56,
@@ -781,7 +836,8 @@
       "The team is feeling very ascertain today."
     ],
     "answer": 0,
-    "explanation": "'Ascertain' is a formal verb meaning to find out for sure. It is not 'walked', 'ordered', or an adjective."
+    "explanation": "'Ascertain' is a formal verb meaning to find out for sure. It is not 'walked', 'ordered', or an adjective.",
+    "explanationJa": "「ascertain」は確実に確かめるという格式ある動詞です。walked, ordered、形容詞ではありません。"
   },
   {
     "id": 57,
@@ -795,7 +851,8 @@
       "He is feeling very encroach today."
     ],
     "answer": 0,
-    "explanation": "'Encroach (on)' means to gradually intrude. It is not 'travel', 'order', or an adjective."
+    "explanation": "'Encroach (on)' means to gradually intrude. It is not 'travel', 'order', or an adjective.",
+    "explanationJa": "「encroach (on)」は徐々に侵入するという意味です。travel, order、形容詞ではありません。"
   },
   {
     "id": 58,
@@ -809,7 +866,8 @@
       "The team relegate very loudly."
     ],
     "answer": 0,
-    "explanation": "'Relegate' means to demote in importance. It is not 'arrive', 'close', or 'talk'."
+    "explanation": "'Relegate' means to demote in importance. It is not 'arrive', 'close', or 'talk'.",
+    "explanationJa": "「relegate」は重要度を下げるという意味です。arrive, close, talk の意味ではありません。"
   },
   {
     "id": 59,
@@ -823,7 +881,8 @@
       "The team is feeling very revamp today."
     ],
     "answer": 0,
-    "explanation": "'Revamp' means to overhaul or refresh. It is not 'walked', 'ordered', or an adjective."
+    "explanation": "'Revamp' means to overhaul or refresh. It is not 'walked', 'ordered', or an adjective.",
+    "explanationJa": "「revamp」は刷新する・一新するという意味です。walked, ordered、形容詞ではありません。"
   },
   {
     "id": 60,
@@ -837,146 +896,2107 @@
       "He is feeling very underpin today."
     ],
     "answer": 0,
-    "explanation": "'Underpin' means to provide a foundation for. It is not 'order', 'close', or an adjective."
+    "explanation": "'Underpin' means to provide a foundation for. It is not 'order', 'close', or an adjective.",
+    "explanationJa": "「underpin」は基盤を提供するという意味です。order, close、形容詞ではありません。"
   },
-  {"id":61,"level":1,"word":"draft","definition":"an early version of a document","sentences":["Please ____ the email before sending it to the client.","Please draft the email before sending it to the client.","Please outcome the email before sending it to the client.","Please retire the email before sending it to the client."],"answer":1,"explanation":"'Draft' = write an early version; verb and noun. Common email task."},
-  {"id":62,"level":1,"word":"feedback","definition":"comments or reactions about work","sentences":["I appreciate the ____ you gave on my presentation yesterday.","I appreciate the equipment you gave on my presentation yesterday.","I appreciate the feedback you gave on my presentation yesterday.","I appreciate the parcel you gave on my presentation yesterday."],"answer":2,"explanation":"'Feedback' = constructive comments; uncountable noun."},
-  {"id":63,"level":1,"word":"contact","definition":"to communicate with someone","sentences":["Please ____ me if you have any questions about the order.","Please erase me if you have any questions about the order.","Please contact me if you have any questions about the order.","Please donate me if you have any questions about the order."],"answer":2,"explanation":"'Contact' = reach out to; standard business close."},
-  {"id":64,"level":1,"word":"branch","definition":"a local office of a company","sentences":["Our new ____ in Berlin opens next month.","Our new branch in Berlin opens next month.","Our new gravel in Berlin opens next month.","Our new climate in Berlin opens next month."],"answer":1,"explanation":"'Branch' = local office or store of a larger company."},
-  {"id":65,"level":1,"word":"refund","definition":"money returned to a customer","sentences":["The customer requested a full ____ for the damaged item.","The customer requested a full refund for the damaged item.","The customer requested a full silence for the damaged item.","The customer requested a full pavement for the damaged item."],"answer":1,"explanation":"'Refund' = money paid back; common in customer service."},
-  {"id":66,"level":1,"word":"deliver","definition":"to bring goods to a place","sentences":["We will ____ your order by Tuesday at the latest.","We will discover your order by Tuesday at the latest.","We will deliver your order by Tuesday at the latest.","We will overcome your order by Tuesday at the latest."],"answer":2,"explanation":"'Deliver' = transport goods to a destination."},
-  {"id":67,"level":1,"word":"reminder","definition":"a message to make someone remember","sentences":["This is a friendly ____ that the payment is due next week.","This is a friendly carpet that the payment is due next week.","This is a friendly puddle that the payment is due next week.","This is a friendly reminder that the payment is due next week."],"answer":3,"explanation":"'Reminder' = a note prompting action; very common email opener."},
-  {"id":68,"level":1,"word":"discount","definition":"a price reduction","sentences":["We offer a 10% ____ for orders over $500.","We offer a 10% discount for orders over $500.","We offer a 10% balloon for orders over $500.","We offer a 10% vehicle for orders over $500."],"answer":1,"explanation":"'Discount' = reduction in price; key sales vocabulary."},
-  {"id":69,"level":1,"word":"warehouse","definition":"a large building for storing goods","sentences":["The stock is currently held in our main ____ outside the city.","The stock is currently held in our main eyebrow outside the city.","The stock is currently held in our main warehouse outside the city.","The stock is currently held in our main breakfast outside the city."],"answer":2,"explanation":"'Warehouse' = storage facility for inventory."},
-  {"id":70,"level":1,"word":"coworker","definition":"a person you work with","sentences":["My ____ from the marketing team will join the call later.","My horizon from the marketing team will join the call later.","My coworker from the marketing team will join the call later.","My lantern from the marketing team will join the call later."],"answer":2,"explanation":"'Coworker' = person you work with; informal alternative to 'colleague'."},
-  {"id":71,"level":1,"word":"shift","definition":"a scheduled work period","sentences":["I usually work the morning ____ from 7 to 3.","I usually work the morning ladder from 7 to 3.","I usually work the morning rumour from 7 to 3.","I usually work the morning shift from 7 to 3."],"answer":3,"explanation":"'Shift' = block of working hours, common in retail and operations."},
-  {"id":72,"level":1,"word":"complaint","definition":"a statement that something is wrong","sentences":["We received a ____ about the quality of the latest batch.","We received a complaint about the quality of the latest batch.","We received a sunrise about the quality of the latest batch.","We received a curtain about the quality of the latest batch."],"answer":1,"explanation":"'Complaint' = formal expression of dissatisfaction."},
-  {"id":73,"level":1,"word":"manager","definition":"a person in charge of others","sentences":["Please speak to your ____ before approving the expense.","Please speak to your stadium before approving the expense.","Please speak to your manager before approving the expense.","Please speak to your blanket before approving the expense."],"answer":2,"explanation":"'Manager' = person responsible for staff or projects."},
-  {"id":74,"level":1,"word":"register","definition":"to record officially","sentences":["You need to ____ for the conference by Friday.","You need to register for the conference by Friday.","You need to admire for the conference by Friday.","You need to whisper for the conference by Friday."],"answer":1,"explanation":"'Register for' = sign up officially."},
-  {"id":75,"level":1,"word":"vacancy","definition":"an unfilled job position","sentences":["There is a ____ in the accounting team starting in June.","There is a tornado in the accounting team starting in June.","There is a vacancy in the accounting team starting in June.","There is a balloon in the accounting team starting in June."],"answer":2,"explanation":"'Vacancy' = open job role or empty hotel room."},
-  {"id":76,"level":1,"word":"order","definition":"a request to buy goods","sentences":["I'd like to place an ____ for fifty units of the new product.","I'd like to place an order for fifty units of the new product.","I'd like to place an island for fifty units of the new product.","I'd like to place an apricot for fifty units of the new product."],"answer":1,"explanation":"'Place an order for' = formally request to buy."},
-  {"id":77,"level":1,"word":"booking","definition":"a reservation","sentences":["I made a ____ for the conference room at 2 p.m.","I made a candle for the conference room at 2 p.m.","I made a booking for the conference room at 2 p.m.","I made a thunder for the conference room at 2 p.m."],"answer":2,"explanation":"'Booking' = reservation; British English business standard."},
-  {"id":78,"level":1,"word":"sample","definition":"a small example of a product","sentences":["Could you send us a ____ of the fabric before we order?","Could you send us a glacier of the fabric before we order?","Could you send us a marathon of the fabric before we order?","Could you send us a sample of the fabric before we order?"],"answer":3,"explanation":"'Sample' = trial portion sent for inspection."},
-  {"id":79,"level":1,"word":"queue","definition":"a line of people waiting","sentences":["There was a long ____ at the customer service desk this morning.","There was a long queue at the customer service desk this morning.","There was a long valley at the customer service desk this morning.","There was a long fragrance at the customer service desk this morning."],"answer":1,"explanation":"'Queue' = waiting line; British English (US: 'line')."},
-  {"id":80,"level":1,"word":"receipt","definition":"a printed proof of purchase","sentences":["Please keep your ____ in case you need to return the item.","Please keep your eclipse in case you need to return the item.","Please keep your receipt in case you need to return the item.","Please keep your saddle in case you need to return the item."],"answer":2,"explanation":"'Receipt' = proof of payment; pronounced 'ri-SEET'."},
-  {"id":81,"level":2,"word":"reimburse","definition":"to pay back money someone spent","sentences":["The company will ____ you for any approved travel expenses.","The company will alleviate you for any approved travel expenses.","The company will reimburse you for any approved travel expenses.","The company will harvest you for any approved travel expenses."],"answer":2,"explanation":"'Reimburse' = pay back; formal for expense claims."},
-  {"id":82,"level":2,"word":"escalate","definition":"to raise an issue to a higher level","sentences":["If the supplier doesn't respond today, we'll need to ____ this.","If the supplier doesn't respond today, we'll need to escalate this.","If the supplier doesn't respond today, we'll need to evaporate this.","If the supplier doesn't respond today, we'll need to germinate this."],"answer":1,"explanation":"'Escalate' = pass an issue up the chain; common in support."},
-  {"id":83,"level":2,"word":"onboarding","definition":"the process of integrating new hires","sentences":["The new employee ____ programme lasts two weeks.","The new employee onboarding programme lasts two weeks.","The new employee thunderstorm programme lasts two weeks.","The new employee marshland programme lasts two weeks."],"answer":1,"explanation":"'Onboarding' = orientation for new staff; HR standard."},
-  {"id":84,"level":2,"word":"feasible","definition":"possible to do","sentences":["Launching by Q3 is technically ____, but tight on resources.","Launching by Q3 is technically feasible, but tight on resources.","Launching by Q3 is technically obsolete, but tight on resources.","Launching by Q3 is technically nautical, but tight on resources."],"answer":1,"explanation":"'Feasible' = workable, doable; project-planning term."},
-  {"id":85,"level":2,"word":"overhead","definition":"ongoing business operating costs","sentences":["Reducing ____ is critical to improving our profit margins.","Reducing telescope is critical to improving our profit margins.","Reducing migration is critical to improving our profit margins.","Reducing overhead is critical to improving our profit margins."],"answer":3,"explanation":"'Overhead' = rent, utilities, salaries — recurring fixed costs."},
-  {"id":86,"level":2,"word":"benchmark","definition":"a standard to measure against","sentences":["Our response time exceeds the industry ____ by 12%.","Our response time exceeds the industry benchmark by 12%.","Our response time exceeds the industry crocodile by 12%.","Our response time exceeds the industry sandstorm by 12%."],"answer":1,"explanation":"'Benchmark' = reference standard for comparison."},
-  {"id":87,"level":2,"word":"turnover","definition":"total sales revenue or staff replacement rate","sentences":["Annual ____ grew by 8% despite difficult market conditions.","Annual turnover grew by 8% despite difficult market conditions.","Annual armadillo grew by 8% despite difficult market conditions.","Annual seashell grew by 8% despite difficult market conditions."],"answer":1,"explanation":"'Turnover' has two meanings: total revenue, or rate of staff leaving."},
-  {"id":88,"level":2,"word":"prospect","definition":"a potential customer","sentences":["The sales team identified twelve qualified ____ from the trade show.","The sales team identified twelve qualified prospects from the trade show.","The sales team identified twelve qualified haystacks from the trade show.","The sales team identified twelve qualified dolphins from the trade show."],"answer":1,"explanation":"'Prospect' = a likely buyer; pipeline vocabulary."},
-  {"id":89,"level":2,"word":"viable","definition":"capable of working successfully","sentences":["After review, the proposal is no longer financially ____.","After review, the proposal is no longer financially viable.","After review, the proposal is no longer financially crystalline.","After review, the proposal is no longer financially aromatic."],"answer":1,"explanation":"'Viable' = workable, sustainable; near-synonym of 'feasible' but stronger."},
-  {"id":90,"level":2,"word":"prioritise","definition":"to treat as more important","sentences":["We need to ____ customer-facing issues over internal ones.","We need to prioritise customer-facing issues over internal ones.","We need to harmonise customer-facing issues over internal ones.","We need to crystallise customer-facing issues over internal ones."],"answer":1,"explanation":"'Prioritise' (US: prioritize) = rank by importance."},
-  {"id":91,"level":2,"word":"variance","definition":"a difference between expected and actual","sentences":["There's a small ____ between the invoice and the purchase order.","There's a small symphony between the invoice and the purchase order.","There's a small variance between the invoice and the purchase order.","There's a small archipelago between the invoice and the purchase order."],"answer":2,"explanation":"'Variance' = quantitative gap; finance/audit term."},
-  {"id":92,"level":2,"word":"deliverable","definition":"a tangible item produced as part of work","sentences":["The first project ____ is due at the end of next week.","The first project peninsula is due at the end of next week.","The first project hailstorm is due at the end of next week.","The first project deliverable is due at the end of next week."],"answer":3,"explanation":"'Deliverable' = concrete output of a project; PM vocabulary."},
-  {"id":93,"level":2,"word":"negotiate","definition":"to discuss to reach an agreement","sentences":["We need to ____ better terms with the new supplier.","We need to fluctuate better terms with the new supplier.","We need to negotiate better terms with the new supplier.","We need to germinate better terms with the new supplier."],"answer":2,"explanation":"'Negotiate' = bargain to reach mutually acceptable terms."},
-  {"id":94,"level":2,"word":"endorse","definition":"to publicly support or recommend","sentences":["The CEO is willing to ____ the new product in next month's launch.","The CEO is willing to endorse the new product in next month's launch.","The CEO is willing to circulate the new product in next month's launch.","The CEO is willing to disperse the new product in next month's launch."],"answer":1,"explanation":"'Endorse' = give official approval or backing to."},
-  {"id":95,"level":2,"word":"compliance","definition":"acting according to rules","sentences":["The audit confirmed full ____ with the new data regulations.","The audit confirmed full meridian with the new data regulations.","The audit confirmed full compliance with the new data regulations.","The audit confirmed full glacier with the new data regulations."],"answer":2,"explanation":"'Compliance' = following rules/laws; legal-finance vocabulary."},
-  {"id":96,"level":2,"word":"sustain","definition":"to keep something going over time","sentences":["Our main goal is to ____ growth without overextending the team.","Our main goal is to vaporise growth without overextending the team.","Our main goal is to embellish growth without overextending the team.","Our main goal is to sustain growth without overextending the team."],"answer":3,"explanation":"'Sustain' = maintain over time; collocates with growth, effort, momentum."},
-  {"id":97,"level":2,"word":"overheads","definition":"running costs of a business","sentences":["Cutting unnecessary ____ helped us survive the downturn.","Cutting unnecessary overheads helped us survive the downturn.","Cutting unnecessary glaciers helped us survive the downturn.","Cutting unnecessary tapestry helped us survive the downturn."],"answer":1,"explanation":"'Overheads' = fixed running costs like rent, utilities, salaries (UK plural)."},
-  {"id":98,"level":2,"word":"liability","definition":"a legal financial obligation","sentences":["The company's ____ for the defective product is being assessed.","The company's atmosphere for the defective product is being assessed.","The company's liability for the defective product is being assessed.","The company's daffodil for the defective product is being assessed."],"answer":2,"explanation":"'Liability' = legal/financial responsibility; key accounting term."},
-  {"id":99,"level":2,"word":"merger","definition":"the joining of two companies","sentences":["The proposed ____ would create the largest firm in the region.","The proposed thunderclap would create the largest firm in the region.","The proposed merger would create the largest firm in the region.","The proposed wildflower would create the largest firm in the region."],"answer":2,"explanation":"'Merger' = combination of two companies; M&A vocabulary."},
-  {"id":100,"level":2,"word":"liaise","definition":"to communicate and cooperate","sentences":["Please ____ with the design team on the new packaging.","Please liaise with the design team on the new packaging.","Please incubate with the design team on the new packaging.","Please orbit with the design team on the new packaging."],"answer":1,"explanation":"'Liaise with' = work in coordination with; British English business standard."},
-  {"id":101,"level":1,"word":"discount","definition":"to reduce price","sentences":["We can ____ the bulk order by an additional five percent.","We can ferment the bulk order by an additional five percent.","We can discount the bulk order by an additional five percent.","We can hydrate the bulk order by an additional five percent."],"answer":2,"explanation":"'Discount' as a verb = lower the price."},
-  {"id":102,"level":1,"word":"workload","definition":"the amount of work to do","sentences":["My ____ has been heavy this week with three projects running.","My workload has been heavy this week with three projects running.","My valley has been heavy this week with three projects running.","My butterfly has been heavy this week with three projects running."],"answer":1,"explanation":"'Workload' = total tasks assigned; compound noun."},
-  {"id":103,"level":1,"word":"vendor","definition":"a company that sells products","sentences":["We rely on three external ____ for our office supplies.","We rely on three external pelicans for our office supplies.","We rely on three external vendors for our office supplies.","We rely on three external icicles for our office supplies."],"answer":2,"explanation":"'Vendor' = seller, supplier (US English preferred)."},
-  {"id":104,"level":1,"word":"shipment","definition":"a load of goods being sent","sentences":["The ____ from China should arrive on Thursday morning.","The volcano from China should arrive on Thursday morning.","The shipment from China should arrive on Thursday morning.","The sapphire from China should arrive on Thursday morning."],"answer":2,"explanation":"'Shipment' = freight being delivered; logistics vocabulary."},
-  {"id":105,"level":1,"word":"shortage","definition":"a lack of something needed","sentences":["A ____ of qualified candidates is slowing our hiring plan.","A spectrum of qualified candidates is slowing our hiring plan.","A shortage of qualified candidates is slowing our hiring plan.","A horizon of qualified candidates is slowing our hiring plan."],"answer":2,"explanation":"'Shortage of' = insufficient supply of."},
-  {"id":106,"level":1,"word":"income","definition":"money received from work","sentences":["His main ____ comes from freelance consulting projects.","His main eclipse comes from freelance consulting projects.","His main income comes from freelance consulting projects.","His main glacier comes from freelance consulting projects."],"answer":2,"explanation":"'Income' = money earned; opposite of expenses."},
-  {"id":107,"level":1,"word":"contract","definition":"a written agreement","sentences":["Both parties signed the ____ last Friday afternoon.","Both parties signed the contract last Friday afternoon.","Both parties signed the lagoon last Friday afternoon.","Both parties signed the meteor last Friday afternoon."],"answer":1,"explanation":"'Contract' = legally binding written agreement."},
-  {"id":108,"level":1,"word":"profit","definition":"money earned after costs","sentences":["The store made a small ____ in its first year of operation.","The store made a small profit in its first year of operation.","The store made a small canyon in its first year of operation.","The store made a small parsley in its first year of operation."],"answer":1,"explanation":"'Profit' = revenue minus expenses; basic finance term."},
-  {"id":109,"level":1,"word":"summary","definition":"a short version of something longer","sentences":["Please send me a one-page ____ of the report by tomorrow.","Please send me a one-page mountain of the report by tomorrow.","Please send me a one-page summary of the report by tomorrow.","Please send me a one-page raincoat of the report by tomorrow."],"answer":2,"explanation":"'Summary' = condensed version; common in executive communication."},
-  {"id":110,"level":1,"word":"location","definition":"a place where something is","sentences":["The new office ____ has excellent transport links.","The new office melody has excellent transport links.","The new office location has excellent transport links.","The new office aroma has excellent transport links."],"answer":2,"explanation":"'Location' = specific place; common in real estate and operations."},
-  {"id":111,"level":1,"word":"target","definition":"a specific goal","sentences":["Our sales team hit its quarterly ____ two weeks early.","Our sales team hit its quarterly target two weeks early.","Our sales team hit its quarterly seashell two weeks early.","Our sales team hit its quarterly raincloud two weeks early."],"answer":1,"explanation":"'Target' = specific goal; 'hit a target' is fixed collocation."},
-  {"id":112,"level":1,"word":"branch","definition":"a part of an organization","sentences":["The financial ____ of the company is based in London.","The financial branch of the company is based in London.","The financial puddle of the company is based in London.","The financial fountain of the company is based in London."],"answer":1,"explanation":"'Branch' = division or local office of an organization."},
-  {"id":113,"level":1,"word":"refund","definition":"to give money back","sentences":["The store agreed to ____ the full purchase price.","The store agreed to evaporate the full purchase price.","The store agreed to germinate the full purchase price.","The store agreed to refund the full purchase price."],"answer":3,"explanation":"'Refund' as verb = return payment to customer."},
-  {"id":114,"level":1,"word":"client","definition":"a customer of a service","sentences":["Our biggest ____ has renewed the annual contract.","Our biggest client has renewed the annual contract.","Our biggest gravel has renewed the annual contract.","Our biggest hailstone has renewed the annual contract."],"answer":1,"explanation":"'Client' = customer, usually for professional services."},
-  {"id":115,"level":1,"word":"branch","definition":"to divide into parts","sentences":["The corridor will ____ off to the right after the lobby.","The corridor will whisper off to the right after the lobby.","The corridor will branch off to the right after the lobby.","The corridor will scatter off to the right after the lobby."],"answer":2,"explanation":"'Branch off' = split into a separate direction or path."},
-  {"id":116,"level":1,"word":"interview","definition":"a formal meeting to discuss a job","sentences":["I have an ____ for the marketing role on Friday at ten.","I have an avalanche for the marketing role on Friday at ten.","I have an interview for the marketing role on Friday at ten.","I have an iceberg for the marketing role on Friday at ten."],"answer":2,"explanation":"'Interview' = formal questioning, often for jobs."},
-  {"id":117,"level":1,"word":"clerk","definition":"an office worker who handles records","sentences":["The ____ at the front desk will help you fill in the form.","The hurricane at the front desk will help you fill in the form.","The clerk at the front desk will help you fill in the form.","The cactus at the front desk will help you fill in the form."],"answer":2,"explanation":"'Clerk' = office or counter worker handling paperwork."},
-  {"id":118,"level":1,"word":"deadline","definition":"the latest time to finish","sentences":["The team is racing against the ____ for the launch.","The team is racing against the deadline for the launch.","The team is racing against the meadow for the launch.","The team is racing against the sunrise for the launch."],"answer":1,"explanation":"'Race against the deadline' = struggle to finish in time; fixed phrase."},
-  {"id":119,"level":1,"word":"chair","definition":"to lead a meeting","sentences":["Sarah will ____ the meeting in the director's absence.","Sarah will evaporate the meeting in the director's absence.","Sarah will chair the meeting in the director's absence.","Sarah will harvest the meeting in the director's absence."],"answer":2,"explanation":"'Chair' as verb = lead or moderate a meeting."},
-  {"id":120,"level":1,"word":"voucher","definition":"a paper that gives the right to something","sentences":["Customers received a ten-dollar ____ as an apology.","Customers received a ten-dollar voucher as an apology.","Customers received a ten-dollar pyramid as an apology.","Customers received a ten-dollar shoreline as an apology."],"answer":1,"explanation":"'Voucher' = ticket or document with monetary value."},
-  {"id":121,"level":2,"word":"streamline","definition":"to make a process simpler and faster","sentences":["The new software will ____ our invoice processing workflow.","The new software will overshadow our invoice processing workflow.","The new software will streamline our invoice processing workflow.","The new software will marginalise our invoice processing workflow."],"answer":2,"explanation":"'Streamline' = make more efficient by removing unnecessary steps."},
-  {"id":122,"level":2,"word":"allocate","definition":"to assign resources for a purpose","sentences":["We need to ____ more budget to the digital marketing team.","We need to evaporate more budget to the digital marketing team.","We need to germinate more budget to the digital marketing team.","We need to allocate more budget to the digital marketing team."],"answer":3,"explanation":"'Allocate' = formally assign or distribute resources."},
-  {"id":123,"level":2,"word":"outsource","definition":"to hire an outside company to do work","sentences":["We've decided to ____ our IT support to a specialist firm.","We've decided to outsource our IT support to a specialist firm.","We've decided to germinate our IT support to a specialist firm.","We've decided to harmonise our IT support to a specialist firm."],"answer":1,"explanation":"'Outsource' = transfer a function to an external provider."},
-  {"id":124,"level":2,"word":"counter","definition":"to respond against an offer","sentences":["They are likely to ____ our offer with a higher price.","They are likely to evaporate our offer with a higher price.","They are likely to counter our offer with a higher price.","They are likely to incubate our offer with a higher price."],"answer":2,"explanation":"'Counter' = respond with an opposing position; negotiation."},
-  {"id":125,"level":2,"word":"concede","definition":"to admit or give up a point","sentences":["The director was forced to ____ that the launch was premature.","The director was forced to germinate that the launch was premature.","The director was forced to evaporate that the launch was premature.","The director was forced to concede that the launch was premature."],"answer":3,"explanation":"'Concede' = reluctantly admit; common in debate/negotiation."},
-  {"id":126,"level":2,"word":"exceed","definition":"to go beyond a limit","sentences":["Our Q2 results ____ all internal forecasts by a wide margin.","Our Q2 results harmonise all internal forecasts by a wide margin.","Our Q2 results exceed all internal forecasts by a wide margin.","Our Q2 results incubate all internal forecasts by a wide margin."],"answer":2,"explanation":"'Exceed' = surpass; collocates with expectations, target, limit."},
-  {"id":127,"level":2,"word":"pending","definition":"waiting to be decided","sentences":["The contract is ____ legal review and should clear by Friday.","The contract is harmonising legal review and should clear by Friday.","The contract is pending legal review and should clear by Friday.","The contract is evaporating legal review and should clear by Friday."],"answer":2,"explanation":"'Pending' = awaiting completion; adjective or preposition."},
-  {"id":128,"level":2,"word":"interim","definition":"temporary, in the meantime","sentences":["She will serve as ____ CEO until a permanent hire is made.","She will serve as harmonious CEO until a permanent hire is made.","She will serve as crystalline CEO until a permanent hire is made.","She will serve as interim CEO until a permanent hire is made."],"answer":3,"explanation":"'Interim' = temporary, during the interval; senior business term."},
-  {"id":129,"level":2,"word":"align","definition":"to put in agreement or coordination","sentences":["The proposal must ____ with our long-term strategy.","The proposal must germinate with our long-term strategy.","The proposal must align with our long-term strategy.","The proposal must harvest with our long-term strategy."],"answer":2,"explanation":"'Align with' = match, be consistent with; strategic vocabulary."},
-  {"id":130,"level":2,"word":"delegate","definition":"to give a task to someone else","sentences":["Good managers know how to ____ routine work to their team.","Good managers know how to germinate routine work to their team.","Good managers know how to delegate routine work to their team.","Good managers know how to evaporate routine work to their team."],"answer":2,"explanation":"'Delegate' = entrust to a subordinate; leadership skill."},
-  {"id":131,"level":2,"word":"consensus","definition":"general agreement","sentences":["The board reached a ____ on the new pricing strategy.","The board reached a glacier on the new pricing strategy.","The board reached a consensus on the new pricing strategy.","The board reached a hailstorm on the new pricing strategy."],"answer":2,"explanation":"'Consensus' = collective agreement; 'reach a consensus' is fixed."},
-  {"id":132,"level":2,"word":"forecast","definition":"to predict future numbers","sentences":["Analysts ____ a 12% increase in sales next quarter.","Analysts harmonise a 12% increase in sales next quarter.","Analysts germinate a 12% increase in sales next quarter.","Analysts forecast a 12% increase in sales next quarter."],"answer":3,"explanation":"'Forecast' = predict, usually with data; verb and noun."},
-  {"id":133,"level":2,"word":"backlog","definition":"unfinished work piled up","sentences":["The support team is working through a large ____ of tickets.","The support team is working through a large hailstorm of tickets.","The support team is working through a large backlog of tickets.","The support team is working through a large meadow of tickets."],"answer":2,"explanation":"'Backlog' = accumulated unfinished work."},
-  {"id":134,"level":2,"word":"milestone","definition":"a significant point in a project","sentences":["Completing the prototype was a major ____ for the team.","Completing the prototype was a major mountain for the team.","Completing the prototype was a major milestone for the team.","Completing the prototype was a major thunderstorm for the team."],"answer":2,"explanation":"'Milestone' = key project event marking progress."},
-  {"id":135,"level":2,"word":"stakeholder","definition":"a person with interest in a project","sentences":["Every ____ must approve the design before production begins.","Every stakeholder must approve the design before production begins.","Every glacier must approve the design before production begins.","Every horizon must approve the design before production begins."],"answer":1,"explanation":"'Stakeholder' = party with an interest in or influence over a project."},
-  {"id":136,"level":2,"word":"leverage","definition":"to use to maximum effect","sentences":["We should ____ our existing customer relationships to drive sales.","We should evaporate our existing customer relationships to drive sales.","We should germinate our existing customer relationships to drive sales.","We should leverage our existing customer relationships to drive sales."],"answer":3,"explanation":"'Leverage' as verb = use strategically to gain advantage."},
-  {"id":137,"level":2,"word":"liaise","definition":"to coordinate between people","sentences":["I'll ____ with both teams to finalise the rollout schedule.","I'll evaporate with both teams to finalise the rollout schedule.","I'll liaise with both teams to finalise the rollout schedule.","I'll germinate with both teams to finalise the rollout schedule."],"answer":2,"explanation":"'Liaise with' = act as a coordinator/bridge between parties."},
-  {"id":138,"level":2,"word":"vendor","definition":"a supplier or seller","sentences":["We've shortlisted three ____ for the catering contract.","We've shortlisted three vendors for the catering contract.","We've shortlisted three icebergs for the catering contract.","We've shortlisted three glaciers for the catering contract."],"answer":1,"explanation":"'Vendor' = a company supplying goods or services."},
-  {"id":139,"level":2,"word":"appoint","definition":"to officially choose for a position","sentences":["The board will ____ a new CFO next month.","The board will appoint a new CFO next month.","The board will germinate a new CFO next month.","The board will evaporate a new CFO next month."],"answer":1,"explanation":"'Appoint' = formally assign someone to a role."},
-  {"id":140,"level":2,"word":"oversee","definition":"to supervise","sentences":["She will ____ the merger integration process for both firms.","She will germinate the merger integration process for both firms.","She will oversee the merger integration process for both firms.","She will harmonise the merger integration process for both firms."],"answer":2,"explanation":"'Oversee' = supervise from a higher level; manage broadly."},
-  {"id":141,"level":3,"word":"divest","definition":"to sell off a business unit","sentences":["The conglomerate plans to ____ its underperforming retail arm.","The conglomerate plans to harmonise its underperforming retail arm.","The conglomerate plans to germinate its underperforming retail arm.","The conglomerate plans to divest its underperforming retail arm."],"answer":3,"explanation":"'Divest' = strategically sell off assets or divisions."},
-  {"id":142,"level":3,"word":"circumvent","definition":"to avoid by going around","sentences":["The firm tried to ____ the new tariffs by routing through Mexico.","The firm tried to germinate the new tariffs by routing through Mexico.","The firm tried to circumvent the new tariffs by routing through Mexico.","The firm tried to evaporate the new tariffs by routing through Mexico."],"answer":2,"explanation":"'Circumvent' = find a way around an obstacle or rule."},
-  {"id":143,"level":3,"word":"attrition","definition":"gradual loss of staff or customers","sentences":["Customer ____ has risen since the price increase took effect.","Customer hurricane has risen since the price increase took effect.","Customer marmalade has risen since the price increase took effect.","Customer attrition has risen since the price increase took effect."],"answer":3,"explanation":"'Attrition' = gradual reduction; 'employee/customer attrition' are common."},
-  {"id":144,"level":3,"word":"forfeit","definition":"to lose as a penalty","sentences":["By withdrawing early, the firm will ____ its deposit.","By withdrawing early, the firm will harmonise its deposit.","By withdrawing early, the firm will forfeit its deposit.","By withdrawing early, the firm will germinate its deposit."],"answer":2,"explanation":"'Forfeit' = give up or lose as a penalty; legal/financial register."},
-  {"id":145,"level":3,"word":"expedite","definition":"to make happen faster","sentences":["Can you ____ this order? The client urgently needs it by Monday.","Can you germinate this order? The client urgently needs it by Monday.","Can you evaporate this order? The client urgently needs it by Monday.","Can you expedite this order? The client urgently needs it by Monday."],"answer":3,"explanation":"'Expedite' = accelerate; commonly used in logistics and admin."},
-  {"id":146,"level":3,"word":"consolidate","definition":"to combine into one","sentences":["We plan to ____ three regional offices into a single hub.","We plan to germinate three regional offices into a single hub.","We plan to consolidate three regional offices into a single hub.","We plan to evaporate three regional offices into a single hub."],"answer":2,"explanation":"'Consolidate' = merge or unify into a single, stronger entity."},
-  {"id":147,"level":3,"word":"ascertain","definition":"to find out for certain","sentences":["We need to ____ the cause of the system failure before resuming.","We need to germinate the cause of the system failure before resuming.","We need to ascertain the cause of the system failure before resuming.","We need to harmonise the cause of the system failure before resuming."],"answer":2,"explanation":"'Ascertain' = formally determine or verify; near-synonym of 'establish'."},
-  {"id":148,"level":3,"word":"encroach","definition":"to gradually move into another's space","sentences":["The competitor is starting to ____ on our core market.","The competitor is starting to germinate on our core market.","The competitor is starting to harmonise on our core market.","The competitor is starting to encroach on our core market."],"answer":3,"explanation":"'Encroach on' = gradually intrude into; common in territorial business contexts."},
-  {"id":149,"level":3,"word":"relegate","definition":"to assign to a lower position","sentences":["The brand was ____ to a secondary status after the controversy.","The brand was germinated to a secondary status after the controversy.","The brand was relegated to a secondary status after the controversy.","The brand was evaporated to a secondary status after the controversy."],"answer":2,"explanation":"'Relegate' = demote, push down to a lesser role."},
-  {"id":150,"level":3,"word":"revamp","definition":"to give a new and better form","sentences":["Marketing plans to ____ the entire website by autumn.","Marketing plans to germinate the entire website by autumn.","Marketing plans to harmonise the entire website by autumn.","Marketing plans to revamp the entire website by autumn."],"answer":3,"explanation":"'Revamp' = thoroughly refresh, redesign, or modernise."},
-  {"id":151,"level":3,"word":"underpin","definition":"to support or form the basis of","sentences":["Strong ethics ____ every decision the board makes.","Strong ethics evaporate every decision the board makes.","Strong ethics underpin every decision the board makes.","Strong ethics germinate every decision the board makes."],"answer":2,"explanation":"'Underpin' = provide the foundation for; figurative use."},
-  {"id":152,"level":3,"word":"preempt","definition":"to act before someone else can","sentences":["The CEO held a press call to ____ negative media coverage.","The CEO held a press call to germinate negative media coverage.","The CEO held a press call to preempt negative media coverage.","The CEO held a press call to harmonise negative media coverage."],"answer":2,"explanation":"'Preempt' = take action first to prevent something."},
-  {"id":153,"level":3,"word":"contingent","definition":"depending on something else","sentences":["Bonuses are ____ on meeting both revenue and retention targets.","Bonuses are crystalline on meeting both revenue and retention targets.","Bonuses are contingent on meeting both revenue and retention targets.","Bonuses are aromatic on meeting both revenue and retention targets."],"answer":2,"explanation":"'Contingent on/upon' = conditional upon; formal business register."},
-  {"id":154,"level":3,"word":"reconcile","definition":"to make accounts agree","sentences":["The accountant must ____ the bank statement with our ledger.","The accountant must germinate the bank statement with our ledger.","The accountant must harmonise the bank statement with our ledger.","The accountant must reconcile the bank statement with our ledger."],"answer":3,"explanation":"'Reconcile' = match two sets of records; finance vocabulary."},
-  {"id":155,"level":3,"word":"fluctuate","definition":"to rise and fall irregularly","sentences":["Oil prices continue to ____ amid geopolitical tensions.","Oil prices continue to germinate amid geopolitical tensions.","Oil prices continue to fluctuate amid geopolitical tensions.","Oil prices continue to harmonise amid geopolitical tensions."],"answer":2,"explanation":"'Fluctuate' = vary up and down; market/data vocabulary."},
-  {"id":156,"level":3,"word":"tentative","definition":"not certain or definite","sentences":["We've set a ____ launch date pending final approval.","We've set a crystalline launch date pending final approval.","We've set a tentative launch date pending final approval.","We've set a aromatic launch date pending final approval."],"answer":2,"explanation":"'Tentative' = provisional; common with 'date', 'agreement', 'plan'."},
-  {"id":157,"level":3,"word":"lucrative","definition":"producing a lot of money","sentences":["The contract proved to be highly ____ for the consultancy.","The contract proved to be highly aromatic for the consultancy.","The contract proved to be highly lucrative for the consultancy.","The contract proved to be highly crystalline for the consultancy."],"answer":2,"explanation":"'Lucrative' = profitable; describes deals, markets, contracts."},
-  {"id":158,"level":3,"word":"mitigate","definition":"to reduce the severity of something","sentences":["The hedge strategy is designed to ____ currency risk.","The hedge strategy is designed to germinate currency risk.","The hedge strategy is designed to mitigate currency risk.","The hedge strategy is designed to harmonise currency risk."],"answer":2,"explanation":"'Mitigate' = reduce the impact of; collocates with risk, damage, loss."},
-  {"id":159,"level":3,"word":"unprecedented","definition":"never done before","sentences":["The company posted ____ growth despite the recession.","The company posted aromatic growth despite the recession.","The company posted crystalline growth despite the recession.","The company posted unprecedented growth despite the recession."],"answer":3,"explanation":"'Unprecedented' = without prior example; strong descriptor."},
-  {"id":160,"level":3,"word":"discrepancy","definition":"a difference between two things","sentences":["The audit found a small ____ between reported and actual revenue.","The audit found a small spectrum between reported and actual revenue.","The audit found a small discrepancy between reported and actual revenue.","The audit found a small horizon between reported and actual revenue."],"answer":2,"explanation":"'Discrepancy' = mismatch in figures or facts; common in audit reports."},
-  {"id":161,"level":1,"word":"reply","definition":"a written response","sentences":["I haven't received a ____ to my email from yesterday.","I haven't received a meadow to my email from yesterday.","I haven't received a reply to my email from yesterday.","I haven't received a moonbeam to my email from yesterday."],"answer":2,"explanation":"'Reply' = answer to a message; noun and verb."},
-  {"id":162,"level":1,"word":"agenda","definition":"a list of topics for a meeting","sentences":["Please review the ____ before joining the call.","Please review the harbor before joining the call.","Please review the agenda before joining the call.","Please review the orchard before joining the call."],"answer":2,"explanation":"'Agenda' = planned topics for a meeting."},
-  {"id":163,"level":1,"word":"polite","definition":"showing good manners","sentences":["She wrote a ____ but firm response to the complaint.","She wrote a aromatic but firm response to the complaint.","She wrote a crystalline but firm response to the complaint.","She wrote a polite but firm response to the complaint."],"answer":3,"explanation":"'Polite' = courteous; important register in customer-facing writing."},
-  {"id":164,"level":1,"word":"factory","definition":"a place where goods are made","sentences":["Our main ____ in Vietnam produces 60% of our output.","Our main meadow in Vietnam produces 60% of our output.","Our main factory in Vietnam produces 60% of our output.","Our main glacier in Vietnam produces 60% of our output."],"answer":2,"explanation":"'Factory' = manufacturing plant."},
-  {"id":165,"level":1,"word":"delay","definition":"to make something happen later","sentences":["Bad weather will ____ all flights this evening.","Bad weather will harmonise all flights this evening.","Bad weather will germinate all flights this evening.","Bad weather will delay all flights this evening."],"answer":3,"explanation":"'Delay' = postpone; verb and noun."},
-  {"id":166,"level":1,"word":"price","definition":"how much something costs","sentences":["The new ____ list will take effect from January.","The new orchard list will take effect from January.","The new meadow list will take effect from January.","The new price list will take effect from January."],"answer":3,"explanation":"'Price list' = compound noun, standard in commerce."},
-  {"id":167,"level":1,"word":"hire","definition":"to employ someone","sentences":["We plan to ____ two new developers this quarter.","We plan to germinate two new developers this quarter.","We plan to hire two new developers this quarter.","We plan to harmonise two new developers this quarter."],"answer":2,"explanation":"'Hire' = employ; common in HR and recruiting."},
-  {"id":168,"level":1,"word":"meeting","definition":"a planned gathering","sentences":["The weekly team ____ runs from 9 to 10 every Monday.","The weekly team hurricane runs from 9 to 10 every Monday.","The weekly team meeting runs from 9 to 10 every Monday.","The weekly team blizzard runs from 9 to 10 every Monday."],"answer":2,"explanation":"'Meeting' = formal gathering; one of the most-used business words."},
-  {"id":169,"level":1,"word":"customer","definition":"someone who buys goods or services","sentences":["A satisfied ____ is the best advertisement for our brand.","A satisfied volcano is the best advertisement for our brand.","A satisfied glacier is the best advertisement for our brand.","A satisfied customer is the best advertisement for our brand."],"answer":3,"explanation":"'Customer' = buyer of goods/services."},
-  {"id":170,"level":1,"word":"company","definition":"a business organization","sentences":["This ____ was founded by two engineers in 1998.","This meadow was founded by two engineers in 1998.","This company was founded by two engineers in 1998.","This sunrise was founded by two engineers in 1998."],"answer":2,"explanation":"'Company' = business entity; basic vocabulary."},
-  {"id":171,"level":1,"word":"office","definition":"a place where business is done","sentences":["The ____ will be closed for renovation next week.","The meadow will be closed for renovation next week.","The thunderstorm will be closed for renovation next week.","The office will be closed for renovation next week."],"answer":3,"explanation":"'Office' = workplace; foundational business word."},
-  {"id":172,"level":1,"word":"product","definition":"something that is made for sale","sentences":["Our flagship ____ has sold over a million units worldwide.","Our flagship pyramid has sold over a million units worldwide.","Our flagship product has sold over a million units worldwide.","Our flagship harbor has sold over a million units worldwide."],"answer":2,"explanation":"'Product' = item made or sold; core commerce term."},
-  {"id":173,"level":1,"word":"service","definition":"work done for customers","sentences":["Customer ____ is open 24 hours, seven days a week.","Customer pyramid is open 24 hours, seven days a week.","Customer service is open 24 hours, seven days a week.","Customer rainbow is open 24 hours, seven days a week."],"answer":2,"explanation":"'Customer service' = support provided to clients."},
-  {"id":174,"level":1,"word":"market","definition":"the area or system for buying and selling","sentences":["The European ____ is our largest source of revenue.","The European glacier is our largest source of revenue.","The European market is our largest source of revenue.","The European butterfly is our largest source of revenue."],"answer":2,"explanation":"'Market' = trading region or system; very high-frequency business word."},
-  {"id":175,"level":1,"word":"deal","definition":"an agreement, often financial","sentences":["The two firms signed a five-year ____ this morning.","The two firms signed a five-year meadow this morning.","The two firms signed a five-year sunrise this morning.","The two firms signed a five-year deal this morning."],"answer":3,"explanation":"'Deal' = agreement; commonly 'sign/close a deal'."},
-  {"id":176,"level":1,"word":"quote","definition":"an estimated price","sentences":["Please send a written ____ for the kitchen installation.","Please send a written meadow for the kitchen installation.","Please send a written hurricane for the kitchen installation.","Please send a written quote for the kitchen installation."],"answer":3,"explanation":"'Quote' = price estimate for work to be done."},
-  {"id":177,"level":1,"word":"task","definition":"a piece of work to do","sentences":["This ____ should take about an hour to complete.","This meadow should take about an hour to complete.","This task should take about an hour to complete.","This volcano should take about an hour to complete."],"answer":2,"explanation":"'Task' = a defined unit of work."},
-  {"id":178,"level":1,"word":"slot","definition":"a scheduled time period","sentences":["I have a free 30-minute ____ at 3 p.m. for a call.","I have a free 30-minute meadow at 3 p.m. for a call.","I have a free 30-minute slot at 3 p.m. for a call.","I have a free 30-minute sunrise at 3 p.m. for a call."],"answer":2,"explanation":"'Slot' = time gap in a schedule; calendar vocabulary."},
-  {"id":179,"level":1,"word":"survey","definition":"a set of questions to gather data","sentences":["Please complete the customer ____ at the end of the call.","Please complete the customer harbor at the end of the call.","Please complete the customer meadow at the end of the call.","Please complete the customer survey at the end of the call."],"answer":3,"explanation":"'Survey' = data-gathering questionnaire."},
-  {"id":180,"level":1,"word":"report","definition":"a formal written account","sentences":["Please submit your weekly ____ by Friday at 5 p.m.","Please submit your weekly meadow by Friday at 5 p.m.","Please submit your weekly orchard by Friday at 5 p.m.","Please submit your weekly report by Friday at 5 p.m."],"answer":3,"explanation":"'Report' = formal written document summarising findings."},
-  {"id":181,"level":2,"word":"revenue","definition":"total income from sales","sentences":["Annual ____ exceeded forecasts by twelve percent.","Annual meadow exceeded forecasts by twelve percent.","Annual revenue exceeded forecasts by twelve percent.","Annual harbor exceeded forecasts by twelve percent."],"answer":2,"explanation":"'Revenue' = total sales income before costs."},
-  {"id":182,"level":2,"word":"acquire","definition":"to obtain or buy","sentences":["The firm plans to ____ a smaller competitor by year end.","The firm plans to germinate a smaller competitor by year end.","The firm plans to acquire a smaller competitor by year end.","The firm plans to harmonise a smaller competitor by year end."],"answer":2,"explanation":"'Acquire' = buy or obtain; M&A vocabulary."},
-  {"id":183,"level":2,"word":"projection","definition":"an estimate of future performance","sentences":["Sales ____ for next year remain cautiously optimistic.","Sales meadow for next year remain cautiously optimistic.","Sales projections for next year remain cautiously optimistic.","Sales harbor for next year remain cautiously optimistic."],"answer":2,"explanation":"'Projection' = forecast based on current trends."},
-  {"id":184,"level":2,"word":"workflow","definition":"the sequence of steps in a process","sentences":["The new tool will improve our ____ across all teams.","The new tool will improve our meadow across all teams.","The new tool will improve our workflow across all teams.","The new tool will improve our hurricane across all teams."],"answer":2,"explanation":"'Workflow' = sequence of work steps."},
-  {"id":185,"level":2,"word":"scope","definition":"the range covered by something","sentences":["The ____ of the project has expanded since last month.","The orchard of the project has expanded since last month.","The scope of the project has expanded since last month.","The pyramid of the project has expanded since last month."],"answer":2,"explanation":"'Scope' = boundary or extent of work; PM vocabulary."},
-  {"id":186,"level":2,"word":"strategy","definition":"a long-term plan to reach a goal","sentences":["Our new digital ____ focuses on emerging markets.","Our new digital meadow focuses on emerging markets.","Our new digital orchard focuses on emerging markets.","Our new digital strategy focuses on emerging markets."],"answer":3,"explanation":"'Strategy' = long-term plan; high-frequency business word."},
-  {"id":187,"level":2,"word":"initiative","definition":"a new plan or action","sentences":["The wellness ____ has been popular with employees.","The wellness meadow has been popular with employees.","The wellness initiative has been popular with employees.","The wellness orchard has been popular with employees."],"answer":2,"explanation":"'Initiative' = new project or programme."},
-  {"id":188,"level":2,"word":"adopt","definition":"to start using something","sentences":["Many firms have ____ remote-first work policies.","Many firms have germinated remote-first work policies.","Many firms have adopted remote-first work policies.","Many firms have harmonised remote-first work policies."],"answer":2,"explanation":"'Adopt' = take up, begin using; common with policies/practices."},
-  {"id":189,"level":2,"word":"vendor","definition":"a supplier","sentences":["The ____ failed to deliver on the agreed schedule.","The orchard failed to deliver on the agreed schedule.","The meadow failed to deliver on the agreed schedule.","The vendor failed to deliver on the agreed schedule."],"answer":3,"explanation":"'Vendor' = seller or supplier of goods/services."},
-  {"id":190,"level":2,"word":"breach","definition":"a violation of a rule or agreement","sentences":["The data ____ exposed thousands of customer records.","The data meadow exposed thousands of customer records.","The data harbor exposed thousands of customer records.","The data breach exposed thousands of customer records."],"answer":3,"explanation":"'Breach' = violation; 'data breach', 'breach of contract' are common."},
-  {"id":191,"level":3,"word":"diversify","definition":"to expand into new areas","sentences":["The firm aims to ____ its portfolio across three new sectors.","The firm aims to germinate its portfolio across three new sectors.","The firm aims to diversify its portfolio across three new sectors.","The firm aims to harmonise its portfolio across three new sectors."],"answer":2,"explanation":"'Diversify' = spread investment or activity across areas."},
-  {"id":192,"level":3,"word":"jurisdiction","definition":"the area where authority applies","sentences":["This case falls outside the regulator's ____.","This case falls outside the regulator's meadow.","This case falls outside the regulator's jurisdiction.","This case falls outside the regulator's orchard."],"answer":2,"explanation":"'Jurisdiction' = legal authority area; common in compliance."},
-  {"id":193,"level":3,"word":"insolvent","definition":"unable to pay debts","sentences":["The subsidiary was declared ____ after the audit.","The subsidiary was declared aromatic after the audit.","The subsidiary was declared crystalline after the audit.","The subsidiary was declared insolvent after the audit."],"answer":3,"explanation":"'Insolvent' = financially unable to pay debts; legal/finance term."},
-  {"id":194,"level":3,"word":"recourse","definition":"a source of help in difficulty","sentences":["Unhappy clients have legal ____ under the new contract.","Unhappy clients have legal meadow under the new contract.","Unhappy clients have legal recourse under the new contract.","Unhappy clients have legal orchard under the new contract."],"answer":2,"explanation":"'Recourse' = means of redress; 'have recourse to' is fixed."},
-  {"id":195,"level":3,"word":"prudent","definition":"showing careful judgement","sentences":["It would be ____ to delay the rollout until issues are resolved.","It would be aromatic to delay the rollout until issues are resolved.","It would be prudent to delay the rollout until issues are resolved.","It would be crystalline to delay the rollout until issues are resolved."],"answer":2,"explanation":"'Prudent' = cautiously wise; formal business advisory tone."},
-  {"id":196,"level":3,"word":"verbatim","definition":"in exactly the same words","sentences":["The quote was reproduced ____ in the press release.","The quote was reproduced meadow in the press release.","The quote was reproduced orchard in the press release.","The quote was reproduced verbatim in the press release."],"answer":3,"explanation":"'Verbatim' = word-for-word; legal/journalism register."},
-  {"id":197,"level":3,"word":"litigation","definition":"the process of legal action","sentences":["The dispute is now in ____ and may take years to resolve.","The dispute is now in meadow and may take years to resolve.","The dispute is now in litigation and may take years to resolve.","The dispute is now in orchard and may take years to resolve."],"answer":2,"explanation":"'Litigation' = lawsuit process; legal vocabulary."},
-  {"id":198,"level":3,"word":"caveat","definition":"a warning or condition","sentences":["The deal comes with one important ____ regarding pricing.","The deal comes with one important meadow regarding pricing.","The deal comes with one important caveat regarding pricing.","The deal comes with one important orchard regarding pricing."],"answer":2,"explanation":"'Caveat' = qualification, warning; formal."},
-  {"id":199,"level":3,"word":"indemnify","definition":"to compensate for harm or loss","sentences":["The contract requires the seller to ____ the buyer for defects.","The contract requires the seller to germinate the buyer for defects.","The contract requires the seller to indemnify the buyer for defects.","The contract requires the seller to harmonise the buyer for defects."],"answer":2,"explanation":"'Indemnify' = compensate against loss; legal/insurance term."},
-  {"id":200,"level":3,"word":"redress","definition":"a remedy for a wrong","sentences":["Customers may seek ____ through the ombudsman.","Customers may seek meadow through the ombudsman.","Customers may seek orchard through the ombudsman.","Customers may seek redress through the ombudsman."],"answer":3,"explanation":"'Redress' = remedy or compensation for wrong; formal."}
+  {
+    "id": 61,
+    "level": 1,
+    "word": "draft",
+    "definition": "an early version of a document",
+    "sentences": [
+      "Please ____ the email before sending it to the client.",
+      "Please draft the email before sending it to the client.",
+      "Please outcome the email before sending it to the client.",
+      "Please retire the email before sending it to the client."
+    ],
+    "answer": 1,
+    "explanation": "'Draft' = write an early version; verb and noun. Common email task.",
+    "explanationJa": "「draft」は草案・初稿を書くこと。動詞・名詞の両方で使われ、メール業務でよく使います。"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "word": "feedback",
+    "definition": "comments or reactions about work",
+    "sentences": [
+      "I appreciate the ____ you gave on my presentation yesterday.",
+      "I appreciate the equipment you gave on my presentation yesterday.",
+      "I appreciate the feedback you gave on my presentation yesterday.",
+      "I appreciate the parcel you gave on my presentation yesterday."
+    ],
+    "answer": 2,
+    "explanation": "'Feedback' = constructive comments; uncountable noun.",
+    "explanationJa": "「feedback」は建設的な意見のことで、不可算名詞です。"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "word": "contact",
+    "definition": "to communicate with someone",
+    "sentences": [
+      "Please ____ me if you have any questions about the order.",
+      "Please erase me if you have any questions about the order.",
+      "Please contact me if you have any questions about the order.",
+      "Please donate me if you have any questions about the order."
+    ],
+    "answer": 2,
+    "explanation": "'Contact' = reach out to; standard business close.",
+    "explanationJa": "「contact」は連絡を取るという意味で、ビジネスの結びの定番表現です。"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "word": "branch",
+    "definition": "a local office of a company",
+    "sentences": [
+      "Our new ____ in Berlin opens next month.",
+      "Our new branch in Berlin opens next month.",
+      "Our new gravel in Berlin opens next month.",
+      "Our new climate in Berlin opens next month."
+    ],
+    "answer": 1,
+    "explanation": "'Branch' = local office or store of a larger company.",
+    "explanationJa": "「branch」は大企業の地方支店や店舗のことです。"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "word": "refund",
+    "definition": "money returned to a customer",
+    "sentences": [
+      "The customer requested a full ____ for the damaged item.",
+      "The customer requested a full refund for the damaged item.",
+      "The customer requested a full silence for the damaged item.",
+      "The customer requested a full pavement for the damaged item."
+    ],
+    "answer": 1,
+    "explanation": "'Refund' = money paid back; common in customer service.",
+    "explanationJa": "「refund」は返金されるお金のことで、カスタマーサービスで頻出です。"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "word": "deliver",
+    "definition": "to bring goods to a place",
+    "sentences": [
+      "We will ____ your order by Tuesday at the latest.",
+      "We will discover your order by Tuesday at the latest.",
+      "We will deliver your order by Tuesday at the latest.",
+      "We will overcome your order by Tuesday at the latest."
+    ],
+    "answer": 2,
+    "explanation": "'Deliver' = transport goods to a destination.",
+    "explanationJa": "「deliver」は商品を目的地まで届けるという意味です。"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "word": "reminder",
+    "definition": "a message to make someone remember",
+    "sentences": [
+      "This is a friendly ____ that the payment is due next week.",
+      "This is a friendly carpet that the payment is due next week.",
+      "This is a friendly puddle that the payment is due next week.",
+      "This is a friendly reminder that the payment is due next week."
+    ],
+    "answer": 3,
+    "explanation": "'Reminder' = a note prompting action; very common email opener.",
+    "explanationJa": "「reminder」は行動を促すメモで、メールの冒頭でよく使われます。"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "word": "discount",
+    "definition": "a price reduction",
+    "sentences": [
+      "We offer a 10% ____ for orders over $500.",
+      "We offer a 10% discount for orders over $500.",
+      "We offer a 10% balloon for orders over $500.",
+      "We offer a 10% vehicle for orders over $500."
+    ],
+    "answer": 1,
+    "explanation": "'Discount' = reduction in price; key sales vocabulary.",
+    "explanationJa": "「discount」は値引きを意味し、営業の重要語彙です。"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "word": "warehouse",
+    "definition": "a large building for storing goods",
+    "sentences": [
+      "The stock is currently held in our main ____ outside the city.",
+      "The stock is currently held in our main eyebrow outside the city.",
+      "The stock is currently held in our main warehouse outside the city.",
+      "The stock is currently held in our main breakfast outside the city."
+    ],
+    "answer": 2,
+    "explanation": "'Warehouse' = storage facility for inventory.",
+    "explanationJa": "「warehouse」は在庫を保管する倉庫のことです。"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "word": "coworker",
+    "definition": "a person you work with",
+    "sentences": [
+      "My ____ from the marketing team will join the call later.",
+      "My horizon from the marketing team will join the call later.",
+      "My coworker from the marketing team will join the call later.",
+      "My lantern from the marketing team will join the call later."
+    ],
+    "answer": 2,
+    "explanation": "'Coworker' = person you work with; informal alternative to 'colleague'.",
+    "explanationJa": "「coworker」は仕事仲間で、colleague のカジュアルな言い方です。"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "word": "shift",
+    "definition": "a scheduled work period",
+    "sentences": [
+      "I usually work the morning ____ from 7 to 3.",
+      "I usually work the morning ladder from 7 to 3.",
+      "I usually work the morning rumour from 7 to 3.",
+      "I usually work the morning shift from 7 to 3."
+    ],
+    "answer": 3,
+    "explanation": "'Shift' = block of working hours, common in retail and operations.",
+    "explanationJa": "「shift」はシフト・勤務時間帯のことで、小売や運営でよく使われます。"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "word": "complaint",
+    "definition": "a statement that something is wrong",
+    "sentences": [
+      "We received a ____ about the quality of the latest batch.",
+      "We received a complaint about the quality of the latest batch.",
+      "We received a sunrise about the quality of the latest batch.",
+      "We received a curtain about the quality of the latest batch."
+    ],
+    "answer": 1,
+    "explanation": "'Complaint' = formal expression of dissatisfaction.",
+    "explanationJa": "「complaint」は正式な不満表明のことです。"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "word": "manager",
+    "definition": "a person in charge of others",
+    "sentences": [
+      "Please speak to your ____ before approving the expense.",
+      "Please speak to your stadium before approving the expense.",
+      "Please speak to your manager before approving the expense.",
+      "Please speak to your blanket before approving the expense."
+    ],
+    "answer": 2,
+    "explanation": "'Manager' = person responsible for staff or projects.",
+    "explanationJa": "「manager」はスタッフやプロジェクトを管理する人のことです。"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "word": "register",
+    "definition": "to record officially",
+    "sentences": [
+      "You need to ____ for the conference by Friday.",
+      "You need to register for the conference by Friday.",
+      "You need to admire for the conference by Friday.",
+      "You need to whisper for the conference by Friday."
+    ],
+    "answer": 1,
+    "explanation": "'Register for' = sign up officially.",
+    "explanationJa": "「register for」は正式に登録する・申し込むという意味です。"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "word": "vacancy",
+    "definition": "an unfilled job position",
+    "sentences": [
+      "There is a ____ in the accounting team starting in June.",
+      "There is a tornado in the accounting team starting in June.",
+      "There is a vacancy in the accounting team starting in June.",
+      "There is a balloon in the accounting team starting in June."
+    ],
+    "answer": 2,
+    "explanation": "'Vacancy' = open job role or empty hotel room.",
+    "explanationJa": "「vacancy」は空いている職位やホテルの空室のことです。"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "word": "order",
+    "definition": "a request to buy goods",
+    "sentences": [
+      "I'd like to place an ____ for fifty units of the new product.",
+      "I'd like to place an order for fifty units of the new product.",
+      "I'd like to place an island for fifty units of the new product.",
+      "I'd like to place an apricot for fifty units of the new product."
+    ],
+    "answer": 1,
+    "explanation": "'Place an order for' = formally request to buy.",
+    "explanationJa": "「place an order for」は正式に注文するという意味です。"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "word": "booking",
+    "definition": "a reservation",
+    "sentences": [
+      "I made a ____ for the conference room at 2 p.m.",
+      "I made a candle for the conference room at 2 p.m.",
+      "I made a booking for the conference room at 2 p.m.",
+      "I made a thunder for the conference room at 2 p.m."
+    ],
+    "answer": 2,
+    "explanation": "'Booking' = reservation; British English business standard.",
+    "explanationJa": "「booking」は予約のことで、イギリス英語のビジネス標準語です。"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "word": "sample",
+    "definition": "a small example of a product",
+    "sentences": [
+      "Could you send us a ____ of the fabric before we order?",
+      "Could you send us a glacier of the fabric before we order?",
+      "Could you send us a marathon of the fabric before we order?",
+      "Could you send us a sample of the fabric before we order?"
+    ],
+    "answer": 3,
+    "explanation": "'Sample' = trial portion sent for inspection.",
+    "explanationJa": "「sample」は検査用に送られる試供品のことです。"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "word": "queue",
+    "definition": "a line of people waiting",
+    "sentences": [
+      "There was a long ____ at the customer service desk this morning.",
+      "There was a long queue at the customer service desk this morning.",
+      "There was a long valley at the customer service desk this morning.",
+      "There was a long fragrance at the customer service desk this morning."
+    ],
+    "answer": 1,
+    "explanation": "'Queue' = waiting line; British English (US: 'line').",
+    "explanationJa": "「queue」はイギリス英語で待ち行列を意味します(米語では line)。"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "word": "receipt",
+    "definition": "a printed proof of purchase",
+    "sentences": [
+      "Please keep your ____ in case you need to return the item.",
+      "Please keep your eclipse in case you need to return the item.",
+      "Please keep your receipt in case you need to return the item.",
+      "Please keep your saddle in case you need to return the item."
+    ],
+    "answer": 2,
+    "explanation": "'Receipt' = proof of payment; pronounced 'ri-SEET'.",
+    "explanationJa": "「receipt」は支払証明の領収書で、「リシート」と発音します。"
+  },
+  {
+    "id": 81,
+    "level": 2,
+    "word": "reimburse",
+    "definition": "to pay back money someone spent",
+    "sentences": [
+      "The company will ____ you for any approved travel expenses.",
+      "The company will alleviate you for any approved travel expenses.",
+      "The company will reimburse you for any approved travel expenses.",
+      "The company will harvest you for any approved travel expenses."
+    ],
+    "answer": 2,
+    "explanation": "'Reimburse' = pay back; formal for expense claims.",
+    "explanationJa": "「reimburse」は経費精算で払い戻すという格式ある言い方です。"
+  },
+  {
+    "id": 82,
+    "level": 2,
+    "word": "escalate",
+    "definition": "to raise an issue to a higher level",
+    "sentences": [
+      "If the supplier doesn't respond today, we'll need to ____ this.",
+      "If the supplier doesn't respond today, we'll need to escalate this.",
+      "If the supplier doesn't respond today, we'll need to evaporate this.",
+      "If the supplier doesn't respond today, we'll need to germinate this."
+    ],
+    "answer": 1,
+    "explanation": "'Escalate' = pass an issue up the chain; common in support.",
+    "explanationJa": "「escalate」は問題を上層へエスカレートさせるという意味で、サポート業務で頻出です。"
+  },
+  {
+    "id": 83,
+    "level": 2,
+    "word": "onboarding",
+    "definition": "the process of integrating new hires",
+    "sentences": [
+      "The new employee ____ programme lasts two weeks.",
+      "The new employee onboarding programme lasts two weeks.",
+      "The new employee thunderstorm programme lasts two weeks.",
+      "The new employee marshland programme lasts two weeks."
+    ],
+    "answer": 1,
+    "explanation": "'Onboarding' = orientation for new staff; HR standard.",
+    "explanationJa": "「onboarding」は新入社員のオリエンテーションを指す人事用語です。"
+  },
+  {
+    "id": 84,
+    "level": 2,
+    "word": "feasible",
+    "definition": "possible to do",
+    "sentences": [
+      "Launching by Q3 is technically ____, but tight on resources.",
+      "Launching by Q3 is technically feasible, but tight on resources.",
+      "Launching by Q3 is technically obsolete, but tight on resources.",
+      "Launching by Q3 is technically nautical, but tight on resources."
+    ],
+    "answer": 1,
+    "explanation": "'Feasible' = workable, doable; project-planning term.",
+    "explanationJa": "「feasible」は実行可能・実現可能という意味で、プロジェクト計画用語です。"
+  },
+  {
+    "id": 85,
+    "level": 2,
+    "word": "overhead",
+    "definition": "ongoing business operating costs",
+    "sentences": [
+      "Reducing ____ is critical to improving our profit margins.",
+      "Reducing telescope is critical to improving our profit margins.",
+      "Reducing migration is critical to improving our profit margins.",
+      "Reducing overhead is critical to improving our profit margins."
+    ],
+    "answer": 3,
+    "explanation": "'Overhead' = rent, utilities, salaries — recurring fixed costs.",
+    "explanationJa": "「overhead」は家賃・光熱費・給与などの固定経費のことです。"
+  },
+  {
+    "id": 86,
+    "level": 2,
+    "word": "benchmark",
+    "definition": "a standard to measure against",
+    "sentences": [
+      "Our response time exceeds the industry ____ by 12%.",
+      "Our response time exceeds the industry benchmark by 12%.",
+      "Our response time exceeds the industry crocodile by 12%.",
+      "Our response time exceeds the industry sandstorm by 12%."
+    ],
+    "answer": 1,
+    "explanation": "'Benchmark' = reference standard for comparison.",
+    "explanationJa": "「benchmark」は比較の基準を意味します。"
+  },
+  {
+    "id": 87,
+    "level": 2,
+    "word": "turnover",
+    "definition": "total sales revenue or staff replacement rate",
+    "sentences": [
+      "Annual ____ grew by 8% despite difficult market conditions.",
+      "Annual turnover grew by 8% despite difficult market conditions.",
+      "Annual armadillo grew by 8% despite difficult market conditions.",
+      "Annual seashell grew by 8% despite difficult market conditions."
+    ],
+    "answer": 1,
+    "explanation": "'Turnover' has two meanings: total revenue, or rate of staff leaving.",
+    "explanationJa": "「turnover」には総売上と離職率の二つの意味があります。"
+  },
+  {
+    "id": 88,
+    "level": 2,
+    "word": "prospect",
+    "definition": "a potential customer",
+    "sentences": [
+      "The sales team identified twelve qualified ____ from the trade show.",
+      "The sales team identified twelve qualified prospects from the trade show.",
+      "The sales team identified twelve qualified haystacks from the trade show.",
+      "The sales team identified twelve qualified dolphins from the trade show."
+    ],
+    "answer": 1,
+    "explanation": "'Prospect' = a likely buyer; pipeline vocabulary.",
+    "explanationJa": "「prospect」は見込み客のことで、営業パイプラインの語彙です。"
+  },
+  {
+    "id": 89,
+    "level": 2,
+    "word": "viable",
+    "definition": "capable of working successfully",
+    "sentences": [
+      "After review, the proposal is no longer financially ____.",
+      "After review, the proposal is no longer financially viable.",
+      "After review, the proposal is no longer financially crystalline.",
+      "After review, the proposal is no longer financially aromatic."
+    ],
+    "answer": 1,
+    "explanation": "'Viable' = workable, sustainable; near-synonym of 'feasible' but stronger.",
+    "explanationJa": "「viable」は実行可能で持続可能という意味で、feasible より強い語感です。"
+  },
+  {
+    "id": 90,
+    "level": 2,
+    "word": "prioritise",
+    "definition": "to treat as more important",
+    "sentences": [
+      "We need to ____ customer-facing issues over internal ones.",
+      "We need to prioritise customer-facing issues over internal ones.",
+      "We need to harmonise customer-facing issues over internal ones.",
+      "We need to crystallise customer-facing issues over internal ones."
+    ],
+    "answer": 1,
+    "explanation": "'Prioritise' (US: prioritize) = rank by importance.",
+    "explanationJa": "「prioritise」(米: prioritize) は重要度順に並べるという意味です。"
+  },
+  {
+    "id": 91,
+    "level": 2,
+    "word": "variance",
+    "definition": "a difference between expected and actual",
+    "sentences": [
+      "There's a small ____ between the invoice and the purchase order.",
+      "There's a small symphony between the invoice and the purchase order.",
+      "There's a small variance between the invoice and the purchase order.",
+      "There's a small archipelago between the invoice and the purchase order."
+    ],
+    "answer": 2,
+    "explanation": "'Variance' = quantitative gap; finance/audit term.",
+    "explanationJa": "「variance」は数値的な差異のことで、財務・監査用語です。"
+  },
+  {
+    "id": 92,
+    "level": 2,
+    "word": "deliverable",
+    "definition": "a tangible item produced as part of work",
+    "sentences": [
+      "The first project ____ is due at the end of next week.",
+      "The first project peninsula is due at the end of next week.",
+      "The first project hailstorm is due at the end of next week.",
+      "The first project deliverable is due at the end of next week."
+    ],
+    "answer": 3,
+    "explanation": "'Deliverable' = concrete output of a project; PM vocabulary.",
+    "explanationJa": "「deliverable」はプロジェクトの具体的な成果物のことで、PM 用語です。"
+  },
+  {
+    "id": 93,
+    "level": 2,
+    "word": "negotiate",
+    "definition": "to discuss to reach an agreement",
+    "sentences": [
+      "We need to ____ better terms with the new supplier.",
+      "We need to fluctuate better terms with the new supplier.",
+      "We need to negotiate better terms with the new supplier.",
+      "We need to germinate better terms with the new supplier."
+    ],
+    "answer": 2,
+    "explanation": "'Negotiate' = bargain to reach mutually acceptable terms.",
+    "explanationJa": "「negotiate」は双方が受け入れられる条件を交渉して導き出すという意味です。"
+  },
+  {
+    "id": 94,
+    "level": 2,
+    "word": "endorse",
+    "definition": "to publicly support or recommend",
+    "sentences": [
+      "The CEO is willing to ____ the new product in next month's launch.",
+      "The CEO is willing to endorse the new product in next month's launch.",
+      "The CEO is willing to circulate the new product in next month's launch.",
+      "The CEO is willing to disperse the new product in next month's launch."
+    ],
+    "answer": 1,
+    "explanation": "'Endorse' = give official approval or backing to.",
+    "explanationJa": "「endorse」は公式に承認・支持するという意味です。"
+  },
+  {
+    "id": 95,
+    "level": 2,
+    "word": "compliance",
+    "definition": "acting according to rules",
+    "sentences": [
+      "The audit confirmed full ____ with the new data regulations.",
+      "The audit confirmed full meridian with the new data regulations.",
+      "The audit confirmed full compliance with the new data regulations.",
+      "The audit confirmed full glacier with the new data regulations."
+    ],
+    "answer": 2,
+    "explanation": "'Compliance' = following rules/laws; legal-finance vocabulary.",
+    "explanationJa": "「compliance」は規則・法令の順守を意味する法務財務用語です。"
+  },
+  {
+    "id": 96,
+    "level": 2,
+    "word": "sustain",
+    "definition": "to keep something going over time",
+    "sentences": [
+      "Our main goal is to ____ growth without overextending the team.",
+      "Our main goal is to vaporise growth without overextending the team.",
+      "Our main goal is to embellish growth without overextending the team.",
+      "Our main goal is to sustain growth without overextending the team."
+    ],
+    "answer": 3,
+    "explanation": "'Sustain' = maintain over time; collocates with growth, effort, momentum.",
+    "explanationJa": "「sustain」は長期にわたって維持するという意味で、growth, effort, momentum と結びつきます。"
+  },
+  {
+    "id": 97,
+    "level": 2,
+    "word": "overheads",
+    "definition": "running costs of a business",
+    "sentences": [
+      "Cutting unnecessary ____ helped us survive the downturn.",
+      "Cutting unnecessary overheads helped us survive the downturn.",
+      "Cutting unnecessary glaciers helped us survive the downturn.",
+      "Cutting unnecessary tapestry helped us survive the downturn."
+    ],
+    "answer": 1,
+    "explanation": "'Overheads' = fixed running costs like rent, utilities, salaries (UK plural).",
+    "explanationJa": "「overheads」は家賃・光熱費・給与などの固定経費のことです(英国の複数形)。"
+  },
+  {
+    "id": 98,
+    "level": 2,
+    "word": "liability",
+    "definition": "a legal financial obligation",
+    "sentences": [
+      "The company's ____ for the defective product is being assessed.",
+      "The company's atmosphere for the defective product is being assessed.",
+      "The company's liability for the defective product is being assessed.",
+      "The company's daffodil for the defective product is being assessed."
+    ],
+    "answer": 2,
+    "explanation": "'Liability' = legal/financial responsibility; key accounting term.",
+    "explanationJa": "「liability」は法的・財務的責任のことで、会計の重要語彙です。"
+  },
+  {
+    "id": 99,
+    "level": 2,
+    "word": "merger",
+    "definition": "the joining of two companies",
+    "sentences": [
+      "The proposed ____ would create the largest firm in the region.",
+      "The proposed thunderclap would create the largest firm in the region.",
+      "The proposed merger would create the largest firm in the region.",
+      "The proposed wildflower would create the largest firm in the region."
+    ],
+    "answer": 2,
+    "explanation": "'Merger' = combination of two companies; M&A vocabulary.",
+    "explanationJa": "「merger」は企業合併のことで、M&A 語彙です。"
+  },
+  {
+    "id": 100,
+    "level": 2,
+    "word": "liaise",
+    "definition": "to communicate and cooperate",
+    "sentences": [
+      "Please ____ with the design team on the new packaging.",
+      "Please liaise with the design team on the new packaging.",
+      "Please incubate with the design team on the new packaging.",
+      "Please orbit with the design team on the new packaging."
+    ],
+    "answer": 1,
+    "explanation": "'Liaise with' = work in coordination with; British English business standard.",
+    "explanationJa": "「liaise with」は〜と連携するという意味で、イギリス英語のビジネス標準表現です。"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "word": "discount",
+    "definition": "to reduce price",
+    "sentences": [
+      "We can ____ the bulk order by an additional five percent.",
+      "We can ferment the bulk order by an additional five percent.",
+      "We can discount the bulk order by an additional five percent.",
+      "We can hydrate the bulk order by an additional five percent."
+    ],
+    "answer": 2,
+    "explanation": "'Discount' as a verb = lower the price.",
+    "explanationJa": "動詞「discount」は値段を下げるという意味です。"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "word": "workload",
+    "definition": "the amount of work to do",
+    "sentences": [
+      "My ____ has been heavy this week with three projects running.",
+      "My workload has been heavy this week with three projects running.",
+      "My valley has been heavy this week with three projects running.",
+      "My butterfly has been heavy this week with three projects running."
+    ],
+    "answer": 1,
+    "explanation": "'Workload' = total tasks assigned; compound noun.",
+    "explanationJa": "「workload」は割り当てられた仕事量のことで、複合名詞です。"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "word": "vendor",
+    "definition": "a company that sells products",
+    "sentences": [
+      "We rely on three external ____ for our office supplies.",
+      "We rely on three external pelicans for our office supplies.",
+      "We rely on three external vendors for our office supplies.",
+      "We rely on three external icicles for our office supplies."
+    ],
+    "answer": 2,
+    "explanation": "'Vendor' = seller, supplier (US English preferred).",
+    "explanationJa": "「vendor」は売り手・供給業者のことです(米語が好まれます)。"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "word": "shipment",
+    "definition": "a load of goods being sent",
+    "sentences": [
+      "The ____ from China should arrive on Thursday morning.",
+      "The volcano from China should arrive on Thursday morning.",
+      "The shipment from China should arrive on Thursday morning.",
+      "The sapphire from China should arrive on Thursday morning."
+    ],
+    "answer": 2,
+    "explanation": "'Shipment' = freight being delivered; logistics vocabulary.",
+    "explanationJa": "「shipment」は配送中の貨物のことで、物流用語です。"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "word": "shortage",
+    "definition": "a lack of something needed",
+    "sentences": [
+      "A ____ of qualified candidates is slowing our hiring plan.",
+      "A spectrum of qualified candidates is slowing our hiring plan.",
+      "A shortage of qualified candidates is slowing our hiring plan.",
+      "A horizon of qualified candidates is slowing our hiring plan."
+    ],
+    "answer": 2,
+    "explanation": "'Shortage of' = insufficient supply of.",
+    "explanationJa": "「shortage of」は〜の不足という意味です。"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "word": "income",
+    "definition": "money received from work",
+    "sentences": [
+      "His main ____ comes from freelance consulting projects.",
+      "His main eclipse comes from freelance consulting projects.",
+      "His main income comes from freelance consulting projects.",
+      "His main glacier comes from freelance consulting projects."
+    ],
+    "answer": 2,
+    "explanation": "'Income' = money earned; opposite of expenses.",
+    "explanationJa": "「income」は得られる収入のことで、expenses(支出)の対義語です。"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "word": "contract",
+    "definition": "a written agreement",
+    "sentences": [
+      "Both parties signed the ____ last Friday afternoon.",
+      "Both parties signed the contract last Friday afternoon.",
+      "Both parties signed the lagoon last Friday afternoon.",
+      "Both parties signed the meteor last Friday afternoon."
+    ],
+    "answer": 1,
+    "explanation": "'Contract' = legally binding written agreement.",
+    "explanationJa": "「contract」は法的拘束力のある書面契約のことです。"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "word": "profit",
+    "definition": "money earned after costs",
+    "sentences": [
+      "The store made a small ____ in its first year of operation.",
+      "The store made a small profit in its first year of operation.",
+      "The store made a small canyon in its first year of operation.",
+      "The store made a small parsley in its first year of operation."
+    ],
+    "answer": 1,
+    "explanation": "'Profit' = revenue minus expenses; basic finance term.",
+    "explanationJa": "「profit」は売上から経費を引いた利益のことで、財務の基本語彙です。"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "word": "summary",
+    "definition": "a short version of something longer",
+    "sentences": [
+      "Please send me a one-page ____ of the report by tomorrow.",
+      "Please send me a one-page mountain of the report by tomorrow.",
+      "Please send me a one-page summary of the report by tomorrow.",
+      "Please send me a one-page raincoat of the report by tomorrow."
+    ],
+    "answer": 2,
+    "explanation": "'Summary' = condensed version; common in executive communication.",
+    "explanationJa": "「summary」は要約のことで、経営層向けコミュニケーションでよく使います。"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "word": "location",
+    "definition": "a place where something is",
+    "sentences": [
+      "The new office ____ has excellent transport links.",
+      "The new office melody has excellent transport links.",
+      "The new office location has excellent transport links.",
+      "The new office aroma has excellent transport links."
+    ],
+    "answer": 2,
+    "explanation": "'Location' = specific place; common in real estate and operations.",
+    "explanationJa": "「location」は具体的な場所のことで、不動産・運営でよく使います。"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "word": "target",
+    "definition": "a specific goal",
+    "sentences": [
+      "Our sales team hit its quarterly ____ two weeks early.",
+      "Our sales team hit its quarterly target two weeks early.",
+      "Our sales team hit its quarterly seashell two weeks early.",
+      "Our sales team hit its quarterly raincloud two weeks early."
+    ],
+    "answer": 1,
+    "explanation": "'Target' = specific goal; 'hit a target' is fixed collocation.",
+    "explanationJa": "「target」は具体的な目標のことで、hit a target は固定の連語です。"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "word": "branch",
+    "definition": "a part of an organization",
+    "sentences": [
+      "The financial ____ of the company is based in London.",
+      "The financial branch of the company is based in London.",
+      "The financial puddle of the company is based in London.",
+      "The financial fountain of the company is based in London."
+    ],
+    "answer": 1,
+    "explanation": "'Branch' = division or local office of an organization.",
+    "explanationJa": "「branch」は組織の部門や地方支店のことです。"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "word": "refund",
+    "definition": "to give money back",
+    "sentences": [
+      "The store agreed to ____ the full purchase price.",
+      "The store agreed to evaporate the full purchase price.",
+      "The store agreed to germinate the full purchase price.",
+      "The store agreed to refund the full purchase price."
+    ],
+    "answer": 3,
+    "explanation": "'Refund' as verb = return payment to customer.",
+    "explanationJa": "動詞「refund」は顧客への返金処理を意味します。"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "word": "client",
+    "definition": "a customer of a service",
+    "sentences": [
+      "Our biggest ____ has renewed the annual contract.",
+      "Our biggest client has renewed the annual contract.",
+      "Our biggest gravel has renewed the annual contract.",
+      "Our biggest hailstone has renewed the annual contract."
+    ],
+    "answer": 1,
+    "explanation": "'Client' = customer, usually for professional services.",
+    "explanationJa": "「client」は通常、専門サービスの顧客を意味します。"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "word": "branch",
+    "definition": "to divide into parts",
+    "sentences": [
+      "The corridor will ____ off to the right after the lobby.",
+      "The corridor will whisper off to the right after the lobby.",
+      "The corridor will branch off to the right after the lobby.",
+      "The corridor will scatter off to the right after the lobby."
+    ],
+    "answer": 2,
+    "explanation": "'Branch off' = split into a separate direction or path.",
+    "explanationJa": "「branch off」は別方向へ分岐するという意味です。"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "word": "interview",
+    "definition": "a formal meeting to discuss a job",
+    "sentences": [
+      "I have an ____ for the marketing role on Friday at ten.",
+      "I have an avalanche for the marketing role on Friday at ten.",
+      "I have an interview for the marketing role on Friday at ten.",
+      "I have an iceberg for the marketing role on Friday at ten."
+    ],
+    "answer": 2,
+    "explanation": "'Interview' = formal questioning, often for jobs.",
+    "explanationJa": "「interview」は正式な面談・面接のことで、求職場面でよく使われます。"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "word": "clerk",
+    "definition": "an office worker who handles records",
+    "sentences": [
+      "The ____ at the front desk will help you fill in the form.",
+      "The hurricane at the front desk will help you fill in the form.",
+      "The clerk at the front desk will help you fill in the form.",
+      "The cactus at the front desk will help you fill in the form."
+    ],
+    "answer": 2,
+    "explanation": "'Clerk' = office or counter worker handling paperwork.",
+    "explanationJa": "「clerk」は書類業務を担当するオフィスや窓口の係員のことです。"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "word": "deadline",
+    "definition": "the latest time to finish",
+    "sentences": [
+      "The team is racing against the ____ for the launch.",
+      "The team is racing against the deadline for the launch.",
+      "The team is racing against the meadow for the launch.",
+      "The team is racing against the sunrise for the launch."
+    ],
+    "answer": 1,
+    "explanation": "'Race against the deadline' = struggle to finish in time; fixed phrase.",
+    "explanationJa": "「race against the deadline」は締切に間に合わせようと奮闘するという固定表現です。"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "word": "chair",
+    "definition": "to lead a meeting",
+    "sentences": [
+      "Sarah will ____ the meeting in the director's absence.",
+      "Sarah will evaporate the meeting in the director's absence.",
+      "Sarah will chair the meeting in the director's absence.",
+      "Sarah will harvest the meeting in the director's absence."
+    ],
+    "answer": 2,
+    "explanation": "'Chair' as verb = lead or moderate a meeting.",
+    "explanationJa": "動詞「chair」は会議の議長を務めるという意味です。"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "word": "voucher",
+    "definition": "a paper that gives the right to something",
+    "sentences": [
+      "Customers received a ten-dollar ____ as an apology.",
+      "Customers received a ten-dollar voucher as an apology.",
+      "Customers received a ten-dollar pyramid as an apology.",
+      "Customers received a ten-dollar shoreline as an apology."
+    ],
+    "answer": 1,
+    "explanation": "'Voucher' = ticket or document with monetary value.",
+    "explanationJa": "「voucher」は金銭的価値のあるチケットや書類のことです。"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "word": "streamline",
+    "definition": "to make a process simpler and faster",
+    "sentences": [
+      "The new software will ____ our invoice processing workflow.",
+      "The new software will overshadow our invoice processing workflow.",
+      "The new software will streamline our invoice processing workflow.",
+      "The new software will marginalise our invoice processing workflow."
+    ],
+    "answer": 2,
+    "explanation": "'Streamline' = make more efficient by removing unnecessary steps.",
+    "explanationJa": "「streamline」は不要な手順を取り除き効率化するという意味です。"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "word": "allocate",
+    "definition": "to assign resources for a purpose",
+    "sentences": [
+      "We need to ____ more budget to the digital marketing team.",
+      "We need to evaporate more budget to the digital marketing team.",
+      "We need to germinate more budget to the digital marketing team.",
+      "We need to allocate more budget to the digital marketing team."
+    ],
+    "answer": 3,
+    "explanation": "'Allocate' = formally assign or distribute resources.",
+    "explanationJa": "「allocate」は資源を正式に割り当て・配分するという意味です。"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "word": "outsource",
+    "definition": "to hire an outside company to do work",
+    "sentences": [
+      "We've decided to ____ our IT support to a specialist firm.",
+      "We've decided to outsource our IT support to a specialist firm.",
+      "We've decided to germinate our IT support to a specialist firm.",
+      "We've decided to harmonise our IT support to a specialist firm."
+    ],
+    "answer": 1,
+    "explanation": "'Outsource' = transfer a function to an external provider.",
+    "explanationJa": "「outsource」は機能を外部委託するという意味です。"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "word": "counter",
+    "definition": "to respond against an offer",
+    "sentences": [
+      "They are likely to ____ our offer with a higher price.",
+      "They are likely to evaporate our offer with a higher price.",
+      "They are likely to counter our offer with a higher price.",
+      "They are likely to incubate our offer with a higher price."
+    ],
+    "answer": 2,
+    "explanation": "'Counter' = respond with an opposing position; negotiation.",
+    "explanationJa": "「counter」は交渉で対案を提示するという意味です。"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "word": "concede",
+    "definition": "to admit or give up a point",
+    "sentences": [
+      "The director was forced to ____ that the launch was premature.",
+      "The director was forced to germinate that the launch was premature.",
+      "The director was forced to evaporate that the launch was premature.",
+      "The director was forced to concede that the launch was premature."
+    ],
+    "answer": 3,
+    "explanation": "'Concede' = reluctantly admit; common in debate/negotiation.",
+    "explanationJa": "「concede」は議論や交渉でしぶしぶ認めるという意味です。"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "word": "exceed",
+    "definition": "to go beyond a limit",
+    "sentences": [
+      "Our Q2 results ____ all internal forecasts by a wide margin.",
+      "Our Q2 results harmonise all internal forecasts by a wide margin.",
+      "Our Q2 results exceed all internal forecasts by a wide margin.",
+      "Our Q2 results incubate all internal forecasts by a wide margin."
+    ],
+    "answer": 2,
+    "explanation": "'Exceed' = surpass; collocates with expectations, target, limit.",
+    "explanationJa": "「exceed」は超えるという意味で、expectations, target, limit と結びつきます。"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "word": "pending",
+    "definition": "waiting to be decided",
+    "sentences": [
+      "The contract is ____ legal review and should clear by Friday.",
+      "The contract is harmonising legal review and should clear by Friday.",
+      "The contract is pending legal review and should clear by Friday.",
+      "The contract is evaporating legal review and should clear by Friday."
+    ],
+    "answer": 2,
+    "explanation": "'Pending' = awaiting completion; adjective or preposition.",
+    "explanationJa": "「pending」は完了待ちという意味で、形容詞・前置詞として使います。"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "word": "interim",
+    "definition": "temporary, in the meantime",
+    "sentences": [
+      "She will serve as ____ CEO until a permanent hire is made.",
+      "She will serve as harmonious CEO until a permanent hire is made.",
+      "She will serve as crystalline CEO until a permanent hire is made.",
+      "She will serve as interim CEO until a permanent hire is made."
+    ],
+    "answer": 3,
+    "explanation": "'Interim' = temporary, during the interval; senior business term.",
+    "explanationJa": "「interim」は暫定・つなぎという意味で、上級ビジネス用語です。"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "word": "align",
+    "definition": "to put in agreement or coordination",
+    "sentences": [
+      "The proposal must ____ with our long-term strategy.",
+      "The proposal must germinate with our long-term strategy.",
+      "The proposal must align with our long-term strategy.",
+      "The proposal must harvest with our long-term strategy."
+    ],
+    "answer": 2,
+    "explanation": "'Align with' = match, be consistent with; strategic vocabulary.",
+    "explanationJa": "「align with」は〜と一致する・整合するという戦略用語です。"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "word": "delegate",
+    "definition": "to give a task to someone else",
+    "sentences": [
+      "Good managers know how to ____ routine work to their team.",
+      "Good managers know how to germinate routine work to their team.",
+      "Good managers know how to delegate routine work to their team.",
+      "Good managers know how to evaporate routine work to their team."
+    ],
+    "answer": 2,
+    "explanation": "'Delegate' = entrust to a subordinate; leadership skill.",
+    "explanationJa": "「delegate」は部下に仕事を任せることで、リーダーシップの技能です。"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "word": "consensus",
+    "definition": "general agreement",
+    "sentences": [
+      "The board reached a ____ on the new pricing strategy.",
+      "The board reached a glacier on the new pricing strategy.",
+      "The board reached a consensus on the new pricing strategy.",
+      "The board reached a hailstorm on the new pricing strategy."
+    ],
+    "answer": 2,
+    "explanation": "'Consensus' = collective agreement; 'reach a consensus' is fixed.",
+    "explanationJa": "「consensus」は集団の合意のことで、reach a consensus は固定表現です。"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "word": "forecast",
+    "definition": "to predict future numbers",
+    "sentences": [
+      "Analysts ____ a 12% increase in sales next quarter.",
+      "Analysts harmonise a 12% increase in sales next quarter.",
+      "Analysts germinate a 12% increase in sales next quarter.",
+      "Analysts forecast a 12% increase in sales next quarter."
+    ],
+    "answer": 3,
+    "explanation": "'Forecast' = predict, usually with data; verb and noun.",
+    "explanationJa": "「forecast」は通常データに基づいて予測するという意味で、動詞・名詞両方で使います。"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "word": "backlog",
+    "definition": "unfinished work piled up",
+    "sentences": [
+      "The support team is working through a large ____ of tickets.",
+      "The support team is working through a large hailstorm of tickets.",
+      "The support team is working through a large backlog of tickets.",
+      "The support team is working through a large meadow of tickets."
+    ],
+    "answer": 2,
+    "explanation": "'Backlog' = accumulated unfinished work.",
+    "explanationJa": "「backlog」は溜まった未処理業務のことです。"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "word": "milestone",
+    "definition": "a significant point in a project",
+    "sentences": [
+      "Completing the prototype was a major ____ for the team.",
+      "Completing the prototype was a major mountain for the team.",
+      "Completing the prototype was a major milestone for the team.",
+      "Completing the prototype was a major thunderstorm for the team."
+    ],
+    "answer": 2,
+    "explanation": "'Milestone' = key project event marking progress.",
+    "explanationJa": "「milestone」は進捗を示す重要なプロジェクトイベントのことです。"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "word": "stakeholder",
+    "definition": "a person with interest in a project",
+    "sentences": [
+      "Every ____ must approve the design before production begins.",
+      "Every stakeholder must approve the design before production begins.",
+      "Every glacier must approve the design before production begins.",
+      "Every horizon must approve the design before production begins."
+    ],
+    "answer": 1,
+    "explanation": "'Stakeholder' = party with an interest in or influence over a project.",
+    "explanationJa": "「stakeholder」はプロジェクトに利害や影響力を持つ関係者のことです。"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "word": "leverage",
+    "definition": "to use to maximum effect",
+    "sentences": [
+      "We should ____ our existing customer relationships to drive sales.",
+      "We should evaporate our existing customer relationships to drive sales.",
+      "We should germinate our existing customer relationships to drive sales.",
+      "We should leverage our existing customer relationships to drive sales."
+    ],
+    "answer": 3,
+    "explanation": "'Leverage' as verb = use strategically to gain advantage.",
+    "explanationJa": "動詞「leverage」は戦略的に活用して優位を得るという意味です。"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "word": "liaise",
+    "definition": "to coordinate between people",
+    "sentences": [
+      "I'll ____ with both teams to finalise the rollout schedule.",
+      "I'll evaporate with both teams to finalise the rollout schedule.",
+      "I'll liaise with both teams to finalise the rollout schedule.",
+      "I'll germinate with both teams to finalise the rollout schedule."
+    ],
+    "answer": 2,
+    "explanation": "'Liaise with' = act as a coordinator/bridge between parties.",
+    "explanationJa": "「liaise with」は当事者間の調整役・橋渡しをするという意味です。"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "word": "vendor",
+    "definition": "a supplier or seller",
+    "sentences": [
+      "We've shortlisted three ____ for the catering contract.",
+      "We've shortlisted three vendors for the catering contract.",
+      "We've shortlisted three icebergs for the catering contract.",
+      "We've shortlisted three glaciers for the catering contract."
+    ],
+    "answer": 1,
+    "explanation": "'Vendor' = a company supplying goods or services.",
+    "explanationJa": "「vendor」は商品やサービスを供給する企業のことです。"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "word": "appoint",
+    "definition": "to officially choose for a position",
+    "sentences": [
+      "The board will ____ a new CFO next month.",
+      "The board will appoint a new CFO next month.",
+      "The board will germinate a new CFO next month.",
+      "The board will evaporate a new CFO next month."
+    ],
+    "answer": 1,
+    "explanation": "'Appoint' = formally assign someone to a role.",
+    "explanationJa": "「appoint」は正式に役職に任命するという意味です。"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "word": "oversee",
+    "definition": "to supervise",
+    "sentences": [
+      "She will ____ the merger integration process for both firms.",
+      "She will germinate the merger integration process for both firms.",
+      "She will oversee the merger integration process for both firms.",
+      "She will harmonise the merger integration process for both firms."
+    ],
+    "answer": 2,
+    "explanation": "'Oversee' = supervise from a higher level; manage broadly.",
+    "explanationJa": "「oversee」は上の立場から監督・統括するという意味です。"
+  },
+  {
+    "id": 141,
+    "level": 3,
+    "word": "divest",
+    "definition": "to sell off a business unit",
+    "sentences": [
+      "The conglomerate plans to ____ its underperforming retail arm.",
+      "The conglomerate plans to harmonise its underperforming retail arm.",
+      "The conglomerate plans to germinate its underperforming retail arm.",
+      "The conglomerate plans to divest its underperforming retail arm."
+    ],
+    "answer": 3,
+    "explanation": "'Divest' = strategically sell off assets or divisions.",
+    "explanationJa": "「divest」は資産や部門を戦略的に売却するという意味です。"
+  },
+  {
+    "id": 142,
+    "level": 3,
+    "word": "circumvent",
+    "definition": "to avoid by going around",
+    "sentences": [
+      "The firm tried to ____ the new tariffs by routing through Mexico.",
+      "The firm tried to germinate the new tariffs by routing through Mexico.",
+      "The firm tried to circumvent the new tariffs by routing through Mexico.",
+      "The firm tried to evaporate the new tariffs by routing through Mexico."
+    ],
+    "answer": 2,
+    "explanation": "'Circumvent' = find a way around an obstacle or rule.",
+    "explanationJa": "「circumvent」は障害や規則を回避する方法を見つけるという意味です。"
+  },
+  {
+    "id": 143,
+    "level": 3,
+    "word": "attrition",
+    "definition": "gradual loss of staff or customers",
+    "sentences": [
+      "Customer ____ has risen since the price increase took effect.",
+      "Customer hurricane has risen since the price increase took effect.",
+      "Customer marmalade has risen since the price increase took effect.",
+      "Customer attrition has risen since the price increase took effect."
+    ],
+    "answer": 3,
+    "explanation": "'Attrition' = gradual reduction; 'employee/customer attrition' are common.",
+    "explanationJa": "「attrition」は徐々に減少することで、employee/customer attrition がよく使われます。"
+  },
+  {
+    "id": 144,
+    "level": 3,
+    "word": "forfeit",
+    "definition": "to lose as a penalty",
+    "sentences": [
+      "By withdrawing early, the firm will ____ its deposit.",
+      "By withdrawing early, the firm will harmonise its deposit.",
+      "By withdrawing early, the firm will forfeit its deposit.",
+      "By withdrawing early, the firm will germinate its deposit."
+    ],
+    "answer": 2,
+    "explanation": "'Forfeit' = give up or lose as a penalty; legal/financial register.",
+    "explanationJa": "「forfeit」は罰として失う・放棄するという意味で、法務財務的な語感です。"
+  },
+  {
+    "id": 145,
+    "level": 3,
+    "word": "expedite",
+    "definition": "to make happen faster",
+    "sentences": [
+      "Can you ____ this order? The client urgently needs it by Monday.",
+      "Can you germinate this order? The client urgently needs it by Monday.",
+      "Can you evaporate this order? The client urgently needs it by Monday.",
+      "Can you expedite this order? The client urgently needs it by Monday."
+    ],
+    "answer": 3,
+    "explanation": "'Expedite' = accelerate; commonly used in logistics and admin.",
+    "explanationJa": "「expedite」は加速するという意味で、物流や事務でよく使われます。"
+  },
+  {
+    "id": 146,
+    "level": 3,
+    "word": "consolidate",
+    "definition": "to combine into one",
+    "sentences": [
+      "We plan to ____ three regional offices into a single hub.",
+      "We plan to germinate three regional offices into a single hub.",
+      "We plan to consolidate three regional offices into a single hub.",
+      "We plan to evaporate three regional offices into a single hub."
+    ],
+    "answer": 2,
+    "explanation": "'Consolidate' = merge or unify into a single, stronger entity.",
+    "explanationJa": "「consolidate」は単一の強固な存在に統合するという意味です。"
+  },
+  {
+    "id": 147,
+    "level": 3,
+    "word": "ascertain",
+    "definition": "to find out for certain",
+    "sentences": [
+      "We need to ____ the cause of the system failure before resuming.",
+      "We need to germinate the cause of the system failure before resuming.",
+      "We need to ascertain the cause of the system failure before resuming.",
+      "We need to harmonise the cause of the system failure before resuming."
+    ],
+    "answer": 2,
+    "explanation": "'Ascertain' = formally determine or verify; near-synonym of 'establish'.",
+    "explanationJa": "「ascertain」は正式に確かめる・特定するという意味で、establish の類義語です。"
+  },
+  {
+    "id": 148,
+    "level": 3,
+    "word": "encroach",
+    "definition": "to gradually move into another's space",
+    "sentences": [
+      "The competitor is starting to ____ on our core market.",
+      "The competitor is starting to germinate on our core market.",
+      "The competitor is starting to harmonise on our core market.",
+      "The competitor is starting to encroach on our core market."
+    ],
+    "answer": 3,
+    "explanation": "'Encroach on' = gradually intrude into; common in territorial business contexts.",
+    "explanationJa": "「encroach on」は徐々に侵入するという意味で、領域的なビジネス文脈で使われます。"
+  },
+  {
+    "id": 149,
+    "level": 3,
+    "word": "relegate",
+    "definition": "to assign to a lower position",
+    "sentences": [
+      "The brand was ____ to a secondary status after the controversy.",
+      "The brand was germinated to a secondary status after the controversy.",
+      "The brand was relegated to a secondary status after the controversy.",
+      "The brand was evaporated to a secondary status after the controversy."
+    ],
+    "answer": 2,
+    "explanation": "'Relegate' = demote, push down to a lesser role.",
+    "explanationJa": "「relegate」は降格させる・低い役割に押しやるという意味です。"
+  },
+  {
+    "id": 150,
+    "level": 3,
+    "word": "revamp",
+    "definition": "to give a new and better form",
+    "sentences": [
+      "Marketing plans to ____ the entire website by autumn.",
+      "Marketing plans to germinate the entire website by autumn.",
+      "Marketing plans to harmonise the entire website by autumn.",
+      "Marketing plans to revamp the entire website by autumn."
+    ],
+    "answer": 3,
+    "explanation": "'Revamp' = thoroughly refresh, redesign, or modernise.",
+    "explanationJa": "「revamp」は徹底的に刷新・再設計・近代化するという意味です。"
+  },
+  {
+    "id": 151,
+    "level": 3,
+    "word": "underpin",
+    "definition": "to support or form the basis of",
+    "sentences": [
+      "Strong ethics ____ every decision the board makes.",
+      "Strong ethics evaporate every decision the board makes.",
+      "Strong ethics underpin every decision the board makes.",
+      "Strong ethics germinate every decision the board makes."
+    ],
+    "answer": 2,
+    "explanation": "'Underpin' = provide the foundation for; figurative use.",
+    "explanationJa": "「underpin」は基盤を提供するという比喩的な意味で使われます。"
+  },
+  {
+    "id": 152,
+    "level": 3,
+    "word": "preempt",
+    "definition": "to act before someone else can",
+    "sentences": [
+      "The CEO held a press call to ____ negative media coverage.",
+      "The CEO held a press call to germinate negative media coverage.",
+      "The CEO held a press call to preempt negative media coverage.",
+      "The CEO held a press call to harmonise negative media coverage."
+    ],
+    "answer": 2,
+    "explanation": "'Preempt' = take action first to prevent something.",
+    "explanationJa": "「preempt」は何かを未然に防ぐため先に行動することです。"
+  },
+  {
+    "id": 153,
+    "level": 3,
+    "word": "contingent",
+    "definition": "depending on something else",
+    "sentences": [
+      "Bonuses are ____ on meeting both revenue and retention targets.",
+      "Bonuses are crystalline on meeting both revenue and retention targets.",
+      "Bonuses are contingent on meeting both revenue and retention targets.",
+      "Bonuses are aromatic on meeting both revenue and retention targets."
+    ],
+    "answer": 2,
+    "explanation": "'Contingent on/upon' = conditional upon; formal business register.",
+    "explanationJa": "「contingent on/upon」は条件付きという意味で、格式あるビジネス用語です。"
+  },
+  {
+    "id": 154,
+    "level": 3,
+    "word": "reconcile",
+    "definition": "to make accounts agree",
+    "sentences": [
+      "The accountant must ____ the bank statement with our ledger.",
+      "The accountant must germinate the bank statement with our ledger.",
+      "The accountant must harmonise the bank statement with our ledger.",
+      "The accountant must reconcile the bank statement with our ledger."
+    ],
+    "answer": 3,
+    "explanation": "'Reconcile' = match two sets of records; finance vocabulary.",
+    "explanationJa": "「reconcile」は2つの記録を一致させるという財務用語です。"
+  },
+  {
+    "id": 155,
+    "level": 3,
+    "word": "fluctuate",
+    "definition": "to rise and fall irregularly",
+    "sentences": [
+      "Oil prices continue to ____ amid geopolitical tensions.",
+      "Oil prices continue to germinate amid geopolitical tensions.",
+      "Oil prices continue to fluctuate amid geopolitical tensions.",
+      "Oil prices continue to harmonise amid geopolitical tensions."
+    ],
+    "answer": 2,
+    "explanation": "'Fluctuate' = vary up and down; market/data vocabulary.",
+    "explanationJa": "「fluctuate」は上下に変動するという意味で、市場やデータの語彙です。"
+  },
+  {
+    "id": 156,
+    "level": 3,
+    "word": "tentative",
+    "definition": "not certain or definite",
+    "sentences": [
+      "We've set a ____ launch date pending final approval.",
+      "We've set a crystalline launch date pending final approval.",
+      "We've set a tentative launch date pending final approval.",
+      "We've set a aromatic launch date pending final approval."
+    ],
+    "answer": 2,
+    "explanation": "'Tentative' = provisional; common with 'date', 'agreement', 'plan'.",
+    "explanationJa": "「tentative」は暫定の・仮のという意味で、date, agreement, plan によく付きます。"
+  },
+  {
+    "id": 157,
+    "level": 3,
+    "word": "lucrative",
+    "definition": "producing a lot of money",
+    "sentences": [
+      "The contract proved to be highly ____ for the consultancy.",
+      "The contract proved to be highly aromatic for the consultancy.",
+      "The contract proved to be highly lucrative for the consultancy.",
+      "The contract proved to be highly crystalline for the consultancy."
+    ],
+    "answer": 2,
+    "explanation": "'Lucrative' = profitable; describes deals, markets, contracts.",
+    "explanationJa": "「lucrative」は利益が大きいという形容詞で、deals, markets, contracts を表します。"
+  },
+  {
+    "id": 158,
+    "level": 3,
+    "word": "mitigate",
+    "definition": "to reduce the severity of something",
+    "sentences": [
+      "The hedge strategy is designed to ____ currency risk.",
+      "The hedge strategy is designed to germinate currency risk.",
+      "The hedge strategy is designed to mitigate currency risk.",
+      "The hedge strategy is designed to harmonise currency risk."
+    ],
+    "answer": 2,
+    "explanation": "'Mitigate' = reduce the impact of; collocates with risk, damage, loss.",
+    "explanationJa": "「mitigate」は影響を軽減するという意味で、risk, damage, loss と結びつきます。"
+  },
+  {
+    "id": 159,
+    "level": 3,
+    "word": "unprecedented",
+    "definition": "never done before",
+    "sentences": [
+      "The company posted ____ growth despite the recession.",
+      "The company posted aromatic growth despite the recession.",
+      "The company posted crystalline growth despite the recession.",
+      "The company posted unprecedented growth despite the recession."
+    ],
+    "answer": 3,
+    "explanation": "'Unprecedented' = without prior example; strong descriptor.",
+    "explanationJa": "「unprecedented」は前例のないという強い形容詞です。"
+  },
+  {
+    "id": 160,
+    "level": 3,
+    "word": "discrepancy",
+    "definition": "a difference between two things",
+    "sentences": [
+      "The audit found a small ____ between reported and actual revenue.",
+      "The audit found a small spectrum between reported and actual revenue.",
+      "The audit found a small discrepancy between reported and actual revenue.",
+      "The audit found a small horizon between reported and actual revenue."
+    ],
+    "answer": 2,
+    "explanation": "'Discrepancy' = mismatch in figures or facts; common in audit reports.",
+    "explanationJa": "「discrepancy」は数字や事実の不一致を意味し、監査報告でよく使われます。"
+  },
+  {
+    "id": 161,
+    "level": 1,
+    "word": "reply",
+    "definition": "a written response",
+    "sentences": [
+      "I haven't received a ____ to my email from yesterday.",
+      "I haven't received a meadow to my email from yesterday.",
+      "I haven't received a reply to my email from yesterday.",
+      "I haven't received a moonbeam to my email from yesterday."
+    ],
+    "answer": 2,
+    "explanation": "'Reply' = answer to a message; noun and verb.",
+    "explanationJa": "「reply」はメッセージへの返答で、名詞・動詞両方で使われます。"
+  },
+  {
+    "id": 162,
+    "level": 1,
+    "word": "agenda",
+    "definition": "a list of topics for a meeting",
+    "sentences": [
+      "Please review the ____ before joining the call.",
+      "Please review the harbor before joining the call.",
+      "Please review the agenda before joining the call.",
+      "Please review the orchard before joining the call."
+    ],
+    "answer": 2,
+    "explanation": "'Agenda' = planned topics for a meeting.",
+    "explanationJa": "「agenda」は会議で予定された議題のことです。"
+  },
+  {
+    "id": 163,
+    "level": 1,
+    "word": "polite",
+    "definition": "showing good manners",
+    "sentences": [
+      "She wrote a ____ but firm response to the complaint.",
+      "She wrote a aromatic but firm response to the complaint.",
+      "She wrote a crystalline but firm response to the complaint.",
+      "She wrote a polite but firm response to the complaint."
+    ],
+    "answer": 3,
+    "explanation": "'Polite' = courteous; important register in customer-facing writing.",
+    "explanationJa": "「polite」は礼儀正しいという意味で、顧客対応の文体として重要です。"
+  },
+  {
+    "id": 164,
+    "level": 1,
+    "word": "factory",
+    "definition": "a place where goods are made",
+    "sentences": [
+      "Our main ____ in Vietnam produces 60% of our output.",
+      "Our main meadow in Vietnam produces 60% of our output.",
+      "Our main factory in Vietnam produces 60% of our output.",
+      "Our main glacier in Vietnam produces 60% of our output."
+    ],
+    "answer": 2,
+    "explanation": "'Factory' = manufacturing plant.",
+    "explanationJa": "「factory」は製造工場のことです。"
+  },
+  {
+    "id": 165,
+    "level": 1,
+    "word": "delay",
+    "definition": "to make something happen later",
+    "sentences": [
+      "Bad weather will ____ all flights this evening.",
+      "Bad weather will harmonise all flights this evening.",
+      "Bad weather will germinate all flights this evening.",
+      "Bad weather will delay all flights this evening."
+    ],
+    "answer": 3,
+    "explanation": "'Delay' = postpone; verb and noun.",
+    "explanationJa": "「delay」は遅らせるという意味で、動詞・名詞両方で使われます。"
+  },
+  {
+    "id": 166,
+    "level": 1,
+    "word": "price",
+    "definition": "how much something costs",
+    "sentences": [
+      "The new ____ list will take effect from January.",
+      "The new orchard list will take effect from January.",
+      "The new meadow list will take effect from January.",
+      "The new price list will take effect from January."
+    ],
+    "answer": 3,
+    "explanation": "'Price list' = compound noun, standard in commerce.",
+    "explanationJa": "「price list」は価格表という複合名詞で、商業の標準語彙です。"
+  },
+  {
+    "id": 167,
+    "level": 1,
+    "word": "hire",
+    "definition": "to employ someone",
+    "sentences": [
+      "We plan to ____ two new developers this quarter.",
+      "We plan to germinate two new developers this quarter.",
+      "We plan to hire two new developers this quarter.",
+      "We plan to harmonise two new developers this quarter."
+    ],
+    "answer": 2,
+    "explanation": "'Hire' = employ; common in HR and recruiting.",
+    "explanationJa": "「hire」は雇うという意味で、人事や採用で頻出します。"
+  },
+  {
+    "id": 168,
+    "level": 1,
+    "word": "meeting",
+    "definition": "a planned gathering",
+    "sentences": [
+      "The weekly team ____ runs from 9 to 10 every Monday.",
+      "The weekly team hurricane runs from 9 to 10 every Monday.",
+      "The weekly team meeting runs from 9 to 10 every Monday.",
+      "The weekly team blizzard runs from 9 to 10 every Monday."
+    ],
+    "answer": 2,
+    "explanation": "'Meeting' = formal gathering; one of the most-used business words.",
+    "explanationJa": "「meeting」は正式な集まりで、ビジネスで最も使われる単語の一つです。"
+  },
+  {
+    "id": 169,
+    "level": 1,
+    "word": "customer",
+    "definition": "someone who buys goods or services",
+    "sentences": [
+      "A satisfied ____ is the best advertisement for our brand.",
+      "A satisfied volcano is the best advertisement for our brand.",
+      "A satisfied glacier is the best advertisement for our brand.",
+      "A satisfied customer is the best advertisement for our brand."
+    ],
+    "answer": 3,
+    "explanation": "'Customer' = buyer of goods/services.",
+    "explanationJa": "「customer」は商品やサービスの購入者のことです。"
+  },
+  {
+    "id": 170,
+    "level": 1,
+    "word": "company",
+    "definition": "a business organization",
+    "sentences": [
+      "This ____ was founded by two engineers in 1998.",
+      "This meadow was founded by two engineers in 1998.",
+      "This company was founded by two engineers in 1998.",
+      "This sunrise was founded by two engineers in 1998."
+    ],
+    "answer": 2,
+    "explanation": "'Company' = business entity; basic vocabulary.",
+    "explanationJa": "「company」は事業体のことで、基本的な語彙です。"
+  },
+  {
+    "id": 171,
+    "level": 1,
+    "word": "office",
+    "definition": "a place where business is done",
+    "sentences": [
+      "The ____ will be closed for renovation next week.",
+      "The meadow will be closed for renovation next week.",
+      "The thunderstorm will be closed for renovation next week.",
+      "The office will be closed for renovation next week."
+    ],
+    "answer": 3,
+    "explanation": "'Office' = workplace; foundational business word.",
+    "explanationJa": "「office」は職場のことで、ビジネスの基本単語です。"
+  },
+  {
+    "id": 172,
+    "level": 1,
+    "word": "product",
+    "definition": "something that is made for sale",
+    "sentences": [
+      "Our flagship ____ has sold over a million units worldwide.",
+      "Our flagship pyramid has sold over a million units worldwide.",
+      "Our flagship product has sold over a million units worldwide.",
+      "Our flagship harbor has sold over a million units worldwide."
+    ],
+    "answer": 2,
+    "explanation": "'Product' = item made or sold; core commerce term.",
+    "explanationJa": "「product」は作られる・売られる品物で、商業の中核語彙です。"
+  },
+  {
+    "id": 173,
+    "level": 1,
+    "word": "service",
+    "definition": "work done for customers",
+    "sentences": [
+      "Customer ____ is open 24 hours, seven days a week.",
+      "Customer pyramid is open 24 hours, seven days a week.",
+      "Customer service is open 24 hours, seven days a week.",
+      "Customer rainbow is open 24 hours, seven days a week."
+    ],
+    "answer": 2,
+    "explanation": "'Customer service' = support provided to clients.",
+    "explanationJa": "「customer service」は顧客に提供されるサポートのことです。"
+  },
+  {
+    "id": 174,
+    "level": 1,
+    "word": "market",
+    "definition": "the area or system for buying and selling",
+    "sentences": [
+      "The European ____ is our largest source of revenue.",
+      "The European glacier is our largest source of revenue.",
+      "The European market is our largest source of revenue.",
+      "The European butterfly is our largest source of revenue."
+    ],
+    "answer": 2,
+    "explanation": "'Market' = trading region or system; very high-frequency business word.",
+    "explanationJa": "「market」は取引が行われる地域や仕組みで、頻出のビジネス語です。"
+  },
+  {
+    "id": 175,
+    "level": 1,
+    "word": "deal",
+    "definition": "an agreement, often financial",
+    "sentences": [
+      "The two firms signed a five-year ____ this morning.",
+      "The two firms signed a five-year meadow this morning.",
+      "The two firms signed a five-year sunrise this morning.",
+      "The two firms signed a five-year deal this morning."
+    ],
+    "answer": 3,
+    "explanation": "'Deal' = agreement; commonly 'sign/close a deal'.",
+    "explanationJa": "「deal」は取引や合意のことで、sign/close a deal がよく使われます。"
+  },
+  {
+    "id": 176,
+    "level": 1,
+    "word": "quote",
+    "definition": "an estimated price",
+    "sentences": [
+      "Please send a written ____ for the kitchen installation.",
+      "Please send a written meadow for the kitchen installation.",
+      "Please send a written hurricane for the kitchen installation.",
+      "Please send a written quote for the kitchen installation."
+    ],
+    "answer": 3,
+    "explanation": "'Quote' = price estimate for work to be done.",
+    "explanationJa": "「quote」は仕事に対する見積もり価格のことです。"
+  },
+  {
+    "id": 177,
+    "level": 1,
+    "word": "task",
+    "definition": "a piece of work to do",
+    "sentences": [
+      "This ____ should take about an hour to complete.",
+      "This meadow should take about an hour to complete.",
+      "This task should take about an hour to complete.",
+      "This volcano should take about an hour to complete."
+    ],
+    "answer": 2,
+    "explanation": "'Task' = a defined unit of work.",
+    "explanationJa": "「task」は明確に定義された仕事の単位のことです。"
+  },
+  {
+    "id": 178,
+    "level": 1,
+    "word": "slot",
+    "definition": "a scheduled time period",
+    "sentences": [
+      "I have a free 30-minute ____ at 3 p.m. for a call.",
+      "I have a free 30-minute meadow at 3 p.m. for a call.",
+      "I have a free 30-minute slot at 3 p.m. for a call.",
+      "I have a free 30-minute sunrise at 3 p.m. for a call."
+    ],
+    "answer": 2,
+    "explanation": "'Slot' = time gap in a schedule; calendar vocabulary.",
+    "explanationJa": "「slot」は予定の中の時間枠のことで、カレンダー語彙です。"
+  },
+  {
+    "id": 179,
+    "level": 1,
+    "word": "survey",
+    "definition": "a set of questions to gather data",
+    "sentences": [
+      "Please complete the customer ____ at the end of the call.",
+      "Please complete the customer harbor at the end of the call.",
+      "Please complete the customer meadow at the end of the call.",
+      "Please complete the customer survey at the end of the call."
+    ],
+    "answer": 3,
+    "explanation": "'Survey' = data-gathering questionnaire.",
+    "explanationJa": "「survey」はデータ収集用のアンケートのことです。"
+  },
+  {
+    "id": 180,
+    "level": 1,
+    "word": "report",
+    "definition": "a formal written account",
+    "sentences": [
+      "Please submit your weekly ____ by Friday at 5 p.m.",
+      "Please submit your weekly meadow by Friday at 5 p.m.",
+      "Please submit your weekly orchard by Friday at 5 p.m.",
+      "Please submit your weekly report by Friday at 5 p.m."
+    ],
+    "answer": 3,
+    "explanation": "'Report' = formal written document summarising findings.",
+    "explanationJa": "「report」は調査結果をまとめた正式な書類のことです。"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "word": "revenue",
+    "definition": "total income from sales",
+    "sentences": [
+      "Annual ____ exceeded forecasts by twelve percent.",
+      "Annual meadow exceeded forecasts by twelve percent.",
+      "Annual revenue exceeded forecasts by twelve percent.",
+      "Annual harbor exceeded forecasts by twelve percent."
+    ],
+    "answer": 2,
+    "explanation": "'Revenue' = total sales income before costs.",
+    "explanationJa": "「revenue」は経費を差し引く前の総売上のことです。"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "word": "acquire",
+    "definition": "to obtain or buy",
+    "sentences": [
+      "The firm plans to ____ a smaller competitor by year end.",
+      "The firm plans to germinate a smaller competitor by year end.",
+      "The firm plans to acquire a smaller competitor by year end.",
+      "The firm plans to harmonise a smaller competitor by year end."
+    ],
+    "answer": 2,
+    "explanation": "'Acquire' = buy or obtain; M&A vocabulary.",
+    "explanationJa": "「acquire」は買収・取得するという意味で、M&A の語彙です。"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "word": "projection",
+    "definition": "an estimate of future performance",
+    "sentences": [
+      "Sales ____ for next year remain cautiously optimistic.",
+      "Sales meadow for next year remain cautiously optimistic.",
+      "Sales projections for next year remain cautiously optimistic.",
+      "Sales harbor for next year remain cautiously optimistic."
+    ],
+    "answer": 2,
+    "explanation": "'Projection' = forecast based on current trends.",
+    "explanationJa": "「projection」は現在の傾向に基づく予測のことです。"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "word": "workflow",
+    "definition": "the sequence of steps in a process",
+    "sentences": [
+      "The new tool will improve our ____ across all teams.",
+      "The new tool will improve our meadow across all teams.",
+      "The new tool will improve our workflow across all teams.",
+      "The new tool will improve our hurricane across all teams."
+    ],
+    "answer": 2,
+    "explanation": "'Workflow' = sequence of work steps.",
+    "explanationJa": "「workflow」は仕事の手順の流れのことです。"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "word": "scope",
+    "definition": "the range covered by something",
+    "sentences": [
+      "The ____ of the project has expanded since last month.",
+      "The orchard of the project has expanded since last month.",
+      "The scope of the project has expanded since last month.",
+      "The pyramid of the project has expanded since last month."
+    ],
+    "answer": 2,
+    "explanation": "'Scope' = boundary or extent of work; PM vocabulary.",
+    "explanationJa": "「scope」は仕事の範囲のことで、PM 用語です。"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "word": "strategy",
+    "definition": "a long-term plan to reach a goal",
+    "sentences": [
+      "Our new digital ____ focuses on emerging markets.",
+      "Our new digital meadow focuses on emerging markets.",
+      "Our new digital orchard focuses on emerging markets.",
+      "Our new digital strategy focuses on emerging markets."
+    ],
+    "answer": 3,
+    "explanation": "'Strategy' = long-term plan; high-frequency business word.",
+    "explanationJa": "「strategy」は長期的な計画のことで、頻出のビジネス語です。"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "word": "initiative",
+    "definition": "a new plan or action",
+    "sentences": [
+      "The wellness ____ has been popular with employees.",
+      "The wellness meadow has been popular with employees.",
+      "The wellness initiative has been popular with employees.",
+      "The wellness orchard has been popular with employees."
+    ],
+    "answer": 2,
+    "explanation": "'Initiative' = new project or programme.",
+    "explanationJa": "「initiative」は新しいプロジェクトや取り組みのことです。"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "word": "adopt",
+    "definition": "to start using something",
+    "sentences": [
+      "Many firms have ____ remote-first work policies.",
+      "Many firms have germinated remote-first work policies.",
+      "Many firms have adopted remote-first work policies.",
+      "Many firms have harmonised remote-first work policies."
+    ],
+    "answer": 2,
+    "explanation": "'Adopt' = take up, begin using; common with policies/practices.",
+    "explanationJa": "「adopt」は採用する・使い始めるという意味で、policies/practices に付きます。"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "word": "vendor",
+    "definition": "a supplier",
+    "sentences": [
+      "The ____ failed to deliver on the agreed schedule.",
+      "The orchard failed to deliver on the agreed schedule.",
+      "The meadow failed to deliver on the agreed schedule.",
+      "The vendor failed to deliver on the agreed schedule."
+    ],
+    "answer": 3,
+    "explanation": "'Vendor' = seller or supplier of goods/services.",
+    "explanationJa": "「vendor」は商品やサービスを売る業者のことです。"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "word": "breach",
+    "definition": "a violation of a rule or agreement",
+    "sentences": [
+      "The data ____ exposed thousands of customer records.",
+      "The data meadow exposed thousands of customer records.",
+      "The data harbor exposed thousands of customer records.",
+      "The data breach exposed thousands of customer records."
+    ],
+    "answer": 3,
+    "explanation": "'Breach' = violation; 'data breach', 'breach of contract' are common.",
+    "explanationJa": "「breach」は違反のことで、data breach, breach of contract がよく使われます。"
+  },
+  {
+    "id": 191,
+    "level": 3,
+    "word": "diversify",
+    "definition": "to expand into new areas",
+    "sentences": [
+      "The firm aims to ____ its portfolio across three new sectors.",
+      "The firm aims to germinate its portfolio across three new sectors.",
+      "The firm aims to diversify its portfolio across three new sectors.",
+      "The firm aims to harmonise its portfolio across three new sectors."
+    ],
+    "answer": 2,
+    "explanation": "'Diversify' = spread investment or activity across areas.",
+    "explanationJa": "「diversify」は投資や事業を多角化するという意味です。"
+  },
+  {
+    "id": 192,
+    "level": 3,
+    "word": "jurisdiction",
+    "definition": "the area where authority applies",
+    "sentences": [
+      "This case falls outside the regulator's ____.",
+      "This case falls outside the regulator's meadow.",
+      "This case falls outside the regulator's jurisdiction.",
+      "This case falls outside the regulator's orchard."
+    ],
+    "answer": 2,
+    "explanation": "'Jurisdiction' = legal authority area; common in compliance.",
+    "explanationJa": "「jurisdiction」は法的管轄領域のことで、コンプライアンスでよく使われます。"
+  },
+  {
+    "id": 193,
+    "level": 3,
+    "word": "insolvent",
+    "definition": "unable to pay debts",
+    "sentences": [
+      "The subsidiary was declared ____ after the audit.",
+      "The subsidiary was declared aromatic after the audit.",
+      "The subsidiary was declared crystalline after the audit.",
+      "The subsidiary was declared insolvent after the audit."
+    ],
+    "answer": 3,
+    "explanation": "'Insolvent' = financially unable to pay debts; legal/finance term.",
+    "explanationJa": "「insolvent」は債務を返済できない財務状態のことで、法務財務用語です。"
+  },
+  {
+    "id": 194,
+    "level": 3,
+    "word": "recourse",
+    "definition": "a source of help in difficulty",
+    "sentences": [
+      "Unhappy clients have legal ____ under the new contract.",
+      "Unhappy clients have legal meadow under the new contract.",
+      "Unhappy clients have legal recourse under the new contract.",
+      "Unhappy clients have legal orchard under the new contract."
+    ],
+    "answer": 2,
+    "explanation": "'Recourse' = means of redress; 'have recourse to' is fixed.",
+    "explanationJa": "「recourse」は救済手段のことで、have recourse to が固定表現です。"
+  },
+  {
+    "id": 195,
+    "level": 3,
+    "word": "prudent",
+    "definition": "showing careful judgement",
+    "sentences": [
+      "It would be ____ to delay the rollout until issues are resolved.",
+      "It would be aromatic to delay the rollout until issues are resolved.",
+      "It would be prudent to delay the rollout until issues are resolved.",
+      "It would be crystalline to delay the rollout until issues are resolved."
+    ],
+    "answer": 2,
+    "explanation": "'Prudent' = cautiously wise; formal business advisory tone.",
+    "explanationJa": "「prudent」は慎重で賢明という意味で、格式ある助言の文体です。"
+  },
+  {
+    "id": 196,
+    "level": 3,
+    "word": "verbatim",
+    "definition": "in exactly the same words",
+    "sentences": [
+      "The quote was reproduced ____ in the press release.",
+      "The quote was reproduced meadow in the press release.",
+      "The quote was reproduced orchard in the press release.",
+      "The quote was reproduced verbatim in the press release."
+    ],
+    "answer": 3,
+    "explanation": "'Verbatim' = word-for-word; legal/journalism register.",
+    "explanationJa": "「verbatim」は一字一句そのままという意味で、法務やジャーナリズムの語彙です。"
+  },
+  {
+    "id": 197,
+    "level": 3,
+    "word": "litigation",
+    "definition": "the process of legal action",
+    "sentences": [
+      "The dispute is now in ____ and may take years to resolve.",
+      "The dispute is now in meadow and may take years to resolve.",
+      "The dispute is now in litigation and may take years to resolve.",
+      "The dispute is now in orchard and may take years to resolve."
+    ],
+    "answer": 2,
+    "explanation": "'Litigation' = lawsuit process; legal vocabulary.",
+    "explanationJa": "「litigation」は訴訟手続きのことで、法務の語彙です。"
+  },
+  {
+    "id": 198,
+    "level": 3,
+    "word": "caveat",
+    "definition": "a warning or condition",
+    "sentences": [
+      "The deal comes with one important ____ regarding pricing.",
+      "The deal comes with one important meadow regarding pricing.",
+      "The deal comes with one important caveat regarding pricing.",
+      "The deal comes with one important orchard regarding pricing."
+    ],
+    "answer": 2,
+    "explanation": "'Caveat' = qualification, warning; formal.",
+    "explanationJa": "「caveat」は但し書き・注意点のことで、格式ある語です。"
+  },
+  {
+    "id": 199,
+    "level": 3,
+    "word": "indemnify",
+    "definition": "to compensate for harm or loss",
+    "sentences": [
+      "The contract requires the seller to ____ the buyer for defects.",
+      "The contract requires the seller to germinate the buyer for defects.",
+      "The contract requires the seller to indemnify the buyer for defects.",
+      "The contract requires the seller to harmonise the buyer for defects."
+    ],
+    "answer": 2,
+    "explanation": "'Indemnify' = compensate against loss; legal/insurance term.",
+    "explanationJa": "「indemnify」は損害を補償するという意味で、法務・保険用語です。"
+  },
+  {
+    "id": 200,
+    "level": 3,
+    "word": "redress",
+    "definition": "a remedy for a wrong",
+    "sentences": [
+      "Customers may seek ____ through the ombudsman.",
+      "Customers may seek meadow through the ombudsman.",
+      "Customers may seek orchard through the ombudsman.",
+      "Customers may seek redress through the ombudsman."
+    ],
+    "answer": 3,
+    "explanation": "'Redress' = remedy or compensation for wrong; formal.",
+    "explanationJa": "「redress」は不当行為への救済・補償のことで、格式ある語です。"
+  }
 ]
