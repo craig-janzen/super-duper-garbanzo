@@ -1,7 +1,12 @@
 [
   {
     "sentence": "She is very good ___ math.",
-    "choices": ["at", "in", "on", "with"],
+    "choices": [
+      "at",
+      "in",
+      "on",
+      "with"
+    ],
     "answer": 0,
     "category": "particle",
     "level": 1,
@@ -10,7 +15,12 @@
   },
   {
     "sentence": "I'm going to listen ___ some music.",
-    "choices": ["—", "at", "to", "for"],
+    "choices": [
+      "(no word needed)",
+      "at",
+      "to",
+      "for"
+    ],
     "answer": 2,
     "category": "particle",
     "level": 1,
@@ -19,7 +29,12 @@
   },
   {
     "sentence": "We arrived ___ the airport just before midnight.",
-    "choices": ["to", "at", "in", "on"],
+    "choices": [
+      "to",
+      "at",
+      "in",
+      "on"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -28,7 +43,12 @@
   },
   {
     "sentence": "She has been married ___ him for ten years.",
-    "choices": ["with", "to", "by", "of"],
+    "choices": [
+      "with",
+      "to",
+      "by",
+      "of"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -37,7 +57,12 @@
   },
   {
     "sentence": "It depends ___ the weather.",
-    "choices": ["of", "from", "on", "to"],
+    "choices": [
+      "of",
+      "from",
+      "on",
+      "to"
+    ],
     "answer": 2,
     "category": "particle",
     "level": 1,
@@ -46,7 +71,12 @@
   },
   {
     "sentence": "I'll meet you ___ Monday morning.",
-    "choices": ["in", "at", "on", "by"],
+    "choices": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
     "answer": 2,
     "category": "particle",
     "level": 2,
@@ -55,7 +85,12 @@
   },
   {
     "sentence": "He's afraid ___ spiders.",
-    "choices": ["from", "of", "to", "with"],
+    "choices": [
+      "from",
+      "of",
+      "to",
+      "with"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 1,
@@ -64,7 +99,12 @@
   },
   {
     "sentence": "The report consists ___ three sections.",
-    "choices": ["from", "of", "in", "with"],
+    "choices": [
+      "from",
+      "of",
+      "in",
+      "with"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 3,
@@ -73,7 +113,12 @@
   },
   {
     "sentence": "It was a secret between you and ___.",
-    "choices": ["I", "me", "myself", "mine"],
+    "choices": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 2,
@@ -82,7 +127,12 @@
   },
   {
     "sentence": "The dog wagged ___ tail.",
-    "choices": ["it's", "its", "its'", "it"],
+    "choices": [
+      "it's",
+      "its",
+      "its'",
+      "it"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 1,
@@ -91,7 +141,12 @@
   },
   {
     "sentence": "___ going to be late if we don't leave now.",
-    "choices": ["Their", "There", "They're", "Theyre"],
+    "choices": [
+      "Their",
+      "There",
+      "They're",
+      "Theyre"
+    ],
     "answer": 2,
     "category": "pronoun",
     "level": 2,
@@ -100,7 +155,12 @@
   },
   {
     "sentence": "___ book is this on the table?",
-    "choices": ["Who's", "Whose", "Whos", "Whom"],
+    "choices": [
+      "Who's",
+      "Whose",
+      "Whos",
+      "Whom"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 2,
@@ -109,7 +169,12 @@
   },
   {
     "sentence": "She did the entire project ___.",
-    "choices": ["herself", "by herself", "her own", "she alone"],
+    "choices": [
+      "herself",
+      "by herself",
+      "her own",
+      "she alone"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 3,
@@ -118,7 +183,12 @@
   },
   {
     "sentence": "You ___ smoke in the hospital — it's strictly forbidden.",
-    "choices": ["mustn't", "don't have to", "shouldn't", "couldn't"],
+    "choices": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "couldn't"
+    ],
     "answer": 0,
     "category": "modal",
     "level": 2,
@@ -127,7 +197,12 @@
   },
   {
     "sentence": "You ___ pay for the tickets — I've already bought them.",
-    "choices": ["mustn't", "don't have to", "shouldn't", "can't"],
+    "choices": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "can't"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 2,
@@ -136,7 +211,12 @@
   },
   {
     "sentence": "When I was a child, I ___ play outside every day.",
-    "choices": ["used to", "was used to", "would used to", "use to"],
+    "choices": [
+      "used to",
+      "was used to",
+      "would used to",
+      "use to"
+    ],
     "answer": 0,
     "category": "modal",
     "level": 2,
@@ -145,7 +225,12 @@
   },
   {
     "sentence": "I ___ speak French when I lived in Paris, but I've forgotten most of it.",
-    "choices": ["can", "could", "was able to", "may"],
+    "choices": [
+      "can",
+      "could",
+      "was able to",
+      "may"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 3,
@@ -154,7 +239,12 @@
   },
   {
     "sentence": "You'd ___ leave now if you want to catch the train.",
-    "choices": ["better", "rather", "sooner", "best"],
+    "choices": [
+      "better",
+      "rather",
+      "sooner",
+      "best"
+    ],
     "answer": 0,
     "category": "modal",
     "level": 3,
@@ -163,7 +253,12 @@
   },
   {
     "sentence": "She ___ be at home — her car is in the driveway.",
-    "choices": ["must", "should", "can", "would"],
+    "choices": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
     "answer": 0,
     "category": "modal",
     "level": 3,
@@ -172,7 +267,12 @@
   },
   {
     "sentence": "I'm really interested ___ learning Japanese.",
-    "choices": ["on", "for", "in", "about"],
+    "choices": [
+      "on",
+      "for",
+      "in",
+      "about"
+    ],
     "answer": 2,
     "category": "particle",
     "level": 1,
@@ -181,7 +281,12 @@
   },
   {
     "sentence": "___ do you think about the new office layout?",
-    "choices": ["How", "What", "Which", "Why"],
+    "choices": [
+      "How",
+      "What",
+      "Which",
+      "Why"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 1,
@@ -190,7 +295,12 @@
   },
   {
     "sentence": "___ do you call this in English?",
-    "choices": ["How", "What", "Which", "Where"],
+    "choices": [
+      "How",
+      "What",
+      "Which",
+      "Where"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 1,
@@ -199,7 +309,12 @@
   },
   {
     "sentence": "___ does the word \"ubiquitous\" mean?",
-    "choices": ["How", "What", "Which", "Why"],
+    "choices": [
+      "How",
+      "What",
+      "Which",
+      "Why"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 2,
@@ -208,7 +323,12 @@
   },
   {
     "sentence": "___ long have you been working here?",
-    "choices": ["What", "How", "When", "Since"],
+    "choices": [
+      "What",
+      "How",
+      "When",
+      "Since"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 1,
@@ -217,7 +337,12 @@
   },
   {
     "sentence": "___ is your bag — the red one or the black one?",
-    "choices": ["What", "Which", "How", "Whose"],
+    "choices": [
+      "What",
+      "Which",
+      "How",
+      "Whose"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 2,
@@ -226,7 +351,12 @@
   },
   {
     "sentence": "She wants to become ___ engineer.",
-    "choices": ["a", "an", "the", "—"],
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "(no word needed)"
+    ],
     "answer": 1,
     "category": "article",
     "level": 1,
@@ -235,7 +365,12 @@
   },
   {
     "sentence": "I usually have ___ breakfast at seven.",
-    "choices": ["a", "the", "—", "some"],
+    "choices": [
+      "a",
+      "the",
+      "(no word needed)",
+      "some"
+    ],
     "answer": 2,
     "category": "article",
     "level": 2,
@@ -244,7 +379,12 @@
   },
   {
     "sentence": "___ sun rises in the east.",
-    "choices": ["A", "An", "The", "—"],
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "(no word needed)"
+    ],
     "answer": 2,
     "category": "article",
     "level": 1,
@@ -253,7 +393,12 @@
   },
   {
     "sentence": "She gave me some useful ___ about the program.",
-    "choices": ["informations", "information", "an information", "informations'"],
+    "choices": [
+      "informations",
+      "information",
+      "an information",
+      "informations'"
+    ],
     "answer": 1,
     "category": "article",
     "level": 2,
@@ -262,7 +407,12 @@
   },
   {
     "sentence": "I don't have ___ time to finish this today.",
-    "choices": ["many", "much", "a few", "several"],
+    "choices": [
+      "many",
+      "much",
+      "a few",
+      "several"
+    ],
     "answer": 1,
     "category": "article",
     "level": 1,
@@ -271,7 +421,12 @@
   },
   {
     "sentence": "There are only ___ chairs left in the room.",
-    "choices": ["a little", "a few", "much", "less"],
+    "choices": [
+      "a little",
+      "a few",
+      "much",
+      "less"
+    ],
     "answer": 1,
     "category": "article",
     "level": 2,
@@ -280,7 +435,12 @@
   },
   {
     "sentence": "I ___ in Tokyo since 2018.",
-    "choices": ["live", "lived", "have lived", "am living"],
+    "choices": [
+      "live",
+      "lived",
+      "have lived",
+      "am living"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -289,7 +449,12 @@
   },
   {
     "sentence": "I'm really looking forward to ___ you next week.",
-    "choices": ["see", "seeing", "have seen", "to see"],
+    "choices": [
+      "see",
+      "seeing",
+      "have seen",
+      "to see"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -298,7 +463,12 @@
   },
   {
     "sentence": "She enjoys ___ novels in her free time.",
-    "choices": ["to read", "reading", "read", "reads"],
+    "choices": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 1,
@@ -307,7 +477,12 @@
   },
   {
     "sentence": "He suggested ___ a movie tonight.",
-    "choices": ["to watch", "watching", "us to watch", "we watch"],
+    "choices": [
+      "to watch",
+      "watching",
+      "us to watch",
+      "we watch"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -316,7 +491,12 @@
   },
   {
     "sentence": "When I was a child, I ___ to school every day.",
-    "choices": ["walk", "walked", "was walking", "have walked"],
+    "choices": [
+      "walk",
+      "walked",
+      "was walking",
+      "have walked"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -325,7 +505,12 @@
   },
   {
     "sentence": "I ___ Maria for ten years — we met in university.",
-    "choices": ["know", "knew", "have known", "am knowing"],
+    "choices": [
+      "know",
+      "knew",
+      "have known",
+      "am knowing"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -334,7 +519,12 @@
   },
   {
     "sentence": "Could you ___ me what time the meeting starts?",
-    "choices": ["say", "tell", "speak", "talk"],
+    "choices": [
+      "say",
+      "tell",
+      "speak",
+      "talk"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -343,7 +533,12 @@
   },
   {
     "sentence": "She ___ that she would arrive late.",
-    "choices": ["told", "said", "spoke", "talked"],
+    "choices": [
+      "told",
+      "said",
+      "spoke",
+      "talked"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -352,7 +547,12 @@
   },
   {
     "sentence": "Please try not to ___ the same mistake again.",
-    "choices": ["do", "make", "have", "take"],
+    "choices": [
+      "do",
+      "make",
+      "have",
+      "take"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -361,7 +561,12 @@
   },
   {
     "sentence": "I need to ___ my homework before dinner.",
-    "choices": ["make", "do", "work", "finish on"],
+    "choices": [
+      "make",
+      "do",
+      "work",
+      "finish on"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -370,7 +575,12 @@
   },
   {
     "sentence": "This year's report is ___ than last year's.",
-    "choices": ["more better", "better", "more good", "the better"],
+    "choices": [
+      "more better",
+      "better",
+      "more good",
+      "the better"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -379,7 +589,12 @@
   },
   {
     "sentence": "Of all the candidates, she was ___.",
-    "choices": ["the most best", "the best", "best", "more best"],
+    "choices": [
+      "the most best",
+      "the best",
+      "best",
+      "more best"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -388,7 +603,12 @@
   },
   {
     "sentence": "She has been suffering ___ a severe headache all morning.",
-    "choices": ["from", "with", "of", "by"],
+    "choices": [
+      "from",
+      "with",
+      "of",
+      "by"
+    ],
     "answer": 0,
     "category": "particle",
     "level": 2,
@@ -397,7 +617,12 @@
   },
   {
     "sentence": "His careless behaviour resulted ___ a serious accident.",
-    "choices": ["to", "in", "from", "at"],
+    "choices": [
+      "to",
+      "in",
+      "from",
+      "at"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -406,7 +631,12 @@
   },
   {
     "sentence": "The accident resulted ___ careless driving.",
-    "choices": ["in", "from", "of", "by"],
+    "choices": [
+      "in",
+      "from",
+      "of",
+      "by"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -415,7 +645,12 @@
   },
   {
     "sentence": "This dress is very similar ___ the one I bought last year.",
-    "choices": ["with", "to", "as", "like"],
+    "choices": [
+      "with",
+      "to",
+      "as",
+      "like"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -424,7 +659,12 @@
   },
   {
     "sentence": "He has been accused ___ stealing company funds.",
-    "choices": ["for", "of", "with", "about"],
+    "choices": [
+      "for",
+      "of",
+      "with",
+      "about"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 3,
@@ -433,7 +673,12 @@
   },
   {
     "sentence": "I'd like to congratulate you ___ your promotion.",
-    "choices": ["for", "on", "of", "with"],
+    "choices": [
+      "for",
+      "on",
+      "of",
+      "with"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -442,7 +687,12 @@
   },
   {
     "sentence": "She apologised ___ being late.",
-    "choices": ["about", "for", "of", "on"],
+    "choices": [
+      "about",
+      "for",
+      "of",
+      "on"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -451,7 +701,12 @@
   },
   {
     "sentence": "He insisted ___ paying for everyone's drinks.",
-    "choices": ["in", "on", "about", "to"],
+    "choices": [
+      "in",
+      "on",
+      "about",
+      "to"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -460,7 +715,12 @@
   },
   {
     "sentence": "She is responsible ___ the marketing budget.",
-    "choices": ["of", "for", "about", "over"],
+    "choices": [
+      "of",
+      "for",
+      "about",
+      "over"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -469,7 +729,12 @@
   },
   {
     "sentence": "There's no point ___ arguing with him.",
-    "choices": ["to", "of", "in", "at"],
+    "choices": [
+      "to",
+      "of",
+      "in",
+      "at"
+    ],
     "answer": 2,
     "category": "particle",
     "level": 3,
@@ -478,7 +743,12 @@
   },
   {
     "sentence": "___ being very tired, she finished the project on time.",
-    "choices": ["In spite", "Despite of", "Despite", "Although"],
+    "choices": [
+      "In spite",
+      "Despite of",
+      "Despite",
+      "Although"
+    ],
     "answer": 2,
     "category": "confusable",
     "level": 3,
@@ -487,7 +757,12 @@
   },
   {
     "sentence": "It is ___ who are responsible, not them.",
-    "choices": ["us", "we", "our", "ours"],
+    "choices": [
+      "us",
+      "we",
+      "our",
+      "ours"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 3,
@@ -496,7 +771,12 @@
   },
   {
     "sentence": "There were three people in the meeting: John, Mary and ___.",
-    "choices": ["I", "me", "myself", "mine"],
+    "choices": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 2,
@@ -505,7 +785,12 @@
   },
   {
     "sentence": "She trusts no one but ___.",
-    "choices": ["I", "me", "myself", "mine"],
+    "choices": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 2,
@@ -514,7 +799,12 @@
   },
   {
     "sentence": "Each of the students ___ a unique perspective on the issue.",
-    "choices": ["have", "has", "are having", "having"],
+    "choices": [
+      "have",
+      "has",
+      "are having",
+      "having"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 2,
@@ -523,7 +813,12 @@
   },
   {
     "sentence": "Neither of the proposals ___ acceptable to the board.",
-    "choices": ["are", "is", "were", "have been"],
+    "choices": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
     "answer": 1,
     "category": "pronoun",
     "level": 2,
@@ -532,7 +827,12 @@
   },
   {
     "sentence": "You ___ told me earlier — I would have prepared something.",
-    "choices": ["should", "should have", "must have", "could"],
+    "choices": [
+      "should",
+      "should have",
+      "must have",
+      "could"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 3,
@@ -541,7 +841,12 @@
   },
   {
     "sentence": "She isn't answering. She ___ in a meeting right now.",
-    "choices": ["might be", "might", "should be", "may have been"],
+    "choices": [
+      "might be",
+      "might",
+      "should be",
+      "may have been"
+    ],
     "answer": 0,
     "category": "modal",
     "level": 2,
@@ -550,7 +855,12 @@
   },
   {
     "sentence": "He failed the exam. He ___ harder.",
-    "choices": ["should study", "should have studied", "must study", "had to study"],
+    "choices": [
+      "should study",
+      "should have studied",
+      "must study",
+      "had to study"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 3,
@@ -559,7 +869,12 @@
   },
   {
     "sentence": "I can't find my keys. I ___ them at the office.",
-    "choices": ["must leave", "must have left", "had left", "should have left"],
+    "choices": [
+      "must leave",
+      "must have left",
+      "had left",
+      "should have left"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 3,
@@ -568,7 +883,12 @@
   },
   {
     "sentence": "There's no need to shout. I ___ you perfectly well.",
-    "choices": ["hear", "can hear", "am hearing", "heard"],
+    "choices": [
+      "hear",
+      "can hear",
+      "am hearing",
+      "heard"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 2,
@@ -577,7 +897,12 @@
   },
   {
     "sentence": "He ___ rather not discuss the topic in public.",
-    "choices": ["will", "would", "had", "should"],
+    "choices": [
+      "will",
+      "would",
+      "had",
+      "should"
+    ],
     "answer": 1,
     "category": "modal",
     "level": 2,
@@ -586,7 +911,12 @@
   },
   {
     "sentence": "Could you tell me ___?",
-    "choices": ["where is the station", "where the station is", "the station where is", "is where the station"],
+    "choices": [
+      "where is the station",
+      "where the station is",
+      "the station where is",
+      "is where the station"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 2,
@@ -595,7 +925,12 @@
   },
   {
     "sentence": "I'm not sure ___ this manuscript belongs to.",
-    "choices": ["who", "whom", "whose", "which"],
+    "choices": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 3,
@@ -604,7 +939,12 @@
   },
   {
     "sentence": "She didn't tell me ___ she would arrive.",
-    "choices": ["where", "when", "why", "—"],
+    "choices": [
+      "where",
+      "when",
+      "why",
+      "(no word needed)"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 2,
@@ -613,7 +953,12 @@
   },
   {
     "sentence": "Have you ever been to ___ United States?",
-    "choices": ["a", "an", "the", "—"],
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "(no word needed)"
+    ],
     "answer": 2,
     "category": "article",
     "level": 2,
@@ -622,7 +967,12 @@
   },
   {
     "sentence": "I love listening to ___ classical music.",
-    "choices": ["a", "the", "—", "some"],
+    "choices": [
+      "a",
+      "the",
+      "(no word needed)",
+      "some"
+    ],
     "answer": 2,
     "category": "article",
     "level": 2,
@@ -631,7 +981,12 @@
   },
   {
     "sentence": "I bought ___ new furniture for the apartment.",
-    "choices": ["a", "some", "many", "few"],
+    "choices": [
+      "a",
+      "some",
+      "many",
+      "few"
+    ],
     "answer": 1,
     "category": "article",
     "level": 2,
@@ -640,7 +995,12 @@
   },
   {
     "sentence": "There were ___ people at the concert than expected.",
-    "choices": ["less", "fewer", "much less", "lesser"],
+    "choices": [
+      "less",
+      "fewer",
+      "much less",
+      "lesser"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -649,7 +1009,12 @@
   },
   {
     "sentence": "She drank ___ water than I did.",
-    "choices": ["fewer", "less", "few", "lesser"],
+    "choices": [
+      "fewer",
+      "less",
+      "few",
+      "lesser"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -658,7 +1023,12 @@
   },
   {
     "sentence": "Could I have ___ piece of advice?",
-    "choices": ["a", "an", "the", "—"],
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "(no word needed)"
+    ],
     "answer": 0,
     "category": "article",
     "level": 2,
@@ -667,7 +1037,12 @@
   },
   {
     "sentence": "He gave me ___ very useful advice.",
-    "choices": ["a", "the", "—", "an"],
+    "choices": [
+      "a",
+      "the",
+      "(no word needed)",
+      "an"
+    ],
     "answer": 2,
     "category": "article",
     "level": 2,
@@ -676,7 +1051,12 @@
   },
   {
     "sentence": "By the time we arrived, the film ___.",
-    "choices": ["started", "has started", "had started", "was starting"],
+    "choices": [
+      "started",
+      "has started",
+      "had started",
+      "was starting"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -685,7 +1065,12 @@
   },
   {
     "sentence": "I ___ for this company for five years before I was promoted.",
-    "choices": ["worked", "have worked", "had been working", "was working"],
+    "choices": [
+      "worked",
+      "have worked",
+      "had been working",
+      "was working"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 3,
@@ -694,7 +1079,12 @@
   },
   {
     "sentence": "This time next week, I ___ on a beach in Bali.",
-    "choices": ["will lie", "will be lying", "will have lain", "am lying"],
+    "choices": [
+      "will lie",
+      "will be lying",
+      "will have lain",
+      "am lying"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -703,7 +1093,12 @@
   },
   {
     "sentence": "By 2040, scientists ___ cures for many cancers.",
-    "choices": ["will discover", "will be discovering", "will have discovered", "are discovering"],
+    "choices": [
+      "will discover",
+      "will be discovering",
+      "will have discovered",
+      "are discovering"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 3,
@@ -712,7 +1107,12 @@
   },
   {
     "sentence": "He stopped ___ a cigarette outside the building.",
-    "choices": ["smoking", "to smoke", "smoke", "smoked"],
+    "choices": [
+      "smoking",
+      "to smoke",
+      "smoke",
+      "smoked"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -721,7 +1121,12 @@
   },
   {
     "sentence": "He stopped ___ when his doctor warned him about his lungs.",
-    "choices": ["smoking", "to smoke", "smoke", "of smoking"],
+    "choices": [
+      "smoking",
+      "to smoke",
+      "smoke",
+      "of smoking"
+    ],
     "answer": 0,
     "category": "tense",
     "level": 2,
@@ -730,7 +1135,12 @@
   },
   {
     "sentence": "Remember ___ the door before you leave.",
-    "choices": ["locking", "to lock", "lock", "locked"],
+    "choices": [
+      "locking",
+      "to lock",
+      "lock",
+      "locked"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -739,7 +1149,12 @@
   },
   {
     "sentence": "I'll never forget ___ the Grand Canyon for the first time.",
-    "choices": ["seeing", "to see", "see", "saw"],
+    "choices": [
+      "seeing",
+      "to see",
+      "see",
+      "saw"
+    ],
     "answer": 0,
     "category": "tense",
     "level": 3,
@@ -748,7 +1163,12 @@
   },
   {
     "sentence": "She regretted ___ him the truth so bluntly.",
-    "choices": ["to tell", "telling", "to telling", "told"],
+    "choices": [
+      "to tell",
+      "telling",
+      "to telling",
+      "told"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -757,7 +1177,12 @@
   },
   {
     "sentence": "We regret ___ you that your application was unsuccessful.",
-    "choices": ["telling", "to tell", "to telling", "told"],
+    "choices": [
+      "telling",
+      "to tell",
+      "to telling",
+      "told"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -766,7 +1191,12 @@
   },
   {
     "sentence": "He tried ___ the window, but it was stuck.",
-    "choices": ["to open", "opening", "open", "opened"],
+    "choices": [
+      "to open",
+      "opening",
+      "open",
+      "opened"
+    ],
     "answer": 0,
     "category": "tense",
     "level": 2,
@@ -775,7 +1205,12 @@
   },
   {
     "sentence": "I suggest she ___ a lawyer before signing the contract.",
-    "choices": ["consults", "consult", "to consult", "will consult"],
+    "choices": [
+      "consults",
+      "consult",
+      "to consult",
+      "will consult"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -784,7 +1219,12 @@
   },
   {
     "sentence": "It is essential that he ___ on time for the interview.",
-    "choices": ["arrives", "arrive", "arriving", "will arrive"],
+    "choices": [
+      "arrives",
+      "arrive",
+      "arriving",
+      "will arrive"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -793,7 +1233,12 @@
   },
   {
     "sentence": "I wish I ___ taller — I'd love to play basketball.",
-    "choices": ["am", "was", "were", "had been"],
+    "choices": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -802,7 +1247,12 @@
   },
   {
     "sentence": "If only I ___ harder for that exam, I might have passed.",
-    "choices": ["studied", "had studied", "would study", "would have studied"],
+    "choices": [
+      "studied",
+      "had studied",
+      "would study",
+      "would have studied"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -811,7 +1261,12 @@
   },
   {
     "sentence": "If I had known about the traffic, I ___ earlier.",
-    "choices": ["left", "would leave", "would have left", "had left"],
+    "choices": [
+      "left",
+      "would leave",
+      "would have left",
+      "had left"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 3,
@@ -820,7 +1275,12 @@
   },
   {
     "sentence": "If I were you, I ___ that job offer.",
-    "choices": ["will take", "would take", "would have taken", "took"],
+    "choices": [
+      "will take",
+      "would take",
+      "would have taken",
+      "took"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -829,7 +1289,12 @@
   },
   {
     "sentence": "If she had accepted the offer, she ___ in New York now.",
-    "choices": ["will live", "lives", "would live", "would have lived"],
+    "choices": [
+      "will live",
+      "lives",
+      "would live",
+      "would have lived"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 3,
@@ -838,7 +1303,12 @@
   },
   {
     "sentence": "Hardly ___ down when the phone rang.",
-    "choices": ["I had sat", "had I sat", "I sat", "did I sit"],
+    "choices": [
+      "I had sat",
+      "had I sat",
+      "I sat",
+      "did I sit"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -847,7 +1317,12 @@
   },
   {
     "sentence": "Never ___ such a beautiful sunset before.",
-    "choices": ["I have seen", "have I seen", "I had seen", "did I see"],
+    "choices": [
+      "I have seen",
+      "have I seen",
+      "I had seen",
+      "did I see"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -856,7 +1331,12 @@
   },
   {
     "sentence": "No sooner ___ the train than it began to rain.",
-    "choices": ["we had boarded", "had we boarded", "we boarded", "did we board"],
+    "choices": [
+      "we had boarded",
+      "had we boarded",
+      "we boarded",
+      "did we board"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -865,7 +1345,12 @@
   },
   {
     "sentence": "Only after she left ___ what had happened.",
-    "choices": ["I realised", "did I realise", "I had realised", "had I realised"],
+    "choices": [
+      "I realised",
+      "did I realise",
+      "I had realised",
+      "had I realised"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -874,7 +1359,12 @@
   },
   {
     "sentence": "Should you ___ any difficulties, please contact our support team.",
-    "choices": ["have", "having", "had", "to have"],
+    "choices": [
+      "have",
+      "having",
+      "had",
+      "to have"
+    ],
     "answer": 0,
     "category": "tense",
     "level": 3,
@@ -883,7 +1373,12 @@
   },
   {
     "sentence": "He had his car ___ at the local garage last week.",
-    "choices": ["repair", "repaired", "repairing", "to repair"],
+    "choices": [
+      "repair",
+      "repaired",
+      "repairing",
+      "to repair"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -892,7 +1387,12 @@
   },
   {
     "sentence": "I need to get my hair ___ before the wedding.",
-    "choices": ["cut", "cutting", "to cut", "cuts"],
+    "choices": [
+      "cut",
+      "cutting",
+      "to cut",
+      "cuts"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -901,7 +1401,12 @@
   },
   {
     "sentence": "She made him ___ his bedroom before going out.",
-    "choices": ["tidy", "to tidy", "tidying", "tidied"],
+    "choices": [
+      "tidy",
+      "to tidy",
+      "tidying",
+      "tidied"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -910,7 +1415,12 @@
   },
   {
     "sentence": "His parents let him ___ out late on weekends.",
-    "choices": ["stay", "to stay", "staying", "stayed"],
+    "choices": [
+      "stay",
+      "to stay",
+      "staying",
+      "stayed"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -919,7 +1429,12 @@
   },
   {
     "sentence": "She was allowed ___ the building after hours.",
-    "choices": ["enter", "to enter", "entering", "enters"],
+    "choices": [
+      "enter",
+      "to enter",
+      "entering",
+      "enters"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -928,7 +1443,12 @@
   },
   {
     "sentence": "Please ___ the report on my desk by Friday.",
-    "choices": ["lay", "lie", "laid", "lying"],
+    "choices": [
+      "lay",
+      "lie",
+      "laid",
+      "lying"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 3,
@@ -937,7 +1457,12 @@
   },
   {
     "sentence": "I think I'll ___ down for a while; I feel exhausted.",
-    "choices": ["lay", "lie", "laid", "lain"],
+    "choices": [
+      "lay",
+      "lie",
+      "laid",
+      "lain"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 3,
@@ -946,7 +1471,12 @@
   },
   {
     "sentence": "The sun ___ at exactly 6:14 this morning.",
-    "choices": ["raised", "rose", "risen", "has rose"],
+    "choices": [
+      "raised",
+      "rose",
+      "risen",
+      "has rose"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 3,
@@ -955,7 +1485,12 @@
   },
   {
     "sentence": "The company plans to ___ prices next quarter.",
-    "choices": ["rise", "raise", "risen", "raised"],
+    "choices": [
+      "rise",
+      "raise",
+      "risen",
+      "raised"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -964,7 +1499,12 @@
   },
   {
     "sentence": "The new policy will ___ employee morale significantly.",
-    "choices": ["affect", "effect", "effected", "affect on"],
+    "choices": [
+      "affect",
+      "effect",
+      "effected",
+      "affect on"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -973,7 +1513,12 @@
   },
   {
     "sentence": "The new policy had a positive ___ on morale.",
-    "choices": ["affect", "effect", "affecting", "affected"],
+    "choices": [
+      "affect",
+      "effect",
+      "affecting",
+      "affected"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -982,7 +1527,12 @@
   },
   {
     "sentence": "Everyone was invited ___ Tom, who was abroad.",
-    "choices": ["accept", "except", "excepts", "accepting"],
+    "choices": [
+      "accept",
+      "except",
+      "excepts",
+      "accepting"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -991,7 +1541,12 @@
   },
   {
     "sentence": "Could you ___ me a pen until tomorrow?",
-    "choices": ["borrow", "lend", "loan to", "rent"],
+    "choices": [
+      "borrow",
+      "lend",
+      "loan to",
+      "rent"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1000,7 +1555,12 @@
   },
   {
     "sentence": "She ___ ten dollars from her brother yesterday.",
-    "choices": ["borrowed", "lent", "loaned", "rented"],
+    "choices": [
+      "borrowed",
+      "lent",
+      "loaned",
+      "rented"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 1,
@@ -1009,7 +1569,12 @@
   },
   {
     "sentence": "Three masked men tried to ___ the bank last night.",
-    "choices": ["steal", "rob", "burgle", "take"],
+    "choices": [
+      "steal",
+      "rob",
+      "burgle",
+      "take"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1018,7 +1583,12 @@
   },
   {
     "sentence": "He was caught trying to ___ money from the safe.",
-    "choices": ["steal", "rob", "burgle", "break"],
+    "choices": [
+      "steal",
+      "rob",
+      "burgle",
+      "break"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -1027,7 +1597,12 @@
   },
   {
     "sentence": "She asked me where ___.",
-    "choices": ["I lived", "did I live", "do I live", "I live"],
+    "choices": [
+      "I lived",
+      "did I live",
+      "do I live",
+      "I live"
+    ],
     "answer": 0,
     "category": "tense",
     "level": 2,
@@ -1036,7 +1611,12 @@
   },
   {
     "sentence": "He told me that he ___ the project the next day.",
-    "choices": ["will finish", "would finish", "finishes", "had finished"],
+    "choices": [
+      "will finish",
+      "would finish",
+      "finishes",
+      "had finished"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -1045,7 +1625,12 @@
   },
   {
     "sentence": "She said she ___ in London since 2010.",
-    "choices": ["lives", "has lived", "had lived", "lived"],
+    "choices": [
+      "lives",
+      "has lived",
+      "had lived",
+      "lived"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 3,
@@ -1054,7 +1639,12 @@
   },
   {
     "sentence": "Could you tell me ___?",
-    "choices": ["what time is it", "what time it is", "it is what time", "the time what is"],
+    "choices": [
+      "what time is it",
+      "what time it is",
+      "it is what time",
+      "the time what is"
+    ],
     "answer": 1,
     "category": "whword",
     "level": 2,
@@ -1063,7 +1653,12 @@
   },
   {
     "sentence": "It's no use ___ over spilled milk.",
-    "choices": ["to cry", "crying", "cry", "cried"],
+    "choices": [
+      "to cry",
+      "crying",
+      "cry",
+      "cried"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -1072,7 +1667,12 @@
   },
   {
     "sentence": "I'm having difficulty ___ this problem.",
-    "choices": ["solve", "to solve", "solving", "solved"],
+    "choices": [
+      "solve",
+      "to solve",
+      "solving",
+      "solved"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -1081,7 +1681,12 @@
   },
   {
     "sentence": "She is busy ___ for tomorrow's exam.",
-    "choices": ["prepare", "to prepare", "preparing", "prepared"],
+    "choices": [
+      "prepare",
+      "to prepare",
+      "preparing",
+      "prepared"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -1090,7 +1695,12 @@
   },
   {
     "sentence": "We had trouble ___ a parking space downtown.",
-    "choices": ["find", "to find", "finding", "found"],
+    "choices": [
+      "find",
+      "to find",
+      "finding",
+      "found"
+    ],
     "answer": 2,
     "category": "tense",
     "level": 2,
@@ -1099,7 +1709,12 @@
   },
   {
     "sentence": "___ the bad weather, we still enjoyed the picnic.",
-    "choices": ["Although", "In spite", "Despite", "Even"],
+    "choices": [
+      "Although",
+      "In spite",
+      "Despite",
+      "Even"
+    ],
     "answer": 2,
     "category": "confusable",
     "level": 2,
@@ -1108,7 +1723,12 @@
   },
   {
     "sentence": "___ he was tired, he kept working on the report.",
-    "choices": ["Despite", "Although", "In spite of", "Despite of"],
+    "choices": [
+      "Despite",
+      "Although",
+      "In spite of",
+      "Despite of"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -1117,7 +1737,12 @@
   },
   {
     "sentence": "She got the job ___ her lack of experience.",
-    "choices": ["although", "even though", "despite", "while"],
+    "choices": [
+      "although",
+      "even though",
+      "despite",
+      "while"
+    ],
     "answer": 2,
     "category": "confusable",
     "level": 2,
@@ -1126,7 +1751,12 @@
   },
   {
     "sentence": "___ I called him several times, he never answered.",
-    "choices": ["Despite", "Although", "In spite of", "Despite of"],
+    "choices": [
+      "Despite",
+      "Although",
+      "In spite of",
+      "Despite of"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1135,7 +1765,12 @@
   },
   {
     "sentence": "We were waiting ___ the bus for over an hour.",
-    "choices": ["—", "for", "to", "on"],
+    "choices": [
+      "(no word needed)",
+      "for",
+      "to",
+      "on"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1144,7 +1779,12 @@
   },
   {
     "sentence": "They are going to ___ the new product at the trade fair.",
-    "choices": ["discuss about", "discuss", "discuss on", "discuss for"],
+    "choices": [
+      "discuss about",
+      "discuss",
+      "discuss on",
+      "discuss for"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1153,7 +1793,12 @@
   },
   {
     "sentence": "He didn't ___ the recent changes in his speech.",
-    "choices": ["mention about", "mention", "mention to", "mention of"],
+    "choices": [
+      "mention about",
+      "mention",
+      "mention to",
+      "mention of"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1162,7 +1807,12 @@
   },
   {
     "sentence": "She decided to ___ Tom last summer.",
-    "choices": ["marry with", "marry", "get married with", "marry to"],
+    "choices": [
+      "marry with",
+      "marry",
+      "get married with",
+      "marry to"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1171,7 +1821,12 @@
   },
   {
     "sentence": "All employees must ___ the safety briefing on Monday.",
-    "choices": ["attend to", "attend", "attend at", "attend on"],
+    "choices": [
+      "attend to",
+      "attend",
+      "attend at",
+      "attend on"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1180,7 +1835,12 @@
   },
   {
     "sentence": "Please ___ the phone — it's been ringing for ages.",
-    "choices": ["answer to", "answer", "respond", "reply"],
+    "choices": [
+      "answer to",
+      "answer",
+      "respond",
+      "reply"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1189,7 +1849,12 @@
   },
   {
     "sentence": "Compared ___ last year, sales have improved dramatically.",
-    "choices": ["with", "to", "from", "than"],
+    "choices": [
+      "with",
+      "to",
+      "from",
+      "than"
+    ],
     "answer": 0,
     "category": "particle",
     "level": 3,
@@ -1198,7 +1863,12 @@
   },
   {
     "sentence": "His style is quite different ___ his predecessor's.",
-    "choices": ["than", "from", "of", "with"],
+    "choices": [
+      "than",
+      "from",
+      "of",
+      "with"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1207,7 +1877,12 @@
   },
   {
     "sentence": "She is very fond ___ her grandchildren.",
-    "choices": ["with", "of", "for", "about"],
+    "choices": [
+      "with",
+      "of",
+      "for",
+      "about"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1216,7 +1891,12 @@
   },
   {
     "sentence": "We need to ___ the meeting until next week.",
-    "choices": ["put off", "put on", "put up", "put away"],
+    "choices": [
+      "put off",
+      "put on",
+      "put up",
+      "put away"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -1225,7 +1905,12 @@
   },
   {
     "sentence": "I can't ___ this loud music any longer.",
-    "choices": ["put off", "put up with", "put on", "put through"],
+    "choices": [
+      "put off",
+      "put up with",
+      "put on",
+      "put through"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 3,
@@ -1234,7 +1919,12 @@
   },
   {
     "sentence": "I looked the word ___ in the dictionary.",
-    "choices": ["up", "for", "after", "into"],
+    "choices": [
+      "up",
+      "for",
+      "after",
+      "into"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -1243,7 +1933,12 @@
   },
   {
     "sentence": "If you don't know the word, please look ___.",
-    "choices": ["up it", "it up", "for it", "after it"],
+    "choices": [
+      "up it",
+      "it up",
+      "for it",
+      "after it"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1252,7 +1947,12 @@
   },
   {
     "sentence": "By next year, she ___ here for a decade.",
-    "choices": ["will work", "will have worked", "is working", "works"],
+    "choices": [
+      "will work",
+      "will have worked",
+      "is working",
+      "works"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 3,
@@ -1261,7 +1961,12 @@
   },
   {
     "sentence": "Neither John ___ his colleagues were aware of the change.",
-    "choices": ["or", "nor", "and", "but"],
+    "choices": [
+      "or",
+      "nor",
+      "and",
+      "but"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1270,7 +1975,12 @@
   },
   {
     "sentence": "Either the manager or the assistants ___ responsible for the error.",
-    "choices": ["is", "are", "was", "be"],
+    "choices": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 3,
@@ -1279,7 +1989,12 @@
   },
   {
     "sentence": "The team ___ playing brilliantly this season.",
-    "choices": ["is", "are", "be", "have"],
+    "choices": [
+      "is",
+      "are",
+      "be",
+      "have"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -1288,7 +2003,12 @@
   },
   {
     "sentence": "There ___ several issues we need to address.",
-    "choices": ["is", "are", "was", "has been"],
+    "choices": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 1,
@@ -1297,7 +2017,12 @@
   },
   {
     "sentence": "She works ___ a doctor at the regional hospital.",
-    "choices": ["like", "as", "for", "of"],
+    "choices": [
+      "like",
+      "as",
+      "for",
+      "of"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1306,7 +2031,12 @@
   },
   {
     "sentence": "It looks ___ rain. We should head inside.",
-    "choices": ["as", "like", "as if", "—"],
+    "choices": [
+      "as",
+      "like",
+      "as if",
+      "(no word needed)"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1315,7 +2045,12 @@
   },
   {
     "sentence": "It was ___ a difficult exam that almost no one passed.",
-    "choices": ["so", "such", "very", "too"],
+    "choices": [
+      "so",
+      "such",
+      "very",
+      "too"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1324,7 +2059,12 @@
   },
   {
     "sentence": "The bag was ___ heavy that I couldn't lift it.",
-    "choices": ["such", "so", "very", "too"],
+    "choices": [
+      "such",
+      "so",
+      "very",
+      "too"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1333,7 +2073,12 @@
   },
   {
     "sentence": "This coffee is ___ hot to drink.",
-    "choices": ["so", "very", "too", "such"],
+    "choices": [
+      "so",
+      "very",
+      "too",
+      "such"
+    ],
     "answer": 2,
     "category": "confusable",
     "level": 2,
@@ -1342,7 +2087,12 @@
   },
   {
     "sentence": "The room wasn't big ___ for everyone to sit comfortably.",
-    "choices": ["too", "enough", "very", "so"],
+    "choices": [
+      "too",
+      "enough",
+      "very",
+      "so"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1351,7 +2101,12 @@
   },
   {
     "sentence": "I haven't finished the report ___.",
-    "choices": ["already", "yet", "still", "ever"],
+    "choices": [
+      "already",
+      "yet",
+      "still",
+      "ever"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -1360,7 +2115,12 @@
   },
   {
     "sentence": "Have you ___ visited the new museum?",
-    "choices": ["ever", "never", "yet", "still"],
+    "choices": [
+      "ever",
+      "never",
+      "yet",
+      "still"
+    ],
     "answer": 0,
     "category": "tense",
     "level": 1,
@@ -1369,7 +2129,12 @@
   },
   {
     "sentence": "He's a good cook, and ___ his wife.",
-    "choices": ["so is", "so does", "so has", "neither is"],
+    "choices": [
+      "so is",
+      "so does",
+      "so has",
+      "neither is"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 3,
@@ -1378,7 +2143,12 @@
   },
   {
     "sentence": "I don't eat meat, and ___ my brother.",
-    "choices": ["so does", "neither does", "either does", "neither do"],
+    "choices": [
+      "so does",
+      "neither does",
+      "either does",
+      "neither do"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 3,
@@ -1387,7 +2157,12 @@
   },
   {
     "sentence": "You're coming to the party tomorrow, ___?",
-    "choices": ["aren't you", "are you", "don't you", "isn't it"],
+    "choices": [
+      "aren't you",
+      "are you",
+      "don't you",
+      "isn't it"
+    ],
     "answer": 0,
     "category": "confusable",
     "level": 2,
@@ -1396,7 +2171,12 @@
   },
   {
     "sentence": "He hasn't called you back, ___?",
-    "choices": ["hasn't he", "has he", "doesn't he", "isn't he"],
+    "choices": [
+      "hasn't he",
+      "has he",
+      "doesn't he",
+      "isn't he"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 2,
@@ -1405,7 +2185,12 @@
   },
   {
     "sentence": "She ___ to the gym three times a week, but she's stopped now.",
-    "choices": ["used to go", "was used to go", "would used to go", "used to going"],
+    "choices": [
+      "used to go",
+      "was used to go",
+      "would used to go",
+      "used to going"
+    ],
     "answer": 0,
     "category": "modal",
     "level": 2,
@@ -1414,7 +2199,12 @@
   },
   {
     "sentence": "After ten years in Tokyo, I'm finally getting used to ___ chopsticks.",
-    "choices": ["use", "to use", "using", "used"],
+    "choices": [
+      "use",
+      "to use",
+      "using",
+      "used"
+    ],
     "answer": 2,
     "category": "modal",
     "level": 3,
@@ -1423,7 +2213,12 @@
   },
   {
     "sentence": "She has lived here ___ 2015.",
-    "choices": ["for", "since", "from", "during"],
+    "choices": [
+      "for",
+      "since",
+      "from",
+      "during"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 1,
@@ -1432,7 +2227,12 @@
   },
   {
     "sentence": "I haven't seen him ___ two months.",
-    "choices": ["since", "for", "during", "from"],
+    "choices": [
+      "since",
+      "for",
+      "during",
+      "from"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 1,
@@ -1441,7 +2241,12 @@
   },
   {
     "sentence": "The package will arrive ___ Friday at the latest.",
-    "choices": ["until", "by", "till", "in"],
+    "choices": [
+      "until",
+      "by",
+      "till",
+      "in"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1450,7 +2255,12 @@
   },
   {
     "sentence": "I'll be at the office ___ 6 p.m.",
-    "choices": ["by", "until", "in", "at"],
+    "choices": [
+      "by",
+      "until",
+      "in",
+      "at"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
@@ -1459,7 +2269,12 @@
   },
   {
     "sentence": "We should leave ___ ten minutes.",
-    "choices": ["in", "after", "within", "at"],
+    "choices": [
+      "in",
+      "after",
+      "within",
+      "at"
+    ],
     "answer": 0,
     "category": "particle",
     "level": 2,
@@ -1468,7 +2283,12 @@
   },
   {
     "sentence": "I last spoke to her three years ___.",
-    "choices": ["before", "ago", "since", "until"],
+    "choices": [
+      "before",
+      "ago",
+      "since",
+      "until"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 1,
@@ -1477,7 +2297,12 @@
   },
   {
     "sentence": "She had moved to Paris three years ___ that meeting.",
-    "choices": ["ago", "before", "since", "after"],
+    "choices": [
+      "ago",
+      "before",
+      "since",
+      "after"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 3,
@@ -1486,7 +2311,12 @@
   },
   {
     "sentence": "We can leave now ___ you're ready.",
-    "choices": ["unless", "if", "even if", "in case"],
+    "choices": [
+      "unless",
+      "if",
+      "even if",
+      "in case"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 1,
@@ -1495,7 +2325,12 @@
   },
   {
     "sentence": "I won't go ___ you come with me.",
-    "choices": ["if", "unless", "even if", "in case"],
+    "choices": [
+      "if",
+      "unless",
+      "even if",
+      "in case"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -1504,7 +2339,12 @@
   },
   {
     "sentence": "Take an umbrella ___ it rains.",
-    "choices": ["if", "in case", "unless", "when"],
+    "choices": [
+      "if",
+      "in case",
+      "unless",
+      "when"
+    ],
     "answer": 1,
     "category": "tense",
     "level": 2,
@@ -1513,7 +2353,12 @@
   },
   {
     "sentence": "She speaks English ___ she were a native.",
-    "choices": ["like", "as if", "as", "though"],
+    "choices": [
+      "like",
+      "as if",
+      "as",
+      "though"
+    ],
     "answer": 1,
     "category": "confusable",
     "level": 3,
@@ -1522,7 +2367,12 @@
   },
   {
     "sentence": "She acted ___ nothing had happened.",
-    "choices": ["like", "as", "as though", "than"],
+    "choices": [
+      "like",
+      "as",
+      "as though",
+      "than"
+    ],
     "answer": 2,
     "category": "confusable",
     "level": 3,
@@ -1531,7 +2381,12 @@
   },
   {
     "sentence": "He explained ___ how the new system would work.",
-    "choices": ["to me", "me", "for me", "with me"],
+    "choices": [
+      "to me",
+      "me",
+      "for me",
+      "with me"
+    ],
     "answer": 0,
     "category": "particle",
     "level": 2,
@@ -1540,7 +2395,12 @@
   },
   {
     "sentence": "Can you ___ what this word means?",
-    "choices": ["explain me", "explain to me", "explain", "explain for me"],
+    "choices": [
+      "explain me",
+      "explain to me",
+      "explain",
+      "explain for me"
+    ],
     "answer": 1,
     "category": "particle",
     "level": 2,
