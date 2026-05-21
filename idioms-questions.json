@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "word": "hit the nail on the head",
+    "definition": "say or do exactly the right thing",
+    "sentences": [
+      "The maintenance worker hit the nail on the head to reattach the nameplate that had fallen off the office door during the renovation.",
+      "The set designer hit the nail on the head with one careful swing to secure the backdrop frame before the client presentation.",
+      "She hit the nail on the head when she said the team needs clearer goals.",
+      "The facilities technician hit the nail on the head during cubicle assembly to fasten the partition panel securely into place."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — to identify or state something exactly right.",
+    "explanationJa": "比喩で「核心を突く・図星」。釘を打つ意味ではない。"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "word": "a piece of cake",
+    "definition": "very easy",
+    "sentences": [
+      "The office assistant brought a piece of cake from the café downstairs to share with the team during the afternoon status meeting.",
+      "The catering manager cut a piece of cake for each attendee at the company's quarterly all-hands celebration in the main auditorium.",
+      "The event coordinator arranged for a custom-decorated piece of cake to be served at the product team's milestone launch party.",
+      "The exam was a piece of cake — I finished in twenty minutes."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — very easy. Not a literal slice of cake.",
+    "explanationJa": "「a piece of cake」は「楽勝」という比喩。"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "word": "under the weather",
+    "definition": "feeling slightly ill",
+    "sentences": [
+      "The airline dispatcher routed the flight under the weather system to avoid the turbulence zone flagged in the morning forecast briefing.",
+      "I'm feeling a bit under the weather today, so I'll work from home.",
+      "The construction foreman checked conditions under the weather canopy before approving the concrete pour for the office building foundation.",
+      "The festival organizer stored all the vendor equipment under the weather shelter until the morning storm advisory was officially lifted."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — mildly sick. Nothing to do with literal weather.",
+    "explanationJa": "「under the weather」は少し体調が悪いという比喩。"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "word": "break the ice",
+    "definition": "start a conversation in a tense situation",
+    "sentences": [
+      "Telling a quick joke at the start helped break the ice with the new clients.",
+      "The facilities manager had to break the ice from the office walkway every morning before employees arrived during the cold snap.",
+      "The catering team used a mallet to break the ice for the cocktail station at the company's end-of-year holiday reception.",
+      "The research station crew needed an hour to break the ice blocking the drainage system before the facility could resume operations."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — ease initial awkwardness. Not literal ice.",
+    "explanationJa": "「break the ice」は緊張をほぐすという比喩。"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "word": "spill the beans",
+    "definition": "reveal a secret",
+    "sentences": [
+      "The barista tried not to spill the beans while refilling the espresso grinder during the morning rush at the corporate café.",
+      "During the team-building cooking class, the chef warned everyone not to spill the beans before plating each dish for the judges.",
+      "The event planner reminded the caterer not to spill the beans when carrying sample trays through the narrow hallway to the boardroom.",
+      "Don't spill the beans about the surprise party before Saturday evening."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — to reveal a secret. Not literal beans.",
+    "explanationJa": "「spill the beans」は秘密を漏らすという比喩。"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "word": "cost an arm and a leg",
+    "definition": "be very expensive",
+    "sentences": [
+      "The workplace safety report warned that improper forklift operation could cost an arm and a leg if the operator ignores lockout procedures.",
+      "That new sofa cost an arm and a leg, but it should last for decades.",
+      "The industrial insurance policy covers incidents that could cost an arm and a leg when heavy machinery malfunctions on the factory floor.",
+      "The hospital risk assessment noted that a scaffold fall could cost an arm and a leg without proper harness equipment on the job site."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — very expensive. Not a literal injury.",
+    "explanationJa": "「cost an arm and a leg」は非常に高価という比喩。"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "word": "once in a blue moon",
+    "definition": "very rarely",
+    "sentences": [
+      "The astronomy club at the research university gathers on the observatory deck once in a blue moon to photograph the rare lunar event.",
+      "The science museum's planetarium explains that a second full moon in one calendar month occurs only once in a blue moon.",
+      "He only visits his hometown once in a blue moon now that he lives abroad.",
+      "The craft brewery released its limited 'Blue Moon Stout' once in a blue moon, timing each small batch to actual lunar calendar dates."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — very rarely. The lunar meaning is uncommon in speech.",
+    "explanationJa": "「once in a blue moon」はめったにないという比喩。"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "word": "let the cat out of the bag",
+    "definition": "reveal a secret unintentionally",
+    "sentences": [
+      "I accidentally let the cat out of the bag about Mom's surprise gift.",
+      "The office pet policy says you may let your cat out of the bag carrier only during approved hours in the designated wellness room.",
+      "The veterinary clinic receptionist reminded each owner to let their cat out of the bag slowly to avoid startling other patients in the lobby.",
+      "At the company's adoption fair, volunteers asked each visitor to let the cat out of the bag carrier gently inside the enclosed play area."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to reveal a secret. Not a literal cat.",
+    "explanationJa": "「let the cat out of the bag」は秘密を漏らすという比喩。"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "word": "bite the bullet",
+    "definition": "endure something unpleasant",
+    "sentences": [
+      "The dental technician joked that patients who grind their teeth practically bite the bullet-shaped night guard in half overnight.",
+      "Safety trainers warn factory workers never to bite the bullet-shaped caps off industrial sealant tubes — always use the proper cutting tool.",
+      "The props manager instructed the lead actor to bite the bullet casing convincingly during the courtroom flashback sequence in the final rehearsal.",
+      "I'll just bite the bullet and book the dental work for tomorrow morning."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — to endure something unpleasant.",
+    "explanationJa": "「bite the bullet」は嫌なことを我慢するという比喩。"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "word": "burn the midnight oil",
+    "definition": "work late into the night",
+    "sentences": [
+      "The facilities team had to burn the midnight oil supply because the backup generator ran dry during the unexpected campus power outage.",
+      "She burned the midnight oil all week to finish the grant proposal on time.",
+      "The maintenance crew decided to burn the midnight oil reserves rather than store the expired solvent past its safety compliance deadline.",
+      "The lab technician let the test lamp burn the midnight oil sample to measure its evaporation rate before submitting the quarterly analysis report."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — to work late at night. Not literally burning oil.",
+    "explanationJa": "「burn the midnight oil」は夜遅くまで働くという比喩。"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "word": "on the same page",
+    "definition": "in agreement",
+    "sentences": [
+      "The paralegal confirmed that the signature block and the notary seal both appear on the same page of the revised contract document.",
+      "The design team placed the executive summary and the budget table on the same page of the proposal so stakeholders could compare them.",
+      "Let's have a quick sync to make sure we're on the same page about the launch date.",
+      "The editor asked the author to move the footnote reference and the source citation onto the same page of the manuscript for clarity."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — in agreement. Not literally one page.",
+    "explanationJa": "「on the same page」は意見が一致しているという比喩。"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "word": "raining cats and dogs",
+    "definition": "raining very heavily",
+    "sentences": [
+      "Grab an umbrella — it's been raining cats and dogs since lunchtime.",
+      "The charity auctioned a limited-edition print titled 'Raining Cats and Dogs' at the annual corporate gala, and it sold above its estimate.",
+      "The marketing team's new campaign used the image of raining cats and dogs to promote the company's waterproof electronics product line.",
+      "The interior design firm hung a playful illustration of raining cats and dogs in the reception area to welcome visiting corporate clients."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — raining heavily. Not literal animals.",
+    "explanationJa": "「raining cats and dogs」は土砂降りという比喩。"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "word": "the ball is in your court",
+    "definition": "it is your turn to take action",
+    "sentences": [
+      "The tournament organizer confirmed the ball is in your court and ready for the opening serve of the corporate charity match.",
+      "The recreation director made sure the ball is in your court side before the whistle blew for the interdepartmental volleyball final.",
+      "The personal trainer reminded the executive that the ball is in your court during the noon basketball drill on the rooftop.",
+      "I've sent the contract over, so the ball is in your court now."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — it's your turn to act. Not literal tennis.",
+    "explanationJa": "「the ball is in your court」はあなたの番という比喩。"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "word": "cut to the chase",
+    "definition": "get to the main point",
+    "sentences": [
+      "The film director instructed the editor to cut to the chase scene twenty seconds earlier to maintain the pacing of the action sequence.",
+      "We're short on time, so let me cut to the chase and tell you the budget.",
+      "The post-production supervisor asked the team to cut to the chase sequence immediately after the opening title card fades to black.",
+      "The executive producer wanted the editor to cut to the chase scene right after the exposition to hold the audience's attention longer."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — get to the main point. Not literal film editing.",
+    "explanationJa": "「cut to the chase」は本題に入るという比喩。"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "word": "miss the boat",
+    "definition": "lose an opportunity",
+    "sentences": [
+      "The logistics coordinator warned the warehouse team that if the shipment isn't packed by noon, they'll miss the boat to the distribution center.",
+      "The travel department emailed staff that anyone who doesn't register by Friday will miss the boat for the corporate island retreat.",
+      "We missed the boat on the early-bird pricing and now have to pay full price.",
+      "The supply chain manager explained that late purchase orders always miss the boat, adding two full weeks to the delivery timeline."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — to lose an opportunity. Not a literal boat.",
+    "explanationJa": "「miss the boat」は機会を逃すという比喩。"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "word": "hit the books",
+    "definition": "study hard",
+    "sentences": [
+      "Finals are next week, so I really need to hit the books this weekend.",
+      "The warehouse forklift operator accidentally let a crate slide off the upper shelf and hit the books stored on the lower rack.",
+      "The moving crew had to repack the delivery after several heavy boxes shifted forward and hit the books in the library crate.",
+      "The intern bumped the rolling cart and watched it hit the books stacked on the reception desk during the office relocation."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to study hard. Not literal.",
+    "explanationJa": "「hit the books」は猛勉強するという比喩。"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "word": "break a leg",
+    "definition": "good luck (theater)",
+    "sentences": [
+      "The workplace safety officer warned that the uneven loading dock surface could cause someone to break a leg during the morning shift.",
+      "Break a leg out there tonight — the audience is going to love your performance!",
+      "The insurance adjuster noted that slippery office stairwells are the leading way employees break a leg at corporate facilities each winter.",
+      "The event planner cautioned that the outdoor stage's loose cables could easily cause a performer to break a leg before showtime."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — good luck. Not a literal injury.",
+    "explanationJa": "「break a leg」は頑張ってという演劇の励まし。"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "word": "get cold feet",
+    "definition": "suddenly feel nervous",
+    "sentences": [
+      "The recruiter warned interviewees that the unheated conference room might give them cold feet if they wore thin shoes to the morning session.",
+      "After standing on the warehouse concrete floor all shift, several workers complained about getting cold feet and requested heated insoles from HR.",
+      "The event coordinator told outdoor staff they would get cold feet standing on the metal stage without insulated boots during the winter fundraiser.",
+      "He got cold feet the night before the wedding but went through with it anyway."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — to suddenly feel afraid.",
+    "explanationJa": "「get cold feet」は土壇場で怖気づくという比喩。"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "word": "pull someone's leg",
+    "definition": "tease or joke with someone",
+    "sentences": [
+      "The company physiotherapist gently pulled the employee's leg during the ergonomics assessment to check hip flexibility after the desk upgrade.",
+      "The stunt coordinator had to pull the actor's leg free from the prop rigging before the production team could safely reset for the next take.",
+      "Relax, I'm just pulling your leg — there's no meeting on Saturday.",
+      "During the workplace safety drill, the lead paramedic demonstrated how to pull a trapped person's leg from under the collapsed shelving unit."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — to tease. Not literal pulling.",
+    "explanationJa": "「pull someone's leg」はからかうという比喩。"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "word": "see eye to eye",
+    "definition": "agree completely",
+    "sentences": [
+      "My boss and I don't see eye to eye on remote work policies for the team.",
+      "The ophthalmologist positioned the patient so they could see eye to eye through the slit lamp during the retinal examination procedure.",
+      "The biometric scanner requires employees to see eye to eye with the sensor at precisely forty centimeters for accurate identification.",
+      "The ergonomics consultant adjusted the webcam mount so remote workers could see eye to eye with colleagues during video conference calls."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to agree. Not literal eye contact.",
+    "explanationJa": "「see eye to eye」は意見が一致するという比喩。"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "word": "a blessing in disguise",
+    "definition": "something bad that turns out good",
+    "sentences": [
+      "The antique dealer marketed the worn bronze statue as a blessing in disguise, suggesting its patina added character and resale value.",
+      "Losing that job turned out to be a blessing in disguise — I found a better one.",
+      "The auction catalog described the mislabeled painting as a blessing in disguise because it had been undervalued in the estate for decades.",
+      "The estate assessor called the overlooked jewelry collection a blessing in disguise, hidden inside a box marked as costume pieces."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — bad turns out good. Not literal disguise.",
+    "explanationJa": "「a blessing in disguise」は災い転じて福となすという比喩。"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "word": "beat around the bush",
+    "definition": "avoid the main topic",
+    "sentences": [
+      "The landscaping contractor was hired to beat around the bush line at the corporate campus to clear debris before the investor site visit.",
+      "The property manager beat around the bush near the building entrance to check for wasp nests before the Saturday open house showing.",
+      "The groundskeeper used a long trimmer to beat around the bush blocking the walkway to the office parking lot before morning arrivals.",
+      "Stop beating around the bush and tell me what the doctor actually said."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — to avoid the point. Not literal beating.",
+    "explanationJa": "「beat around the bush」は遠回しに話すという比喩。"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "word": "cool as a cucumber",
+    "definition": "calm under pressure",
+    "sentences": [
+      "Even during the fire drill, she stayed as cool as a cucumber and guided everyone out.",
+      "The head chef told the line cook to keep the garnish as cool as a cucumber by storing it on the lowest shelf of the walk-in cooler.",
+      "The caterer specified that the appetizer plates must arrive as cool as a cucumber for the company's summer rooftop reception menu.",
+      "The food safety inspector confirmed the salad ingredients were as cool as a cucumber inside the restaurant's temperature-controlled storage unit."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — calm under pressure. Not about temperature.",
+    "explanationJa": "「cool as a cucumber」は落ち着いているという比喩。"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "word": "drop the ball",
+    "definition": "fail to do something properly",
+    "sentences": [
+      "I really dropped the ball on the client report — I forgot the deadline entirely.",
+      "The quarterback occasionally drops the ball on a designed fumble play to confuse the defensive line during fourth-quarter drives.",
+      "Juggling instructors at the team-building retreat told participants not to worry when they drop the ball — it builds coordination.",
+      "The tennis pro noticed that players who grip the racket too tightly tend to drop the ball on their toss during tournament serves."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to fail a task. Not literal.",
+    "explanationJa": "「drop the ball」は失敗するという比喩。"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "word": "face the music",
+    "definition": "accept the consequences",
+    "sentences": [
+      "The orchestra conductor stepped forward to face the music stand and raised his baton for the opening movement of the corporate gala recital.",
+      "After lying on his timesheet, he had to face the music when payroll audited the team.",
+      "The choir director instructed the new members to face the music sheets throughout the dress rehearsal for the annual fundraiser concert.",
+      "The sound engineer asked the recording artist to face the music playback monitors directly so she could evaluate the final mix properly."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — accept consequences. Not literal music.",
+    "explanationJa": "「face the music」は結果を受け入れるという比喩。"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "word": "hit the road",
+    "definition": "start a journey; leave",
+    "sentences": [
+      "It's getting late — we should hit the road if we want to make it home by dinner.",
+      "The paving contractor's crew worked overtime to hit the road surface with fresh asphalt before the municipal inspection deadline on Friday.",
+      "The highway department reported that debris from the overpass renovation hit the road below, causing a two-hour closure during morning rush.",
+      "The site engineer warned that falling construction materials could hit the road if the safety netting wasn't secured before the crane moved."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to depart. Not literal road.",
+    "explanationJa": "「hit the road」は出発するという比喩。"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "word": "in the same boat",
+    "definition": "in the same difficult situation",
+    "sentences": [
+      "The team-building facilitator placed all six executives in the same boat for the corporate regatta's opening race across the harbor.",
+      "The ferry company confirmed that both delegations would travel in the same boat to the off-site strategy retreat on the island.",
+      "The safety officer required all new hires to train in the same boat during the offshore facility's mandatory evacuation drill.",
+      "We're all in the same boat with this layoff news — no one knows what comes next."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — sharing a difficulty. Not literal boat.",
+    "explanationJa": "「in the same boat」は同じ困難にいるという比喩。"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "word": "hit the sack",
+    "definition": "go to bed",
+    "sentences": [
+      "The warehouse supervisor asked the forklift driver to hit the sack of grain against the sorting machine to loosen the compacted contents.",
+      "The boxing trainer told the heavyweight to hit the sack harder during the afternoon conditioning session to build shoulder endurance.",
+      "I'm exhausted — I'm going to hit the sack as soon as I finish this email.",
+      "The loading dock worker swung the pallet crane to hit the sack of raw materials onto the conveyor belt for processing."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — to go to bed. Not literal sack.",
+    "explanationJa": "「hit the sack」は寝るという比喩。"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "word": "in hot water",
+    "definition": "in trouble",
+    "sentences": [
+      "The lab technician placed the sample in hot water to dissolve the compound before running the analysis requested by the research team.",
+      "She's in hot water with HR after the email she sent to the whole company.",
+      "The office kitchen manager reminded staff to keep the coffee urn in hot water mode throughout the all-day board strategy meeting.",
+      "The restaurant inspector noted the dishwasher wasn't keeping plates in hot water long enough to meet the commercial sanitation standard."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — in trouble. Not literal water.",
+    "explanationJa": "「in hot water」は困った状況にあるという比喩。"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "word": "keep an eye on",
+    "definition": "watch carefully",
+    "sentences": [
+      "Could you keep an eye on the kids while I run to the store for ten minutes?",
+      "The project manager asked the team lead to keep an eye on the sprint velocity chart to catch any slowdowns before the release.",
+      "The compliance officer reminded the audit team to keep an eye on every transaction flag that exceeds the regulatory reporting threshold.",
+      "The shift supervisor told the plant operator to keep an eye on the pressure gauge readings throughout the overnight production cycle."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — watch over. Not literal.",
+    "explanationJa": "「keep an eye on」は見守るという比喩。"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "word": "lose your touch",
+    "definition": "no longer have a skill you once had",
+    "sentences": [
+      "The IT manager warned that dropping the tablet from height would cause the device to lose its touch responsiveness permanently.",
+      "The neurosurgeon explained that nerve damage near the wrist could cause the patient to lose her touch sensitivity in three fingers.",
+      "Mechanics working in sub-zero conditions often lose their touch — their numb fingers can't feel the bolt tension accurately anymore.",
+      "She used to nail every presentation, but lately she seems to lose her touch."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — losing a skill. Not literal touch.",
+    "explanationJa": "「lose your touch」は腕が鈍るという比喩。"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "word": "hang in there",
+    "definition": "persevere through difficulty",
+    "sentences": [
+      "The IT technician tested whether all the network cables would hang in there securely before closing the server room's cable management panel.",
+      "The facilities crew checked that the new projector would hang in there properly from the ceiling mount in the main conference room.",
+      "I know the project is tough, but hang in there — the deadline is next week.",
+      "The gallery installer verified that the large framed prints would hang in there without slipping on the new exhibition wall brackets."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — keep going. Not literal hanging.",
+    "explanationJa": "「hang in there」は頑張れという比喩。"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "word": "go the extra mile",
+    "definition": "do more than expected",
+    "sentences": [
+      "The delivery driver had to go the extra mile because the GPS rerouted around the highway closure near the distribution center.",
+      "She always goes the extra mile for her clients, which is why they keep coming back.",
+      "The field technician agreed to go the extra mile to the remote cell tower, adding thirty minutes to the standard service route.",
+      "The courier service charges a surcharge when drivers must go the extra mile beyond the standard delivery radius for corporate accounts."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — extra effort. Not literal distance.",
+    "explanationJa": "「go the extra mile」は努力を惜しまないという比喩。"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "word": "in a nutshell",
+    "definition": "in summary; briefly",
+    "sentences": [
+      "In a nutshell, the quarterly results show modest growth in two of our key markets.",
+      "The food scientist discovered traces of a beneficial compound in a nutshell extract during the lab analysis for the supplement company.",
+      "The quality control team found potential allergen residue in a nutshell fragment during the production line inspection at the processing plant.",
+      "The botanist examined the seed embryo developing in a nutshell sample under the lab microscope before presenting findings to the research team."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — concisely. Not literal nutshell.",
+    "explanationJa": "「in a nutshell」は要するにという比喩。"
+  },
+  {
+    "id": 35,
+    "level": 2,
+    "word": "throw in the towel",
+    "definition": "give up",
+    "sentences": [
+      "The boxing cornerman decided to throw in the towel during the eighth round after seeing his fighter take three unanswered combinations.",
+      "After three failed business attempts, he finally threw in the towel and took a salaried job.",
+      "The gym attendant will throw in the towel with the morning laundry once the spin cycle for the locker room load finishes.",
+      "The hotel housekeeping staff throw in the towel sets alongside the bathrobes when preparing the executive suite for VIP guest arrivals."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — to surrender. The boxing origin is literal but the idiom is broader.",
+    "explanationJa": "「throw in the towel」は降参するという比喩。"
+  },
+  {
+    "id": 36,
+    "level": 2,
+    "word": "read between the lines",
+    "definition": "find a hidden meaning",
+    "sentences": [
+      "The proofreader was trained to read between the lines of the typeset proof to check for consistent leading before the print run.",
+      "The quality assurance editor must read between the lines of the contract draft to verify that no formatting errors slipped through review.",
+      "If you read between the lines of her email, she's clearly unhappy with the proposal.",
+      "The music theory instructor taught students to read between the lines of the staff notation to identify the correct pitch of each note."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — infer hidden meaning. Not literal reading.",
+    "explanationJa": "「read between the lines」は行間を読むという比喩。"
+  },
+  {
+    "id": 37,
+    "level": 2,
+    "word": "back to the drawing board",
+    "definition": "start planning again from scratch",
+    "sentences": [
+      "The architecture firm sent junior designers back to the drawing board to revise their hand-drawn elevations before the client presentation.",
+      "After the software glitch corrupted the digital files, the engineering team went back to the drawing board to recreate the schematics.",
+      "The industrial design manager sends each intern back to the drawing board on Mondays to practice freehand sketching before using CAD tools.",
+      "The product launch failed badly, so we're back to the drawing board for next quarter."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — restart planning. Not literal drafting.",
+    "explanationJa": "「back to the drawing board」は最初からやり直すという比喩。"
+  },
+  {
+    "id": 38,
+    "level": 2,
+    "word": "burn bridges",
+    "definition": "destroy relationships permanently",
+    "sentences": [
+      "The military engineering unit had to burn bridges along the river corridor to deny the opposing force access during the field exercise.",
+      "The demolition contractor was hired to burn bridges scheduled for replacement as part of the county's infrastructure improvement program.",
+      "The historical documentary explained how retreating forces would burn bridges behind them to slow the enemy's advance across the region.",
+      "Don't burn bridges when you leave the company — you may need a reference later."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — end relationships. Not literal fire.",
+    "explanationJa": "「burn bridges」は人間関係を断つという比喩。"
+  },
+  {
+    "id": 39,
+    "level": 2,
+    "word": "cutting corners",
+    "definition": "doing something poorly to save time or money",
+    "sentences": [
+      "The contractor was cutting corners on the foundation, and now the house has serious cracks.",
+      "The fabrication shop technician spent the morning cutting corners off aluminum panels to fit them into the curved fuselage sections.",
+      "The tile installer was cutting corners off the marble squares with a wet saw to create a seamless fit along the lobby wall.",
+      "The print shop operator was cutting corners on the cardstock sheets to match the rounded template specified in the packaging design."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — skimping on quality. Not literal cutting.",
+    "explanationJa": "「cutting corners」は手抜きをするという比喩。"
+  },
+  {
+    "id": 40,
+    "level": 2,
+    "word": "devil's advocate",
+    "definition": "someone who argues a contrary view for debate",
+    "sentences": [
+      "The law school professor assigned one student to serve as devil advocate during the mock trial to test the prosecution evidence.",
+      "Just to play devil's advocate, what if we delay the launch by two weeks instead?",
+      "The Vatican historically appointed a devil advocate to argue against sainthood candidates during the formal canonization review process.",
+      "The ethics committee designated a devil advocate to challenge each proposed policy before the board voted on final compliance guidelines."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — arguing a contrary view. The Vatican role exists but the idiom is broader.",
+    "explanationJa": "「devil's advocate」はあえて反対の立場で議論する人という比喩。"
+  },
+  {
+    "id": 41,
+    "level": 2,
+    "word": "elephant in the room",
+    "definition": "an obvious problem nobody wants to discuss",
+    "sentences": [
+      "Let's address the elephant in the room — sales have dropped thirty percent this quarter.",
+      "The veterinary team monitored the elephant in the room designed for post-surgical recovery at the wildlife rehabilitation center's new facility.",
+      "The documentary crew filmed the elephant in the room where the conservation team conducted their weekly behavioral observation study.",
+      "The zoo's event coordinator had to work around the elephant in the room used for educational tours when setting up the charity fundraiser."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — an obvious unspoken issue. Not literal elephant.",
+    "explanationJa": "「elephant in the room」は皆が触れない明白な問題という比喩。"
+  },
+  {
+    "id": 42,
+    "level": 2,
+    "word": "fish out of water",
+    "definition": "someone in an unfamiliar or uncomfortable situation",
+    "sentences": [
+      "The marine biologist lifted each fish out of water briefly to attach a tracking tag before the research team returned it to the tank.",
+      "The aquaculture inspector pulled every fish out of water for exactly two seconds during the routine health certification at the commercial hatchery.",
+      "The seafood quality manager takes each fish out of water at the processing dock to verify freshness before approving the day's shipment.",
+      "At the formal gala, the rugby player felt like a fish out of water in his rented tuxedo."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — feeling out of place. Not literal.",
+    "explanationJa": "「fish out of water」は場違いに感じるという比喩。"
+  },
+  {
+    "id": 43,
+    "level": 2,
+    "word": "hit the ground running",
+    "definition": "start a new activity with energy and immediate progress",
+    "sentences": [
+      "The new manager hit the ground running and closed three deals in her first week.",
+      "Airborne infantry units are trained to hit the ground running immediately after exiting the aircraft to clear the drop zone perimeter.",
+      "The sprinting coach drills athletes to hit the ground running out of the starting blocks by lowering their center of gravity.",
+      "Obstacle course competitors must hit the ground running after each wall climb to maintain momentum through the timed section."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to start something energetically. Not literal running.",
+    "explanationJa": "「hit the ground running」は勢いよく始めるという比喩。"
+  },
+  {
+    "id": 44,
+    "level": 3,
+    "word": "ivory tower",
+    "definition": "a place or attitude detached from practical realities",
+    "sentences": [
+      "The auction house appraised the hand-carved ivory tower chess piece at well over ten thousand dollars for the estate collection.",
+      "The antiques restoration firm spent six months rebuilding the damaged ivory tower miniature for the private collector display cabinet.",
+      "The economists in their ivory tower failed to predict how renters would respond to the policy.",
+      "The museum conservation team carefully cleaned the ivory tower artifact with specialized solvents before placing it in the climate-controlled case."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — disconnected from practical life. Not a literal tower.",
+    "explanationJa": "「ivory tower」は現実離れした立場という比喩。"
+  },
+  {
+    "id": 45,
+    "level": 2,
+    "word": "jump the gun",
+    "definition": "act prematurely before the right moment",
+    "sentences": [
+      "The sprinter who jumps the gun at the Olympic trials faces immediate disqualification under the current competition regulations.",
+      "The marketing team jumped the gun and announced the product before legal had finished review.",
+      "Track and field officials review slow-motion footage to determine which athlete jumped the gun during the championship final heat.",
+      "The starting pistol technician recalibrates the sensor after every meet to ensure runners who jump the gun are detected accurately."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — to act too soon. The literal track meaning also exists.",
+    "explanationJa": "「jump the gun」は早まって行動するという比喩。"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "word": "keep your chin up",
+    "definition": "stay positive during difficulty",
+    "sentences": [
+      "The corporate headshot photographer asked each employee to keep their chin up slightly for more flattering lighting on the company directory.",
+      "The boxing coach instructed the junior fighter to keep his chin up behind his gloves to protect his jaw during sparring rounds.",
+      "The physical therapist told the desk worker to keep her chin up and level to reduce the neck strain caused by poor monitor height.",
+      "Even after the layoff, she told her family to keep their chin up because better times were ahead."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — stay optimistic. The literal posture meanings also exist.",
+    "explanationJa": "「keep your chin up」は元気を出してという励まし。"
+  },
+  {
+    "id": 47,
+    "level": 2,
+    "word": "let sleeping dogs lie",
+    "definition": "avoid restarting a settled conflict",
+    "sentences": [
+      "The office manager reminded coworkers to let sleeping dogs lie when the therapy dog napped under the conference table during afternoon meetings.",
+      "The building security team was trained to let sleeping dogs lie when the K-9 patrol units rested between their scheduled security shifts.",
+      "The siblings finally decided to let sleeping dogs lie and never mentioned the inheritance dispute again.",
+      "The veterinary clinic posted a notice asking all clients to let sleeping dogs lie quietly in the recovery room while medications took effect."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — don't reopen old disputes. Not literal dogs.",
+    "explanationJa": "「let sleeping dogs lie」は寝た子を起こすなという比喩。"
+  },
+  {
+    "id": 48,
+    "level": 2,
+    "word": "make ends meet",
+    "definition": "earn just enough to cover basic expenses",
+    "sentences": [
+      "Since the rent increase, the young couple has struggled to make ends meet on a single income.",
+      "The upholstery technician used steel pins to make the ends meet before stitching the leather seam on the executive chair.",
+      "The custom tailor had to make the ends meet precisely on the suit jacket lining or the stitching would pucker visibly.",
+      "The cabinet maker uses a dovetail jig to make the ends meet perfectly when joining the hardwood panels for the conference table."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — survive financially. Not literal sewing or carpentry.",
+    "explanationJa": "「make ends meet」は収支を合わせて生活するという比喩。"
+  },
+  {
+    "id": 49,
+    "level": 2,
+    "word": "on thin ice",
+    "definition": "in a risky situation likely to cause trouble",
+    "sentences": [
+      "The arena facilities manager warned the maintenance crew never to operate the resurfacer on thin ice near the rink drainage vents.",
+      "After missing three deadlines in a row, the contractor knew he was on thin ice with the client.",
+      "The polar research team tests core samples to confirm they are not setting up monitoring equipment on thin ice over unstable channels.",
+      "The municipal parks department closes the public skating pond whenever inspectors measure on thin ice conditions below four inches thick."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — in a precarious position. Not literal ice.",
+    "explanationJa": "「on thin ice」は危ない立場にいるという比喩。"
+  },
+  {
+    "id": 50,
+    "level": 2,
+    "word": "pull the plug",
+    "definition": "end or stop something officially",
+    "sentences": [
+      "The board decided to pull the plug on the failing product line before quarterly earnings.",
+      "The electrician asked the homeowner to pull the plug before working on the kitchen outlet.",
+      "Hospital staff must verify orders carefully before they pull the plug on any equipment.",
+      "Technicians always pull the plug on the server rack before swapping the cooling fans."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — to discontinue. Not literal unplugging.",
+    "explanationJa": "「pull the plug」は中止するという比喩。"
+  },
+  {
+    "id": 51,
+    "level": 2,
+    "word": "quiet as a mouse",
+    "definition": "extremely silent",
+    "sentences": [
+      "The pest control report confirmed the server room was now as quiet as a mouse, verifying that the baited traps had resolved the infestation.",
+      "The toddler crept past the nursery as quiet as a mouse so the baby would not wake up.",
+      "The lab technician confirmed the test subject was as quiet as a mouse after administering the mild sedative required for the imaging procedure.",
+      "The pet store associate assured the customer that the dwarf hamster would be as quiet as a mouse in any studio apartment setting."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — very silent. The literal animal comparison context is rare.",
+    "explanationJa": "「quiet as a mouse」は非常に静かという比喩。"
+  },
+  {
+    "id": 52,
+    "level": 2,
+    "word": "rule of thumb",
+    "definition": "a rough practical guideline",
+    "sentences": [
+      "As a rule of thumb, double the recipe's salt if you're cooking for more than six people.",
+      "The workshop instructor showed apprentices how to estimate bolt sizes using a rule of thumb measurement — the width from knuckle to fingertip.",
+      "Before digital tools existed, the print shop foreman relied on a rule of thumb to gauge column widths directly on the typesetting proof.",
+      "The master carpenter demonstrated a quick rule of thumb for checking board straightness by sighting along the edge with one eye closed."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — a general guideline. Not literal measuring tool.",
+    "explanationJa": "「rule of thumb」は経験則という比喩。"
+  },
+  {
+    "id": 53,
+    "level": 2,
+    "word": "steal the show",
+    "definition": "attract the most attention or praise",
+    "sentences": [
+      "The venue manager upgraded security after someone attempted to steal the show equipment from the locked storage area overnight.",
+      "Insurance adjusters investigated the claim after unknown individuals tried to steal the show's lighting rigs during the venue renovation.",
+      "The understudy stepped in last night and stole the show with her stunning solo performance.",
+      "The production company filed a police report when a former crew member attempted to steal the show's custom props after the final run."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — get the most attention. Not literal theft.",
+    "explanationJa": "「steal the show」は人気をさらうという比喩。"
+  },
+  {
+    "id": 54,
+    "level": 2,
+    "word": "throw in the towel",
+    "definition": "give up or surrender",
+    "sentences": [
+      "The gym laundry service asks members to throw in the towel after each workout in the bin next to the locker room exit.",
+      "The boxing cornerman may throw in the towel when his fighter absorbs too many clean shots to continue the bout safely.",
+      "After three failed rounds of funding, the founders finally threw in the towel and dissolved the startup.",
+      "The spa receptionist will throw in the towel along with the heated blankets once the treatment room has been prepared for the next client."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — to give up. The boxing literal sense is related but the idiom is broader.",
+    "explanationJa": "「throw in the towel」は降参するという比喩。"
+  },
+  {
+    "id": 55,
+    "level": 2,
+    "word": "under your nose",
+    "definition": "in plain sight but unnoticed",
+    "sentences": [
+      "The occupational health nurse held the ammonia capsule just under your nose to revive you after you fainted during the company briefing.",
+      "The perfumer asked the client to hold the test strip under her nose for ten seconds to evaluate the new fragrance for the product launch.",
+      "The missing report had been sitting right under your nose on the shared drive the whole week.",
+      "The food safety inspector held each sample under his nose to check for spoilage before clearing the shipment through the quality checkpoint."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — present but overlooked. Not literal nose proximity.",
+    "explanationJa": "「under your nose」は目の前にあるのに気づかないという比喩。"
+  },
+  {
+    "id": 56,
+    "level": 2,
+    "word": "in the same boat",
+    "definition": "facing the same difficult situation",
+    "sentences": [
+      "The corporate team-building program placed all five department heads in the same boat for the competitive rowing event on the river.",
+      "The charter company confirmed that both client groups would share space in the same boat for the harbor tour during the conference.",
+      "The coast guard safety officer required all trainees to practice capsizing drills in the same boat before receiving their certification.",
+      "With the budget freeze, the entire department is in the same boat regarding overtime pay."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — sharing a difficulty. Not literal boat.",
+    "explanationJa": "「in the same boat」は同じ立場・苦境にいるという比喩。"
+  },
+  {
+    "id": 57,
+    "level": 3,
+    "word": "move the needle",
+    "definition": "create a noticeable change in results",
+    "sentences": [
+      "The audio technician had to move the needle carefully to avoid scratching the rare vinyl during the studio's analog restoration session.",
+      "The phlebotomist had to move the needle slightly to locate a better vein during the patient's routine blood draw at the morning clinic.",
+      "The tattoo artist paused to move the needle to a finer gauge before beginning the detailed shading work on the client's forearm design.",
+      "The new pricing strategy didn't move the needle on subscriptions despite weeks of promotion."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — produce measurable impact. Not literal needle movement.",
+    "explanationJa": "「move the needle」は目に見える変化をもたらすという比喩。"
+  },
+  {
+    "id": 58,
+    "level": 3,
+    "word": "low-hanging fruit",
+    "definition": "the easiest tasks to complete first",
+    "sentences": [
+      "Let's tackle the low-hanging fruit first and address the smaller customer complaints this week.",
+      "The agricultural consultant advised the orchard client to harvest the low-hanging fruit first to minimize damage from the approaching weekend storm.",
+      "The farm manager told the seasonal crew to collect the low-hanging fruit by hand rather than shaking the trees with the mechanical harvester.",
+      "The farm-to-table restaurant's head chef picked only the low-hanging fruit from the partner orchard to feature in the weekend tasting menu."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — easy wins. Not literal fruit picking.",
+    "explanationJa": "「low-hanging fruit」は簡単に達成できる目標という比喩。"
+  },
+  {
+    "id": 59,
+    "level": 3,
+    "word": "touch base",
+    "definition": "briefly communicate to share updates",
+    "sentences": [
+      "The shortstop sprinted across the infield to touch base before the runner could complete the double play at second.",
+      "The batting coach teaches young players to touch base with their lead foot and immediately push off toward the next bag.",
+      "Replay officials reviewed the footage to confirm the runner cleat did touch base before the fielder applied the tag.",
+      "Let's touch base next Tuesday to confirm whether the vendor agreement is ready for signing."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — briefly check in. The literal baseball meaning is separate.",
+    "explanationJa": "「touch base」は連絡を取り合うという比喩。"
+  },
+  {
+    "id": 60,
+    "level": 3,
+    "word": "circle back",
+    "definition": "return to a topic later",
+    "sentences": [
+      "The delivery driver had to circle back to the distribution center after discovering the wrong parcels had been loaded onto the truck.",
+      "Let's circle back on the staffing question after we've seen the revised budget on Friday.",
+      "The drone pilot programmed the aircraft to circle back over the survey area twice more to capture the remaining aerial photography.",
+      "The shuttle bus driver will circle back past the hotel entrance every fifteen minutes to collect passengers heading to the convention center."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — revisit a topic. Not literal circling.",
+    "explanationJa": "「circle back」は話を後で蒸し返すという比喩。"
+  },
+  {
+    "id": 61,
+    "level": 3,
+    "word": "think outside the box",
+    "definition": "approach a problem creatively",
+    "sentences": [
+      "The escape room designer encourages players to think outside the box — literally examining the room's exterior panels for hidden mechanisms.",
+      "The packaging engineer warned the team to think outside the box dimensions printed on the spec sheet when estimating warehouse capacity.",
+      "To beat the competition, we'll need to think outside the box and rethink the entire onboarding flow.",
+      "The puzzle designer wanted contestants to think outside the box borders to find the solution hidden in the negative space of each grid."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — be creative. Not literal containers.",
+    "explanationJa": "「think outside the box」は型にはまらない発想をするという比喩。"
+  },
+  {
+    "id": 62,
+    "level": 3,
+    "word": "pull strings",
+    "definition": "use influence to get something done",
+    "sentences": [
+      "My uncle pulled some strings to get me an interview at the firm last spring.",
+      "The stage manager pulls strings behind the curtain to operate the counterweight rigging system during each scene transition of the production.",
+      "The luthier carefully pulls strings through the bridge pins when restringing a client acoustic guitar at the instrument repair workshop.",
+      "The surgical team pulls strings of dissolvable suture through each layer of tissue during the wound closure phase of the procedure."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — use connections. Not literal strings.",
+    "explanationJa": "「pull strings」はコネを使うという比喩。"
+  },
+  {
+    "id": 63,
+    "level": 3,
+    "word": "corner office",
+    "definition": "a senior executive position",
+    "sentences": [
+      "The interior designer painted the corner office with two large windows facing the harbor view.",
+      "After fifteen years of dedication, she finally earned a corner office and the title of vice president.",
+      "The cleaning crew vacuumed the corner office last because the rugs took the longest to dry.",
+      "Movers carried the antique desk into the corner office reserved for visiting board members."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — top executive position. The literal room exists but the idiom signals rank.",
+    "explanationJa": "「corner office」は重役という比喩。"
+  },
+  {
+    "id": 64,
+    "level": 3,
+    "word": "in the loop",
+    "definition": "informed about ongoing discussions",
+    "sentences": [
+      "The electrician checked every connection point in the loop of wiring that ran through the ceiling of the newly renovated conference room.",
+      "The software engineer found a performance bottleneck in the loop that processed client transaction requests on the production server.",
+      "Please keep me in the loop on the vendor negotiations so I can brief the partners on Monday.",
+      "The civil engineer inspected each guard rail in the loop of the highway off-ramp near the corporate campus for structural wear."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — kept informed. Not literal loops.",
+    "explanationJa": "「in the loop」は情報を共有されているという比喩。"
+  },
+  {
+    "id": 65,
+    "level": 3,
+    "word": "play hardball",
+    "definition": "act aggressively to gain advantage",
+    "sentences": [
+      "The varsity pitcher elected to play hardball instead of softball for the spring season after earning a spot on the competitive roster.",
+      "Youth league regulations require players to pass a safety certification before they can play hardball with regulation equipment.",
+      "The negotiator chose to play hardball and refused to lower the asking price by even one percent.",
+      "The umpire ejected the batter who refused to play hardball with the approved bat model required by the tournament equipment standards."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — be tough or aggressive. The literal baseball meaning is separate.",
+    "explanationJa": "「play hardball」は強硬な姿勢で交渉するという比喩。"
+  },
+  {
+    "id": 66,
+    "level": 3,
+    "word": "raise the bar",
+    "definition": "set a higher standard",
+    "sentences": [
+      "The high jump official asked the ground crew to raise the bar by two centimeters before the next round of the regional qualifier.",
+      "The stagehands use a motorized pulley system to raise the bar holding the main curtain before each evening performance begins.",
+      "The construction crew used a mobile crane to raise the bar of reinforced steel into position before the welding team arrived on site.",
+      "The new product launch will raise the bar for what customers expect from our entire industry."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — set a higher standard. Not literal lifting.",
+    "explanationJa": "「raise the bar」は基準を上げるという比喩。"
+  },
+  {
+    "id": 67,
+    "level": 3,
+    "word": "close the loop",
+    "definition": "complete a process or communication",
+    "sentences": [
+      "Make sure to close the loop with the client about the revised contract by end of day Friday.",
+      "The electrician must close the loop on the circuit after testing every junction box along the newly installed wiring in the building.",
+      "The production-line seamstress has to close the loop of thread cleanly to prevent the seam from unraveling during quality inspection.",
+      "The marine crew closes the loop on each mooring line and inspects the knot before the vessel is cleared to depart the dock."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — finish communication. Not literal looping.",
+    "explanationJa": "「close the loop」は連絡を完了させるという比喩。"
+  },
+  {
+    "id": 68,
+    "level": 3,
+    "word": "ballpark figure",
+    "definition": "a rough estimate",
+    "sentences": [
+      "The grounds crew used surveyor tape to calculate a ballpark figure for the square footage of turf needed for the outfield renovation.",
+      "Can you give me a ballpark figure for the renovation costs before I present to the board?",
+      "The architect presented a ballpark figure drawing of the proposed stadium design to the city planning commission for preliminary review.",
+      "The sculptor crafted a twelve-foot ballpark figure of a legendary slugger to stand near the main entrance of the new sports complex."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — rough estimate. Not literal stadium-related.",
+    "explanationJa": "「ballpark figure」は概算という比喩。"
+  },
+  {
+    "id": 69,
+    "level": 3,
+    "word": "throw under the bus",
+    "definition": "betray someone to save yourself",
+    "sentences": [
+      "The transit supervisor instructed the trainee to throw the safety cones under the bus during the routine maintenance bay inspection procedure.",
+      "The mechanic asked his apprentice to throw the jack stand under the bus chassis before beginning the brake line replacement work.",
+      "The loading dock worker had to throw the cargo straps under the bus to secure the luggage compartment for the corporate shuttle trip.",
+      "Don't throw your teammate under the bus just to make your own performance look better to management."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — to betray someone. Not literal.",
+    "explanationJa": "「throw under the bus」は責任を他人になすりつけるという比喩。"
+  },
+  {
+    "id": 70,
+    "level": 2,
+    "word": "hit a snag",
+    "definition": "encounter an unexpected problem",
+    "sentences": [
+      "The project hit a snag when the supplier missed the delivery deadline by an entire week.",
+      "The commercial fisherman trawl line hit a snag on a submerged reef, forcing the crew to cut the net free before dark.",
+      "The deep-sea cable repair team hit a snag when the fiber-optic line caught on a rock formation eighty meters below the surface.",
+      "The dry cleaning attendant noticed the client silk blouse had hit a snag on the conveyor hook and torn along the shoulder seam."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — encounter a problem. The literal fishing/fabric meanings exist.",
+    "explanationJa": "「hit a snag」は問題にぶつかるという比喩。"
+  },
+  {
+    "id": 71,
+    "level": 3,
+    "word": "drop the ball",
+    "definition": "fail to handle a responsibility",
+    "sentences": [
+      "The wide receiver tried to secure the catch but dropped the ball at the three-yard line during the crucial fourth-quarter drive.",
+      "I really dropped the ball on the report deadline and now we have to delay the whole presentation.",
+      "The juggling performer intentionally drops the ball mid-routine as a comedic misdirection before catching five objects simultaneously.",
+      "The billiards instructor explained that beginners often drop the ball off the break because they strike too far below the center."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — fail at a responsibility. The literal sense exists in sports.",
+    "explanationJa": "「drop the ball」は失敗するという比喩。"
+  },
+  {
+    "id": 72,
+    "level": 3,
+    "word": "on the back burner",
+    "definition": "postponed but not abandoned",
+    "sentences": [
+      "The company cafeteria chef placed the soup stock on the back burner to simmer while preparing the entrées for the executive lunch.",
+      "The test kitchen manager always keeps a pot of broth on the back burner during the product development team's tasting sessions.",
+      "The redesign project is on the back burner until we finish the higher-priority security audit.",
+      "The restaurant consultant advised keeping the base sauce on the back burner at low heat throughout the dinner service for consistent quality."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — postponed temporarily. Not literal cooking.",
+    "explanationJa": "「on the back burner」は後回しにするという比喩。"
+  },
+  {
+    "id": 73,
+    "level": 3,
+    "word": "green light",
+    "definition": "official permission to proceed",
+    "sentences": [
+      "The traffic systems engineer reprogrammed the green light cycle at the downtown intersection to reduce average commute times by eight percent.",
+      "The city council reviewed whether extending the green light duration on the main boulevard would ease congestion near the business district.",
+      "Crossing guards at the corporate campus confirm the green light is visible from both sidewalk approaches before waving pedestrians across.",
+      "Senior management finally gave the green light to launch the new product in Asian markets."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — approval. The literal traffic signal sense is separate.",
+    "explanationJa": "「green light」は許可・ゴーサインという比喩。"
+  },
+  {
+    "id": 74,
+    "level": 3,
+    "word": "red tape",
+    "definition": "excessive bureaucratic procedure",
+    "sentences": [
+      "The legal department archivist tied the court filings with red tape before placing them in long-term storage per the retention policy.",
+      "The evidence room clerk wrapped each sealed exhibit box with red tape to indicate that the contents had not been tampered with.",
+      "The records management team wound red tape around the bundles of processed immigration documents before sending them to the federal archive.",
+      "Importing the new equipment involved months of red tape before the shipment cleared customs."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — bureaucratic obstacles. The literal tape sense exists historically.",
+    "explanationJa": "「red tape」はお役所仕事という比喩。"
+  },
+  {
+    "id": 75,
+    "level": 2,
+    "word": "hot potato",
+    "definition": "a controversial issue nobody wants to handle",
+    "sentences": [
+      "The pricing decision is a hot potato that no department head wants to own this quarter.",
+      "The cafeteria server juggled the hot potato between her hands before setting it on the tray at the executive dining room's lunch station.",
+      "The food truck operator wrapped each hot potato in foil to maintain temperature during the corporate catering event on the office loading dock.",
+      "The company chef placed the hot potato directly onto the board member's plate, warning him it had just come out of the industrial oven."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — controversial topic. The literal cooking/game senses are separate.",
+    "explanationJa": "「hot potato」は厄介な問題という比喩。"
+  },
+  {
+    "id": 76,
+    "level": 3,
+    "word": "smoke and mirrors",
+    "definition": "deceptive presentation hiding the truth",
+    "sentences": [
+      "The magician arranged the smoke and mirrors on the corporate event stage according to the technical rider provided by his management team.",
+      "The stage production company uses industrial smoke and mirrors to create the illusion effects requested by the creative director.",
+      "The startup's growth projections were just smoke and mirrors meant to distract from the cash burn.",
+      "The special effects supervisor trained new hires on the safe handling of theatrical smoke and mirrors before their first live show."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — deception. The literal stagecraft sense exists.",
+    "explanationJa": "「smoke and mirrors」はごまかしという比喩。"
+  },
+  {
+    "id": 77,
+    "level": 3,
+    "word": "silver bullet",
+    "definition": "a simple solution to a complex problem",
+    "sentences": [
+      "The metallurgy lab cast a silver bullet sample to test the alloy composition required for the defense contractor munitions order.",
+      "The forensic ballistics expert examined the silver bullet fragment recovered from the scene to determine its caliber and manufacturer.",
+      "The prop department polished the silver bullet replica before the director approved it for the close-up shot in the period drama.",
+      "There's no silver bullet for improving retention — we need a sustained multi-quarter strategy."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — easy fix. The literal folklore sense is separate.",
+    "explanationJa": "「silver bullet」は魔法のような解決策という比喩。"
+  },
+  {
+    "id": 78,
+    "level": 3,
+    "word": "deep dive",
+    "definition": "thorough detailed analysis",
+    "sentences": [
+      "The marine research institute funded a deep dive expedition to photograph the coral reef colony at sixty meters for the conservation report.",
+      "Let's schedule a deep dive into the user research findings before finalizing the product roadmap.",
+      "The commercial diving company requires all operators to complete advanced certification before attempting any deep dive below thirty meters.",
+      "The submarine crew prepared for a deep dive by confirming all pressure seals and ballast systems were within operational specifications."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — thorough analysis. The literal diving sense exists.",
+    "explanationJa": "「deep dive」は深く掘り下げて分析するという比喩。"
+  },
+  {
+    "id": 79,
+    "level": 3,
+    "word": "game changer",
+    "definition": "something that significantly alters a situation",
+    "sentences": [
+      "The head coach brought in the veteran midfielder as a game changer in the third quarter after the starting lineup fell behind.",
+      "Sports commentators identified the rookie point guard as the game changer who turned the series momentum during the playoff run.",
+      "The new battery technology is a game changer for the entire electric vehicle market.",
+      "The fantasy league analysts ranked the traded pitcher as the biggest game changer of the offseason for the acquiring franchise."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — transformative thing. The literal sports sense exists.",
+    "explanationJa": "「game changer」は状況を一変させるものという比喩。"
+  },
+  {
+    "id": 80,
+    "level": 3,
+    "word": "on the same wavelength",
+    "definition": "thinking similarly or understanding each other well",
+    "sentences": [
+      "The radio technician set both transmitters on the same wavelength for the field test this afternoon.",
+      "Engineers calibrated the equipment to operate on the same wavelength as the satellite uplink station.",
+      "Broadcast operators kept the studio microphones on the same wavelength to avoid signal interference.",
+      "The new design team and I are on the same wavelength about prioritizing accessibility first."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — mutual understanding. The literal radio sense exists.",
+    "explanationJa": "「on the same wavelength」は考えが一致しているという比喩。"
+  },
+  {
+    "id": 81,
+    "level": 3,
+    "word": "behind the scenes",
+    "definition": "happening privately, away from public view",
+    "sentences": [
+      "The film production crew stored the camera equipment behind the scenes in the climate-controlled area between takes during the outdoor shoot.",
+      "The theater stagehands organized props and costumes behind the scenes between every act of the three-hour musical production run.",
+      "Behind the scenes, the legal team had been negotiating the acquisition for nearly six months.",
+      "The documentary production team captured footage behind the scenes of the orchestra rehearsing the commissioned piece before opening night."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — private workings. The literal theater sense exists.",
+    "explanationJa": "「behind the scenes」は舞台裏でという比喩。"
+  },
+  {
+    "id": 82,
+    "level": 3,
+    "word": "win-win",
+    "definition": "a situation that benefits all parties",
+    "sentences": [
+      "The chess tournament director announced the club first win-win result in the regional doubles bracket after both players advanced.",
+      "The sports trade analyst described the midseason player swap as a win-win for both franchises and the athletes involved.",
+      "Casino game designers carefully balance each slot algorithm so that no machine produces a sustained win-win payout streak for players.",
+      "The new partnership creates a win-win because both companies gain access to untapped markets."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — mutually beneficial. Not literal wins.",
+    "explanationJa": "「win-win」は双方に利益があるという比喩。"
+  },
+  {
+    "id": 83,
+    "level": 2,
+    "word": "icing on the cake",
+    "definition": "a small bonus that enhances an already good situation",
+    "sentences": [
+      "Getting promoted was great, and the corner office was the icing on the cake for her first month.",
+      "The head baker carefully spread the icing on the cake for the firm's tenth anniversary celebration while the office manager supervised the design.",
+      "The catering team applied the final icing on the cake in the break room as the staff hung decorations for the director's retirement party.",
+      "The culinary intern piped the icing on the cake with a steady hand during her practical exam at the hospitality institute's test kitchen."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — a welcome bonus. Not literal frosting.",
+    "explanationJa": "「icing on the cake」は嬉しいおまけという比喩。"
+  },
+  {
+    "id": 84,
+    "level": 3,
+    "word": "in the weeds",
+    "definition": "overwhelmed by details",
+    "sentences": [
+      "The corporate campus groundskeeper spent the morning in the weeds along the entrance pathway clearing debris before the board members arrived.",
+      "Don't get too in the weeds on the implementation details — the board only wants the strategic summary.",
+      "The environmental consultant waded in the weeds behind the office park to collect soil samples for the contamination assessment report.",
+      "The property manager complained about contractors leaving debris in the weeds beside the building instead of using the designated disposal area."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — lost in details. Not literal weeds.",
+    "explanationJa": "「in the weeds」は細部に埋もれているという比喩。"
+  },
+  {
+    "id": 85,
+    "level": 3,
+    "word": "moving target",
+    "definition": "a goal that keeps changing",
+    "sentences": [
+      "The military training facility set up a moving target on a motorized rail for the advanced marksmanship qualification course.",
+      "The competitive skeet shooter trains against a moving target launched at randomized angles from the automated mechanical thrower.",
+      "The compliance requirements are a moving target as regulators update their guidance every quarter.",
+      "Range safety officers must confirm the moving target track is clear of obstructions before signaling the next qualifying shooter to begin."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — changing goal. The literal shooting target sense exists.",
+    "explanationJa": "「moving target」は変動する目標という比喩。"
+  },
+  {
+    "id": 86,
+    "level": 3,
+    "word": "reinvent the wheel",
+    "definition": "waste effort recreating something that already exists",
+    "sentences": [
+      "Let's use the existing template instead of reinventing the wheel for this quarterly report.",
+      "The materials engineering firm spent years trying to reinvent the wheel using lightweight carbon fiber composites for the aerospace industry.",
+      "The transportation history exhibit explored how different civilizations attempted to reinvent the wheel using local materials and techniques.",
+      "The mechanical engineering students gathered in the lab to reinvent the wheel as their capstone demonstration project for the industry panel."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — wasted duplication. Not literal invention.",
+    "explanationJa": "「reinvent the wheel」は無駄に作り直すという比喩。"
+  },
+  {
+    "id": 87,
+    "level": 2,
+    "word": "out of the blue",
+    "definition": "unexpectedly without warning",
+    "sentences": [
+      "The skydivers descended out of the blue as the crowd at the airshow festival watched their colorful canopies deploy above the runway.",
+      "She called me out of the blue last week to offer me a job I hadn't even applied for.",
+      "The bird of prey dove out of the blue and snatched the bait fish before the wildlife research team could secure the trap.",
+      "The search and rescue helicopters appeared out of the blue during the live news broadcast covering the aftermath of the mountain storm."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — unexpectedly. Not literal sky.",
+    "explanationJa": "「out of the blue」は突然・予期せずという比喩。"
+  },
+  {
+    "id": 88,
+    "level": 3,
+    "word": "in a holding pattern",
+    "definition": "waiting without progress",
+    "sentences": [
+      "Air traffic control kept the jet in a holding pattern over the airport for nearly an hour yesterday.",
+      "Pilots are trained to enter a holding pattern smoothly while waiting for clearance to land safely.",
+      "Flight instructors teach students to fly in a holding pattern at varying altitudes during certification.",
+      "The merger talks are in a holding pattern until the regulators issue their preliminary ruling."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — waiting indefinitely. The literal aviation sense exists.",
+    "explanationJa": "「in a holding pattern」は進展せず待機しているという比喩。"
+  },
+  {
+    "id": 89,
+    "level": 3,
+    "word": "price point",
+    "definition": "the specific price set for a product",
+    "sentences": [
+      "The shop displayed each price point clearly on small white tags hanging from the antique furniture.",
+      "The cashier double-checked the price point on the register against the printed receipt for the customer.",
+      "The clothing boutique organized garments by price point so shoppers could browse within their budget.",
+      "Our challenge is finding a price point that competes with imports while preserving healthy margins."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — set price. The literal pricing sense overlaps but is broader.",
+    "explanationJa": "「price point」は価格設定という比喩。"
+  },
+  {
+    "id": 90,
+    "level": 3,
+    "word": "bottom line",
+    "definition": "the most important conclusion or final outcome",
+    "sentences": [
+      "The bottom line is that we must reduce operating costs before the next earnings call in November.",
+      "The accountant double-checked the bottom line on the spreadsheet before submitting the tax return.",
+      "Auditors review every entry above the bottom line of the ledger during the annual financial check.",
+      "The bookkeeper highlighted the bottom line in yellow to make the totals easier to find quickly."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — the key conclusion. The literal accounting sense exists.",
+    "explanationJa": "「bottom line」は結論・要点という比喩。"
+  },
+  {
+    "id": 91,
+    "level": 3,
+    "word": "long shot",
+    "definition": "something unlikely to succeed",
+    "sentences": [
+      "The competitive marksman lined up the long shot carefully and adjusted the rifle scope for the strong crosswind at the qualifying range.",
+      "Winning this contract is a long shot, but we should still submit a strong proposal anyway.",
+      "The tactical firearms instructor demonstrated a long shot at the four-hundred-meter range to show recruits proper breathing technique.",
+      "Professional hunters practice the long shot extensively at the certified range before attempting it on regulated game during the season."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — unlikely outcome. The literal shooting sense exists.",
+    "explanationJa": "「long shot」は当たる見込みが薄いという比喩。"
+  },
+  {
+    "id": 92,
+    "level": 3,
+    "word": "square one",
+    "definition": "the starting point after a failure",
+    "sentences": [
+      "The board game designer placed the penalty instruction on square one so that unlucky players would restart the path from the beginning.",
+      "The tile contractor measured square one of the mosaic pattern carefully before continuing the installation outward across the hotel lobby floor.",
+      "The flooring specialist marked square one of the conference room with chalk to establish the baseline alignment for all remaining carpet rows.",
+      "After the prototype failed testing, the design team was back at square one with no usable parts."
+    ],
+    "answer": 3,
+    "explanation": "Figurative — starting over. Not literal squares.",
+    "explanationJa": "「square one」は振り出しに戻るという比喩。"
+  },
+  {
+    "id": 93,
+    "level": 2,
+    "word": "food for thought",
+    "definition": "something that gives reason to think",
+    "sentences": [
+      "The keynote speaker offered plenty of food for thought about how AI will reshape the industry.",
+      "The corporate cafeteria labeled its brain-health menu items as 'food for thought' — salmon wraps, walnut salads, and blueberry smoothies each day.",
+      "The wellness coordinator provided food for thought participants at the mindfulness retreat — light snacks served between each speaker's session.",
+      "The conference organizer ordered food for thought leaders attending the innovation panel, ensuring dietary preferences were accommodated in advance."
+    ],
+    "answer": 0,
+    "explanation": "Figurative — something to ponder. Not literal food.",
+    "explanationJa": "「food for thought」は考えさせられる材料という比喩。"
+  },
+  {
+    "id": 94,
+    "level": 3,
+    "word": "learning curve",
+    "definition": "the rate at which one acquires a new skill",
+    "sentences": [
+      "The graphics team plotted the learning curve on a chart using data from the user testing sessions.",
+      "The new accounting software has a steep learning curve, but the team is making steady progress.",
+      "Researchers analyzed each learning curve carefully before publishing the educational psychology paper.",
+      "Trainers documented the learning curve of every recruit during the six-week orientation program."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — skill acquisition rate. The literal graph sense exists.",
+    "explanationJa": "「learning curve」は習熟曲線・覚えにくさという比喩。"
+  },
+  {
+    "id": 95,
+    "level": 3,
+    "word": "shoot from the hip",
+    "definition": "speak or act impulsively without preparation",
+    "sentences": [
+      "Quick-draw competition athletes practice for years to shoot from the hip with consistent accuracy under the pressure of timed events.",
+      "The stunt coordinator trained the lead actor to shoot from the hip safely using blank rounds during the choreographed Western duel scene.",
+      "The CEO tends to shoot from the hip in interviews, which sometimes creates communications headaches.",
+      "The firearms range instructor warns all novice shooters never to shoot from the hip until they have fully mastered proper stance technique."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — speak impulsively. The literal shooting sense exists historically.",
+    "explanationJa": "「shoot from the hip」は思いつきで発言・行動するという比喩。"
+  },
+  {
+    "id": 96,
+    "level": 3,
+    "word": "by the book",
+    "definition": "strictly following established rules",
+    "sentences": [
+      "The bookshop manager organized the inventory by the book condition ratings displayed at the entrance to attract collectors browsing for rare editions.",
+      "The new compliance officer does everything by the book, so expect longer approval cycles this quarter.",
+      "The university librarian sorted each new acquisition by the book classification system used throughout the research library network.",
+      "The rare book dealer prices every volume by the book grading standard published in the international auction house reference catalog."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — strict rule-following. Not literal book sorting.",
+    "explanationJa": "「by the book」は規則通りにという比喩。"
+  },
+  {
+    "id": 97,
+    "level": 3,
+    "word": "crunch time",
+    "definition": "a critical period requiring intense effort",
+    "sentences": [
+      "The quality assurance team tracks crunch time — how long each product batch takes to reach the target texture during manufacturing.",
+      "The materials testing lab measured the crunch time of each sample under pressure to determine the composite's structural failure point.",
+      "It's crunch time before the product launch, so the team is working extended hours every weekday.",
+      "The physical therapist documented the patient's jaw crunch time to evaluate recovery progress after the temporomandibular joint procedure."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — critical deadline period. Not literal crunching.",
+    "explanationJa": "「crunch time」は正念場という比喩。"
+  },
+  {
+    "id": 98,
+    "level": 3,
+    "word": "sweep under the rug",
+    "definition": "hide a problem rather than address it",
+    "sentences": [
+      "The office cleaning crew used an industrial vacuum to sweep debris under the rug edges in the executive boardroom before the morning meeting.",
+      "The facilities team occasionally sweeps loose cable dust under the rug in the server room hallway when running behind on the nightly schedule.",
+      "The board cannot sweep the accounting errors under the rug now that the auditors have flagged them.",
+      "The hotel housekeeping supervisor caught a new hire trying to sweep crumbs under the rug in the presidential suite instead of vacuuming properly."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — hide a problem. Not literal sweeping.",
+    "explanationJa": "「sweep under the rug」は問題を隠すという比喩。"
+  },
+  {
+    "id": 99,
+    "level": 2,
+    "word": "on the fence",
+    "definition": "undecided between two options",
+    "sentences": [
+      "The property developer checked the survey stakes on the fence line to confirm the boundary before breaking ground on the commercial project.",
+      "The facilities team repaired the company logo mounted on the fence surrounding the corporate headquarters parking lot after the storm.",
+      "I'm still on the fence about which job offer to accept by the end of next week.",
+      "The construction foreman balanced the measuring tape on the fence post while verifying the setback distance required by the building code."
+    ],
+    "answer": 2,
+    "explanation": "Figurative — undecided. Not literal fence-sitting.",
+    "explanationJa": "「on the fence」は決めかねているという比喩。"
+  },
+  {
+    "id": 100,
+    "level": 3,
+    "word": "wear many hats",
+    "definition": "perform many different roles",
+    "sentences": [
+      "The wardrobe department required the lead actor to wear many hats during the rapid costume changes in the period drama production.",
+      "At our small startup, everyone has to wear many hats to keep the business running smoothly.",
+      "The fashion buyer asked the runway model to wear many hats from the spring collection so the design team could photograph each angle.",
+      "The vintage clothing curator pulled several fedoras and asked the mannequin stylist to wear many hats on the rotating seasonal display."
+    ],
+    "answer": 1,
+    "explanation": "Figurative — multiple roles. Not literal hats.",
+    "explanationJa": "「wear many hats」は複数の役割をこなすという比喩。"
+  }
+]

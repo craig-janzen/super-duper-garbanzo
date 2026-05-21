@@ -1,0 +1,1550 @@
+[
+  {
+    "sentence": "She is very good ___ math.",
+    "choices": ["at", "in", "on", "with"],
+    "answer": 0,
+    "category": "particle",
+    "level": 1,
+    "explanation": "Use 'good at' for skills and abilities. 'Good in' is a common L1-transfer error.",
+    "explanationJa": "技能・能力には good at を使います。good in は誤用。"
+  },
+  {
+    "sentence": "I'm going to listen ___ some music.",
+    "choices": ["—", "at", "to", "for"],
+    "answer": 2,
+    "category": "particle",
+    "level": 1,
+    "explanation": "'Listen' always takes 'to' before an object. Dropping the preposition is a frequent mistake.",
+    "explanationJa": "listen は必ず to を伴います(listen music は誤り)。"
+  },
+  {
+    "sentence": "We arrived ___ the airport just before midnight.",
+    "choices": ["to", "at", "in", "on"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "Use 'arrive at' for a specific place or point. 'Arrive in' is for cities/countries. 'Arrive to' is incorrect.",
+    "explanationJa": "特定の場所には arrive at、都市・国には arrive in。arrive to は不可。"
+  },
+  {
+    "sentence": "She has been married ___ him for ten years.",
+    "choices": ["with", "to", "by", "of"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "In English you are 'married to' someone, not 'married with' (a common Romance-language interference).",
+    "explanationJa": "married to が正解。married with は誤用。"
+  },
+  {
+    "sentence": "It depends ___ the weather.",
+    "choices": ["of", "from", "on", "to"],
+    "answer": 2,
+    "category": "particle",
+    "level": 1,
+    "explanation": "'Depend on' is the fixed collocation. 'Depend of' is a frequent error.",
+    "explanationJa": "depend on が定型。depend of は誤り。"
+  },
+  {
+    "sentence": "I'll meet you ___ Monday morning.",
+    "choices": ["in", "at", "on", "by"],
+    "answer": 2,
+    "category": "particle",
+    "level": 2,
+    "explanation": "Use 'on' with specific days, even when combined with parts of the day (on Monday morning).",
+    "explanationJa": "特定の曜日には on。on Monday morning のように使います。"
+  },
+  {
+    "sentence": "He's afraid ___ spiders.",
+    "choices": ["from", "of", "to", "with"],
+    "answer": 1,
+    "category": "particle",
+    "level": 1,
+    "explanation": "'Afraid of' is the standard collocation. 'Afraid from' is a transfer error.",
+    "explanationJa": "afraid of が正しい結びつき。"
+  },
+  {
+    "sentence": "The report consists ___ three sections.",
+    "choices": ["from", "of", "in", "with"],
+    "answer": 1,
+    "category": "particle",
+    "level": 3,
+    "explanation": "'Consist of' = be made up of. Not 'consist from' or 'consist with'.",
+    "explanationJa": "consist of(〜から成る)。consist from は不可。"
+  },
+  {
+    "sentence": "It was a secret between you and ___.",
+    "choices": ["I", "me", "myself", "mine"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "After a preposition like 'between', use the object pronoun 'me'. 'Between you and I' is hypercorrection.",
+    "explanationJa": "前置詞 between の後ろは目的格 me。between you and I は誤った過剰修正。"
+  },
+  {
+    "sentence": "The dog wagged ___ tail.",
+    "choices": ["it's", "its", "its'", "it"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 1,
+    "explanation": "'Its' is the possessive. 'It's' always means 'it is' or 'it has'.",
+    "explanationJa": "所有は its(アポストロフィなし)。it's は it is の短縮。"
+  },
+  {
+    "sentence": "___ going to be late if we don't leave now.",
+    "choices": ["Their", "There", "They're", "Theyre"],
+    "answer": 2,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "'They're' = they are. 'Their' is possessive; 'there' refers to place.",
+    "explanationJa": "they are の短縮は they're。their(所有)/there(場所)と区別。"
+  },
+  {
+    "sentence": "___ book is this on the table?",
+    "choices": ["Who's", "Whose", "Whos", "Whom"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "'Whose' asks about possession. 'Who's' = who is / who has.",
+    "explanationJa": "所有を尋ねるのは whose。who's は who is の短縮。"
+  },
+  {
+    "sentence": "She did the entire project ___.",
+    "choices": ["herself", "by herself", "her own", "she alone"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 3,
+    "explanation": "'By herself' = alone / without help. 'Herself' alone after the verb would be reflexive and change the meaning.",
+    "explanationJa": "by herself は「ひとりで・自力で」。herself のみだと再帰用法になり意味が変わる。"
+  },
+  {
+    "sentence": "You ___ smoke in the hospital — it's strictly forbidden.",
+    "choices": ["mustn't", "don't have to", "shouldn't", "couldn't"],
+    "answer": 0,
+    "category": "modal",
+    "level": 2,
+    "explanation": "'Mustn't' = prohibition. 'Don't have to' means no obligation, which is the opposite meaning.",
+    "explanationJa": "禁止は mustn't。don't have to は「必要がない」で意味が逆。"
+  },
+  {
+    "sentence": "You ___ pay for the tickets — I've already bought them.",
+    "choices": ["mustn't", "don't have to", "shouldn't", "can't"],
+    "answer": 1,
+    "category": "modal",
+    "level": 2,
+    "explanation": "'Don't have to' = no obligation. 'Mustn't' would mean it's forbidden, which is wrong here.",
+    "explanationJa": "義務がないは don't have to。mustn't は禁止で不適切。"
+  },
+  {
+    "sentence": "When I was a child, I ___ play outside every day.",
+    "choices": ["used to", "was used to", "would used to", "use to"],
+    "answer": 0,
+    "category": "modal",
+    "level": 2,
+    "explanation": "'Used to + verb' describes past habits. 'Be used to + -ing' means be accustomed to — different meaning.",
+    "explanationJa": "過去の習慣は used to + 動詞原形。be used to + -ing は「〜に慣れている」で別意味。"
+  },
+  {
+    "sentence": "I ___ speak French when I lived in Paris, but I've forgotten most of it.",
+    "choices": ["can", "could", "was able to", "may"],
+    "answer": 1,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Could' expresses general past ability. 'Was able to' would suggest a single specific achievement.",
+    "explanationJa": "過去の一般的能力は could。一度きりの達成には was able to を使う。"
+  },
+  {
+    "sentence": "You'd ___ leave now if you want to catch the train.",
+    "choices": ["better", "rather", "sooner", "best"],
+    "answer": 0,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Had better' (you'd better) gives strong advice with a sense of warning. 'Would rather' expresses preference.",
+    "explanationJa": "had better は警告を含む強い助言。would rather は好み。"
+  },
+  {
+    "sentence": "She ___ be at home — her car is in the driveway.",
+    "choices": ["must", "should", "can", "would"],
+    "answer": 0,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Must' expresses a strong logical deduction. 'Should' is weaker, expressing expectation.",
+    "explanationJa": "強い論理的推測は must。should は期待を示す弱い推測。"
+  },
+  {
+    "sentence": "I'm really interested ___ learning Japanese.",
+    "choices": ["on", "for", "in", "about"],
+    "answer": 2,
+    "category": "particle",
+    "level": 1,
+    "explanation": "'Interested in' is the standard collocation. 'Interested on/for' are common errors.",
+    "explanationJa": "interested in が正解。interested on/for は誤り。"
+  },
+  {
+    "sentence": "___ do you think about the new office layout?",
+    "choices": ["How", "What", "Which", "Why"],
+    "answer": 1,
+    "category": "whword",
+    "level": 1,
+    "explanation": "Ask about opinions with 'What do you think'. 'How do you think' is one of the most common ESL errors — it asks about the method of thinking, not the opinion.",
+    "explanationJa": "意見を尋ねるときは What do you think。How do you think は「どうやって考えるか」になり誤用。"
+  },
+  {
+    "sentence": "___ do you call this in English?",
+    "choices": ["How", "What", "Which", "Where"],
+    "answer": 1,
+    "category": "whword",
+    "level": 1,
+    "explanation": "Use 'What do you call X?' to ask for a name. 'How do you call' is a direct translation error from many languages.",
+    "explanationJa": "名称を尋ねるのは What do you call〜? How do you call〜? は誤用。"
+  },
+  {
+    "sentence": "___ does the word \"ubiquitous\" mean?",
+    "choices": ["How", "What", "Which", "Why"],
+    "answer": 1,
+    "category": "whword",
+    "level": 2,
+    "explanation": "Meanings are asked about with 'What does X mean?', never 'How does X mean?'",
+    "explanationJa": "意味を尋ねるのは What does 〜 mean? How does 〜 mean? は不可。"
+  },
+  {
+    "sentence": "___ long have you been working here?",
+    "choices": ["What", "How", "When", "Since"],
+    "answer": 1,
+    "category": "whword",
+    "level": 1,
+    "explanation": "Duration is asked with 'How long…?'. 'What long' / 'Since when' (in this structure) are wrong.",
+    "explanationJa": "期間を尋ねるのは How long〜? What long は不可。"
+  },
+  {
+    "sentence": "___ is your bag — the red one or the black one?",
+    "choices": ["What", "Which", "How", "Whose"],
+    "answer": 1,
+    "category": "whword",
+    "level": 2,
+    "explanation": "Use 'Which' when choosing from a limited known set. 'What' is for open-ended questions.",
+    "explanationJa": "限定された選択肢から選ぶときは Which。範囲が広いときは What。"
+  },
+  {
+    "sentence": "She wants to become ___ engineer.",
+    "choices": ["a", "an", "the", "—"],
+    "answer": 1,
+    "category": "article",
+    "level": 1,
+    "explanation": "Use 'an' before a vowel sound. 'Engineer' starts with /e/, so 'an engineer'.",
+    "explanationJa": "母音音で始まる語の前は an。an engineer。"
+  },
+  {
+    "sentence": "I usually have ___ breakfast at seven.",
+    "choices": ["a", "the", "—", "some"],
+    "answer": 2,
+    "category": "article",
+    "level": 2,
+    "explanation": "No article is used with meals in general statements: 'have breakfast/lunch/dinner'. Use 'a' only when the meal is modified ('a big breakfast').",
+    "explanationJa": "一般的に食事には冠詞をつけない(have breakfast)。修飾語があれば a big breakfast のように。"
+  },
+  {
+    "sentence": "___ sun rises in the east.",
+    "choices": ["A", "An", "The", "—"],
+    "answer": 2,
+    "category": "article",
+    "level": 1,
+    "explanation": "Use 'the' with unique things (the sun, the moon, the earth).",
+    "explanationJa": "唯一無二のもの(the sun, the moon)には the。"
+  },
+  {
+    "sentence": "She gave me some useful ___ about the program.",
+    "choices": ["informations", "information", "an information", "informations'"],
+    "answer": 1,
+    "category": "article",
+    "level": 2,
+    "explanation": "'Information' is uncountable in English — no plural, no 'an'. Same for advice, news, furniture, luggage.",
+    "explanationJa": "information は不可算名詞。複数形 informations や an information は不可。advice, news なども同様。"
+  },
+  {
+    "sentence": "I don't have ___ time to finish this today.",
+    "choices": ["many", "much", "a few", "several"],
+    "answer": 1,
+    "category": "article",
+    "level": 1,
+    "explanation": "Use 'much' with uncountable nouns like 'time'. 'Many' goes with countable plural nouns.",
+    "explanationJa": "不可算名詞 time には much。可算複数には many。"
+  },
+  {
+    "sentence": "There are only ___ chairs left in the room.",
+    "choices": ["a little", "a few", "much", "less"],
+    "answer": 1,
+    "category": "article",
+    "level": 2,
+    "explanation": "'A few' goes with countable plurals (chairs). 'A little' goes with uncountables (time, water).",
+    "explanationJa": "可算複数には a few(chairs)。不可算には a little(time)。"
+  },
+  {
+    "sentence": "I ___ in Tokyo since 2018.",
+    "choices": ["live", "lived", "have lived", "am living"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "With 'since + point in time', use present perfect to show the action continues to now. 'I live/am living since…' are very common errors.",
+    "explanationJa": "since + 起点には現在完了を使う(have lived)。live/am living since は典型的な誤り。"
+  },
+  {
+    "sentence": "I'm really looking forward to ___ you next week.",
+    "choices": ["see", "seeing", "have seen", "to see"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Look forward to' is followed by -ing (the 'to' here is a preposition, not part of an infinitive). 'Look forward to see' is one of the most common errors.",
+    "explanationJa": "look forward to の to は前置詞。後ろは -ing(seeing)。to see は誤用。"
+  },
+  {
+    "sentence": "She enjoys ___ novels in her free time.",
+    "choices": ["to read", "reading", "read", "reads"],
+    "answer": 1,
+    "category": "tense",
+    "level": 1,
+    "explanation": "'Enjoy' is always followed by -ing, never an infinitive. Same with avoid, mind, finish, suggest.",
+    "explanationJa": "enjoy の後ろは -ing(reading)。to read は不可。avoid, mind, finish, suggest も同じ。"
+  },
+  {
+    "sentence": "He suggested ___ a movie tonight.",
+    "choices": ["to watch", "watching", "us to watch", "we watch"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'Suggest + -ing' or 'suggest that we watch'. 'Suggest to do' and 'suggest someone to do' are both wrong.",
+    "explanationJa": "suggest + -ing または suggest that 節。suggest to do, suggest 人 to do は誤り。"
+  },
+  {
+    "sentence": "When I was a child, I ___ to school every day.",
+    "choices": ["walk", "walked", "was walking", "have walked"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "For repeated past habits, use past simple ('walked') or 'used to walk'. Past continuous is for ongoing actions at a specific past moment.",
+    "explanationJa": "過去の習慣には過去形(walked)または used to walk。過去進行形は特定の時点の進行中の動作に使う。"
+  },
+  {
+    "sentence": "I ___ Maria for ten years — we met in university.",
+    "choices": ["know", "knew", "have known", "am knowing"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "Duration up to now uses present perfect ('have known'). 'Know' is a stative verb, so progressive ('am knowing') is wrong.",
+    "explanationJa": "現在まで続く期間は現在完了(have known)。know は状態動詞なので am knowing は不可。"
+  },
+  {
+    "sentence": "Could you ___ me what time the meeting starts?",
+    "choices": ["say", "tell", "speak", "talk"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "'Tell' takes an indirect object (tell me, tell him). 'Say' does not (say it, say something — but not 'say me').",
+    "explanationJa": "tell は人を目的語にとる(tell me)。say は人を直接の目的語にとらない(say me は不可)。"
+  },
+  {
+    "sentence": "She ___ that she would arrive late.",
+    "choices": ["told", "said", "spoke", "talked"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "Without an indirect object, use 'said'. 'Told' requires someone to tell ('She told me that…').",
+    "explanationJa": "間接目的語がないときは said。told の場合は told me のように人が必要。"
+  },
+  {
+    "sentence": "Please try not to ___ the same mistake again.",
+    "choices": ["do", "make", "have", "take"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "Collocation: 'make a mistake', not 'do a mistake'. Also 'make a decision', 'make progress'.",
+    "explanationJa": "make a mistake が定型。do a mistake は不可。make a decision/progress も同様。"
+  },
+  {
+    "sentence": "I need to ___ my homework before dinner.",
+    "choices": ["make", "do", "work", "finish on"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "Collocation: 'do homework', 'do the dishes', 'do exercise'. 'Make homework' is a frequent error.",
+    "explanationJa": "do homework が定型。do the dishes, do exercise も同様。make homework は誤り。"
+  },
+  {
+    "sentence": "This year's report is ___ than last year's.",
+    "choices": ["more better", "better", "more good", "the better"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Better' is already comparative — don't add 'more'. Same for worse, older, bigger. 'More better' is a classic double-comparative error.",
+    "explanationJa": "better は既に比較級なので more を付けない。more better は二重比較で誤り。"
+  },
+  {
+    "sentence": "Of all the candidates, she was ___.",
+    "choices": ["the most best", "the best", "best", "more best"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Best' is the superlative form by itself. 'The most best' / 'the most happiest' are double-superlatives.",
+    "explanationJa": "best 単独で最上級。the most best は二重最上級で不可。"
+  },
+  {
+    "sentence": "She has been suffering ___ a severe headache all morning.",
+    "choices": ["from", "with", "of", "by"],
+    "answer": 0,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Suffer from' is used for illnesses and chronic problems. 'Suffer with' is heard colloquially but standard is 'suffer from'.",
+    "explanationJa": "病気・慢性的な問題には suffer from。suffer with は口語的だが標準は from。"
+  },
+  {
+    "sentence": "His careless behaviour resulted ___ a serious accident.",
+    "choices": ["to", "in", "from", "at"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Result in' = cause / lead to (result is the effect). 'Result from' = be caused by (result is the cause).",
+    "explanationJa": "result in は「〜という結果になる」。result from は「〜が原因で起きる」。方向が逆。"
+  },
+  {
+    "sentence": "The accident resulted ___ careless driving.",
+    "choices": ["in", "from", "of", "by"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Result from' = be caused by. The accident was caused by careless driving.",
+    "explanationJa": "result from は「〜が原因で生じる」。事故は不注意な運転が原因。"
+  },
+  {
+    "sentence": "This dress is very similar ___ the one I bought last year.",
+    "choices": ["with", "to", "as", "like"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Similar to' is the standard collocation. 'Similar with/as' are common errors.",
+    "explanationJa": "similar to が定型。similar with/as は誤用。"
+  },
+  {
+    "sentence": "He has been accused ___ stealing company funds.",
+    "choices": ["for", "of", "with", "about"],
+    "answer": 1,
+    "category": "particle",
+    "level": 3,
+    "explanation": "'Accuse someone of (doing) something' is the fixed pattern. 'Accused for' is a frequent error.",
+    "explanationJa": "accuse 人 of (doing) 〜 が定型。accuse for は誤り。"
+  },
+  {
+    "sentence": "I'd like to congratulate you ___ your promotion.",
+    "choices": ["for", "on", "of", "with"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Congratulate someone on something' is the standard pattern. 'Congratulate for' is a common error.",
+    "explanationJa": "congratulate 人 on 〜 が定型。congratulate for は誤り。"
+  },
+  {
+    "sentence": "She apologised ___ being late.",
+    "choices": ["about", "for", "of", "on"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Apologise for + -ing' is correct. 'Apologise to someone for something'.",
+    "explanationJa": "apologise for + -ing が定型。apologise to 人 for 〜 の形。"
+  },
+  {
+    "sentence": "He insisted ___ paying for everyone's drinks.",
+    "choices": ["in", "on", "about", "to"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Insist on + -ing' is the fixed pattern. 'Insist to do' is wrong.",
+    "explanationJa": "insist on + -ing が定型。insist to do は誤り。"
+  },
+  {
+    "sentence": "She is responsible ___ the marketing budget.",
+    "choices": ["of", "for", "about", "over"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Responsible for' is the standard collocation. 'Responsible of/about' are errors.",
+    "explanationJa": "responsible for が定型。responsible of/about は誤り。"
+  },
+  {
+    "sentence": "There's no point ___ arguing with him.",
+    "choices": ["to", "of", "in", "at"],
+    "answer": 2,
+    "category": "particle",
+    "level": 3,
+    "explanation": "'There's no point in + -ing' is the fixed structure. 'No point to do / of doing' are both wrong.",
+    "explanationJa": "no point in + -ing が定型。no point to do / of doing は誤り。"
+  },
+  {
+    "sentence": "___ being very tired, she finished the project on time.",
+    "choices": ["In spite", "Despite of", "Despite", "Although"],
+    "answer": 2,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'Despite' is followed directly by a noun or -ing. 'Despite of' is a common error — 'in spite of' takes 'of', but 'despite' does not.",
+    "explanationJa": "despite は名詞や -ing が直後に来る(of は不要)。in spite of との混同で despite of と書くのは誤り。"
+  },
+  {
+    "sentence": "It is ___ who are responsible, not them.",
+    "choices": ["us", "we", "our", "ours"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 3,
+    "explanation": "After 'be', when the pronoun is the subject of a following 'who'/'that' clause, formal English uses the subject form 'we'.",
+    "explanationJa": "形式的には be 動詞の後で続く who 節の主語になる場合、主格 we を使う。"
+  },
+  {
+    "sentence": "There were three people in the meeting: John, Mary and ___.",
+    "choices": ["I", "me", "myself", "mine"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "After 'between/with/for X and ___', use the object pronoun 'me'. 'X and I' as object is hypercorrection.",
+    "explanationJa": "目的語位置では me を使う。X and I は過剰修正で誤り。"
+  },
+  {
+    "sentence": "She trusts no one but ___.",
+    "choices": ["I", "me", "myself", "mine"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "'But' here acts as a preposition meaning 'except', so it takes the object pronoun 'me'.",
+    "explanationJa": "ここの but は「〜以外」の前置詞。目的格 me を使う。"
+  },
+  {
+    "sentence": "Each of the students ___ a unique perspective on the issue.",
+    "choices": ["have", "has", "are having", "having"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "'Each of + plural noun' takes a singular verb. The grammatical subject is 'each' (singular).",
+    "explanationJa": "each of + 複数名詞 の動詞は単数(has)。each が文法上の主語で単数扱い。"
+  },
+  {
+    "sentence": "Neither of the proposals ___ acceptable to the board.",
+    "choices": ["are", "is", "were", "have been"],
+    "answer": 1,
+    "category": "pronoun",
+    "level": 2,
+    "explanation": "'Neither of + plural noun' takes a singular verb in standard formal English. Plural verbs are heard but not standard.",
+    "explanationJa": "neither of + 複数名詞 の動詞は標準英語で単数(is)。"
+  },
+  {
+    "sentence": "You ___ told me earlier — I would have prepared something.",
+    "choices": ["should", "should have", "must have", "could"],
+    "answer": 1,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Should have + past participle' expresses regret or criticism about a past action that didn't happen.",
+    "explanationJa": "過去の後悔・非難は should have + 過去分詞。"
+  },
+  {
+    "sentence": "She isn't answering. She ___ in a meeting right now.",
+    "choices": ["might be", "might", "should be", "may have been"],
+    "answer": 0,
+    "category": "modal",
+    "level": 2,
+    "explanation": "'Might be' expresses present possibility. 'May have been' would refer to a past possibility.",
+    "explanationJa": "現在の可能性は might be。may have been は過去の可能性を表す。"
+  },
+  {
+    "sentence": "He failed the exam. He ___ harder.",
+    "choices": ["should study", "should have studied", "must study", "had to study"],
+    "answer": 1,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Should have + past participle' expresses past regret. The failure is in the past, so we need the perfect modal.",
+    "explanationJa": "過去の後悔は should have + 過去分詞。試験はすでに過ぎているので完了形助動詞。"
+  },
+  {
+    "sentence": "I can't find my keys. I ___ them at the office.",
+    "choices": ["must leave", "must have left", "had left", "should have left"],
+    "answer": 1,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Must have + past participle' = strong logical deduction about the past.",
+    "explanationJa": "過去についての強い推測は must have + 過去分詞。"
+  },
+  {
+    "sentence": "There's no need to shout. I ___ you perfectly well.",
+    "choices": ["hear", "can hear", "am hearing", "heard"],
+    "answer": 1,
+    "category": "modal",
+    "level": 2,
+    "explanation": "With perception verbs (hear, see, smell, feel), English typically uses 'can' for present perception rather than the present continuous.",
+    "explanationJa": "知覚動詞(hear, see など)は通常 can + 動詞原形で現在の知覚を表す。進行形は普通使わない。"
+  },
+  {
+    "sentence": "He ___ rather not discuss the topic in public.",
+    "choices": ["will", "would", "had", "should"],
+    "answer": 1,
+    "category": "modal",
+    "level": 2,
+    "explanation": "'Would rather + bare infinitive' expresses preference. 'Had rather' is archaic / non-standard.",
+    "explanationJa": "would rather + 動詞原形 は好みを表す。had rather は古語・非標準。"
+  },
+  {
+    "sentence": "Could you tell me ___?",
+    "choices": ["where is the station", "where the station is", "the station where is", "is where the station"],
+    "answer": 1,
+    "category": "whword",
+    "level": 2,
+    "explanation": "Indirect questions use statement word order (subject + verb), not question word order. 'Where the station is', not 'where is the station'.",
+    "explanationJa": "間接疑問文では平叙文の語順(主語+動詞)。where the station is が正しい。"
+  },
+  {
+    "sentence": "I'm not sure ___ this manuscript belongs to.",
+    "choices": ["who", "whom", "whose", "which"],
+    "answer": 1,
+    "category": "whword",
+    "level": 3,
+    "explanation": "'Whom' is the object form. As the object of the preposition 'to', formal English uses 'whom'. Informally 'who' is acceptable.",
+    "explanationJa": "前置詞 to の目的語として、形式的には whom を使う。口語では who も許容。"
+  },
+  {
+    "sentence": "She didn't tell me ___ she would arrive.",
+    "choices": ["where", "when", "why", "—"],
+    "answer": 1,
+    "category": "whword",
+    "level": 2,
+    "explanation": "'When she would arrive' = the time of her arrival. The reported question is about time.",
+    "explanationJa": "到着時刻を尋ねる間接疑問文。when を使う。"
+  },
+  {
+    "sentence": "Have you ever been to ___ United States?",
+    "choices": ["a", "an", "the", "—"],
+    "answer": 2,
+    "category": "article",
+    "level": 2,
+    "explanation": "Use 'the' with country names that are plural or contain 'Republic', 'Kingdom', 'States', etc.: the UK, the USA, the Netherlands.",
+    "explanationJa": "複数形や Republic, Kingdom, States を含む国名には the を付ける。the UK, the USA, the Netherlands。"
+  },
+  {
+    "sentence": "I love listening to ___ classical music.",
+    "choices": ["a", "the", "—", "some"],
+    "answer": 2,
+    "category": "article",
+    "level": 2,
+    "explanation": "No article with abstract or general categories ('I love music', 'I study history'). Use 'the' only for a specific instance.",
+    "explanationJa": "抽象的・一般的なジャンルには冠詞なし(I love music)。特定のものを指すときのみ the。"
+  },
+  {
+    "sentence": "I bought ___ new furniture for the apartment.",
+    "choices": ["a", "some", "many", "few"],
+    "answer": 1,
+    "category": "article",
+    "level": 2,
+    "explanation": "'Furniture' is uncountable: no 'a furniture', no plural. Use 'some' for an indefinite quantity.",
+    "explanationJa": "furniture は不可算名詞。a furniture や複数形は不可。漠然とした量には some。"
+  },
+  {
+    "sentence": "There were ___ people at the concert than expected.",
+    "choices": ["less", "fewer", "much less", "lesser"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Fewer' goes with countable plural nouns (people, books). 'Less' goes with uncountables (time, money, water).",
+    "explanationJa": "可算複数名詞には fewer(fewer people)。不可算には less(less time)。"
+  },
+  {
+    "sentence": "She drank ___ water than I did.",
+    "choices": ["fewer", "less", "few", "lesser"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "'Less' goes with uncountable nouns like 'water'. 'Fewer' is for countables.",
+    "explanationJa": "不可算名詞 water には less。可算には fewer。"
+  },
+  {
+    "sentence": "Could I have ___ piece of advice?",
+    "choices": ["a", "an", "the", "—"],
+    "answer": 0,
+    "category": "article",
+    "level": 2,
+    "explanation": "Although 'advice' is uncountable, you can count instances using 'a piece of advice', 'two pieces of advice'.",
+    "explanationJa": "advice は不可算だが、a piece of advice の形で個数を表せる。"
+  },
+  {
+    "sentence": "He gave me ___ very useful advice.",
+    "choices": ["a", "the", "—", "an"],
+    "answer": 2,
+    "category": "article",
+    "level": 2,
+    "explanation": "'Advice' is uncountable — no article needed with adjective + advice in general statements.",
+    "explanationJa": "advice は不可算名詞。一般的な文では冠詞なし(useful advice)。"
+  },
+  {
+    "sentence": "By the time we arrived, the film ___.",
+    "choices": ["started", "has started", "had started", "was starting"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "Past perfect ('had started') shows the film began before the past moment of our arrival.",
+    "explanationJa": "過去のある時点より前に完了した出来事は過去完了(had started)。"
+  },
+  {
+    "sentence": "I ___ for this company for five years before I was promoted.",
+    "choices": ["worked", "have worked", "had been working", "was working"],
+    "answer": 2,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Past perfect continuous ('had been working') emphasises the duration up to a point in the past.",
+    "explanationJa": "過去のある時点までの継続を強調するのは過去完了進行形(had been working)。"
+  },
+  {
+    "sentence": "This time next week, I ___ on a beach in Bali.",
+    "choices": ["will lie", "will be lying", "will have lain", "am lying"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Future continuous ('will be lying') expresses an action in progress at a specific future moment.",
+    "explanationJa": "未来のある時点で進行中の動作は未来進行形(will be lying)。"
+  },
+  {
+    "sentence": "By 2040, scientists ___ cures for many cancers.",
+    "choices": ["will discover", "will be discovering", "will have discovered", "are discovering"],
+    "answer": 2,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Future perfect ('will have discovered') expresses an action completed by a specific point in the future.",
+    "explanationJa": "未来のある時点までに完了する動作は未来完了(will have discovered)。"
+  },
+  {
+    "sentence": "He stopped ___ a cigarette outside the building.",
+    "choices": ["smoking", "to smoke", "smoke", "smoked"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'Stop to do X' = pause in order to do X (purpose). 'Stop doing X' = quit the activity. Here he paused to smoke.",
+    "explanationJa": "stop to do は「〜するために立ち止まる」(目的)。stop doing は「〜するのをやめる」。"
+  },
+  {
+    "sentence": "He stopped ___ when his doctor warned him about his lungs.",
+    "choices": ["smoking", "to smoke", "smoke", "of smoking"],
+    "answer": 0,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Stop + -ing' = quit / give up the activity.",
+    "explanationJa": "stop + -ing は「〜するのをやめる」。"
+  },
+  {
+    "sentence": "Remember ___ the door before you leave.",
+    "choices": ["locking", "to lock", "lock", "locked"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Remember to do X' = don't forget to do something (future obligation). 'Remember doing X' = recall a past action.",
+    "explanationJa": "remember to do は「〜することを忘れない」(未来の義務)。remember doing は「〜したことを覚えている」(過去)。"
+  },
+  {
+    "sentence": "I'll never forget ___ the Grand Canyon for the first time.",
+    "choices": ["seeing", "to see", "see", "saw"],
+    "answer": 0,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'Forget + -ing' refers to a memorable past experience. 'Forget to do' = fail to do something.",
+    "explanationJa": "forget + -ing は印象的な過去の体験を表す。forget to do は「〜し忘れる」。"
+  },
+  {
+    "sentence": "She regretted ___ him the truth so bluntly.",
+    "choices": ["to tell", "telling", "to telling", "told"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'Regret + -ing' = be sorry about something already done. 'Regret to + infinitive' = formal way to deliver bad news.",
+    "explanationJa": "regret + -ing は既にしたことを後悔。regret to do は「残念ながら〜する」(悪い知らせを伝える形式)。"
+  },
+  {
+    "sentence": "We regret ___ you that your application was unsuccessful.",
+    "choices": ["telling", "to tell", "to telling", "told"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'Regret to inform/tell/announce' is a fixed formal pattern for delivering bad news.",
+    "explanationJa": "regret to inform/tell/announce は悪い知らせを伝える形式的な定型表現。"
+  },
+  {
+    "sentence": "He tried ___ the window, but it was stuck.",
+    "choices": ["to open", "opening", "open", "opened"],
+    "answer": 0,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Try to do' = attempt / make an effort. 'Try doing' = experiment with as a possible solution.",
+    "explanationJa": "try to do は「〜しようと試みる」(努力)。try doing は「試しに〜してみる」(別の方法を試す)。"
+  },
+  {
+    "sentence": "I suggest she ___ a lawyer before signing the contract.",
+    "choices": ["consults", "consult", "to consult", "will consult"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Subjunctive after 'suggest/insist/recommend': base form of the verb (consult), not 'consults'.",
+    "explanationJa": "suggest, insist, recommend の後は仮定法現在(原形 consult)。consults は誤り。"
+  },
+  {
+    "sentence": "It is essential that he ___ on time for the interview.",
+    "choices": ["arrives", "arrive", "arriving", "will arrive"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "After 'It is essential/important/vital that…', use the subjunctive (base form of the verb).",
+    "explanationJa": "It is essential/important/vital that の後は仮定法現在(原形 arrive)。"
+  },
+  {
+    "sentence": "I wish I ___ taller — I'd love to play basketball.",
+    "choices": ["am", "was", "were", "had been"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Wish + were' (for all persons) expresses a present unreal wish in standard English. 'Was' is heard but 'were' is preferred.",
+    "explanationJa": "現在の事実に反する願望は I wish I were(全人称)。was は口語的だが were が標準。"
+  },
+  {
+    "sentence": "If only I ___ harder for that exam, I might have passed.",
+    "choices": ["studied", "had studied", "would study", "would have studied"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'If only + past perfect' expresses regret about a past action that didn't happen.",
+    "explanationJa": "過去の事実に反する後悔は If only + 過去完了(had studied)。"
+  },
+  {
+    "sentence": "If I had known about the traffic, I ___ earlier.",
+    "choices": ["left", "would leave", "would have left", "had left"],
+    "answer": 2,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Third conditional: 'If + past perfect, would have + past participle' for unreal past situations.",
+    "explanationJa": "仮定法過去完了(第3条件文): If + 過去完了, would have + 過去分詞。"
+  },
+  {
+    "sentence": "If I were you, I ___ that job offer.",
+    "choices": ["will take", "would take", "would have taken", "took"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "Second conditional: 'If + past, would + base verb' for unreal/hypothetical present.",
+    "explanationJa": "仮定法過去(第2条件文): If + 過去形, would + 動詞原形。"
+  },
+  {
+    "sentence": "If she had accepted the offer, she ___ in New York now.",
+    "choices": ["will live", "lives", "would live", "would have lived"],
+    "answer": 2,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Mixed conditional: past condition ('had accepted') + present result ('would live now').",
+    "explanationJa": "ミックス条件文: 過去の条件(had accepted)+ 現在の結果(would live now)。"
+  },
+  {
+    "sentence": "Hardly ___ down when the phone rang.",
+    "choices": ["I had sat", "had I sat", "I sat", "did I sit"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "After negative/restrictive adverbs at the start (Hardly, Scarcely, No sooner, Never), use inversion: auxiliary + subject.",
+    "explanationJa": "文頭の否定・制限副詞(Hardly, Scarcely, No sooner, Never)の後は倒置: 助動詞 + 主語。"
+  },
+  {
+    "sentence": "Never ___ such a beautiful sunset before.",
+    "choices": ["I have seen", "have I seen", "I had seen", "did I see"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "After 'Never' at the start of a sentence, invert subject and auxiliary: 'have I seen'.",
+    "explanationJa": "文頭の Never の後は倒置(have I seen)。"
+  },
+  {
+    "sentence": "No sooner ___ the train than it began to rain.",
+    "choices": ["we had boarded", "had we boarded", "we boarded", "did we board"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "'No sooner had + subject + past participle … than …' is a fixed inverted structure.",
+    "explanationJa": "No sooner had + 主語 + 過去分詞 … than … は倒置の定型構造。"
+  },
+  {
+    "sentence": "Only after she left ___ what had happened.",
+    "choices": ["I realised", "did I realise", "I had realised", "had I realised"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "After 'Only after / Only when / Only then' at the start, invert: 'did I realise'.",
+    "explanationJa": "文頭の Only after/when/then の後は倒置(did I realise)。"
+  },
+  {
+    "sentence": "Should you ___ any difficulties, please contact our support team.",
+    "choices": ["have", "having", "had", "to have"],
+    "answer": 0,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Formal conditional inversion: 'Should you have…' = 'If you should have…' = 'If you have…'.",
+    "explanationJa": "形式的な条件文の倒置: Should you have… = If you should have… = If you have…。"
+  },
+  {
+    "sentence": "He had his car ___ at the local garage last week.",
+    "choices": ["repair", "repaired", "repairing", "to repair"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Causative 'have something done': 'have' + object + past participle. Someone else does the action for the subject.",
+    "explanationJa": "使役の have something done: have + 目的語 + 過去分詞。第三者が動作を行う。"
+  },
+  {
+    "sentence": "I need to get my hair ___ before the wedding.",
+    "choices": ["cut", "cutting", "to cut", "cuts"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Causative 'get something done': 'get' + object + past participle. 'Cut' here is the past participle.",
+    "explanationJa": "使役の get something done: get + 目的語 + 過去分詞。cut はここでは過去分詞形。"
+  },
+  {
+    "sentence": "She made him ___ his bedroom before going out.",
+    "choices": ["tidy", "to tidy", "tidying", "tidied"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Causative 'make someone do something': make + object + bare infinitive (no 'to'). Same with 'let' and 'have'.",
+    "explanationJa": "使役の make 人 do 〜: make + 目的語 + 原形不定詞(to なし)。let, have も同様。"
+  },
+  {
+    "sentence": "His parents let him ___ out late on weekends.",
+    "choices": ["stay", "to stay", "staying", "stayed"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Let + object + bare infinitive'. 'Let him to stay' is wrong.",
+    "explanationJa": "let + 目的語 + 原形不定詞。let him to stay は誤用。"
+  },
+  {
+    "sentence": "She was allowed ___ the building after hours.",
+    "choices": ["enter", "to enter", "entering", "enters"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Allow someone to do X' takes a to-infinitive. (Compare: 'let someone do X', bare infinitive.)",
+    "explanationJa": "allow 人 to do は to 不定詞。let 人 do は原形不定詞、と区別。"
+  },
+  {
+    "sentence": "Please ___ the report on my desk by Friday.",
+    "choices": ["lay", "lie", "laid", "lying"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'Lay' is transitive — you lay something (an object) down. 'Lie' is intransitive — you lie down yourself.",
+    "explanationJa": "lay は他動詞(lay + 目的語: 何かを置く)。lie は自動詞(自分が横たわる)。"
+  },
+  {
+    "sentence": "I think I'll ___ down for a while; I feel exhausted.",
+    "choices": ["lay", "lie", "laid", "lain"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'Lie down' = recline (intransitive). 'Lay down' would require an object ('lay the book down').",
+    "explanationJa": "lie down(自動詞)=「横になる」。lay down は目的語を伴う(lay the book down)。"
+  },
+  {
+    "sentence": "The sun ___ at exactly 6:14 this morning.",
+    "choices": ["raised", "rose", "risen", "has rose"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'Rise' (rose, risen) is intransitive — the sun rises by itself. 'Raise' (raised) requires an object.",
+    "explanationJa": "rise (rose, risen) は自動詞(太陽が昇る)。raise (raised) は他動詞で目的語が必要。"
+  },
+  {
+    "sentence": "The company plans to ___ prices next quarter.",
+    "choices": ["rise", "raise", "risen", "raised"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Raise prices/taxes/hands' (transitive). 'Rise' is intransitive: prices rise by themselves.",
+    "explanationJa": "他動詞 raise(価格・税金・手を上げる)。rise は自動詞で目的語をとらない。"
+  },
+  {
+    "sentence": "The new policy will ___ employee morale significantly.",
+    "choices": ["affect", "effect", "effected", "affect on"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Affect' is the verb (to influence). 'Effect' is usually a noun (the result). Note: no 'on' after the verb 'affect'.",
+    "explanationJa": "affect は動詞(影響を与える)。effect は通常名詞(結果)。affect on は誤り。"
+  },
+  {
+    "sentence": "The new policy had a positive ___ on morale.",
+    "choices": ["affect", "effect", "affecting", "affected"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Effect' is the noun (the result). 'Affect' is the verb.",
+    "explanationJa": "名詞は effect(結果)。動詞は affect(影響する)。"
+  },
+  {
+    "sentence": "Everyone was invited ___ Tom, who was abroad.",
+    "choices": ["accept", "except", "excepts", "accepting"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "'Except' = excluding. 'Accept' = to receive willingly. Easy to confuse in writing.",
+    "explanationJa": "except は「〜を除いて」。accept は「受け入れる」。スペルで混同しやすい。"
+  },
+  {
+    "sentence": "Could you ___ me a pen until tomorrow?",
+    "choices": ["borrow", "lend", "loan to", "rent"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Lend' = give temporarily (subject gives). 'Borrow' = take temporarily (subject receives).",
+    "explanationJa": "lend は「貸す」(主語が貸す側)。borrow は「借りる」(主語が借りる側)。"
+  },
+  {
+    "sentence": "She ___ ten dollars from her brother yesterday.",
+    "choices": ["borrowed", "lent", "loaned", "rented"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "She is the receiver, so 'borrowed'. If her brother were the subject, it would be 'lent'.",
+    "explanationJa": "彼女が受け取る側なので borrowed。兄が主語なら lent。"
+  },
+  {
+    "sentence": "Three masked men tried to ___ the bank last night.",
+    "choices": ["steal", "rob", "burgle", "take"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Rob a place/person' (the victim). 'Steal a thing' (the object taken). 'Rob a bank', 'steal the money'.",
+    "explanationJa": "rob は被害を受ける場所・人を目的語に(rob a bank)。steal は盗まれるものを目的語に(steal money)。"
+  },
+  {
+    "sentence": "He was caught trying to ___ money from the safe.",
+    "choices": ["steal", "rob", "burgle", "break"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Steal' takes the stolen object (money). 'Rob' takes the victim (a bank, a person).",
+    "explanationJa": "steal は盗む対象を目的語に(money)。rob は被害者を目的語に(a bank)。"
+  },
+  {
+    "sentence": "She asked me where ___.",
+    "choices": ["I lived", "did I live", "do I live", "I live"],
+    "answer": 0,
+    "category": "tense",
+    "level": 2,
+    "explanation": "Reported speech uses statement word order and shifts tense back: 'Where do you live?' → 'where I lived'.",
+    "explanationJa": "間接話法は平叙文の語順かつ時制が一段階過去にずれる: Where do you live? → where I lived。"
+  },
+  {
+    "sentence": "He told me that he ___ the project the next day.",
+    "choices": ["will finish", "would finish", "finishes", "had finished"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "Reported speech tense shift: 'will' becomes 'would' when the reporting verb is past.",
+    "explanationJa": "間接話法では will が would にずれる(主節が過去の場合)。"
+  },
+  {
+    "sentence": "She said she ___ in London since 2010.",
+    "choices": ["lives", "has lived", "had lived", "lived"],
+    "answer": 2,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Reported speech tense shift: present perfect ('has lived') backshifts to past perfect ('had lived').",
+    "explanationJa": "間接話法の時制ずれ: 現在完了(has lived)→ 過去完了(had lived)。"
+  },
+  {
+    "sentence": "Could you tell me ___?",
+    "choices": ["what time is it", "what time it is", "it is what time", "the time what is"],
+    "answer": 1,
+    "category": "whword",
+    "level": 2,
+    "explanation": "Indirect/embedded questions use statement word order: 'what time it is', not 'what time is it'.",
+    "explanationJa": "間接疑問文では平叙文の語順: what time it is(what time is it ではない)。"
+  },
+  {
+    "sentence": "It's no use ___ over spilled milk.",
+    "choices": ["to cry", "crying", "cry", "cried"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'It's no use + -ing' is a fixed expression. 'No use to do' is wrong.",
+    "explanationJa": "It's no use + -ing が定型表現。to do は不可。"
+  },
+  {
+    "sentence": "I'm having difficulty ___ this problem.",
+    "choices": ["solve", "to solve", "solving", "solved"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Have difficulty (in) + -ing' is the standard pattern. 'Difficulty to do' is a common error.",
+    "explanationJa": "have difficulty (in) + -ing が定型。difficulty to do は誤用。"
+  },
+  {
+    "sentence": "She is busy ___ for tomorrow's exam.",
+    "choices": ["prepare", "to prepare", "preparing", "prepared"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Be busy + -ing' is the fixed pattern. 'Busy to do' is wrong.",
+    "explanationJa": "be busy + -ing が定型。busy to do は誤り。"
+  },
+  {
+    "sentence": "We had trouble ___ a parking space downtown.",
+    "choices": ["find", "to find", "finding", "found"],
+    "answer": 2,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Have trouble + -ing' / 'have difficulty + -ing' / 'have a hard time + -ing' — all take the gerund.",
+    "explanationJa": "have trouble/difficulty/a hard time + -ing。すべて動名詞をとる。"
+  },
+  {
+    "sentence": "___ the bad weather, we still enjoyed the picnic.",
+    "choices": ["Although", "In spite", "Despite", "Even"],
+    "answer": 2,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Despite + noun phrase'. 'Although + clause' (subject + verb). 'In spite of + noun'.",
+    "explanationJa": "despite + 名詞句。although + 節(主語+動詞)。in spite of + 名詞。"
+  },
+  {
+    "sentence": "___ he was tired, he kept working on the report.",
+    "choices": ["Despite", "Although", "In spite of", "Despite of"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "'Although' is followed by a clause (subject + verb). 'Despite' and 'In spite of' take noun phrases or -ing.",
+    "explanationJa": "although は節を導く(主語+動詞)。despite と in spite of は名詞句や -ing をとる。"
+  },
+  {
+    "sentence": "She got the job ___ her lack of experience.",
+    "choices": ["although", "even though", "despite", "while"],
+    "answer": 2,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Despite + noun phrase' (her lack of experience). 'Although/even though' require a clause.",
+    "explanationJa": "despite + 名詞句(her lack of experience)。although/even though は節が必要。"
+  },
+  {
+    "sentence": "___ I called him several times, he never answered.",
+    "choices": ["Despite", "Although", "In spite of", "Despite of"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Although + clause'. The other choices need a noun phrase or are incorrect ('despite of' is not standard).",
+    "explanationJa": "although + 節。他は名詞句が必要、despite of は非標準。"
+  },
+  {
+    "sentence": "We were waiting ___ the bus for over an hour.",
+    "choices": ["—", "for", "to", "on"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Wait for + object' is standard. 'Wait the bus' or 'wait at the bus' (for waiting) is wrong.",
+    "explanationJa": "wait for + 目的語 が標準。wait the bus は不可。"
+  },
+  {
+    "sentence": "They are going to ___ the new product at the trade fair.",
+    "choices": ["discuss about", "discuss", "discuss on", "discuss for"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Discuss' is transitive — no preposition: 'discuss the product', not 'discuss about the product'.",
+    "explanationJa": "discuss は他動詞(discuss + 目的語)。discuss about は典型的な誤用。"
+  },
+  {
+    "sentence": "He didn't ___ the recent changes in his speech.",
+    "choices": ["mention about", "mention", "mention to", "mention of"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Mention' is transitive — no preposition before the object: 'mention the changes'.",
+    "explanationJa": "mention は他動詞(mention + 目的語)。mention about は不可。"
+  },
+  {
+    "sentence": "She decided to ___ Tom last summer.",
+    "choices": ["marry with", "marry", "get married with", "marry to"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "The verb 'marry' is transitive: 'marry Tom'. 'Get married' takes 'to': 'get married to Tom'.",
+    "explanationJa": "動詞 marry は他動詞(marry Tom)。get married の場合は to を伴う(get married to Tom)。"
+  },
+  {
+    "sentence": "All employees must ___ the safety briefing on Monday.",
+    "choices": ["attend to", "attend", "attend at", "attend on"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Attend' (= go to) is transitive — no preposition: 'attend a meeting/class'. 'Attend to' means 'take care of', different meaning.",
+    "explanationJa": "attend(出席する)は他動詞(attend a meeting)。attend to は「対処する」で別意味。"
+  },
+  {
+    "sentence": "Please ___ the phone — it's been ringing for ages.",
+    "choices": ["answer to", "answer", "respond", "reply"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Answer the phone/the question' is transitive — no preposition. 'Respond/reply to' do take 'to'.",
+    "explanationJa": "answer は他動詞(answer the phone)。respond/reply は to を伴う。"
+  },
+  {
+    "sentence": "Compared ___ last year, sales have improved dramatically.",
+    "choices": ["with", "to", "from", "than"],
+    "answer": 0,
+    "category": "particle",
+    "level": 3,
+    "explanation": "'Compared with' is preferred for systematic comparison of similar things. 'Compared to' is used for likening (often metaphorical). Both are widely accepted.",
+    "explanationJa": "同種のものを系統的に比較するときは compared with が好まれる。compared to は比喩的な類比に用いられることが多い。"
+  },
+  {
+    "sentence": "His style is quite different ___ his predecessor's.",
+    "choices": ["than", "from", "of", "with"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Different from' is standard. 'Different than' is common in American English; 'different to' is British. 'Different of' is wrong.",
+    "explanationJa": "different from が標準。different than は米語、different to は英語。different of は不可。"
+  },
+  {
+    "sentence": "She is very fond ___ her grandchildren.",
+    "choices": ["with", "of", "for", "about"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Fond of' is the fixed collocation.",
+    "explanationJa": "fond of が定型表現。"
+  },
+  {
+    "sentence": "We need to ___ the meeting until next week.",
+    "choices": ["put off", "put on", "put up", "put away"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Put off' = postpone. 'Put on' = wear/begin; 'put up' = erect/accommodate; 'put away' = store.",
+    "explanationJa": "put off = 延期する。put on は着る/上演する、put up は建てる/泊める、put away は片付ける。"
+  },
+  {
+    "sentence": "I can't ___ this loud music any longer.",
+    "choices": ["put off", "put up with", "put on", "put through"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'Put up with' = tolerate. A three-word phrasal verb that beginners often miss.",
+    "explanationJa": "put up with = 我慢する。三語句動詞で初級者には覚えにくい。"
+  },
+  {
+    "sentence": "I looked the word ___ in the dictionary.",
+    "choices": ["up", "for", "after", "into"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Look up' = check a reference. 'Look for' = search for; 'look after' = take care of; 'look into' = investigate.",
+    "explanationJa": "look up = (辞書などで)調べる。look for = 探す、look after = 世話する、look into = 調査する。"
+  },
+  {
+    "sentence": "If you don't know the word, please look ___.",
+    "choices": ["up it", "it up", "for it", "after it"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Separable phrasal verbs must split when the object is a pronoun: 'look it up', NOT 'look up it'.",
+    "explanationJa": "分離可能な句動詞では目的語が代名詞のとき必ず分離: look it up(look up it は不可)。"
+  },
+  {
+    "sentence": "By next year, she ___ here for a decade.",
+    "choices": ["will work", "will have worked", "is working", "works"],
+    "answer": 1,
+    "category": "tense",
+    "level": 3,
+    "explanation": "Future perfect: 'will have + past participle' for duration up to a future point.",
+    "explanationJa": "未来のある時点までの継続は未来完了(will have worked)。"
+  },
+  {
+    "sentence": "Neither John ___ his colleagues were aware of the change.",
+    "choices": ["or", "nor", "and", "but"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Neither … nor' is the fixed pair. 'Either … or' is the positive counterpart.",
+    "explanationJa": "neither … nor が定型ペア。肯定形は either … or。"
+  },
+  {
+    "sentence": "Either the manager or the assistants ___ responsible for the error.",
+    "choices": ["is", "are", "was", "be"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "With 'either…or' / 'neither…nor', the verb agrees with the noun closest to it (assistants, plural → are).",
+    "explanationJa": "either…or / neither…nor の動詞は近い方の名詞に一致(assistants → are)。"
+  },
+  {
+    "sentence": "The team ___ playing brilliantly this season.",
+    "choices": ["is", "are", "be", "have"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "In American English, collective nouns ('team', 'family', 'committee') take a singular verb. British English may use plural when emphasising members.",
+    "explanationJa": "集合名詞(team, family, committee)は米語で単数扱い。英語ではメンバーに焦点を当てると複数も可。"
+  },
+  {
+    "sentence": "There ___ several issues we need to address.",
+    "choices": ["is", "are", "was", "has been"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 1,
+    "explanation": "'There + be' agrees with the noun that follows ('issues' is plural → 'are').",
+    "explanationJa": "there + be 動詞は後ろの名詞に一致(issues → are)。"
+  },
+  {
+    "sentence": "She works ___ a doctor at the regional hospital.",
+    "choices": ["like", "as", "for", "of"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'As + role/profession' = in the role of. 'Like + noun' = similar to. 'Works like a doctor' would mean 'works similarly to'.",
+    "explanationJa": "as + 役割・職業 = 〜として。like + 名詞 = 〜のように(類似)。works like a doctor は「医者のように働く」(類比)。"
+  },
+  {
+    "sentence": "It looks ___ rain. We should head inside.",
+    "choices": ["as", "like", "as if", "—"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Before a noun ('rain'), use 'like': 'looks like rain'. Before a clause, use 'as if' / 'as though'.",
+    "explanationJa": "名詞の前は like(looks like rain)。節の前は as if/as though を使う。"
+  },
+  {
+    "sentence": "It was ___ a difficult exam that almost no one passed.",
+    "choices": ["so", "such", "very", "too"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Such + (a/an) + adjective + noun + that'. 'So + adjective + that' (no noun in between).",
+    "explanationJa": "such + (a/an) + 形容詞 + 名詞 + that。so + 形容詞 + that(間に名詞なし)。"
+  },
+  {
+    "sentence": "The bag was ___ heavy that I couldn't lift it.",
+    "choices": ["such", "so", "very", "too"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'So + adjective + that'. 'Such' requires a noun ('such a heavy bag that…').",
+    "explanationJa": "so + 形容詞 + that の構造。such には名詞が必要(such a heavy bag that…)。"
+  },
+  {
+    "sentence": "This coffee is ___ hot to drink.",
+    "choices": ["so", "very", "too", "such"],
+    "answer": 2,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Too + adjective + to-infinitive' = excessively so (negative result). 'Very hot to drink' would be neutral.",
+    "explanationJa": "too + 形容詞 + to 不定詞 = 「〜すぎて…できない」。very は単に「とても」で否定的含意なし。"
+  },
+  {
+    "sentence": "The room wasn't big ___ for everyone to sit comfortably.",
+    "choices": ["too", "enough", "very", "so"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "'Enough' comes AFTER an adjective: 'big enough', not 'enough big'.",
+    "explanationJa": "enough は形容詞の後に置く(big enough)。enough big は不可。"
+  },
+  {
+    "sentence": "I haven't finished the report ___.",
+    "choices": ["already", "yet", "still", "ever"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Yet' is used at the end of negatives and questions in present perfect. 'Already' is for positives.",
+    "explanationJa": "現在完了の否定文・疑問文の末尾には yet。肯定文には already。"
+  },
+  {
+    "sentence": "Have you ___ visited the new museum?",
+    "choices": ["ever", "never", "yet", "still"],
+    "answer": 0,
+    "category": "tense",
+    "level": 1,
+    "explanation": "'Ever' is used in present perfect questions to mean 'at any time in your life'.",
+    "explanationJa": "現在完了の疑問文で「これまでに」の意味は ever。"
+  },
+  {
+    "sentence": "He's a good cook, and ___ his wife.",
+    "choices": ["so is", "so does", "so has", "neither is"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'So + auxiliary + subject' agrees affirmatively. Match the auxiliary to the previous sentence's verb ('is' a cook → 'so is').",
+    "explanationJa": "so + 助動詞 + 主語 = 「〜もそうだ」(肯定の同意)。前文の動詞に合わせる(is → so is)。"
+  },
+  {
+    "sentence": "I don't eat meat, and ___ my brother.",
+    "choices": ["so does", "neither does", "either does", "neither do"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "Negative agreement: 'Neither + auxiliary + subject'. Match the auxiliary (don't → does for 3rd person).",
+    "explanationJa": "否定の同意は neither + 助動詞 + 主語。3人称単数なら does(don't → neither does)。"
+  },
+  {
+    "sentence": "You're coming to the party tomorrow, ___?",
+    "choices": ["aren't you", "are you", "don't you", "isn't it"],
+    "answer": 0,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Question tag: positive statement → negative tag. Auxiliary matches the main verb ('are' coming → 'aren't you').",
+    "explanationJa": "付加疑問: 肯定文には否定のタグ。助動詞は本動詞に合わせる(are coming → aren't you)。"
+  },
+  {
+    "sentence": "He hasn't called you back, ___?",
+    "choices": ["hasn't he", "has he", "doesn't he", "isn't he"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 2,
+    "explanation": "Question tag: negative statement → positive tag. 'Hasn't called' → 'has he'.",
+    "explanationJa": "付加疑問: 否定文には肯定のタグ。hasn't called → has he。"
+  },
+  {
+    "sentence": "She ___ to the gym three times a week, but she's stopped now.",
+    "choices": ["used to go", "was used to go", "would used to go", "used to going"],
+    "answer": 0,
+    "category": "modal",
+    "level": 2,
+    "explanation": "Past habit: 'used to + bare infinitive'. 'Be/get used to + -ing' means 'be/get accustomed to' — different meaning.",
+    "explanationJa": "過去の習慣は used to + 動詞原形。be/get used to + -ing は「慣れている/慣れる」で別意味。"
+  },
+  {
+    "sentence": "After ten years in Tokyo, I'm finally getting used to ___ chopsticks.",
+    "choices": ["use", "to use", "using", "used"],
+    "answer": 2,
+    "category": "modal",
+    "level": 3,
+    "explanation": "'Get used to + -ing' = become accustomed to (the 'to' is a preposition). 'Get used to use' is a very common error.",
+    "explanationJa": "get used to + -ing(to は前置詞)= 「〜に慣れる」。get used to use は典型的な誤用。"
+  },
+  {
+    "sentence": "She has lived here ___ 2015.",
+    "choices": ["for", "since", "from", "during"],
+    "answer": 1,
+    "category": "tense",
+    "level": 1,
+    "explanation": "'Since + point in time' (since 2015, since Monday). 'For + duration' (for ten years).",
+    "explanationJa": "since + 起点(since 2015)。for + 期間(for ten years)。"
+  },
+  {
+    "sentence": "I haven't seen him ___ two months.",
+    "choices": ["since", "for", "during", "from"],
+    "answer": 1,
+    "category": "tense",
+    "level": 1,
+    "explanation": "'For + duration' (two months). 'Since' would need a starting point (since June).",
+    "explanationJa": "for + 期間(two months)。since には起点(since June)が必要。"
+  },
+  {
+    "sentence": "The package will arrive ___ Friday at the latest.",
+    "choices": ["until", "by", "till", "in"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'By + deadline' = no later than. 'Until' means continuously up to that point (he stayed until Friday).",
+    "explanationJa": "by + 期限 = 「〜までに」(完了)。until は「〜まで(継続)」で別意味。"
+  },
+  {
+    "sentence": "I'll be at the office ___ 6 p.m.",
+    "choices": ["by", "until", "in", "at"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Until 6 p.m.' = continuously up to that time. 'By 6 p.m.' means I will arrive no later than 6.",
+    "explanationJa": "until 6 p.m. = 「6時まで(継続)」。by 6 p.m. は「6時までに(完了)」で意味が異なる。"
+  },
+  {
+    "sentence": "We should leave ___ ten minutes.",
+    "choices": ["in", "after", "within", "at"],
+    "answer": 0,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'In + time period' looking forward = after that period (in ten minutes = ten minutes from now).",
+    "explanationJa": "未来を指す in + 期間 = 「(今から)〜後に」(in ten minutes = 10分後)。"
+  },
+  {
+    "sentence": "I last spoke to her three years ___.",
+    "choices": ["before", "ago", "since", "until"],
+    "answer": 1,
+    "category": "particle",
+    "level": 1,
+    "explanation": "'Ago' counts back from the moment of speaking (now). 'Before' would need a different reference point.",
+    "explanationJa": "ago は発話時点(現在)から数える。before は別の基準点が必要。"
+  },
+  {
+    "sentence": "She had moved to Paris three years ___ that meeting.",
+    "choices": ["ago", "before", "since", "after"],
+    "answer": 1,
+    "category": "particle",
+    "level": 3,
+    "explanation": "'Before' counts back from a past reference point. 'Ago' only counts back from now.",
+    "explanationJa": "before は過去の基準点から遡って数える。ago は現在から遡るときのみ。"
+  },
+  {
+    "sentence": "We can leave now ___ you're ready.",
+    "choices": ["unless", "if", "even if", "in case"],
+    "answer": 1,
+    "category": "tense",
+    "level": 1,
+    "explanation": "'If' introduces a condition. 'Unless' means 'if not' — would change the meaning.",
+    "explanationJa": "if は条件を導く。unless は「〜でなければ」で意味が変わる。"
+  },
+  {
+    "sentence": "I won't go ___ you come with me.",
+    "choices": ["if", "unless", "even if", "in case"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'Unless' = if not. 'I won't go unless you come' = 'I won't go if you don't come'.",
+    "explanationJa": "unless = if not。「あなたが来ない限り行かない」の意味。"
+  },
+  {
+    "sentence": "Take an umbrella ___ it rains.",
+    "choices": ["if", "in case", "unless", "when"],
+    "answer": 1,
+    "category": "tense",
+    "level": 2,
+    "explanation": "'In case' = as a precaution. 'If it rains, take an umbrella' would mean only take it when it's actually raining.",
+    "explanationJa": "in case = 「念のため」。if it rains は実際に降った時のみ。意味が異なる。"
+  },
+  {
+    "sentence": "She speaks English ___ she were a native.",
+    "choices": ["like", "as if", "as", "though"],
+    "answer": 1,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'As if + clause' (often with subjunctive 'were'). 'Like' as a conjunction is colloquial; 'as' alone doesn't fit before this clause.",
+    "explanationJa": "as if + 節(仮定法 were を伴うことが多い)。接続詞の like は口語的、as 単独では不適切。"
+  },
+  {
+    "sentence": "She acted ___ nothing had happened.",
+    "choices": ["like", "as", "as though", "than"],
+    "answer": 2,
+    "category": "confusable",
+    "level": 3,
+    "explanation": "'As though' = as if. Both introduce a clause expressing how something appears, often with past tense for unreal.",
+    "explanationJa": "as though = as if。「あたかも〜のように」。非現実の場合は過去形を用いる。"
+  },
+  {
+    "sentence": "He explained ___ how the new system would work.",
+    "choices": ["to me", "me", "for me", "with me"],
+    "answer": 0,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Explain something to someone' is the standard pattern. 'Explain me something' is a very common error.",
+    "explanationJa": "explain something to someone が定型。explain me something は典型的な誤用。"
+  },
+  {
+    "sentence": "Can you ___ what this word means?",
+    "choices": ["explain me", "explain to me", "explain", "explain for me"],
+    "answer": 1,
+    "category": "particle",
+    "level": 2,
+    "explanation": "'Explain to me' — never 'explain me'. Other verbs in this pattern: describe, suggest, mention, announce.",
+    "explanationJa": "explain to me。explain me は不可。describe, suggest, mention, announce も同じパターン。"
+  }
+]

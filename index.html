@@ -82,12 +82,16 @@ body{
 .mode-card:active{transform:scale(.985)}
 .mode-card.ordering{border-color:rgba(106,166,255,.35)}
 .mode-card.usage{border-color:rgba(34,197,94,.35)}
+.mode-card.grammar{border-color:rgba(255,107,157,.35)}
+.mode-card.idioms{border-color:rgba(176,124,255,.35)}
 .mode-card::before{
   content:"";position:absolute;inset:-40% -20% auto auto;width:220px;height:220px;border-radius:50%;
   filter:blur(40px);opacity:.35;pointer-events:none;
 }
 .mode-card.ordering::before{background:var(--accent)}
 .mode-card.usage::before{background:var(--accent-green)}
+.mode-card.grammar::before{background:var(--accent-warm)}
+.mode-card.idioms::before{background:var(--accent-2)}
 .mode-card .kicker{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);font-family:'JetBrains Mono',monospace}
 .mode-card h2{font-size:20px;font-weight:700}
 .mode-card .desc{font-size:13px;color:var(--text-muted);line-height:1.55}
@@ -100,6 +104,8 @@ body{
   box-shadow:0 4px 16px rgba(106,166,255,.25);
 }
 .mode-card.usage .cta{background:var(--accent-green);box-shadow:0 4px 16px rgba(34,197,94,.25);color:#052e16}
+.mode-card.grammar .cta{background:var(--accent-warm);box-shadow:0 4px 16px rgba(255,107,157,.25);color:#3d0a23}
+.mode-card.idioms .cta{background:var(--accent-2);box-shadow:0 4px 16px rgba(176,124,255,.25);color:#1d0d3d}
 .mode-card .cta:active{transform:scale(.97)}
 
 .history{background:var(--card);border:1px solid var(--border);border-radius:var(--radius-md);padding:14px 16px;margin-top:14px}
@@ -110,6 +116,8 @@ body{
 .history .mode-pill{display:inline-block;font-size:10.5px;padding:2px 8px;border-radius:99px;margin-right:8px;font-family:'JetBrains Mono',monospace;letter-spacing:.04em}
 .history .mode-pill.ordering{background:rgba(106,166,255,.15);color:var(--accent);border:1px solid rgba(106,166,255,.3)}
 .history .mode-pill.usage{background:rgba(34,197,94,.15);color:var(--accent-green);border:1px solid rgba(34,197,94,.3)}
+.history .mode-pill.grammar{background:rgba(255,107,157,.15);color:var(--accent-warm);border:1px solid rgba(255,107,157,.3)}
+.history .mode-pill.idioms{background:rgba(176,124,255,.15);color:var(--accent-2);border:1px solid rgba(176,124,255,.3)}
 .history .pct{font-weight:700;font-family:'JetBrains Mono',monospace}
 .history .pct.good{color:var(--correct)}
 .history .pct.bad{color:var(--wrong)}
@@ -132,6 +140,10 @@ body{
 .level-btns button.active[data-level="1"]{border-color:var(--lv1);color:var(--lv1)}
 .level-btns button.active[data-level="2"]{border-color:var(--lv2);color:var(--lv2)}
 .level-btns button.active[data-level="3"]{border-color:var(--lv3);color:var(--lv3)}
+.cat-btns{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.cat-btns button{padding:12px 6px;border:1.5px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;line-height:1.2}
+.cat-btns button .lv-tag{font-size:10px;font-family:'JetBrains Mono',monospace;letter-spacing:.06em}
+.cat-btns button.active{border-color:var(--accent-warm);color:var(--accent-warm)}
 .count-btns{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
 .count-btns button{padding:12px;border:1.5px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
 .count-btns button.active{border-color:var(--accent);color:var(--accent)}
@@ -226,6 +238,58 @@ body{
 .usage-next-btn{margin-top:18px;width:100%;padding:16px;border:none;border-radius:12px;background:var(--accent-green);color:#052e16;font-size:17px;font-weight:700;cursor:pointer;font-family:inherit}
 .usage-next-btn:active{opacity:.85}
 
+/* Grammar mode */
+#grammar-header .progress-track{height:5px;background:var(--border);border-radius:99px;overflow:hidden}
+#grammar-header .progress-fill{height:100%;background:var(--accent-warm);border-radius:99px;transition:width .4s cubic-bezier(.4,0,.2,1)}
+#grammar-header .meta{display:flex;justify-content:space-between;align-items:center;margin-top:7px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.06em}
+#grammar-header .count{color:var(--text-muted)}
+#grammar-header .score{color:var(--accent-warm)}
+.category-tag{display:inline-flex;align-items:center;background:rgba(255,107,157,.1);border:1px solid rgba(255,107,157,.3);border-radius:7px;padding:4px 10px;font-size:11.5px;font-family:'JetBrains Mono',monospace;color:var(--accent-warm);letter-spacing:.02em;text-transform:uppercase}
+.grammar-sentence{padding:22px 18px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);margin:14px 0 4px;font-size:19px;line-height:1.65;text-align:center;color:var(--text)}
+.grammar-sentence .blank{display:inline-block;min-width:60px;border-bottom:2.5px solid var(--accent-warm);margin:0 4px;padding:0 6px;color:transparent;vertical-align:baseline}
+.grammar-sentence .blank.filled{color:var(--accent-warm);font-weight:700;border-bottom-color:var(--accent-warm)}
+.grammar-sentence .blank.correct{color:var(--correct);border-bottom-color:var(--correct)}
+.grammar-sentence .blank.wrong{color:var(--wrong);border-bottom-color:var(--wrong)}
+.grammar-instruction{font-size:12.5px;color:var(--text-muted);letter-spacing:.04em;margin:14px 0 8px;text-align:center}
+.grammar-choices{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.grammar-choice-btn{padding:16px 12px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--text);font-size:16px;font-weight:600;cursor:pointer;transition:all .15s;min-height:56px;font-family:inherit;text-align:center}
+.grammar-choice-btn:active{transform:scale(.97)}
+.grammar-choice-btn.correct{border-color:var(--correct);background:var(--correct-bg);color:var(--correct)}
+.grammar-choice-btn.wrong{border-color:var(--wrong);background:var(--wrong-bg);color:var(--wrong)}
+.grammar-choice-btn.reveal-correct{border-color:var(--correct);opacity:.7}
+#grammar-feedback{margin-top:16px;padding:14px 16px;border-radius:12px;font-size:14px;display:none;line-height:1.65}
+#grammar-feedback.correct-fb{background:var(--correct-bg);border:1px solid var(--correct);color:var(--correct)}
+#grammar-feedback.wrong-fb{background:var(--wrong-bg);border:1px solid var(--wrong);color:var(--wrong)}
+.grammar-next-btn{margin-top:18px;width:100%;padding:16px;border:none;border-radius:12px;background:var(--accent-warm);color:#3d0a23;font-size:17px;font-weight:700;cursor:pointer;font-family:inherit}
+.grammar-next-btn:active{opacity:.85}
+#grammar-complete .complete-score-num{color:var(--accent-warm)}
+
+/* Idioms mode */
+#idioms-header .progress-track{height:5px;background:var(--border);border-radius:99px;overflow:hidden}
+#idioms-header .progress-fill{height:100%;background:var(--accent-2);border-radius:99px;transition:width .4s cubic-bezier(.4,0,.2,1)}
+#idioms-header .meta{display:flex;justify-content:space-between;align-items:center;margin-top:7px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.06em}
+#idioms-header .count{color:var(--text-muted)}
+#idioms-header .score{color:var(--accent-2)}
+.idiom-word-display{text-align:center;padding:18px 16px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);margin:14px 0 4px}
+.idiom-word-display .word{font-size:24px;font-weight:700;letter-spacing:.01em;color:var(--accent-2)}
+.idiom-word-display .reading{font-size:13px;color:var(--text-muted);margin-top:6px;line-height:1.5}
+.idiom-instruction{font-size:12.5px;color:var(--text-muted);letter-spacing:.04em;margin:14px 0 8px;text-align:center}
+.idiom-choices{display:flex;flex-direction:column;gap:10px}
+.idiom-sentence-btn{padding:14px 16px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--text);font-size:15px;cursor:pointer;text-align:left;transition:all .15s;display:flex;align-items:flex-start;gap:10px;min-height:48px;font-family:inherit;line-height:1.6;width:100%}
+.idiom-sentence-btn:active{transform:scale(.99)}
+.idiom-sentence-btn .num{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background:var(--card-2);font-size:13px;font-weight:700;flex-shrink:0;margin-top:1px}
+.idiom-sentence-btn.correct{border-color:var(--correct);background:var(--correct-bg)}
+.idiom-sentence-btn.correct .num{background:var(--correct);color:#06221a}
+.idiom-sentence-btn.wrong{border-color:var(--wrong);background:var(--wrong-bg)}
+.idiom-sentence-btn.wrong .num{background:var(--wrong);color:#fff}
+.idiom-sentence-btn.reveal-correct{border-color:var(--correct);opacity:.7}
+#idioms-feedback{margin-top:16px;padding:14px 16px;border-radius:12px;font-size:14px;display:none;line-height:1.65}
+#idioms-feedback.correct-fb{background:var(--correct-bg);border:1px solid var(--correct);color:var(--correct)}
+#idioms-feedback.wrong-fb{background:var(--wrong-bg);border:1px solid var(--wrong);color:var(--wrong)}
+.idioms-next-btn{margin-top:18px;width:100%;padding:16px;border:none;border-radius:12px;background:var(--accent-2);color:#1d0d3d;font-size:17px;font-weight:700;cursor:pointer;font-family:inherit}
+.idioms-next-btn:active{opacity:.85}
+#idioms-complete .complete-score-num{color:var(--accent-2)}
+
 /* Complete screen */
 .complete-inner{text-align:center;display:flex;flex-direction:column;align-items:center;gap:14px;padding:32px 24px;animation:fadeUp .5s ease}
 .complete-emoji{font-size:64px}
@@ -300,6 +364,28 @@ body{
           <span>Streak <b id="dash-o-streak">0</b></span>
         </div>
         <button class="cta" onclick="event.stopPropagation();openConfig('ordering')">Start →</button>
+      </div>
+
+      <div class="mode-card grammar" onclick="openConfig('grammar')">
+        <div class="kicker">Grammar · Fill the blank</div>
+        <h2>Confusing Grammar</h2>
+        <div class="desc">Particles, pronouns, modals, articles, tenses, and the tricky pairs ESL learners mix up.</div>
+        <div class="row">
+          <span>Best <b id="dash-g-best">—</b></span>
+          <span>Streak <b id="dash-g-streak">0</b></span>
+        </div>
+        <button class="cta" onclick="event.stopPropagation();openConfig('grammar')">Start →</button>
+      </div>
+
+      <div class="mode-card idioms" onclick="openConfig('idioms')">
+        <div class="kicker">Figurative · Idioms &amp; Metaphors</div>
+        <h2>Idioms &amp; Metaphors</h2>
+        <div class="desc">Pick the sentence that uses the idiom or metaphor correctly. Spot the literal traps and misuses.</div>
+        <div class="row">
+          <span>Best <b id="dash-i-best">—</b></span>
+          <span>Streak <b id="dash-i-streak">0</b></span>
+        </div>
+        <button class="cta" onclick="event.stopPropagation();openConfig('idioms')">Start →</button>
       </div>
     </div>
 
@@ -411,6 +497,82 @@ body{
     </div>
   </div>
 
+  <!-- Grammar -->
+  <div id="view-grammar" class="view hidden">
+    <div id="grammar-header">
+      <div class="progress-track"><div class="progress-fill" id="gr-progress"></div></div>
+      <div class="meta">
+        <span class="count" id="gr-count">0/0</span>
+        <span class="score" id="gr-score">0 ✓</span>
+        <button class="end-early-btn" onclick="endGrammarEarly()">End ▸</button>
+      </div>
+    </div>
+    <div class="tag-row">
+      <span class="category-tag" id="gr-category"></span>
+      <span class="level-tag" id="gr-level"></span>
+    </div>
+    <div class="grammar-sentence" id="gr-sentence"></div>
+    <div class="grammar-instruction">Which word fills the blank correctly?</div>
+    <div class="grammar-choices" id="gr-choices"></div>
+    <div id="grammar-feedback"></div>
+    <button class="grammar-next-btn hidden" id="gr-next" onclick="nextGrammar()">Next →</button>
+  </div>
+
+  <div id="view-grammar-complete" class="view hidden">
+    <div class="complete-inner" id="grammar-complete">
+      <div class="complete-emoji" id="gr-emoji">🎉</div>
+      <div class="complete-title">Round complete</div>
+      <div class="complete-score-ring">
+        <div class="complete-score-num" id="gr-final">0/0</div>
+        <div class="complete-score-label">CORRECT</div>
+      </div>
+      <div class="complete-msg" id="gr-msg"></div>
+      <div class="end-btns">
+        <button class="btn-primary" onclick="openConfig('grammar')">Play again</button>
+        <button class="btn-secondary" onclick="showView('dashboard')">Back to dashboard</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Idioms -->
+  <div id="view-idioms" class="view hidden">
+    <div id="idioms-header">
+      <div class="progress-track"><div class="progress-fill" id="idm-progress"></div></div>
+      <div class="meta">
+        <span class="count" id="idm-count">0/0</span>
+        <span class="score" id="idm-score">0 ✓</span>
+        <button class="end-early-btn" onclick="endIdiomsEarly()">End ▸</button>
+      </div>
+    </div>
+    <div class="tag-row">
+      <span class="level-tag" id="idm-level"></span>
+    </div>
+    <div class="idiom-word-display">
+      <div class="word" id="idm-word"></div>
+      <div class="reading" id="idm-def"></div>
+    </div>
+    <div class="idiom-instruction">Which sentence uses this idiom correctly?</div>
+    <div class="idiom-choices" id="idm-choices"></div>
+    <div id="idioms-feedback"></div>
+    <button class="idioms-next-btn hidden" id="idm-next" onclick="nextIdioms()">Next →</button>
+  </div>
+
+  <div id="view-idioms-complete" class="view hidden">
+    <div class="complete-inner" id="idioms-complete">
+      <div class="complete-emoji" id="idm-emoji">🎉</div>
+      <div class="complete-title">Round complete</div>
+      <div class="complete-score-ring">
+        <div class="complete-score-num" id="idm-final">0/0</div>
+        <div class="complete-score-label">CORRECT</div>
+      </div>
+      <div class="complete-msg" id="idm-msg"></div>
+      <div class="end-btns">
+        <button class="btn-primary" onclick="openConfig('idioms')">Play again</button>
+        <button class="btn-secondary" onclick="showView('dashboard')">Back to dashboard</button>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <div id="modal-overlay" onclick="closeConfig()"></div>
@@ -420,7 +582,7 @@ body{
     <button class="modal-close" onclick="closeConfig()">×</button>
   </div>
 
-  <h3>Register</h3>
+  <h3 id="modal-register-h3">Register</h3>
   <div class="register-switch" id="register-switch" style="margin:0 0 4px">
     <button data-register="business" class="active">Business<span class="reg-sub">B2 · TOEIC 700–800</span></button>
     <button data-register="conversational">Conversational<span class="reg-sub">NATIVE · CASUAL</span></button>
@@ -450,7 +612,7 @@ body{
 /* ── State ──────────────────────────────────── */
 const STORE_KEY = 'bv-state-v1';
 const state = loadState();
-let configMode = null;          // 'usage' | 'ordering'
+let configMode = null;          // 'usage' | 'ordering' | 'grammar' | 'idioms'
 let cfgLevel = 'all';
 let cfgCount = 10;
 let cfgRegister = localStorage.getItem('bv-register') || 'business'; // 'business' | 'conversational'
@@ -459,24 +621,35 @@ const POOL_FILES = {
   business:       { usage: 'usage-questions.json',              ordering: 'ordering-questions.json' },
   conversational: { usage: 'conversational-usage.json',         ordering: 'conversational-ordering.json' }
 };
+const GRAMMAR_FILE = 'grammar-questions.json';
+const IDIOMS_FILE = 'idioms-questions.json';
 const HERO_SUB = {
   business:       'B2 Vantage / TOEIC 700–800 vocabulary &amp; sentence construction.',
   conversational: 'Native casual English: phrasal verbs, idioms, small talk.'
 };
 
-const pools = { business:{usage:null,ordering:null}, conversational:{usage:null,ordering:null} };
+const pools = { business:{usage:null,ordering:null}, conversational:{usage:null,ordering:null}, grammar:null, idioms:null };
 
 let ordRound = null;
 let usgRound = null;
+let grRound = null;
+let idmRound = null;
 
 function loadState(){
-  try{ return JSON.parse(localStorage.getItem(STORE_KEY)) || defaults(); }
+  try{
+    const s = JSON.parse(localStorage.getItem(STORE_KEY)) || defaults();
+    if(!s.grammar) s.grammar = {best:null,streak:0};
+    if(!s.idioms) s.idioms = {best:null,streak:0};
+    return s;
+  }
   catch{ return defaults(); }
 }
 function defaults(){
   return {totalQ:0,totalCorrect:0,
     usage:{best:null,streak:0},
     ordering:{best:null,streak:0},
+    grammar:{best:null,streak:0},
+    idioms:{best:null,streak:0},
     history:[]};
 }
 function saveState(){ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }
@@ -485,8 +658,8 @@ function showView(name){
   document.querySelectorAll('.view').forEach(v=>v.classList.add('hidden'));
   const v = document.getElementById('view-'+name);
   if(v) v.classList.remove('hidden');
-  const ctx = {dashboard:'Dashboard',ordering:'Sentence Construction',usage:'Word Usage',
-    loading:'Loading…','ordering-complete':'Round complete','usage-complete':'Round complete'}[name] || name;
+  const ctx = {dashboard:'Dashboard',ordering:'Sentence Construction',usage:'Word Usage',grammar:'Confusing Grammar',idioms:'Idioms & Metaphors',
+    loading:'Loading…','ordering-complete':'Round complete','usage-complete':'Round complete','grammar-complete':'Round complete','idioms-complete':'Round complete'}[name] || name;
   document.getElementById('topbar-ctx').textContent = ctx;
   document.getElementById('topbar-action').classList.toggle('hidden', name==='dashboard');
   if(name==='dashboard') renderDashboard();
@@ -501,6 +674,10 @@ function renderDashboard(){
   document.getElementById('dash-u-streak').textContent = state.usage.streak;
   document.getElementById('dash-o-best').textContent = state.ordering.best ?? '—';
   document.getElementById('dash-o-streak').textContent = state.ordering.streak;
+  document.getElementById('dash-g-best').textContent = state.grammar.best ?? '—';
+  document.getElementById('dash-g-streak').textContent = state.grammar.streak;
+  document.getElementById('dash-i-best').textContent = state.idioms.best ?? '—';
+  document.getElementById('dash-i-streak').textContent = state.idioms.streak;
   const list = document.getElementById('history-list');
   if(!state.history.length){
     list.innerHTML = '<div class="empty">No rounds yet. Start a quiz to begin.</div>';
@@ -516,8 +693,11 @@ function renderDashboard(){
 /* ── Config modal ───────────────────────────── */
 function openConfig(mode){
   configMode = mode;
-  document.getElementById('modal-title').textContent =
-    mode==='usage' ? 'Word Usage round' : 'Sentence Construction round';
+  const titles = {usage:'Word Usage round', ordering:'Sentence Construction round', grammar:'Confusing Grammar round', idioms:'Idioms & Metaphors round'};
+  document.getElementById('modal-title').textContent = titles[mode] || 'Configure round';
+  const hideRegister = (mode==='grammar' || mode==='idioms');
+  document.getElementById('modal-register-h3').classList.toggle('hidden', hideRegister);
+  document.getElementById('register-switch').classList.toggle('hidden', hideRegister);
   document.getElementById('modal-overlay').classList.add('show');
   document.getElementById('filter-modal').classList.add('show');
   refreshAvailability();
@@ -553,7 +733,11 @@ function applyInitialRegister(){
 async function refreshAvailability(){
   const info = document.getElementById('modal-info');
   try{
-    const pool = configMode==='usage' ? await loadUsage() : await loadOrdering();
+    let pool;
+    if(configMode==='usage') pool = await loadUsage();
+    else if(configMode==='ordering') pool = await loadOrdering();
+    else if(configMode==='idioms') pool = await loadIdioms();
+    else pool = await loadGrammar();
     const filtered = filterByLevel(pool, cfgLevel);
     info.textContent = `${filtered.length} questions available`;
   } catch{
@@ -571,22 +755,30 @@ async function startRound(){
   closeConfig();
   showView('loading');
   try{
-    const pool = configMode==='usage' ? await loadUsage() : await loadOrdering();
-    let filtered = filterByLevel(pool, cfgLevel);
+    let pool;
+    if(configMode==='usage') pool = await loadUsage();
+    else if(configMode==='ordering') pool = await loadOrdering();
+    else if(configMode==='idioms') pool = await loadIdioms();
+    else pool = await loadGrammar();
+    const filtered = filterByLevel(pool, cfgLevel);
     if(!filtered.length){
       document.getElementById('loading-msg').innerHTML =
-        '<div class="load-error">No questions match this difficulty yet.<br>Try another level.</div>';
+        '<div class="load-error">No questions match these filters yet.<br>Try another option.</div>';
       return;
     }
     shuffle(filtered);
     const target = cfgCount===0 ? filtered.length : Math.min(cfgCount, filtered.length);
     const items = filtered.slice(0,target);
-    if(configMode==='usage'){ beginUsage(items); }
-    else { beginOrdering(items); }
+    if(configMode==='usage') beginUsage(items);
+    else if(configMode==='ordering') beginOrdering(items);
+    else if(configMode==='idioms') beginIdioms(items);
+    else beginGrammar(items);
   } catch(err){
     console.error(err);
+    const fnameMap = {grammar:'grammar-questions.json', idioms:'idioms-questions.json'};
+    const fname = fnameMap[configMode] || configMode+'-questions.json';
     document.getElementById('loading-msg').innerHTML =
-      `<div class="load-error">Could not load the question file.<br>Make sure ${configMode}-questions.json is in this folder.</div>`;
+      `<div class="load-error">Could not load the question file.<br>Make sure ${fname} is in this folder.</div>`;
   }
 }
 
@@ -606,6 +798,20 @@ async function loadOrdering(){
   if(!r.ok) throw new Error('ordering fetch failed ('+cfgRegister+')');
   slot.ordering = await r.json();
   return slot.ordering;
+}
+async function loadGrammar(){
+  if(pools.grammar) return pools.grammar;
+  const r = await fetch(GRAMMAR_FILE);
+  if(!r.ok) throw new Error('grammar fetch failed');
+  pools.grammar = await r.json();
+  return pools.grammar;
+}
+async function loadIdioms(){
+  if(pools.idioms) return pools.idioms;
+  const r = await fetch(IDIOMS_FILE);
+  if(!r.ok) throw new Error('idioms fetch failed');
+  pools.idioms = await r.json();
+  return pools.idioms;
 }
 
 /* ── Util ───────────────────────────────────── */
@@ -830,6 +1036,168 @@ function finishUsage(){
   document.getElementById('usg-msg').textContent = encouragement(correct,total);
   document.getElementById('usg-emoji').textContent = emojiFor(correct,total);
   showView('usage-complete');
+}
+
+/* ── Grammar round ──────────────────────────── */
+const CAT_LABEL = {
+  particle:'Particle / Preposition',
+  pronoun:'Pronoun',
+  modal:'Modal / Semi-modal',
+  whword:'Wh-word / Question form',
+  article:'Article / Countable noun',
+  tense:'Tense / Verb pattern',
+  confusable:'Word pair / Confusable'
+};
+function escapeHtml(s){ return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function renderGrammarSentence(sentence, fillWord, state){
+  const parts = sentence.split('___');
+  const safe = parts.map(escapeHtml);
+  const cls = 'blank' + (state ? ' '+state : (fillWord ? ' filled' : ''));
+  const blank = `<span class="${cls}" id="gr-blank">${fillWord ? escapeHtml(fillWord) : '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'}</span>`;
+  return safe.join(blank);
+}
+function beginGrammar(items){
+  grRound = {items, idx:0, correct:0, level:cfgLevel, answered:false};
+  showView('grammar');
+  loadGrammarQ();
+}
+function loadGrammarQ(){
+  const q = grRound.items[grRound.idx];
+  grRound.answered = false;
+  document.getElementById('gr-count').textContent = `${grRound.idx+1}/${grRound.items.length}`;
+  document.getElementById('gr-score').textContent = `${grRound.correct} ✓`;
+  document.getElementById('gr-progress').style.width = `${(grRound.idx)/grRound.items.length*100}%`;
+  const lvl = q.level || 1;
+  const lvTag = document.getElementById('gr-level');
+  lvTag.textContent = levelTagText(lvl);
+  lvTag.className = 'level-tag ' + levelTagCls(lvl);
+  document.getElementById('gr-category').textContent = CAT_LABEL[q.category] || q.category || '';
+  document.getElementById('gr-sentence').innerHTML = renderGrammarSentence(q.sentence, null, null);
+  const choices = document.getElementById('gr-choices');
+  choices.innerHTML = '';
+  q.choices.forEach((c,i)=>{
+    const btn = document.createElement('button');
+    btn.className = 'grammar-choice-btn';
+    btn.textContent = c;
+    btn.addEventListener('click', ()=>pickGrammar(i));
+    choices.appendChild(btn);
+  });
+  document.getElementById('grammar-feedback').style.display = 'none';
+  document.getElementById('gr-next').classList.add('hidden');
+}
+function pickGrammar(i){
+  if(grRound.answered) return;
+  grRound.answered = true;
+  const q = grRound.items[grRound.idx];
+  const picked = q.choices[i];
+  const isRight = i === q.answer;
+  document.getElementById('gr-sentence').innerHTML =
+    renderGrammarSentence(q.sentence, picked, isRight ? 'correct' : 'wrong');
+  const btns = document.querySelectorAll('#gr-choices .grammar-choice-btn');
+  btns.forEach((b,bi)=>{
+    if(bi === q.answer) b.classList.add(bi===i ? 'correct' : 'reveal-correct');
+    if(bi === i && bi !== q.answer) b.classList.add('wrong');
+    b.style.pointerEvents = 'none';
+  });
+  const fb = document.getElementById('grammar-feedback');
+  const ja = q.explanationJa ? `<div class="explanation-ja" style="margin-top:8px">${q.explanationJa}</div>` : '';
+  if(isRight){
+    grRound.correct++;
+    fb.className = 'correct-fb';
+    fb.innerHTML = `<strong>Correct.</strong> ${q.explanation || ''}${ja}`;
+  } else {
+    fb.className = 'wrong-fb';
+    fb.innerHTML = `<strong>Not quite.</strong> Answer: <strong>${escapeHtml(q.choices[q.answer])}</strong>. ${q.explanation || ''}${ja}`;
+  }
+  fb.style.display = 'block';
+  document.getElementById('gr-score').textContent = `${grRound.correct} ✓`;
+  document.getElementById('gr-next').classList.remove('hidden');
+}
+function nextGrammar(){
+  grRound.idx++;
+  if(grRound.idx >= grRound.items.length){ finishGrammar(); return; }
+  loadGrammarQ();
+}
+function endGrammarEarly(){ finishGrammar(); }
+function finishGrammar(){
+  const total = grRound.idx;
+  const correct = grRound.correct;
+  recordRound('grammar', correct, total, grRound.level);
+  document.getElementById('gr-final').textContent = `${correct}/${total}`;
+  document.getElementById('gr-msg').textContent = encouragement(correct,total);
+  document.getElementById('gr-emoji').textContent = emojiFor(correct,total);
+  showView('grammar-complete');
+}
+
+/* ── Idioms round ───────────────────────────── */
+function beginIdioms(items){
+  idmRound = {items, idx:0, correct:0, level:cfgLevel, answered:false};
+  showView('idioms');
+  loadIdiomsQ();
+}
+function loadIdiomsQ(){
+  const q = idmRound.items[idmRound.idx];
+  idmRound.answered = false;
+  document.getElementById('idm-count').textContent = `${idmRound.idx+1}/${idmRound.items.length}`;
+  document.getElementById('idm-score').textContent = `${idmRound.correct} ✓`;
+  document.getElementById('idm-progress').style.width = `${(idmRound.idx)/idmRound.items.length*100}%`;
+  const lvl = q.level || 1;
+  const lvTag = document.getElementById('idm-level');
+  lvTag.textContent = levelTagText(lvl);
+  lvTag.className = 'level-tag ' + levelTagCls(lvl);
+  document.getElementById('idm-word').textContent = q.word;
+  document.getElementById('idm-def').textContent = '';
+  const choices = document.getElementById('idm-choices');
+  choices.innerHTML = '';
+  q.sentences.forEach((s,i)=>{
+    const btn = document.createElement('button');
+    btn.className = 'idiom-sentence-btn';
+    btn.innerHTML = `<span class="num">${i+1}</span><span>${s}</span>`;
+    btn.addEventListener('click', ()=>pickIdiom(i));
+    choices.appendChild(btn);
+  });
+  document.getElementById('idioms-feedback').style.display = 'none';
+  document.getElementById('idm-next').classList.add('hidden');
+}
+function pickIdiom(i){
+  if(idmRound.answered) return;
+  idmRound.answered = true;
+  const q = idmRound.items[idmRound.idx];
+  document.getElementById('idm-def').textContent = q.definition || '';
+  const btns = document.querySelectorAll('#idm-choices .idiom-sentence-btn');
+  btns.forEach((b,bi)=>{
+    if(bi === q.answer) b.classList.add(bi===i ? 'correct' : 'reveal-correct');
+    if(bi === i && bi !== q.answer) b.classList.add('wrong');
+    b.style.pointerEvents = 'none';
+  });
+  const fb = document.getElementById('idioms-feedback');
+  const ja = q.explanationJa ? `<div class="explanation-ja" style="margin-top:8px">${q.explanationJa}</div>` : '';
+  if(i === q.answer){
+    idmRound.correct++;
+    fb.className = 'correct-fb';
+    fb.innerHTML = `<strong>Correct.</strong> ${q.explanation || ''}${ja}`;
+  } else {
+    fb.className = 'wrong-fb';
+    fb.innerHTML = `<strong>Not quite.</strong> ${q.explanation || ''}${ja}`;
+  }
+  fb.style.display = 'block';
+  document.getElementById('idm-score').textContent = `${idmRound.correct} ✓`;
+  document.getElementById('idm-next').classList.remove('hidden');
+}
+function nextIdioms(){
+  idmRound.idx++;
+  if(idmRound.idx >= idmRound.items.length){ finishIdioms(); return; }
+  loadIdiomsQ();
+}
+function endIdiomsEarly(){ finishIdioms(); }
+function finishIdioms(){
+  const total = idmRound.idx;
+  const correct = idmRound.correct;
+  recordRound('idioms', correct, total, idmRound.level);
+  document.getElementById('idm-final').textContent = `${correct}/${total}`;
+  document.getElementById('idm-msg').textContent = encouragement(correct,total);
+  document.getElementById('idm-emoji').textContent = emojiFor(correct,total);
+  showView('idioms-complete');
 }
 
 /* ── Records ────────────────────────────────── */
