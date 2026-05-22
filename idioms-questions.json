@@ -333,6 +333,7 @@
     "definition": "tease or joke with someone",
     "definitionJa": "からかう・冗談を言う",
     "blankSentence": "Relax, I'm just ___ — there's no meeting on Saturday.",
+    "fillAnswer": "pulling your leg",
     "distractors": ["throwing you under the bus", "keeping an eye on you", "pulling strings for you"],
     "sentences": [
       "The company physiotherapist gently pulled the employee's leg during the ergonomics assessment to check hip flexibility after the desk upgrade.",
@@ -424,6 +425,7 @@
     "definition": "fail to do something properly",
     "definitionJa": "失敗する・へまをする",
     "blankSentence": "I really ___ on the client report — I forgot the deadline entirely.",
+    "fillAnswer": "dropped the ball",
     "distractors": ["missed the boat", "jumped the gun", "hit a snag"],
     "sentences": [
       "I really dropped the ball on the client report — I forgot the deadline entirely.",
@@ -1239,8 +1241,9 @@
     "word": "throw under the bus",
     "definition": "betray someone to save yourself",
     "definitionJa": "責任を他人になすりつける",
-    "blankSentence": "Don't ___ your teammate just to make your own performance look better to management.",
-    "distractors": ["pull someone's leg", "burn bridges with", "stab in the back"],
+    "blankSentence": "Don't ___ just to make your own performance look better to management.",
+    "fillAnswer": "throw your teammate under the bus",
+    "distractors": ["pull your teammate's leg", "burn bridges with your teammate", "stab your teammate in the back"],
     "sentences": [
       "The transit supervisor instructed the trainee to throw the safety cones under the bus during the routine maintenance bay inspection procedure.",
       "The mechanic asked his apprentice to throw the jack stand under the bus chassis before beginning the brake line replacement work.",
@@ -1276,6 +1279,7 @@
     "definition": "fail to handle a responsibility",
     "definitionJa": "失敗する",
     "blankSentence": "I really ___ on the report deadline and now we have to delay the whole presentation.",
+    "fillAnswer": "dropped the ball",
     "distractors": ["missed the boat", "hit a snag", "jumped the gun"],
     "sentences": [
       "The wide receiver tried to secure the catch but dropped the ball at the three-yard line during the crucial fourth-quarter drive.",
@@ -1546,6 +1550,7 @@
     "definition": "waste effort recreating something that already exists",
     "definitionJa": "無駄に作り直す",
     "blankSentence": "Let's use the existing template instead of ___ for this quarterly report.",
+    "fillAnswer": "reinventing the wheel",
     "distractors": ["thinking outside the box", "going back to the drawing board", "shooting from the hip"],
     "sentences": [
       "Let's use the existing template instead of reinventing the wheel for this quarterly report.",
@@ -1761,7 +1766,8 @@
     "word": "sweep under the rug",
     "definition": "hide a problem rather than address it",
     "definitionJa": "問題を隠す",
-    "blankSentence": "The board cannot ___ the accounting errors now that the auditors have flagged them.",
+    "blankSentence": "The board cannot ___ now that the auditors have flagged the accounting errors.",
+    "fillAnswer": "sweep them under the rug",
     "distractors": ["let sleeping dogs lie", "beat around the bush", "burn bridges"],
     "sentences": [
       "The office cleaning crew used an industrial vacuum to sweep debris under the rug edges in the executive boardroom before the morning meeting.",
