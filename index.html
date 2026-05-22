@@ -264,31 +264,63 @@ body{
 .grammar-next-btn:active{opacity:.85}
 #grammar-complete .complete-score-num{color:var(--accent-warm)}
 
-/* Idioms mode */
+/* Idioms mode — shared */
 #idioms-header .progress-track{height:5px;background:var(--border);border-radius:99px;overflow:hidden}
 #idioms-header .progress-fill{height:100%;background:var(--accent-2);border-radius:99px;transition:width .4s cubic-bezier(.4,0,.2,1)}
 #idioms-header .meta{display:flex;justify-content:space-between;align-items:center;margin-top:7px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.06em}
 #idioms-header .count{color:var(--text-muted)}
 #idioms-header .score{color:var(--accent-2)}
-.idiom-word-display{text-align:center;padding:18px 16px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);margin:14px 0 4px}
-.idiom-word-display .word{font-size:24px;font-weight:700;letter-spacing:.01em;color:var(--accent-2)}
-.idiom-word-display .reading{font-size:13px;color:var(--text-muted);margin-top:6px;line-height:1.5}
 .idiom-instruction{font-size:12.5px;color:var(--text-muted);letter-spacing:.04em;margin:14px 0 8px;text-align:center}
-.idiom-choices{display:flex;flex-direction:column;gap:10px}
-.idiom-sentence-btn{padding:14px 16px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--text);font-size:15px;cursor:pointer;text-align:left;transition:all .15s;display:flex;align-items:flex-start;gap:10px;min-height:48px;font-family:inherit;line-height:1.6;width:100%}
-.idiom-sentence-btn:active{transform:scale(.99)}
-.idiom-sentence-btn .num{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background:var(--card-2);font-size:13px;font-weight:700;flex-shrink:0;margin-top:1px}
-.idiom-sentence-btn.correct{border-color:var(--correct);background:var(--correct-bg)}
-.idiom-sentence-btn.correct .num{background:var(--correct);color:#06221a}
-.idiom-sentence-btn.wrong{border-color:var(--wrong);background:var(--wrong-bg)}
-.idiom-sentence-btn.wrong .num{background:var(--wrong);color:#fff}
-.idiom-sentence-btn.reveal-correct{border-color:var(--correct);opacity:.7}
 #idioms-feedback{margin-top:16px;padding:14px 16px;border-radius:12px;font-size:14px;display:none;line-height:1.65}
 #idioms-feedback.correct-fb{background:var(--correct-bg);border:1px solid var(--correct);color:var(--correct)}
 #idioms-feedback.wrong-fb{background:var(--wrong-bg);border:1px solid var(--wrong);color:var(--wrong)}
 .idioms-next-btn{margin-top:18px;width:100%;padding:16px;border:none;border-radius:12px;background:var(--accent-2);color:#1d0d3d;font-size:17px;font-weight:700;cursor:pointer;font-family:inherit}
 .idioms-next-btn:active{opacity:.85}
 #idioms-complete .complete-score-num{color:var(--accent-2)}
+
+/* Fill-in-blank idiom mode */
+.idm-fill-sentence{padding:22px 18px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius-lg);margin:14px 0 4px;font-size:19px;line-height:1.65;text-align:center;color:var(--text)}
+.idm-fill-sentence .blank{display:inline-block;min-width:80px;border-bottom:2.5px solid var(--accent-2);margin:0 4px;padding:0 6px;color:transparent;vertical-align:baseline}
+.idm-fill-sentence .blank.filled{color:var(--accent-2);font-weight:700}
+.idm-fill-sentence .blank.correct{color:var(--correct);border-bottom-color:var(--correct)}
+.idm-fill-sentence .blank.wrong{color:var(--wrong);border-bottom-color:var(--wrong)}
+.idm-fill-choices{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.idm-fill-btn{padding:16px 12px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--text);font-size:15px;font-weight:600;cursor:pointer;transition:all .15s;min-height:56px;font-family:inherit;text-align:center;line-height:1.4}
+.idm-fill-btn:active{transform:scale(.97)}
+.idm-fill-btn.correct{border-color:var(--correct);background:var(--correct-bg);color:var(--correct)}
+.idm-fill-btn.wrong{border-color:var(--wrong);background:var(--wrong-bg);color:var(--wrong)}
+.idm-fill-btn.reveal-correct{border-color:var(--correct);opacity:.7}
+
+/* Match-definition idiom mode */
+.match-board{display:flex;flex-direction:column;gap:10px;margin:14px 0}
+.match-row{display:flex;gap:10px;align-items:stretch}
+.match-idiom{flex:1;padding:12px 10px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--accent-2);font-size:14px;font-weight:700;text-align:center;display:flex;align-items:center;justify-content:center;min-height:60px;line-height:1.35}
+.match-def-btn{flex:1;padding:12px 10px;border:2px solid var(--border);border-radius:12px;background:var(--card);color:var(--text);font-size:13px;cursor:pointer;text-align:center;display:flex;align-items:center;justify-content:center;min-height:60px;line-height:1.4;font-family:inherit;transition:all .15s}
+.match-def-btn:active{transform:scale(.97)}
+.match-def-btn.selected{border-color:var(--accent-2);background:rgba(176,124,255,.12)}
+.match-def-btn.correct{border-color:var(--correct);background:var(--correct-bg);color:var(--correct);pointer-events:none}
+.match-def-btn.wrong{border-color:var(--wrong);background:var(--wrong-bg);color:var(--wrong);pointer-events:none}
+.match-def-btn.matched{border-color:var(--correct);background:var(--correct-bg);color:var(--correct);pointer-events:none;opacity:.7}
+.match-idiom.active{border-color:var(--accent-2);box-shadow:0 0 0 2px rgba(176,124,255,.25)}
+.match-idiom.matched{border-color:var(--correct);opacity:.7}
+.match-lang-toggle{display:grid;grid-template-columns:1fr 1fr;gap:6px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:3px;margin:8px 0}
+.match-lang-toggle button{padding:8px;border:none;border-radius:8px;background:transparent;color:var(--text-muted);font-family:inherit;font-size:12px;font-weight:600;cursor:pointer}
+.match-lang-toggle button.active{background:var(--card-2);color:var(--text)}
+
+/* Settings modal */
+#settings-modal{display:none;position:fixed;bottom:0;left:0;right:0;max-height:60vh;background:var(--surface);border-radius:20px 20px 0 0;z-index:52;overflow-y:auto;padding:20px 16px calc(20px + var(--safe-bot));-webkit-overflow-scrolling:touch}
+#settings-modal.show{display:block}
+.font-size-row{display:flex;align-items:center;gap:14px;padding:8px 0}
+.font-size-row .label{flex:1;font-size:14px;color:var(--text)}
+.font-size-row button{width:40px;height:40px;border:1.5px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:18px;font-weight:700;cursor:pointer;font-family:inherit;display:flex;align-items:center;justify-content:center}
+.font-size-row button:active{transform:scale(.95)}
+.font-size-row .size-val{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--accent);min-width:36px;text-align:center}
+
+/* Idiom sub-mode selector in config */
+.submode-btns{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.submode-btns button{padding:12px 8px;border:1.5px solid var(--border);border-radius:10px;background:var(--card);color:var(--text);font-size:13px;font-weight:600;cursor:pointer;font-family:inherit;display:flex;flex-direction:column;align-items:center;gap:2px;line-height:1.2}
+.submode-btns button .lv-tag{font-size:10px;font-family:'JetBrains Mono',monospace;letter-spacing:.06em}
+.submode-btns button.active{border-color:var(--accent-2);color:var(--accent-2)}
 
 /* Complete screen */
 .complete-inner{text-align:center;display:flex;flex-direction:column;align-items:center;gap:14px;padding:32px 24px;animation:fadeUp .5s ease}
@@ -318,7 +350,23 @@ body{
     <div class="brand">Business Vantage<span class="dot"> ·</span></div>
     <div class="ctx" id="topbar-ctx">Dashboard</div>
   </div>
-  <button class="icon-btn hidden" id="topbar-action" onclick="showView('dashboard')" aria-label="Back to dashboard">←</button>
+  <div style="display:flex;gap:6px">
+    <button class="icon-btn" id="topbar-settings" onclick="toggleSettings()" aria-label="Settings" style="font-size:17px">&#9881;</button>
+    <button class="icon-btn hidden" id="topbar-action" onclick="showView('dashboard')" aria-label="Back to dashboard">&#8592;</button>
+  </div>
+</div>
+
+<div id="settings-modal">
+  <div class="modal-header">
+    <h2>Settings</h2>
+    <button class="modal-close" onclick="toggleSettings()">&#215;</button>
+  </div>
+  <div class="font-size-row">
+    <span class="label">Font size</span>
+    <button onclick="changeFontSize(-1)">A&#8722;</button>
+    <span class="size-val" id="font-size-val">100%</span>
+    <button onclick="changeFontSize(1)">A+</button>
+  </div>
 </div>
 
 <div id="app">
@@ -540,21 +588,30 @@ body{
       <div class="progress-track"><div class="progress-fill" id="idm-progress"></div></div>
       <div class="meta">
         <span class="count" id="idm-count">0/0</span>
-        <span class="score" id="idm-score">0 ✓</span>
-        <button class="end-early-btn" onclick="endIdiomsEarly()">End ▸</button>
+        <span class="score" id="idm-score">0 &#10003;</span>
+        <button class="end-early-btn" onclick="endIdiomsEarly()">End &#9656;</button>
       </div>
     </div>
     <div class="tag-row">
       <span class="level-tag" id="idm-level"></span>
     </div>
-    <div class="idiom-word-display">
-      <div class="word" id="idm-word"></div>
-      <div class="reading" id="idm-def"></div>
+    <!-- Fill-in-blank sub-view -->
+    <div id="idm-fill-view">
+      <div class="idiom-instruction">Which idiom completes this sentence?</div>
+      <div class="idm-fill-sentence" id="idm-fill-sentence"></div>
+      <div class="idm-fill-choices" id="idm-fill-choices"></div>
     </div>
-    <div class="idiom-instruction">Which sentence uses this idiom correctly?</div>
-    <div class="idiom-choices" id="idm-choices"></div>
+    <!-- Match-definition sub-view -->
+    <div id="idm-match-view" class="hidden">
+      <div class="idiom-instruction">Match each idiom with its definition.</div>
+      <div class="match-lang-toggle" id="match-lang-toggle">
+        <button class="active" data-lang="en" onclick="setMatchLang('en')">English</button>
+        <button data-lang="ja" onclick="setMatchLang('ja')">&#26085;&#26412;&#35486;</button>
+      </div>
+      <div class="match-board" id="idm-match-board"></div>
+    </div>
     <div id="idioms-feedback"></div>
-    <button class="idioms-next-btn hidden" id="idm-next" onclick="nextIdioms()">Next →</button>
+    <button class="idioms-next-btn hidden" id="idm-next" onclick="nextIdioms()">Next &#8594;</button>
   </div>
 
   <div id="view-idioms-complete" class="view hidden">
@@ -575,7 +632,7 @@ body{
 
 </div>
 
-<div id="modal-overlay" onclick="closeConfig()"></div>
+<div id="modal-overlay" onclick="closeConfig();document.getElementById('settings-modal').classList.remove('show')"></div>
 <div id="filter-modal">
   <div class="modal-header">
     <h2 id="modal-title">Configure round</h2>
@@ -594,6 +651,12 @@ body{
     <button data-level="1">Easy<span class="lv-tag">LV 1</span></button>
     <button data-level="2">Medium<span class="lv-tag">LV 2</span></button>
     <button data-level="3">Hard<span class="lv-tag">LV 3</span></button>
+  </div>
+
+  <h3 id="modal-submode-h3" class="hidden">Idiom Mode</h3>
+  <div class="submode-btns hidden" id="submode-btns">
+    <button data-submode="fill" class="active">Fill in Blank<span class="lv-tag">SENTENCE</span></button>
+    <button data-submode="match">Match Definitions<span class="lv-tag">4 PAIRS</span></button>
   </div>
 
   <h3>Questions per round</h3>
@@ -616,6 +679,9 @@ let configMode = null;          // 'usage' | 'ordering' | 'grammar' | 'idioms'
 let cfgLevel = 'all';
 let cfgCount = 10;
 let cfgRegister = localStorage.getItem('bv-register') || 'business'; // 'business' | 'conversational'
+let cfgIdmSubmode = localStorage.getItem('bv-idm-submode') || 'fill'; // 'fill' | 'match'
+let cfgMatchLang = localStorage.getItem('bv-match-lang') || 'en'; // 'en' | 'ja'
+let fontScale = parseInt(localStorage.getItem('bv-font-scale') || '100', 10);
 
 const POOL_FILES = {
   business:       { usage: 'usage-questions.json',              ordering: 'ordering-questions.json' },
@@ -698,6 +764,9 @@ function openConfig(mode){
   const hideRegister = (mode==='grammar' || mode==='idioms');
   document.getElementById('modal-register-h3').classList.toggle('hidden', hideRegister);
   document.getElementById('register-switch').classList.toggle('hidden', hideRegister);
+  const showSubmode = (mode==='idioms');
+  document.getElementById('modal-submode-h3').classList.toggle('hidden', !showSubmode);
+  document.getElementById('submode-btns').classList.toggle('hidden', !showSubmode);
   document.getElementById('modal-overlay').classList.add('show');
   document.getElementById('filter-modal').classList.add('show');
   refreshAvailability();
@@ -725,6 +794,12 @@ document.getElementById('register-switch').addEventListener('click',e=>{
   localStorage.setItem('bv-register', cfgRegister);
   document.querySelectorAll('#register-switch button').forEach(x=>x.classList.toggle('active', x.dataset.register===cfgRegister));
   document.getElementById('hero-sub').innerHTML = HERO_SUB[cfgRegister];
+});
+document.getElementById('submode-btns').addEventListener('click',e=>{
+  const b = e.target.closest('button'); if(!b) return;
+  cfgIdmSubmode = b.dataset.submode;
+  localStorage.setItem('bv-idm-submode', cfgIdmSubmode);
+  document.querySelectorAll('#submode-btns button').forEach(x=>x.classList.toggle('active', x.dataset.submode===cfgIdmSubmode));
 });
 function applyInitialRegister(){
   document.querySelectorAll('#register-switch button').forEach(x=>x.classList.toggle('active', x.dataset.register===cfgRegister));
@@ -1131,74 +1206,205 @@ function finishGrammar(){
 
 /* ── Idioms round ───────────────────────────── */
 function beginIdioms(items){
-  idmRound = {items, idx:0, correct:0, level:cfgLevel, answered:false};
+  idmRound = {items, idx:0, correct:0, level:cfgLevel, answered:false, submode:cfgIdmSubmode, matchLang:cfgMatchLang};
   showView('idioms');
-  loadIdiomsQ();
+  if(idmRound.submode==='match'){
+    document.getElementById('idm-fill-view').classList.add('hidden');
+    document.getElementById('idm-match-view').classList.remove('hidden');
+    setMatchLang(idmRound.matchLang);
+    loadIdiomsMatchQ();
+  } else {
+    document.getElementById('idm-fill-view').classList.remove('hidden');
+    document.getElementById('idm-match-view').classList.add('hidden');
+    loadIdiomsFillQ();
+  }
 }
-function loadIdiomsQ(){
+
+// — Fill-in-blank mode —
+function loadIdiomsFillQ(){
   const q = idmRound.items[idmRound.idx];
   idmRound.answered = false;
   document.getElementById('idm-count').textContent = `${idmRound.idx+1}/${idmRound.items.length}`;
-  document.getElementById('idm-score').textContent = `${idmRound.correct} ✓`;
+  document.getElementById('idm-score').textContent = `${idmRound.correct} \u2713`;
   document.getElementById('idm-progress').style.width = `${(idmRound.idx)/idmRound.items.length*100}%`;
   const lvl = q.level || 1;
   const lvTag = document.getElementById('idm-level');
   lvTag.textContent = levelTagText(lvl);
   lvTag.className = 'level-tag ' + levelTagCls(lvl);
-  document.getElementById('idm-word').textContent = q.word;
-  document.getElementById('idm-def').textContent = '';
-  const choices = document.getElementById('idm-choices');
+  const sentHtml = escapeHtml(q.blankSentence).replace('___', '<span class="blank" id="idm-blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>');
+  document.getElementById('idm-fill-sentence').innerHTML = sentHtml;
+  const correctFill = q.fillAnswer || q.word;
+  const options = shuffle([correctFill, ...q.distractors]);
+  const choices = document.getElementById('idm-fill-choices');
   choices.innerHTML = '';
-  q.sentences.forEach((s,i)=>{
+  options.forEach((opt,i)=>{
     const btn = document.createElement('button');
-    btn.className = 'idiom-sentence-btn';
-    btn.innerHTML = `<span class="num">${i+1}</span><span>${s}</span>`;
-    btn.addEventListener('click', ()=>pickIdiom(i));
+    btn.className = 'idm-fill-btn';
+    btn.textContent = opt;
+    btn.addEventListener('click', ()=>pickIdiomFill(i, opt, q));
     choices.appendChild(btn);
   });
   document.getElementById('idioms-feedback').style.display = 'none';
   document.getElementById('idm-next').classList.add('hidden');
 }
-function pickIdiom(i){
+function pickIdiomFill(i, picked, q){
   if(idmRound.answered) return;
   idmRound.answered = true;
-  const q = idmRound.items[idmRound.idx];
-  document.getElementById('idm-def').textContent = q.definition || '';
-  const btns = document.querySelectorAll('#idm-choices .idiom-sentence-btn');
-  btns.forEach((b,bi)=>{
-    if(bi === q.answer) b.classList.add(bi===i ? 'correct' : 'reveal-correct');
-    if(bi === i && bi !== q.answer) b.classList.add('wrong');
+  const isRight = picked === (q.fillAnswer || q.word);
+  const blank = document.getElementById('idm-blank');
+  blank.textContent = picked;
+  blank.classList.add('filled', isRight ? 'correct' : 'wrong');
+  const correctFillWord = q.fillAnswer || q.word;
+  const btns = document.querySelectorAll('#idm-fill-choices .idm-fill-btn');
+  btns.forEach(b=>{
+    if(b.textContent === correctFillWord) b.classList.add(b.textContent===picked ? 'correct' : 'reveal-correct');
+    if(b.textContent === picked && picked !== correctFillWord) b.classList.add('wrong');
     b.style.pointerEvents = 'none';
   });
   const fb = document.getElementById('idioms-feedback');
   const ja = q.explanationJa ? `<div class="explanation-ja" style="margin-top:8px">${q.explanationJa}</div>` : '';
-  if(i === q.answer){
+  if(isRight){
     idmRound.correct++;
     fb.className = 'correct-fb';
-    fb.innerHTML = `<strong>Correct.</strong> ${q.explanation || ''}${ja}`;
+    fb.innerHTML = `<strong>Correct.</strong> <em>${escapeHtml(q.word)}</em> \u2014 ${q.definition}. ${q.explanation || ''}${ja}`;
   } else {
     fb.className = 'wrong-fb';
-    fb.innerHTML = `<strong>Not quite.</strong> ${q.explanation || ''}${ja}`;
+    fb.innerHTML = `<strong>Not quite.</strong> Answer: <strong>${escapeHtml(q.word)}</strong> \u2014 ${q.definition}. ${q.explanation || ''}${ja}`;
   }
   fb.style.display = 'block';
-  document.getElementById('idm-score').textContent = `${idmRound.correct} ✓`;
+  document.getElementById('idm-score').textContent = `${idmRound.correct} \u2713`;
   document.getElementById('idm-next').classList.remove('hidden');
 }
+
+// — Match-definition mode —
+let matchState = null;
+function setMatchLang(lang){
+  idmRound.matchLang = lang;
+  cfgMatchLang = lang;
+  localStorage.setItem('bv-match-lang', lang);
+  document.querySelectorAll('#match-lang-toggle button').forEach(b=>b.classList.toggle('active', b.dataset.lang===lang));
+  if(matchState && !matchState.done) loadIdiomsMatchQ();
+}
+function loadIdiomsMatchQ(){
+  const pool = idmRound.items;
+  const idx = idmRound.idx;
+  const batchSize = Math.min(4, pool.length - idx);
+  if(batchSize < 2){ finishIdioms(); return; }
+  const batch = pool.slice(idx, idx + batchSize);
+  idmRound.answered = false;
+  matchState = {batch, matched:0, total:batchSize, selectedIdiom:null, done:false};
+  document.getElementById('idm-count').textContent = `${idx+1}\u2013${idx+batchSize}/${pool.length}`;
+  document.getElementById('idm-score').textContent = `${idmRound.correct} \u2713`;
+  document.getElementById('idm-progress').style.width = `${idx/pool.length*100}%`;
+  const lvTag = document.getElementById('idm-level');
+  lvTag.textContent = 'MATCH';
+  lvTag.className = 'level-tag lv2';
+  const board = document.getElementById('idm-match-board');
+  board.innerHTML = '';
+  const defOrder = shuffle(batch.map((_,i)=>i));
+  batch.forEach((q,i)=>{
+    const row = document.createElement('div');
+    row.className = 'match-row';
+    const idiomDiv = document.createElement('div');
+    idiomDiv.className = 'match-idiom';
+    idiomDiv.textContent = q.word;
+    idiomDiv.dataset.qi = i;
+    idiomDiv.addEventListener('click', ()=>selectMatchIdiom(i));
+    const di = defOrder[i];
+    const defBtn = document.createElement('button');
+    defBtn.className = 'match-def-btn';
+    const useLang = idmRound.matchLang;
+    defBtn.textContent = useLang==='ja' ? (batch[di].definitionJa || batch[di].definition) : batch[di].definition;
+    defBtn.dataset.qi = di;
+    defBtn.addEventListener('click', ()=>selectMatchDef(di));
+    row.appendChild(idiomDiv);
+    row.appendChild(defBtn);
+    board.appendChild(row);
+  });
+  document.getElementById('idioms-feedback').style.display = 'none';
+  document.getElementById('idm-next').classList.add('hidden');
+}
+function selectMatchIdiom(i){
+  if(matchState.done) return;
+  const idioms = document.querySelectorAll('#idm-match-board .match-idiom');
+  idioms.forEach(el=>el.classList.remove('active'));
+  if(!idioms[i].classList.contains('matched')){
+    idioms[i].classList.add('active');
+    matchState.selectedIdiom = i;
+  }
+}
+function selectMatchDef(di){
+  if(matchState.done || matchState.selectedIdiom === null) return;
+  const si = matchState.selectedIdiom;
+  const idioms = document.querySelectorAll('#idm-match-board .match-idiom');
+  const defs = document.querySelectorAll('#idm-match-board .match-def-btn');
+  const defBtn = [...defs].find(d=>parseInt(d.dataset.qi)===di);
+  if(!defBtn || defBtn.classList.contains('matched')) return;
+  if(si === di){
+    idioms[si].classList.remove('active');
+    idioms[si].classList.add('matched');
+    defBtn.classList.add('matched');
+    matchState.matched++;
+    idmRound.correct++;
+    document.getElementById('idm-score').textContent = `${idmRound.correct} \u2713`;
+  } else {
+    defBtn.classList.add('wrong');
+    setTimeout(()=>defBtn.classList.remove('wrong'), 600);
+  }
+  matchState.selectedIdiom = null;
+  idioms.forEach(el=>el.classList.remove('active'));
+  if(matchState.matched >= matchState.total){
+    matchState.done = true;
+    idmRound.idx += matchState.total;
+    const fb = document.getElementById('idioms-feedback');
+    fb.className = 'correct-fb';
+    fb.innerHTML = `<strong>All matched!</strong> ${matchState.total}/${matchState.total} pairs.`;
+    fb.style.display = 'block';
+    document.getElementById('idm-next').classList.remove('hidden');
+  }
+}
+
 function nextIdioms(){
-  idmRound.idx++;
-  if(idmRound.idx >= idmRound.items.length){ finishIdioms(); return; }
-  loadIdiomsQ();
+  if(idmRound.submode==='match'){
+    if(idmRound.idx >= idmRound.items.length){ finishIdioms(); return; }
+    loadIdiomsMatchQ();
+  } else {
+    idmRound.idx++;
+    if(idmRound.idx >= idmRound.items.length){ finishIdioms(); return; }
+    loadIdiomsFillQ();
+  }
 }
 function endIdiomsEarly(){ finishIdioms(); }
 function finishIdioms(){
-  const total = idmRound.idx;
+  let total;
+  if(idmRound.submode==='match') total = idmRound.idx;
+  else total = idmRound.answered ? idmRound.idx + 1 : idmRound.idx;
   const correct = idmRound.correct;
-  recordRound('idioms', correct, total, idmRound.level);
+  if(total > 0) recordRound('idioms', correct, total, idmRound.level);
   document.getElementById('idm-final').textContent = `${correct}/${total}`;
   document.getElementById('idm-msg').textContent = encouragement(correct,total);
   document.getElementById('idm-emoji').textContent = emojiFor(correct,total);
   showView('idioms-complete');
 }
+
+/* ── Settings / Font size ──────────────────── */
+function toggleSettings(){
+  const m = document.getElementById('settings-modal');
+  const o = document.getElementById('modal-overlay');
+  const isOpen = m.classList.contains('show');
+  if(isOpen){ m.classList.remove('show'); o.classList.remove('show'); }
+  else { m.classList.add('show'); o.classList.add('show'); }
+}
+function changeFontSize(dir){
+  fontScale = Math.max(75, Math.min(150, fontScale + dir * 10));
+  localStorage.setItem('bv-font-scale', fontScale);
+  applyFontScale();
+}
+function applyFontScale(){
+  document.getElementById('app').style.fontSize = fontScale + '%';
+  document.getElementById('font-size-val').textContent = fontScale + '%';
+}
+applyFontScale();
 
 /* ── Records ────────────────────────────────── */
 function recordRound(mode, correct, total, level){
@@ -1232,6 +1438,7 @@ function emojiFor(c,t){
 
 renderDashboard();
 applyInitialRegister();
+document.querySelectorAll('#submode-btns button').forEach(x=>x.classList.toggle('active', x.dataset.submode===cfgIdmSubmode));
 </script>
 </body>
 </html>
